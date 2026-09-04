@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04T16:29:05.911782+09:00",
-  "generated_at_display": "2026-09-04 16:29 KST",
+  "generated_at": "2026-09-05T07:38:13.009147+09:00",
+  "generated_at_display": "2026-09-05 07:38 KST",
   "exchange_rate": {
-    "current_rate": 1351.1800537109375,
-    "change_pct": -0.53,
+    "current_rate": 1345.989990234375,
+    "change_pct": -0.91,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1351.18
+      1345.99
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "CBS News",
-      "title": "Federal prosecutor fired after investigating ICE officer for civil rights offenses in Minnesota shooting, sources say",
-      "summary": "Federal prosecutor fired after investigating ICE officer for civil rig…",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0JtVGZ0X28zWU1McG1MMS1rVG5SMndrNGpKSzhhakdZSEtqbE03M0M1bEFXY0FpcVEzLVhidW5wSXByR1dzWkc1bDZVMlNUTWs3WlFoQnQwUlcwTmdXb3ZqN3cxc0FyYUM1YmtaZ05jWExTOGM2NFdIdGh3T1ltS0JteDVsQkEtc1Y2Z0FYa3lvRXdENnptZ2FfMWczRVdmYXc?oc=5"
+      "source": "The New York Times",
+      "title": "Lindsay Clancy Trial Live Updates: Judge Declares Mistrial in Triple-Murder Case",
+      "summary": "Lindsay Clancy Trial Live Updates: Judge Declares Mistrial in Triple-M…",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03SVBfS1Q0RVpKVlgzR0VPOXU5aUZHREIzcEFCeTVITEJ3VllGMnVqV2pnUkl4UGRLemswNkwzTXVIekhGcEs0WnRjeGFNVjl4bjU3WHo5NEFkcE5Qd2sxNTFLNnRXWFpBbTM2MV9SZldmWm1IOFNuR2tQWVM?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "bbc.com",
-      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-      "summary": "Volkswagen board approves plan to cut another 50,000 jobs&nbsp;&nbsp;b…",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GTThOUFU0ZnZiVGtORlVFbWNONmJ1UkNYajZMRmM1ZkNrS1BOR3NBb05kaTJ1dHdlU2ExMmhoVmYxOXJfVDdtakRFTjZCbkV0ejFUOHhPNm1qdw?oc=5"
+      "source": "reuters.com",
+      "title": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
+      "summary": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets&nbsp;…",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "AP News",
-      "title": "2 trapped workers rescued from a hydropower tunnel 9 days after Nepal floods",
-      "summary": "2 trapped workers rescued from a hydropower tunnel 9 days after Nepal…",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTVrY3laRmlFVDhQd0J3bmNGM0Y0bVEwTTNCUVVCcHJ4SVRSbG5RWDRoUjF1VkVCUXlWUlJYcFNqNjJnZ3JHQ1A4TFI2NzdwcFJCNWp5bDNNM2JGZUNMQmlVbXA4bFNjVnE1TE1HQW1waGpWazJiQnRPWDlnSVpJSDdTQ2EzaGozdlJVQUVfR0lsMWl0dUdPRm04Y29temM?oc=5"
+      "source": "cnn.com",
+      "title": "Two men pulled alive from Nepal hydropower plant tunnel nine days after floods",
+      "summary": "Two men pulled alive from Nepal hydropower plant tunnel nine days afte…",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SQ1Z4Y0tBTWczN3dZTkh5dnAwbHZoUE5ucExVX0g1bUIyYmE3UEloZWhubTh0eVNIdXJkT2xMYWR1UmFxc19EMS16eWxYai1fcnFfNVN0NjRDYTRvaFAwcjhuWVp2ai1vUlVDWjRWelNEdlJtcmgwM3JscFhZZw?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Time Magazine",
-      "title": "The Stakes of America’s 2026 Midterm Elections",
-      "summary": "The Stakes of America’s 2026 Midterm Elections&nbsp;&nbsp;Time Magazin…",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZMkYyY2p2RFZqYnVvakNVVWVUYkpBak0wc0d2NFVrUmVsSjltRDk1NjFVTlg5LTVEWUI2elIzcS1jaHI0THppMlE5TC1Rem9EUmFpZDFmSUtpR0RncUdUa3BHcDM0eWR2bUNvWTVUU3IxbUtHc3dHcA?oc=5"
+      "source": "WDET 101.9 FM",
+      "title": "Islamic Society of North America Convention comes to Detroit",
+      "summary": "Islamic Society of North America Convention comes to Detroit&nbsp;&nbs…",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1FJbEE3eFpoSDJ6ZTRVZjFmNWVrTkN6aWhQY2ZVT3ZhSGhueGQ4bW5VN0xfdWk0cTNZMnNWZjZ1YmJOZHFHYk5pSUFqOWF4UUZzNlh2dUk3M2hFTGh1WnR2SmFUWGxuUzRyNHk2c1U4bVo1eG9yRXFqVmR5SVdjYlVOdWI4UExNLUNaM3ktOFFueTg?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Dismantling The Past",
-      "desc": "Dismantling The Past - Globalization Looks To Manufacture Auto Recycli…",
-      "source": "Auto Recycling World",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHRKNlZJRjBUWGJ5X3JZVEE2RDM3LU41MEUzYTB5NHRtTlFMNG5Nc2R0YVdSQVg2bGdROVV5eFRTNllUbVFOTTdOSmRaWE8ydG5LRFN1N2Z0dGhHdzZVejVENFdEM3FqcURod1NLTmJnSk9IWFAtbXAyd1p3WE16Vlp5VW9ZTkZaUXBtUnZZZG5lZXlCT1BsM1BqUGlNakp5Z1BrVV9qNENuT0tTczg0?oc=5"
+      "title": "E-Bike Tires Market to Reach USD 8.506 Billion…",
+      "desc": "E-Bike Tires Market to Reach USD 8.506 Billion by 2035, Reports Radial…",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZk9fdzVpTHU1bVF1VGVyZlR5R3dEZUktWHR6YjJTUUFhaThUTzN4SlVhcDFPejJpMVVZQlRzZVNpVzJrbWhuNWx3cEV6QU5adV8wbTVKX1FpZVhUWmRXTVhyZ2FBRFk5ZG1BQkRsbnVVSkpIMzFxZEs5ak9xSXNxM0NjN1VnRnNXMHZxbC0wbDNqY1BzYW5FeGVBQlgzTkZKMnpvbmttLUhidWozUTlBOWkyU3lVejdHYUZuN3lfcjR4YjcxTklCR2pkV09lc0Vq?oc=5"
     },
     {
       "category": "ECONOMY",
