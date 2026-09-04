@@ -1,0 +1,111 @@
+{
+  "generated_at": "2026-09-04T16:29:05.911782+09:00",
+  "generated_at_display": "2026-09-04 16:29 KST",
+  "exchange_rate": {
+    "current_rate": 1351.1800537109375,
+    "change_pct": -0.53,
+    "history_labels": [
+      "10월",
+      "11월",
+      "12월",
+      "1월",
+      "2월",
+      "3월",
+      "4월",
+      "5월",
+      "6월",
+      "7월",
+      "8월",
+      "9월"
+    ],
+    "history_values": [
+      1424.02,
+      1466.13,
+      1437.91,
+      1449.7,
+      1432.32,
+      1516.13,
+      1487.38,
+      1505.96,
+      1541.73,
+      1420.6,
+      1377.11,
+      1351.18
+    ],
+    "source": "Yahoo Finance"
+  },
+  "headlines": [
+    {
+      "category": "TOP NEWS",
+      "label_class": "text-rose-600",
+      "source": "CBS News",
+      "title": "Federal prosecutor fired after investigating ICE officer for civil rights offenses in Minnesota shooting, sources say",
+      "summary": "Federal prosecutor fired after investigating ICE officer for civil rig…",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0JtVGZ0X28zWU1McG1MMS1rVG5SMndrNGpKSzhhakdZSEtqbE03M0M1bEFXY0FpcVEzLVhidW5wSXByR1dzWkc1bDZVMlNUTWs3WlFoQnQwUlcwTmdXb3ZqN3cxc0FyYUM1YmtaZ05jWExTOGM2NFdIdGh3T1ltS0JteDVsQkEtc1Y2Z0FYa3lvRXdENnptZ2FfMWczRVdmYXc?oc=5"
+    },
+    {
+      "category": "BUSINESS",
+      "label_class": "text-emerald-600",
+      "source": "bbc.com",
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "summary": "Volkswagen board approves plan to cut another 50,000 jobs&nbsp;&nbsp;b…",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GTThOUFU0ZnZiVGtORlVFbWNONmJ1UkNYajZMRmM1ZkNrS1BOR3NBb05kaTJ1dHdlU2ExMmhoVmYxOXJfVDdtakRFTjZCbkV0ejFUOHhPNm1qdw?oc=5"
+    },
+    {
+      "category": "WORLD",
+      "label_class": "text-blue-700",
+      "source": "AP News",
+      "title": "2 trapped workers rescued from a hydropower tunnel 9 days after Nepal floods",
+      "summary": "2 trapped workers rescued from a hydropower tunnel 9 days after Nepal…",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTVrY3laRmlFVDhQd0J3bmNGM0Y0bVEwTTNCUVVCcHJ4SVRSbG5RWDRoUjF1VkVCUXlWUlJYcFNqNjJnZ3JHQ1A4TFI2NzdwcFJCNWp5bDNNM2JGZUNMQmlVbXA4bFNjVnE1TE1HQW1waGpWazJiQnRPWDlnSVpJSDdTQ2EzaGozdlJVQUVfR0lsMWl0dUdPRm04Y29temM?oc=5"
+    },
+    {
+      "category": "SOCIETY",
+      "label_class": "text-purple-600",
+      "source": "Time Magazine",
+      "title": "The Stakes of America’s 2026 Midterm Elections",
+      "summary": "The Stakes of America’s 2026 Midterm Elections&nbsp;&nbsp;Time Magazin…",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZMkYyY2p2RFZqYnVvakNVVWVUYkpBak0wc0d2NFVrUmVsSjltRDk1NjFVTlg5LTVEWUI2elIzcS1jaHI0THppMlE5TC1Rem9EUmFpZDFmSUtpR0RncUdUa3BHcDM0eWR2bUNvWTVUU3IxbUtHc3dHcA?oc=5"
+    }
+  ],
+  "hr_trends": [
+    {
+      "category": "AUTO MARKET",
+      "tag": "완성차·타이어 시장",
+      "tag_class": "bg-rose-100 text-rose-700",
+      "title": "Dismantling The Past",
+      "desc": "Dismantling The Past - Globalization Looks To Manufacture Auto Recycli…",
+      "source": "Auto Recycling World",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHRKNlZJRjBUWGJ5X3JZVEE2RDM3LU41MEUzYTB5NHRtTlFMNG5Nc2R0YVdSQVg2bGdROVV5eFRTNllUbVFOTTdOSmRaWE8ydG5LRFN1N2Z0dGhHdzZVejVENFdEM3FqcURod1NLTmJnSk9IWFAtbXAyd1p3WE16Vlp5VW9ZTkZaUXBtUnZZZG5lZXlCT1BsM1BqUGlNakp5Z1BrVV9qNENuT0tTczg0?oc=5"
+    },
+    {
+      "category": "ECONOMY",
+      "tag": "경기·금리",
+      "tag_class": "bg-emerald-100 text-emerald-700",
+      "title": "No rate-hiking map from the Federal Reserve",
+      "desc": "No rate-hiking map from the Federal Reserve&nbsp;&nbsp;invesco.com",
+      "source": "invesco.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13?oc=5"
+    },
+    {
+      "category": "MANAGEMENT",
+      "tag": "관세·공급망",
+      "tag_class": "bg-amber-100 text-amber-700",
+      "title": "The cost of storing and shipping the stuff you…",
+      "desc": "The cost of storing and shipping the stuff you buy isn't getting any c…",
+      "source": "marketplace.org",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTzZTc29rZlIzaGJKLW1yUXF1a2dKRXQ2YmM4Q3R2OGhfT3YyelpGajNGTzhLWk1TT2h3ZjAtQWlMZTc2QV9PeExjNTh3bURlM01peDJWTGtlY2xtTFhUeXpxWnJjLVJqclVWRXdiRTBJZFhzQU5xTm1GMHQ2U3dnVHMzdUhSSDJEX004MlA0UDVuVVVRakZtYnJuZXd6RzJkRWc?oc=5"
+    }
+  ],
+  "country_profile": {
+    "capital": "Washington, D.C.",
+    "population": "약 3.42억 명",
+    "gdp": "약 30.8조 USD",
+    "inflation": "3.4%",
+    "unemployment": "4.1%",
+    "stats_source": "BLS",
+    "stats_asof": "2026-07",
+    "min_wage_federal": "$7.25 / h (연방, 2009-07-24 발효)",
+    "min_wage_tn": "주 별도 기준 없음 → 연방 기준 $7.25/h 적용"
+  }
+}
