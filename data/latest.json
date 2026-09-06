@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-06T07:28:33.230602+09:00",
-  "generated_at_display": "2026-09-06 07:28 KST",
+  "generated_at": "2026-09-07T07:33:16.036522+09:00",
+  "generated_at_display": "2026-09-07 07:33 KST",
   "exchange_rate": {
-    "current_rate": 1351.0999755859375,
-    "change_pct": -0.32,
+    "current_rate": 1345.5899658203125,
+    "change_pct": -0.72,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1351.1
+      1345.59
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The Boston Globe",
-      "title": "The Lindsay Clancy trial ended with a deadlocked jury. The real failure came before it even began.",
-      "summary": "The Lindsay Clancy trial ended with a deadlocked jury. The real failur…",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa3EyZ1lFbElzY0pNeU41NkY1MG1sZzgzLXd1VU82ZTRsUEo2OTNLcTczU08yakVvWlNSR19QNmEzLXgtMGVSdElRTnhFeF9tS19oYmpKc3hwaUtIdG05Vm5ob0NwOV9jNUd2aVh5M0lWU2pFTGJtTUQ4SG5hRUJ4UWV0LWtQUjl3TGVQZDRB?oc=5"
+      "source": "nbcnews.com",
+      "title": "Five dead after Amazon-branded cargo plane overruns runway at Miami airport, striking multiple vehicles",
+      "summary": "Five dead after Amazon-branded cargo plane overruns runway at Miami ai…",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MXRyUE1WYVJYeldodkQzWEYwOGx2dHpWaHhMYjRjZlpILXpDbXBQUFFQR1c5akpHNTFDdWJMZkl5UU9oWklJYjZiWDNkUzYxQXBVeUhKNzM0eXhJaUE3cjVlMGdfbzV6UmFPZGYyZlg0UEtCNGEyUG1jOTE?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Reuters",
-      "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior",
-      "summary": "OpenAI acknowledges 'wiki incident' and need for more transparency aro…",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5"
+      "source": "nbcnews.com",
+      "title": "Five dead after Amazon-branded cargo plane overruns runway at Miami airport, striking multiple vehicles",
+      "summary": "Five dead after Amazon-branded cargo plane overruns runway at Miami ai…",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MXRyUE1WYVJYeldodkQzWEYwOGx2dHpWaHhMYjRjZlpILXpDbXBQUFFQR1c5akpHNTFDdWJMZkl5UU9oWklJYjZiWDNkUzYxQXBVeUhKNzM0eXhJaUE3cjVlMGdfbzV6UmFPZGYyZlg0UEtCNGEyUG1jOTE?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "Reuters",
-      "title": "Chinese national rescued from Nepal tunnel 10 days after flash flood",
-      "summary": "Chinese national rescued from Nepal tunnel 10 days after flash flood&n…",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1aeTdsTDc5NHp0U0J2UFV0eGtnY1k4TjBqT3FzS3hmM3o1Um1hRW1Xa0UtcmV3YlRFZTVROFVVRVBYY2t5MF9WekJzLXZMdWJLa1ZYeWpIZmpjcC1Vamt3bzJvd21WeWFnTjB2QWJqXzA5bWM5dHJhLTNwLXRDMnJ0SVNqUmo4cjBQYXNjWi15aURhVTE4NXhtVHJFcVJxeUlVZVRERUlXa1dZY01PVGpmclFnMkpldFZGQkdXdw?oc=5"
+      "source": "nytimes.com",
+      "title": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show",
+      "summary": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit P…",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJdzQxc2R1d2tYTW5PYlJRaHlpRHVsQkV0UXo2UVpRQnExc0xCQmZON0owVnl3RmFBODUxalNBdTUwY0JXTG5hbk52OV9yUXp4eC1lUkpUWUpOT2l0TmdBTV9ZNmpTQXFjTGJuUmhMQQ?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "The Hill",
-      "title": "The rise of the anti-social American",
-      "summary": "The rise of the anti-social American&nbsp;&nbsp;The Hill",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ2JxUU1KbkRxQXpJUUJWeUNOSUFMNXE2R0lIWERkYTFDU3lDRzFRQjBZelR3YjJ0UmxJWWxsVWNtMXd5LThfcUphRFVVUmNjdENZVWdQNGl5TFN2Q2wzU00wUHQ0MDl4T2FndWIxSDhrLTZoR053WjllZHVuYmpOM2EyZ9IBiAFBVV95cUxQTGJIa0pQUGNkSXRTbE51WDZXRm1lM25GSXdtSDBiMTVZU09kd1RPVXFvMS1yWFh2RUxuU1pkbElNd3FrU0R6b2JDTkVjWnpnbE9vU2dUeS1sSFVKbHpfS1Vac1JkcFhqeTlIeE9KY1lhRTlmYkRkczJXUDFxMHhYc0ZoZXJ3Rk1J?oc=5"
+      "source": "Gates Notes",
+      "title": "The turbulent AI era is here. The choices we make now are critical.",
+      "summary": "The turbulent AI era is here. The choices we make now are critical.&nb…",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5"
     }
   ],
   "hr_trends": [
@@ -82,10 +82,10 @@
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "No rate-hiking map from the Federal Reserve",
-      "desc": "No rate-hiking map from the Federal Reserve&nbsp;&nbsp;invesco.com",
-      "source": "invesco.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13?oc=5"
+      "title": "US factory activity slows in August; input pri…",
+      "desc": "US factory activity slows in August; input prices remain elevated&nbsp…",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1A5dDd3YTNlZGR4bzc1ellYc2tVS3Mxd2Z1ZHd1c01vVUk0cmp2WDlWaGVxNFREdHRkTXBRVUk3YVpwVU5VTnhqRzVwdjU1Qi0xT2IwaEVvNHBIMW85ZDdHN2ZBMFloVmtobmRYcjYzTUk1aUdoZ3A3b3NnZEZuXzVwekNEampBMUxCUU5rU1ZBdTB3UTNEMUZXX2UxM1BDZzV1TjQzYll6OUJXTnRtMg?oc=5"
     },
     {
       "category": "MANAGEMENT",
