@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-07T07:33:16.036522+09:00",
-  "generated_at_display": "2026-09-07 07:33 KST",
+  "generated_at": "2026-09-08T08:09:49.784563+09:00",
+  "generated_at_display": "2026-09-08 08:09 KST",
   "exchange_rate": {
-    "current_rate": 1345.5899658203125,
-    "change_pct": -0.72,
+    "current_rate": 1344.739990234375,
+    "change_pct": -0.02,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1345.59
+      1344.74
     ],
     "source": "Yahoo Finance"
   },
@@ -38,26 +38,26 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "nbcnews.com",
-      "title": "Five dead after Amazon-branded cargo plane overruns runway at Miami airport, striking multiple vehicles",
-      "summary": "Five dead after Amazon-branded cargo plane overruns runway at Miami ai…",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MXRyUE1WYVJYeldodkQzWEYwOGx2dHpWaHhMYjRjZlpILXpDbXBQUFFQR1c5akpHNTFDdWJMZkl5UU9oWklJYjZiWDNkUzYxQXBVeUhKNzM0eXhJaUE3cjVlMGdfbzV6UmFPZGYyZlg0UEtCNGEyUG1jOTE?oc=5"
+      "source": "AP News",
+      "title": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
+      "summary": "Federal investigators probe Amazon cargo jet’s fiery runway crash that…",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "nbcnews.com",
-      "title": "Five dead after Amazon-branded cargo plane overruns runway at Miami airport, striking multiple vehicles",
-      "summary": "Five dead after Amazon-branded cargo plane overruns runway at Miami ai…",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MXRyUE1WYVJYeldodkQzWEYwOGx2dHpWaHhMYjRjZlpILXpDbXBQUFFQR1c5akpHNTFDdWJMZkl5UU9oWklJYjZiWDNkUzYxQXBVeUhKNzM0eXhJaUE3cjVlMGdfbzV6UmFPZGYyZlg0UEtCNGEyUG1jOTE?oc=5"
+      "source": "The New York Times",
+      "title": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
+      "summary": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to…",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb015UGswWm1Na0pCWTRkc1B6bUR6Q2FrdndPNTdkdDlITkFEQmtTRV8xZGFlbDhRWmVFWUhLZ1dZblNjbzhSZlMzYVJJdE9ld3dKcFByQ2J4R2dXejZlVE01N1dnSW5jWi0xLUNudFMzYkdoaEtkV2RCNmo2eHkyQXhTUTVjNk9VNUFN?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "nytimes.com",
-      "title": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show",
-      "summary": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit P…",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJdzQxc2R1d2tYTW5PYlJRaHlpRHVsQkV0UXo2UVpRQnExc0xCQmZON0owVnl3RmFBODUxalNBdTUwY0JXTG5hbk52OV9yUXp4eC1lUkpUWUpOT2l0TmdBTV9ZNmpTQXFjTGJuUmhMQQ?oc=5"
+      "source": "AP News",
+      "title": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment",
+      "summary": "EU seeks to reassure a Trump-rattled Greenland with promise of a new p…",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlhneGFtOUZTMmRuYTJSRi04bG85SHpoTkRCZjVNN2ZpYUIxbW4zV0lCd2xkV2FnRWFKc0tBZkVyd1AxeUlXUkFjU1JFaFUzS0F5aDZESTh0MjV4T2ZLRGdCZU5OT08xNXRTek9QYUVXQjJMRUh4RmNZQzlvVFNiRm9DcVl6YmdUOW9RT0hvMnNRZVFMR2I4Mg?oc=5"
     },
     {
       "category": "SOCIETY",
@@ -73,19 +73,19 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "E-Bike Tires Market to Reach USD 8.506 Billion…",
-      "desc": "E-Bike Tires Market to Reach USD 8.506 Billion by 2035, Reports Radial…",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZk9fdzVpTHU1bVF1VGVyZlR5R3dEZUktWHR6YjJTUUFhaThUTzN4SlVhcDFPejJpMVVZQlRzZVNpVzJrbWhuNWx3cEV6QU5adV8wbTVKX1FpZVhUWmRXTVhyZ2FBRFk5ZG1BQkRsbnVVSkpIMzFxZEs5ak9xSXNxM0NjN1VnRnNXMHZxbC0wbDNqY1BzYW5FeGVBQlgzTkZKMnpvbmttLUhidWozUTlBOWkyU3lVejdHYUZuN3lfcjR4YjcxTklCR2pkV09lc0Vq?oc=5"
+      "title": "Tire-Derived Clearcoats Market Size, Share & F…",
+      "desc": "Tire-Derived Clearcoats Market Size, Share & Forecast 2036&nbsp;&nbsp;…",
+      "source": "Fact.MR",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCM2t2QWJKcVY3OVAycHIxUllwdzZ5aTk2OWZ3WkNrMThsUzgtOXg4bEU1T1R1dDNPV0ktNXBSTXVUNkJWR2tGX0tlaThjRndwWG5pU183UW5kZEVCRkRSd1FITG9kTUdBd2N0Ng?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "US factory activity slows in August; input pri…",
-      "desc": "US factory activity slows in August; input prices remain elevated&nbsp…",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1A5dDd3YTNlZGR4bzc1ellYc2tVS3Mxd2Z1ZHd1c01vVUk0cmp2WDlWaGVxNFREdHRkTXBRVUk3YVpwVU5VTnhqRzVwdjU1Qi0xT2IwaEVvNHBIMW85ZDdHN2ZBMFloVmtobmRYcjYzTUk1aUdoZ3A3b3NnZEZuXzVwekNEampBMUxCUU5rU1ZBdTB3UTNEMUZXX2UxM1BDZzV1TjQzYll6OUJXTnRtMg?oc=5"
+      "title": "US ISM Manufacturing PMI fell to 54.6 in Augus…",
+      "desc": "US ISM Manufacturing PMI fell to 54.6 in August&nbsp;&nbsp;FXStreet",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVFvcE5zS3dxRkpnaHgwNlpTSWNURDcxNFB4UGtHZUlMVFhsaFlIM0I3bU9YSnBQSzdDb0RsRlJ5RC1jQTA3N093NThLQXdnNGxZR0JxeWdubjBPaml2djlrbTVMRDB4dnJIWW9CX0pRQk1aazdqb3pRUGdRNEVNM2Y1Qi1YM3NjQzYwaW00eVJmc1lRSXZSUVRkUDd2Mlc1NlJ0blJMSk85SHZCX0NuMGtIdU53LUkyU2c?oc=5"
     },
     {
       "category": "MANAGEMENT",
