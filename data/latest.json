@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-08T08:09:49.784563+09:00",
-  "generated_at_display": "2026-09-08 08:09 KST",
+  "generated_at": "2026-09-09T08:03:30.917852+09:00",
+  "generated_at_display": "2026-09-09 08:03 KST",
   "exchange_rate": {
-    "current_rate": 1344.739990234375,
-    "change_pct": -0.02,
+    "current_rate": 1340.52001953125,
+    "change_pct": -0.23,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1344.74
+      1340.52
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "AP News",
-      "title": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
-      "summary": "Federal investigators probe Amazon cargo jet’s fiery runway crash that…",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5"
+      "source": "nytimes.com",
+      "title": "Justice Kavanaugh Blocks Missouri Voting Map Benefiting Republicans",
+      "summary": "Justice Kavanaugh Blocks Missouri Voting Map Benefiting Republicans&nb…",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVNQTnZYSjdOTUl1V0wtdm4xSnk4aXFXTTFLcjNPeXBUZ3Z6bF94Y0swRDBVYmFIUEZXRDlUdldVWFIzeFVGMklBZnNOZWJTVXhBSlhZVVdWcGN4SDBTM0JWOG1VVm9DWkExUkdYNzdlOE5jZUtMOWtrM1B3azhCb2dGd3I2U09jMUQtTmRpSk5zTE5ocWRV?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "The New York Times",
-      "title": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
-      "summary": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to…",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb015UGswWm1Na0pCWTRkc1B6bUR6Q2FrdndPNTdkdDlITkFEQmtTRV8xZGFlbDhRWmVFWUhLZ1dZblNjbzhSZlMzYVJJdE9ld3dKcFByQ2J4R2dXejZlVE01N1dnSW5jWi0xLUNudFMzYkdoaEtkV2RCNmo2eHkyQXhTUTVjNk9VNUFN?oc=5"
+      "source": "nytimes.com",
+      "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
+      "summary": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’&nbsp;&n…",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "AP News",
-      "title": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment",
-      "summary": "EU seeks to reassure a Trump-rattled Greenland with promise of a new p…",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlhneGFtOUZTMmRuYTJSRi04bG85SHpoTkRCZjVNN2ZpYUIxbW4zV0lCd2xkV2FnRWFKc0tBZkVyd1AxeUlXUkFjU1JFaFUzS0F5aDZESTh0MjV4T2ZLRGdCZU5OT08xNXRTek9QYUVXQjJMRUh4RmNZQzlvVFNiRm9DcVl6YmdUOW9RT0hvMnNRZVFMR2I4Mg?oc=5"
+      "source": "bbc.com",
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "summary": "Paul Adams: British-Israeli relations at lowest ebb in decades&nbsp;&n…",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRcFdnNlNreEdFMzAwWXNBVlNKZFRhd0FrUGZOanRiMXZrVkU1N3ZJY1FPS3A0dHYySC1VT3BzNzA0ZUdBT3h2dmlzb0tSZVliLUprQ21jUFZBQQ?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Gates Notes",
-      "title": "The turbulent AI era is here. The choices we make now are critical.",
-      "summary": "The turbulent AI era is here. The choices we make now are critical.&nb…",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5"
+      "source": "American Physical Society",
+      "title": "Peer review – for an entire department",
+      "summary": "Peer review – for an entire department&nbsp;&nbsp;American Physical So…",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqOEdFZ2UzdlRWWk9UdElZemtZa1QwVE93ci1pT0lsc2E2OVV4emFWWDA3M2Z1TVB3cF90aHZTVEJDMGU3SWNuekliM1NTZlA5N2d5NDhGS3B4ZThuWS15eUJKZlRvbEpBOUQwcldoV2FlaFA1cFRr?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,28 +73,28 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Tire-Derived Clearcoats Market Size, Share & F…",
-      "desc": "Tire-Derived Clearcoats Market Size, Share & Forecast 2036&nbsp;&nbsp;…",
-      "source": "Fact.MR",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCM2t2QWJKcVY3OVAycHIxUllwdzZ5aTk2OWZ3WkNrMThsUzgtOXg4bEU1T1R1dDNPV0ktNXBSTXVUNkJWR2tGX0tlaThjRndwWG5pU183UW5kZEVCRkRSd1FITG9kTUdBd2N0Ng?oc=5"
+      "title": "Electric Vehicle Tires Market Growth & Forecas…",
+      "desc": "Electric Vehicle Tires Market Growth & Forecast Analysis 2026-35&nbsp;…",
+      "source": "Market.us",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjUjV3RkU4LU01a0ZoS0RzZXBnTWp0eXlReGV4czlJanR6MFJSSFVTNzE1MUdvQVJaZXM5VWRhSzhWZnRMdThSQ3p1aTNnQWl4b2JPNHk5bENaR3E2X0swZHJUNGx0QQ?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "US ISM Manufacturing PMI fell to 54.6 in Augus…",
-      "desc": "US ISM Manufacturing PMI fell to 54.6 in August&nbsp;&nbsp;FXStreet",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVFvcE5zS3dxRkpnaHgwNlpTSWNURDcxNFB4UGtHZUlMVFhsaFlIM0I3bU9YSnBQSzdDb0RsRlJ5RC1jQTA3N093NThLQXdnNGxZR0JxeWdubjBPaml2djlrbTVMRDB4dnJIWW9CX0pRQk1aazdqb3pRUGdRNEVNM2Y1Qi1YM3NjQzYwaW00eVJmc1lRSXZSUVRkUDd2Mlc1NlJ0blJMSk85SHZCX0NuMGtIdU53LUkyU2c?oc=5"
+      "title": "Charts of the Week: The Turn Towards Tightenin…",
+      "desc": "Charts of the Week: The Turn Towards Tightening&nbsp;&nbsp;Haver Analy…",
+      "source": "Haver Analytics",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaXdTcjBGZ0hNTUpfZGVIenVCbnhIWGh2V08zNWhyNnVGSEVOWU1CVkVuZ2pOZXJfNkdkakRqRUsteE5iWU9QRzdWdW1CRDM0bFBKeXV1RXVTekNPWHYyLU9IeTIwc0lRZGVEekxvQzZ2OHZGalNSRV9OTFpQaVJTWU52dw?oc=5"
     },
     {
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "How US productivity buffered the tariff shock,…",
-      "desc": "How US productivity buffered the tariff shock, and other trade news to…",
-      "source": "The World Economic Forum",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeUt5by0teUFjNGZ5NWQ2cEJOZkdmQjBLeTdacVUxUS1wZFJQMEkyTFQ4Nkxpb2M1Wld2LTQ1YjZQRnFCdmFtTGlNQ29XdTRoTDFVRG5OZFYtWUtYMGdpQ1BGQjBXMWxhSHJQeVB4M1BMY3hiRUhmdUVEc0d4eUhSa2U5Q3NGeTdmRzBsb25YY0FZQVNxalFWeEluWk9iYjJBaFBWVmNoYWxjbk5fQ1lwTA?oc=5"
+      "title": "First Shift: North American tariffs move from…",
+      "desc": "First Shift: North American tariffs move from threat to operating real…",
+      "source": "Supply Chain Management Review",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWd6a2dxaWE1UTVCczhCYnM0M1E3NngyYUdIZDZfa29uR1E1WEhmUFVrLWduTU00MzJTOExkazY1cExSUWo3Nnkta2c1X1p3UXRZMmpqelV1V2NyS2NEaGZjZC13YVJsNnprUTJ4TjQyNmJ2bzhFd21URWdrYVRRUmIzTENVakVtcTVHV0VJWVpzWXNsUnNIZHpoVWlWb1NsOHhJ?oc=5"
     }
   ],
   "country_profile": {
