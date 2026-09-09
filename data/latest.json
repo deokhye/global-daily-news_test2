@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-09T08:03:30.917852+09:00",
-  "generated_at_display": "2026-09-09 08:03 KST",
+  "generated_at": "2026-09-10T07:50:10.980544+09:00",
+  "generated_at_display": "2026-09-10 07:50 KST",
   "exchange_rate": {
-    "current_rate": 1340.52001953125,
-    "change_pct": -0.23,
+    "current_rate": 1339.3299560546875,
+    "change_pct": -0.32,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1340.52
+      1339.33
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "nytimes.com",
-      "title": "Justice Kavanaugh Blocks Missouri Voting Map Benefiting Republicans",
-      "summary": "Justice Kavanaugh Blocks Missouri Voting Map Benefiting Republicans&nb…",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVNQTnZYSjdOTUl1V0wtdm4xSnk4aXFXTTFLcjNPeXBUZ3Z6bF94Y0swRDBVYmFIUEZXRDlUdldVWFIzeFVGMklBZnNOZWJTVXhBSlhZVVdWcGN4SDBTM0JWOG1VVm9DWkExUkdYNzdlOE5jZUtMOWtrM1B3azhCb2dGd3I2U09jMUQtTmRpSk5zTE5ocWRV?oc=5"
+      "source": "NewsNation",
+      "title": "Lindsay Clancy attorney to ask for case to be dismissed after mistrial",
+      "summary": "Lindsay Clancy attorney to ask for case to be dismissed after mistrial…",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVk1SmtTTHlsUDVLRVNZTlRZR0hMNzUtclRkY3VVUWlWUkZjVllCQ21lYmVERy1BX2dXMkNaWEFwdFhra2xYVDFFVEZTeGIyRHp2VDljek5IU0gzOFFtZXQ5Zm4tNno3dDEzRC1lLUFZMUdiY19yazBQZW43WjZESkRibkttSU5UU1VDVUdmVHBUZ9IBlwFBVV95cUxPa0RTTVpvRkJFMEdlZWRhbkdSeW9BTWRCVkR0WS10bTl3a2p6YTBoSmM4SnBfajItZTQ0dXZzV3dOS2RHNk5QRG1wbzhkMmlSdmF6M21MLWVRb0otRlBYYk1USVNpSHNKREV5bzhlZ1N1VnB3SGNCYlI1VFQwdllzZEhBQ2pvanhwYUF0Q1Z5VG1rbFFYeVc4?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "nytimes.com",
-      "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
-      "summary": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’&nbsp;&n…",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5"
+      "source": "AP News",
+      "title": "Anthropic researcher resigns with warning about the dangers of AI development",
+      "summary": "Anthropic researcher resigns with warning about the dangers of AI deve…",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmpkbnFlb1F3eEdNLTVkMjA0cEtGOTAzNGc4cVpoVnFsRGJKZGhuU3l4R1ViVDN2UExGLVVkUUZTRHNUNnltbkxKSmRPNjEtcXB5V0pyQV8xZUlMRHEzT1ZFX18zQmd2M25MX0lkRkV2Qkw3dzRqR3Jza1R6Q0dFSGtKYXEzM0lHd0ZNekZOckRpVzZHU2c?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "bbc.com",
-      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-      "summary": "Paul Adams: British-Israeli relations at lowest ebb in decades&nbsp;&n…",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRcFdnNlNreEdFMzAwWXNBVlNKZFRhd0FrUGZOanRiMXZrVkU1N3ZJY1FPS3A0dHYySC1VT3BzNzA0ZUdBT3h2dmlzb0tSZVliLUprQ21jUFZBQQ?oc=5"
+      "source": "The New York Times",
+      "title": "British Police Expand Investigation Into Reform U.K. After Undercover Sting",
+      "summary": "British Police Expand Investigation Into Reform U.K. After Undercover…",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkJxTGJXMHB5T0puMXZZaFZVOW9GcWFPdmtsLWpiNktiZ2hpT2IxNVc2OUhETHh2WDVPVHlVMFhJZ3V5eVpCS1o3UkM3d0wxRHJuMUc3RXc2Z1RfWm1vaTE0RlZrYVVQYzhUeERZaWNLT29jWEJCWTFPYmdZMDV2TlB3MG13LTl4YVpuTk5ObG8xMHc?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "American Physical Society",
-      "title": "Peer review – for an entire department",
-      "summary": "Peer review – for an entire department&nbsp;&nbsp;American Physical So…",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqOEdFZ2UzdlRWWk9UdElZemtZa1QwVE93ci1pT0lsc2E2OVV4emFWWDA3M2Z1TVB3cF90aHZTVEJDMGU3SWNuekliM1NTZlA5N2d5NDhGS3B4ZThuWS15eUJKZlRvbEpBOUQwcldoV2FlaFA1cFRr?oc=5"
+      "source": "News · Lafayette College",
+      "title": "American Society for Engineering Education congratulates Lafayette’s Engineering Division on its 160th anniversary",
+      "summary": "American Society for Engineering Education congratulates Lafayette’s E…",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOUVFbWVxcnduVTVaSWx3SXhGTVBHSXYzOF9OY2FBOW5QcmoyNkc0eDdfQmhXYzRxMllEbmhYMFZHcGdlb3VUeEZVck92ekltR2pBMFJadi1GdTlHNHJlMlBwLUVyaTY5aHJTTm9Zb3lhODlFbzNoR1pKYUNQZWcwbU12b3FrYnIxRHNSNDAzTXJ1WlpfRkkxQVI5WDdzM0tNVWlVcmRPalJSckE2a2RJNVE4MmdFNjFXQzBXc2hRUDhLbm9yMFRJUlNkRVNTWFRFbkNpcG11QXp2MGk2MXJxcXphY3VURVE?oc=5"
     }
   ],
   "hr_trends": [
@@ -75,17 +75,17 @@
       "tag_class": "bg-rose-100 text-rose-700",
       "title": "Electric Vehicle Tires Market Growth & Forecas…",
       "desc": "Electric Vehicle Tires Market Growth & Forecast Analysis 2026-35&nbsp;…",
-      "source": "Market.us",
+      "source": "market.us",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjUjV3RkU4LU01a0ZoS0RzZXBnTWp0eXlReGV4czlJanR6MFJSSFVTNzE1MUdvQVJaZXM5VWRhSzhWZnRMdThSQ3p1aTNnQWl4b2JPNHk5bENaR3E2X0swZHJUNGx0QQ?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "Charts of the Week: The Turn Towards Tightenin…",
-      "desc": "Charts of the Week: The Turn Towards Tightening&nbsp;&nbsp;Haver Analy…",
-      "source": "Haver Analytics",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaXdTcjBGZ0hNTUpfZGVIenVCbnhIWGh2V08zNWhyNnVGSEVOWU1CVkVuZ2pOZXJfNkdkakRqRUsteE5iWU9QRzdWdW1CRDM0bFBKeXV1RXVTekNPWHYyLU9IeTIwc0lRZGVEekxvQzZ2OHZGalNSRV9OTFpQaVJTWU52dw?oc=5"
+      "title": "What’s happening this week in economics?",
+      "desc": "What’s happening this week in economics?&nbsp;&nbsp;Deloitte",
+      "source": "Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5"
     },
     {
       "category": "MANAGEMENT",
@@ -93,7 +93,7 @@
       "tag_class": "bg-amber-100 text-amber-700",
       "title": "First Shift: North American tariffs move from…",
       "desc": "First Shift: North American tariffs move from threat to operating real…",
-      "source": "Supply Chain Management Review",
+      "source": "scmr.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWd6a2dxaWE1UTVCczhCYnM0M1E3NngyYUdIZDZfa29uR1E1WEhmUFVrLWduTU00MzJTOExkazY1cExSUWo3Nnkta2c1X1p3UXRZMmpqelV1V2NyS2NEaGZjZC13YVJsNnprUTJ4TjQyNmJ2bzhFd21URWdrYVRRUmIzTENVakVtcTVHV0VJWVpzWXNsUnNIZHpoVWlWb1NsOHhJ?oc=5"
     }
   ],
