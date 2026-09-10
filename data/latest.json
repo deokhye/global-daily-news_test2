@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-10T07:50:10.980544+09:00",
-  "generated_at_display": "2026-09-10 07:50 KST",
+  "generated_at": "2026-09-11T07:51:10.159853+09:00",
+  "generated_at_display": "2026-09-11 07:51 KST",
   "exchange_rate": {
-    "current_rate": 1339.3299560546875,
-    "change_pct": -0.32,
+    "current_rate": 1349.219970703125,
+    "change_pct": 0.75,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1339.33
+      1349.22
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "NewsNation",
-      "title": "Lindsay Clancy attorney to ask for case to be dismissed after mistrial",
-      "summary": "Lindsay Clancy attorney to ask for case to be dismissed after mistrial…",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVk1SmtTTHlsUDVLRVNZTlRZR0hMNzUtclRkY3VVUWlWUkZjVllCQ21lYmVERy1BX2dXMkNaWEFwdFhra2xYVDFFVEZTeGIyRHp2VDljek5IU0gzOFFtZXQ5Zm4tNno3dDEzRC1lLUFZMUdiY19yazBQZW43WjZESkRibkttSU5UU1VDVUdmVHBUZ9IBlwFBVV95cUxPa0RTTVpvRkJFMEdlZWRhbkdSeW9BTWRCVkR0WS10bTl3a2p6YTBoSmM4SnBfajItZTQ0dXZzV3dOS2RHNk5QRG1wbzhkMmlSdmF6M21MLWVRb0otRlBYYk1USVNpSHNKREV5bzhlZ1N1VnB3SGNCYlI1VFQwdllzZEhBQ2pvanhwYUF0Q1Z5VG1rbFFYeVc4?oc=5"
+      "source": "AP News",
+      "title": "Live updates: Vance and Trump will both give speeches on midterm strategy at Day 2 of GOP convention",
+      "summary": "Live updates: Vance and Trump will both give speeches on midterm strat…",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGZLX2RkSWwxbnZlZ1lYX3hxckhYUTFGU2ZObEFKaDVYZDdPRElrSGxlc3FNcGFta0Rub1FGN1pPQnY0U3p0WDdHR0tZU01TSExnelRYQW5ld2xRM0oyVXFLcWhxUEZibV82Ml9YdGdvdjE5a3V2QzBsRDJaY2lxaWJ3?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "AP News",
-      "title": "Anthropic researcher resigns with warning about the dangers of AI development",
-      "summary": "Anthropic researcher resigns with warning about the dangers of AI deve…",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmpkbnFlb1F3eEdNLTVkMjA0cEtGOTAzNGc4cVpoVnFsRGJKZGhuU3l4R1ViVDN2UExGLVVkUUZTRHNUNnltbkxKSmRPNjEtcXB5V0pyQV8xZUlMRHEzT1ZFX18zQmd2M25MX0lkRkV2Qkw3dzRqR3Jza1R6Q0dFSGtKYXEzM0lHd0ZNekZOckRpVzZHU2c?oc=5"
+      "source": "Forbes",
+      "title": "'Seems Like A Setup': Musk Mocks Ex-Anthropic Staffer's Warnings On AI Extinction Risks",
+      "summary": "'Seems Like A Setup': Musk Mocks Ex-Anthropic Staffer's Warnings On AI…",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZFYteXVSX2hINXNaUlVTd1hBWUtIZTJVemxyZmI4T250NjRTcHVVTU1tQzhnYXUybU9kSnZyeVFnVWtUczgxN0ZUQWNBaFBUaEhENGxROHJ6QWtyYW1icnItQk83WDIyQ1Nack1FX3NvRnJiQmhnb0paVm42dWRwZUhROTJXOVlCblJfYkg3ckt1cTE5N3p6U1VZNEFBSnN0QzV6bDNfWk9XZ1JTRGtBcjd2bjhWVHBhSnNqaVI3dkpvVzdHdjF4UzFNaFRWOXM?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "The New York Times",
-      "title": "British Police Expand Investigation Into Reform U.K. After Undercover Sting",
-      "summary": "British Police Expand Investigation Into Reform U.K. After Undercover…",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkJxTGJXMHB5T0puMXZZaFZVOW9GcWFPdmtsLWpiNktiZ2hpT2IxNVc2OUhETHh2WDVPVHlVMFhJZ3V5eVpCS1o3UkM3d0wxRHJuMUc3RXc2Z1RfWm1vaTE0RlZrYVVQYzhUeERZaWNLT29jWEJCWTFPYmdZMDV2TlB3MG13LTl4YVpuTk5ObG8xMHc?oc=5"
+      "source": "Al Jazeera",
+      "title": "Yemen’s Houthis seize strategic Red Sea city of Mocha",
+      "summary": "Yemen’s Houthis seize strategic Red Sea city of Mocha&nbsp;&nbsp;Al Ja…",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSzhZS2ZzX3N1YkI2WHEyaVZPVHJzaW1MV0lpenJnak5PQ2NtOVRVaHJ4cDVlT2p3bzNCUjRYRUxWaGk0eTQwRWFoN2E0ZUNidVp1UWVCSlRsMjVMLVBoS0lnUktRTjdCMjZadXNqc0JFZjh6dElfVWJCejVJWkdlZmRFTE9xZUMtM0l3Q1R0QVIyQ0Z5SXlWWtIBngFBVV95cUxNX1RJeHVscmJ6SV9VY0dNS2ZhRV9HaHI1Szg4SC1MZ2dCQl9RM2lNYTlQZjVZTFFtLXlsYzZTeUFZSWRuOXgzdHVPbXlLNWRHSkdIVXNOWFMwLVdrYWdUX09uai1tSlh6eUxVTXVQdDNjdjhmWU93TmJGdVBkT1RjdGVHa1EwbnVuWWE4N0NJazcxMWVpS2tHRl9ORjJoQQ?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "News · Lafayette College",
-      "title": "American Society for Engineering Education congratulates Lafayette’s Engineering Division on its 160th anniversary",
-      "summary": "American Society for Engineering Education congratulates Lafayette’s E…",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOUVFbWVxcnduVTVaSWx3SXhGTVBHSXYzOF9OY2FBOW5QcmoyNkc0eDdfQmhXYzRxMllEbmhYMFZHcGdlb3VUeEZVck92ekltR2pBMFJadi1GdTlHNHJlMlBwLUVyaTY5aHJTTm9Zb3lhODlFbzNoR1pKYUNQZWcwbU12b3FrYnIxRHNSNDAzTXJ1WlpfRkkxQVI5WDdzM0tNVWlVcmRPalJSckE2a2RJNVE4MmdFNjFXQzBXc2hRUDhLbm9yMFRJUlNkRVNTWFRFbkNpcG11QXp2MGk2MXJxcXphY3VURVE?oc=5"
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Here's a list of the individuals, including James Comey, targeted by the Trump administration",
+      "summary": "Here's a list of the individuals, including James Comey, targeted by t…",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDV4U3lXWlRPTHY5M1ljNzBTUEdlZEx2R2c5N1VSQ0NSLXAxbUp5bW1PREhFV2YtX3VaX0JnTWQteGJHazFYWE9vdXp2ZDVrTkdmREhLVWpkVXUtN0tQQUZfdVNFYUFKWmxWdEZ4a3NfelpMS2lNWjc2V3hpcWdoeldIOHFTRkNRU2hmdV9yNmFVd0NBNmt6U0JiZVU0NUJEeHpkLXo4QThUaWlk0gGyAUFVX3lxTE9nUFNSZ0VyeGtKYkluY181dEdkR3lvdlZNck83dWlhbXAyMzA4aTI3Um8tY01RdkVGWkVDLVhuTUg2b2dDXy1jbFpHMjBnLWZBYm0yV3lLeG9ZSWRUOG56U24xd05NTlBEM2JhMktaaFR4a0VacURFckVIOTFqT2dlNGdKa2Z5ZC1MN2FNUFdIdWNvTWxabG9lMVlmY1owNjF6NlM5VGU3NDRMT29zdUJCcXc?oc=5"
     }
   ],
   "hr_trends": [
@@ -75,7 +75,7 @@
       "tag_class": "bg-rose-100 text-rose-700",
       "title": "Electric Vehicle Tires Market Growth & Forecas…",
       "desc": "Electric Vehicle Tires Market Growth & Forecast Analysis 2026-35&nbsp;…",
-      "source": "market.us",
+      "source": "Market.us",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjUjV3RkU4LU01a0ZoS0RzZXBnTWp0eXlReGV4czlJanR6MFJSSFVTNzE1MUdvQVJaZXM5VWRhSzhWZnRMdThSQ3p1aTNnQWl4b2JPNHk5bENaR3E2X0swZHJUNGx0QQ?oc=5"
     },
     {
@@ -93,7 +93,7 @@
       "tag_class": "bg-amber-100 text-amber-700",
       "title": "First Shift: North American tariffs move from…",
       "desc": "First Shift: North American tariffs move from threat to operating real…",
-      "source": "scmr.com",
+      "source": "Supply Chain Management Review",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWd6a2dxaWE1UTVCczhCYnM0M1E3NngyYUdIZDZfa29uR1E1WEhmUFVrLWduTU00MzJTOExkazY1cExSUWo3Nnkta2c1X1p3UXRZMmpqelV1V2NyS2NEaGZjZC13YVJsNnprUTJ4TjQyNmJ2bzhFd21URWdrYVRRUmIzTENVakVtcTVHV0VJWVpzWXNsUnNIZHpoVWlWb1NsOHhJ?oc=5"
     }
   ],
