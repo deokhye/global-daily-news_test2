@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-11T07:51:10.159853+09:00",
-  "generated_at_display": "2026-09-11 07:51 KST",
+  "generated_at": "2026-09-12T07:52:45.071763+09:00",
+  "generated_at_display": "2026-09-12 07:52 KST",
   "exchange_rate": {
-    "current_rate": 1349.219970703125,
-    "change_pct": 0.75,
+    "current_rate": 1341.050048828125,
+    "change_pct": 0.14,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1349.22
+      1341.05
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "AP News",
-      "title": "Live updates: Vance and Trump will both give speeches on midterm strategy at Day 2 of GOP convention",
-      "summary": "Live updates: Vance and Trump will both give speeches on midterm strat…",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGZLX2RkSWwxbnZlZ1lYX3hxckhYUTFGU2ZObEFKaDVYZDdPRElrSGxlc3FNcGFta0Rub1FGN1pPQnY0U3p0WDdHR0tZU01TSExnelRYQW5ld2xRM0oyVXFLcWhxUEZibV82Ml9YdGdvdjE5a3V2QzBsRDJaY2lxaWJ3?oc=5"
+      "source": "BBC",
+      "title": "'Never, ever forget'",
+      "summary": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks&…",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IZW9kX3BtWXJHQ2wyN2VIR0Vsa3ExbkVaeHNqbDZoZUs4bHllUlg2ZU1GNVAzTXpQN0loRDg0cjQ4VUd6VEdqSE8tYkNhaUIzeExBQzBzVFR3UQ?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Forbes",
-      "title": "'Seems Like A Setup': Musk Mocks Ex-Anthropic Staffer's Warnings On AI Extinction Risks",
-      "summary": "'Seems Like A Setup': Musk Mocks Ex-Anthropic Staffer's Warnings On AI…",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZFYteXVSX2hINXNaUlVTd1hBWUtIZTJVemxyZmI4T250NjRTcHVVTU1tQzhnYXUybU9kSnZyeVFnVWtUczgxN0ZUQWNBaFBUaEhENGxROHJ6QWtyYW1icnItQk83WDIyQ1Nack1FX3NvRnJiQmhnb0paVm42dWRwZUhROTJXOVlCblJfYkg3ckt1cTE5N3p6U1VZNEFBSnN0QzV6bDNfWk9XZ1JTRGtBcjd2bjhWVHBhSnNqaVI3dkpvVzdHdjF4UzFNaFRWOXM?oc=5"
+      "source": "WRAL",
+      "title": "Raleigh restaurants feel the impacts of all-time high diesel prices",
+      "summary": "Raleigh restaurants feel the impacts of all-time high diesel prices&nb…",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmZMUDVWbzY0ejllY2NzMWZZbXhlQlpEYzNJVVlaUEVFaTJQdjVFT2VLU1lYVFlIcFg0WnJpR2NpeU9ObEo4NktUbVlvNDhhd0hFQ3hjb2Z1U29QMlNaQ1ZNMFBOel9LOTFtZnFKUHFzQXhyejZIbXM5Tl8xdGJVQkRDNzZfc0dvZzMwOUxjR0hQcDBLRFFPbEVQbGRrbUMzRGpn?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "Al Jazeera",
-      "title": "Yemen’s Houthis seize strategic Red Sea city of Mocha",
-      "summary": "Yemen’s Houthis seize strategic Red Sea city of Mocha&nbsp;&nbsp;Al Ja…",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSzhZS2ZzX3N1YkI2WHEyaVZPVHJzaW1MV0lpenJnak5PQ2NtOVRVaHJ4cDVlT2p3bzNCUjRYRUxWaGk0eTQwRWFoN2E0ZUNidVp1UWVCSlRsMjVMLVBoS0lnUktRTjdCMjZadXNqc0JFZjh6dElfVWJCejVJWkdlZmRFTE9xZUMtM0l3Q1R0QVIyQ0Z5SXlWWtIBngFBVV95cUxNX1RJeHVscmJ6SV9VY0dNS2ZhRV9HaHI1Szg4SC1MZ2dCQl9RM2lNYTlQZjVZTFFtLXlsYzZTeUFZSWRuOXgzdHVPbXlLNWRHSkdIVXNOWFMwLVdrYWdUX09uai1tSlh6eUxVTXVQdDNjdjhmWU93TmJGdVBkT1RjdGVHa1EwbnVuWWE4N0NJazcxMWVpS2tHRl9ORjJoQQ?oc=5"
+      "source": "The New York Times",
+      "title": "Attacks on Saudi Pipeline Rattle Energy Markets",
+      "summary": "Attacks on Saudi Pipeline Rattle Energy Markets&nbsp;&nbsp;The New Yor…",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWVvcm9Wd1lzb2hKWlhRMmVTeXhHbXRGd1AxLXFYbmg2UTVKVWUtTnFXV0hMWFBQUGZQV0tQU2pubk5NNjI1VUNGTF9tZEhuc3JxTXZxT2pPSVI5ekdQbmFKTXROTklrdG5BcFRYU0ppa2Z0QmtjdUp4VXlSVURzYzVBaTQzQ0E?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Here's a list of the individuals, including James Comey, targeted by the Trump administration",
-      "summary": "Here's a list of the individuals, including James Comey, targeted by t…",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDV4U3lXWlRPTHY5M1ljNzBTUEdlZEx2R2c5N1VSQ0NSLXAxbUp5bW1PREhFV2YtX3VaX0JnTWQteGJHazFYWE9vdXp2ZDVrTkdmREhLVWpkVXUtN0tQQUZfdVNFYUFKWmxWdEZ4a3NfelpMS2lNWjc2V3hpcWdoeldIOHFTRkNRU2hmdV9yNmFVd0NBNmt6U0JiZVU0NUJEeHpkLXo4QThUaWlk0gGyAUFVX3lxTE9nUFNSZ0VyeGtKYkluY181dEdkR3lvdlZNck83dWlhbXAyMzA4aTI3Um8tY01RdkVGWkVDLVhuTUg2b2dDXy1jbFpHMjBnLWZBYm0yV3lLeG9ZSWRUOG56U24xd05NTlBEM2JhMktaaFR4a0VacURFckVIOTFqT2dlNGdKa2Z5ZC1MN2FNUFdIdWNvTWxabG9lMVlmY1owNjF6NlM5VGU3NDRMT29zdUJCcXc?oc=5"
+      "source": "The Washington Post",
+      "title": "The rise of the anti-social American",
+      "summary": "The rise of the anti-social American&nbsp;&nbsp;The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUk4QWVOX09iWGNSWGxLQ1F0SWRDWGhiY0hyRWYxVXJ2RlBtU3dfcXFMSThxb19nYW1PRGgyU2syWUl4eWVBYmtmMzlyVWhnaHg4N3lVOFRuRjJ3bHZVQmk3Z3lHbGVzcWd5R1BuZnhHR2NTNExTam16czUzeE5XM1p6djBKZw?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Electric Vehicle Tires Market Growth & Forecas…",
-      "desc": "Electric Vehicle Tires Market Growth & Forecast Analysis 2026-35&nbsp;…",
-      "source": "Market.us",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjUjV3RkU4LU01a0ZoS0RzZXBnTWp0eXlReGV4czlJanR6MFJSSFVTNzE1MUdvQVJaZXM5VWRhSzhWZnRMdThSQ3p1aTNnQWl4b2JPNHk5bENaR3E2X0swZHJUNGx0QQ?oc=5"
+      "title": "Automotive Body In White Market Projected to R…",
+      "desc": "Automotive Body In White Market Projected to Reach USD 48.2 Billion, a…",
+      "source": "einnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb0NZZ25QcFNZdFNuTFRKbjFQQlZnNV9sU2lxRC1ZRVdLWS1UMXVzVGoxVmczbjVtWXEyNzduVjR1T2RxNFNFelUtWkRrY1RfQTJzYXEwSTUtY0N5R0FJNmo0UkNiRnc2U3RCU3RselVKVEdVVmdfamh2Y2NLdDJQdk15T2ZkS1NWa2FQZXF1alZVaXRubGZxencxVEZkM0N0eThTY25QXzVvTHNTVW1GV0xBYVNDUE9mYlRWVmVxak9YSHR1QmhMUE0tVXR6emRCdnJFVkFGb1BqVlBtXzVpMg?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -93,7 +93,7 @@
       "tag_class": "bg-amber-100 text-amber-700",
       "title": "First Shift: North American tariffs move from…",
       "desc": "First Shift: North American tariffs move from threat to operating real…",
-      "source": "Supply Chain Management Review",
+      "source": "scmr.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWd6a2dxaWE1UTVCczhCYnM0M1E3NngyYUdIZDZfa29uR1E1WEhmUFVrLWduTU00MzJTOExkazY1cExSUWo3Nnkta2c1X1p3UXRZMmpqelV1V2NyS2NEaGZjZC13YVJsNnprUTJ4TjQyNmJ2bzhFd21URWdrYVRRUmIzTENVakVtcTVHV0VJWVpzWXNsUnNIZHpoVWlWb1NsOHhJ?oc=5"
     }
   ],
@@ -104,7 +104,7 @@
     "inflation": "3.4%",
     "unemployment": "4.1%",
     "stats_source": "BLS",
-    "stats_asof": "2026-07",
+    "stats_asof": "2026-08",
     "min_wage_federal": "$7.25 / h (연방, 2009-07-24 발효)",
     "min_wage_tn": "주 별도 기준 없음 → 연방 기준 $7.25/h 적용"
   }
