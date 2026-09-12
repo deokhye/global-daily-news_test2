@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-12T07:52:45.071763+09:00",
-  "generated_at_display": "2026-09-12 07:52 KST",
+  "generated_at": "2026-09-13T07:42:46.599866+09:00",
+  "generated_at_display": "2026-09-13 07:42 KST",
   "exchange_rate": {
     "current_rate": 1341.050048828125,
-    "change_pct": 0.14,
+    "change_pct": -0.53,
     "history_labels": [
       "10월",
       "11월",
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "BBC",
-      "title": "'Never, ever forget'",
-      "summary": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks&…",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IZW9kX3BtWXJHQ2wyN2VIR0Vsa3ExbkVaeHNqbDZoZUs4bHllUlg2ZU1GNVAzTXpQN0loRDg0cjQ4VUd6VEdqSE8tYkNhaUIzeExBQzBzVFR3UQ?oc=5"
+      "source": "The New York Times",
+      "title": "Trump Demands Smithsonian Install ‘Colossus’ George Washington Statue",
+      "summary": "Trump Demands Smithsonian Install ‘Colossus’ George Washington Statue&…",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZnpqdUlpeUwtcm9sMDQzbWsxLWVpWDVFMWIxNkFDR2dreUJaclNUenk1Q0o4TnJIYjN0R25zaHNwSlZ2MktoNzM5blJvR3hXTjY1RTBoY3R0TE04Q3Fob09ma1NHVnJQNVlIZnl0eDZiSTlaaGJOVV9Jb1l0d2xiUnZGRk9wbTdGd1dNcTlPaFk?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "WRAL",
-      "title": "Raleigh restaurants feel the impacts of all-time high diesel prices",
-      "summary": "Raleigh restaurants feel the impacts of all-time high diesel prices&nb…",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmZMUDVWbzY0ejllY2NzMWZZbXhlQlpEYzNJVVlaUEVFaTJQdjVFT2VLU1lYVFlIcFg0WnJpR2NpeU9ObEo4NktUbVlvNDhhd0hFQ3hjb2Z1U29QMlNaQ1ZNMFBOel9LOTFtZnFKUHFzQXhyejZIbXM5Tl8xdGJVQkRDNzZfc0dvZzMwOUxjR0hQcDBLRFFPbEVQbGRrbUMzRGpn?oc=5"
+      "source": "Bloomberg.com",
+      "title": "Anthropic CEO Says It’s Time to Slow AI Model Advances",
+      "summary": "Anthropic CEO Says It’s Time to Slow AI Model Advances&nbsp;&nbsp;Bloo…",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlBPOGtIVFdERkFSODVUMU84NkRpM282MzgybkR1RXAxN1FMZXNON3lMZUpoMjFxU3ltWDVkT1RuNEJwcEhGR21qeVVuQjI2VkwtRG1KbE9nLVhEQjAyQjdpdjExYWRjSFRRLTJ6OHkxcmlkWkRYUS1sdV8wUGUyTEdNWWFzNGJjYWFYckxIRGZFWC1sTzJQSmtESWRCX1ZkekptTVlHWjQwakxYLUtVQ3J4SWc3UQ?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "The New York Times",
-      "title": "Attacks on Saudi Pipeline Rattle Energy Markets",
-      "summary": "Attacks on Saudi Pipeline Rattle Energy Markets&nbsp;&nbsp;The New Yor…",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWVvcm9Wd1lzb2hKWlhRMmVTeXhHbXRGd1AxLXFYbmg2UTVKVWUtTnFXV0hMWFBQUGZQV0tQU2pubk5NNjI1VUNGTF9tZEhuc3JxTXZxT2pPSVI5ekdQbmFKTXROTklrdG5BcFRYU0ppa2Z0QmtjdUp4VXlSVURzYzVBaTQzQ0E?oc=5"
+      "source": "Reuters",
+      "title": "Houthi advance in Yemen puts U.S. in a new bind",
+      "summary": "Houthi advance in Yemen puts U.S. in a new bind&nbsp;&nbsp;ReutersIran…",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkd2T3JFYkQtX1BpRFMwdUY5V0tXY0xuX1JpY3cwa2hEZmxKRWVSdGtNQkR5dFBIT2JPanlxM0N3WjA5YVVpZExUOFJIWG1MZTNLUXNrTXZaZDRLRnFac2Vkclp3eWhkaTFUNEZrdGk4RzBYTmVVV1kwMHRJWHdXbGs3Z3U5VlZ1eldGOGJXLTU5d3B2NUE?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "The Washington Post",
-      "title": "The rise of the anti-social American",
-      "summary": "The rise of the anti-social American&nbsp;&nbsp;The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUk4QWVOX09iWGNSWGxLQ1F0SWRDWGhiY0hyRWYxVXJ2RlBtU3dfcXFMSThxb19nYW1PRGgyU2syWUl4eWVBYmtmMzlyVWhnaHg4N3lVOFRuRjJ3bHZVQmk3Z3lHbGVzcWd5R1BuZnhHR2NTNExTam16czUzeE5XM1p6djBKZw?oc=5"
+      "source": "Anadolu Ajansı",
+      "title": "Right-wing US think tank tracked thousands of Muslim Americans for 2 decades: Report",
+      "summary": "Right-wing US think tank tracked thousands of Muslim Americans for 2 d…",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRi1UNkNoaE5ncHVWT3NNYTFybS11NVdXeE9GVl9CbEt1a3BFZHlMR1FmbFctbTRyNnY0Tzg4WHV1WmVSbGJyb0J0Rk15amdnQ2VXNHRTVVhQQzlmQjZHa3dXMWdxX2NMY0d4Z3FSY0czMjJiTTUwWTJCdnJnSXRYYkZJTnVEV2RKYUlvZW9wRUJTTTQ2QlRZdnJFLTJncXJlY3RCS01oMkh6aGYtUVJ5dHNINWxhYU9IYVpEVlJvX3FodkE?oc=5"
     }
   ],
   "hr_trends": [
@@ -75,7 +75,7 @@
       "tag_class": "bg-rose-100 text-rose-700",
       "title": "Automotive Body In White Market Projected to R…",
       "desc": "Automotive Body In White Market Projected to Reach USD 48.2 Billion, a…",
-      "source": "einnews.com",
+      "source": "EIN News",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb0NZZ25QcFNZdFNuTFRKbjFQQlZnNV9sU2lxRC1ZRVdLWS1UMXVzVGoxVmczbjVtWXEyNzduVjR1T2RxNFNFelUtWkRrY1RfQTJzYXEwSTUtY0N5R0FJNmo0UkNiRnc2U3RCU3RselVKVEdVVmdfamh2Y2NLdDJQdk15T2ZkS1NWa2FQZXF1alZVaXRubGZxencxVEZkM0N0eThTY25QXzVvTHNTVW1GV0xBYVNDUE9mYlRWVmVxak9YSHR1QmhMUE0tVXR6emRCdnJFVkFGb1BqVlBtXzVpMg?oc=5"
     },
     {
@@ -91,10 +91,10 @@
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "First Shift: North American tariffs move from…",
-      "desc": "First Shift: North American tariffs move from threat to operating real…",
-      "source": "scmr.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWd6a2dxaWE1UTVCczhCYnM0M1E3NngyYUdIZDZfa29uR1E1WEhmUFVrLWduTU00MzJTOExkazY1cExSUWo3Nnkta2c1X1p3UXRZMmpqelV1V2NyS2NEaGZjZC13YVJsNnprUTJ4TjQyNmJ2bzhFd21URWdrYVRRUmIzTENVakVtcTVHV0VJWVpzWXNsUnNIZHpoVWlWb1NsOHhJ?oc=5"
+      "title": "Tariffs",
+      "desc": "Tariffs&nbsp;&nbsp;National Retail Federation | NRF",
+      "source": "National Retail Federation | NRF",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43NW54cUFhTmhyejR2czdMRVcwc3ZjOU9rOFItZFRYalJpakQ0bkpyUDF1OENiVnplYXdUUnZqcmRra3FERjJZaldsYS04TzlNU29rRTRuWGxyQQ?oc=5"
     }
   ],
   "country_profile": {
