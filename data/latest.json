@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-13T07:42:46.599866+09:00",
-  "generated_at_display": "2026-09-13 07:42 KST",
+  "generated_at": "2026-09-14T07:43:21.730438+09:00",
+  "generated_at_display": "2026-09-14 07:43 KST",
   "exchange_rate": {
-    "current_rate": 1341.050048828125,
-    "change_pct": -0.53,
+    "current_rate": 1342.969970703125,
+    "change_pct": -0.39,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1341.05
+      1342.97
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The New York Times",
-      "title": "Trump Demands Smithsonian Install ‘Colossus’ George Washington Statue",
-      "summary": "Trump Demands Smithsonian Install ‘Colossus’ George Washington Statue&…",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZnpqdUlpeUwtcm9sMDQzbWsxLWVpWDVFMWIxNkFDR2dreUJaclNUenk1Q0o4TnJIYjN0R25zaHNwSlZ2MktoNzM5blJvR3hXTjY1RTBoY3R0TE04Q3Fob09ma1NHVnJQNVlIZnl0eDZiSTlaaGJOVV9Jb1l0d2xiUnZGRk9wbTdGd1dNcTlPaFk?oc=5"
+      "source": "AP News",
+      "title": "GOP congressman from Wisconsin swims to safety after plane makes emergency landing in a lake",
+      "summary": "GOP congressman from Wisconsin swims to safety after plane makes emerg…",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSi1MWjIxVEdEOGRaalhNcXVWN1gzUVdZai1HX1BiQzJLeVFvYjd1RC1xZlU4SHJjOFpFUDE0aDE5eU5INWFpRzFLWjQxLXIwN3V0ZVhYSDgxZkIzdjRTN3BVNDZaQkxFTVhtYUJvSEhXeTVTWVZQVVE2bkJNZXo1RlRQeTZmMEt1TXNvdlBIUVdNcUEyQnBaejd4bXVXOUpjbmdn?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Bloomberg.com",
-      "title": "Anthropic CEO Says It’s Time to Slow AI Model Advances",
-      "summary": "Anthropic CEO Says It’s Time to Slow AI Model Advances&nbsp;&nbsp;Bloo…",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlBPOGtIVFdERkFSODVUMU84NkRpM282MzgybkR1RXAxN1FMZXNON3lMZUpoMjFxU3ltWDVkT1RuNEJwcEhGR21qeVVuQjI2VkwtRG1KbE9nLVhEQjAyQjdpdjExYWRjSFRRLTJ6OHkxcmlkWkRYUS1sdV8wUGUyTEdNWWFzNGJjYWFYckxIRGZFWC1sTzJQSmtESWRCX1ZkekptTVlHWjQwakxYLUtVQ3J4SWc3UQ?oc=5"
+      "source": "Forbes",
+      "title": "Dario Amodei Says AI Industry ‘Lied’ About Technology’s Risks",
+      "summary": "Dario Amodei Says AI Industry ‘Lied’ About Technology’s Risks&nbsp;&nb…",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOay1kS3l4dFZvOE9GOHhTWmxIS2pybGxCQlJKLW5KemRoT3VIaWk2cEN4UFFuZzdCNHNhTmdkZlZBcm1RUzhqdmd2WUR5X1Z3SDlQRDlQVVRsbnlHY0w4OUN3RkxfcWhTdjBtVnNoQWZXdXJFSVVMcHltTEZCQXNDN2RHWnlmWm1LQzVXcWt0RmN1NURzRnhxRlpKRWI0UFMwamtSX0ZpOWtteGJBM0VlOA?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "Reuters",
-      "title": "Houthi advance in Yemen puts U.S. in a new bind",
-      "summary": "Houthi advance in Yemen puts U.S. in a new bind&nbsp;&nbsp;ReutersIran…",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkd2T3JFYkQtX1BpRFMwdUY5V0tXY0xuX1JpY3cwa2hEZmxKRWVSdGtNQkR5dFBIT2JPanlxM0N3WjA5YVVpZExUOFJIWG1MZTNLUXNrTXZaZDRLRnFac2Vkclp3eWhkaTFUNEZrdGk4RzBYTmVVV1kwMHRJWHdXbGs3Z3U5VlZ1eldGOGJXLTU5d3B2NUE?oc=5"
+      "source": "AP News",
+      "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed",
+      "summary": "Iranian cargo ship is struck, and talks between Tehran and its neighbo…",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Anadolu Ajansı",
-      "title": "Right-wing US think tank tracked thousands of Muslim Americans for 2 decades: Report",
-      "summary": "Right-wing US think tank tracked thousands of Muslim Americans for 2 d…",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRi1UNkNoaE5ncHVWT3NNYTFybS11NVdXeE9GVl9CbEt1a3BFZHlMR1FmbFctbTRyNnY0Tzg4WHV1WmVSbGJyb0J0Rk15amdnQ2VXNHRTVVhQQzlmQjZHa3dXMWdxX2NMY0d4Z3FSY0czMjJiTTUwWTJCdnJnSXRYYkZJTnVEV2RKYUlvZW9wRUJTTTQ2QlRZdnJFLTJncXJlY3RCS01oMkh6aGYtUVJ5dHNINWxhYU9IYVpEVlJvX3FodkE?oc=5"
+      "source": "The Guardian",
+      "title": "‘It’s just straight bigotry’: wave of Islamophobic rhetoric looms over US midterm elections",
+      "summary": "‘It’s just straight bigotry’: wave of Islamophobic rhetoric looms over…",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX2g5OW11dWhjV3h3YUpjOU53YUpGTzR2NHU4d21NT2I0SUphRUJ4WHRwSEJITlVZNDNDbkJlMWNtVF8xMTBSUHBKalAybzlFd3lueW4yQXBzMVdVU1VpbXBsS280T3NyaEtXMmtDRnZfRDRsbk5vT19VSjNQTU5uQUc1ZDJacWdMRVVvdVZtdjlZQUxiNFE?oc=5"
     }
   ],
   "hr_trends": [
