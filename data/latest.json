@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-14T07:43:21.730438+09:00",
-  "generated_at_display": "2026-09-14 07:43 KST",
+  "generated_at": "2026-09-15T08:35:03.740767+09:00",
+  "generated_at_display": "2026-09-15 08:35 KST",
   "exchange_rate": {
-    "current_rate": 1342.969970703125,
-    "change_pct": -0.39,
+    "current_rate": 1346.25,
+    "change_pct": 0.12,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1342.97
+      1346.25
     ],
     "source": "Yahoo Finance"
   },
@@ -39,33 +39,33 @@
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
       "source": "AP News",
-      "title": "GOP congressman from Wisconsin swims to safety after plane makes emergency landing in a lake",
-      "summary": "GOP congressman from Wisconsin swims to safety after plane makes emerg…",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSi1MWjIxVEdEOGRaalhNcXVWN1gzUVdZai1HX1BiQzJLeVFvYjd1RC1xZlU4SHJjOFpFUDE0aDE5eU5INWFpRzFLWjQxLXIwN3V0ZVhYSDgxZkIzdjRTN3BVNDZaQkxFTVhtYUJvSEhXeTVTWVZQVVE2bkJNZXo1RlRQeTZmMEt1TXNvdlBIUVdNcUEyQnBaejd4bXVXOUpjbmdn?oc=5"
+      "title": "EPA eliminates rule that limits planet-warming greenhouse gas emissions from power plants",
+      "summary": "EPA eliminates rule that limits planet-warming greenhouse gas emission…",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODQ5dWRzamlZYU0ydVJCdVZpd1M0QjNFWVpIYm5Za0JxT2thaDByZU1LZnhhdm1PaU9lMVdkYU9BOEoxcEVPSXJGTUhGSHRsTDExY3gycHVIOG1RdEd1Y2R3TlBzV1kyRFJ2ZmZ2bVRvMHlOZkVnMlRQUk10bDJnT2lRVkVrSnBITUNzeUd0RFdxVTY2aVR3TjdZd1ZSZFRv?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Forbes",
-      "title": "Dario Amodei Says AI Industry ‘Lied’ About Technology’s Risks",
-      "summary": "Dario Amodei Says AI Industry ‘Lied’ About Technology’s Risks&nbsp;&nb…",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOay1kS3l4dFZvOE9GOHhTWmxIS2pybGxCQlJKLW5KemRoT3VIaWk2cEN4UFFuZzdCNHNhTmdkZlZBcm1RUzhqdmd2WUR5X1Z3SDlQRDlQVVRsbnlHY0w4OUN3RkxfcWhTdjBtVnNoQWZXdXJFSVVMcHltTEZCQXNDN2RHWnlmWm1LQzVXcWt0RmN1NURzRnhxRlpKRWI0UFMwamtSX0ZpOWtteGJBM0VlOA?oc=5"
+      "source": "businessinsider.com",
+      "title": "'Big Short' Michael Burry says AI leaders' calls for slowdown are 'self-serving' and he's not worried",
+      "summary": "'Big Short' Michael Burry says AI leaders' calls for slowdown are 'sel…",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2RKdkRKMUEwUEwtVlJHLWJEUEx5YTFxOVVXUnlINW51OVVHcVloODhGOEFXS05zeTkxNTI4WUo4b1I1czJUVlgzbHlieUlZZU9NOS1BUGROTHpPNEpyQkowUVdkajUxZHk4eEl3SHpFbFpPYVJtVjZxbWoyc3UzOFgwb3c5SGZTVFRQQzNqOUswYTgtVTRtckdJQWNTWVgzckljNnVMNTFZSWM?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "AP News",
-      "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed",
-      "summary": "Iranian cargo ship is struck, and talks between Tehran and its neighbo…",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5"
+      "source": "The Washington Post",
+      "title": "Trump Jr. wedding celebrations were sponsored by powerful Russian businessman",
+      "summary": "Trump Jr. wedding celebrations were sponsored by powerful Russian busi…",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVgtaUNadFRLTHlqUzd5bFRITWdFNXNMWENUSUpPdHJhSGkwVUtQYWJNVVhYZFhfMmFaSG1ueVJZR3hmWDFmak9EUHNXNlZZeWNKdi1DRWxyTjlTdjlQaFRIbTNla0ZYODdtODAwT1ZmQmgtVDh1ZGY2RGNiTFVxVmFiQ2ROaks4czlPSWJ5NTdjVWpRMHE0VlhfeE13dDc5ODFNd2ZocGFiSHJqbVRwLXVEcXpoajQ?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "The Guardian",
-      "title": "‘It’s just straight bigotry’: wave of Islamophobic rhetoric looms over US midterm elections",
-      "summary": "‘It’s just straight bigotry’: wave of Islamophobic rhetoric looms over…",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX2g5OW11dWhjV3h3YUpjOU53YUpGTzR2NHU4d21NT2I0SUphRUJ4WHRwSEJITlVZNDNDbkJlMWNtVF8xMTBSUHBKalAybzlFd3lueW4yQXBzMVdVU1VpbXBsS280T3NyaEtXMmtDRnZfRDRsbk5vT19VSjNQTU5uQUc1ZDJacWdMRVVvdVZtdjlZQUxiNFE?oc=5"
+      "source": "Reuters",
+      "title": "Trump dismisses AI safety alarm, says US already has tools to police industry",
+      "summary": "Trump dismisses AI safety alarm, says US already has tools to police i…",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUtaZjljMHRad2I0OEcxUUxHTlhNM1laeGo1TlFPb08yVWdWYnRuLWQwMXhzWTc2N3hBdkwyTmtqSmsyaFBMVjZPdnl5eGtKNnJFdzdBaGQ2cThlckVEOHloT2dDODRDTzlMakFqY3NGblFxbUZXMkVXclJ5ZGlmT2ZNYkx3M3A1ZmxsUnI2TElVTExPaTRxQ3o5cDdramw0SS1F?oc=5"
     }
   ],
   "hr_trends": [
