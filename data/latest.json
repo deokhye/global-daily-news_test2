@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-15T08:35:03.740767+09:00",
-  "generated_at_display": "2026-09-15 08:35 KST",
+  "generated_at": "2026-09-16T08:18:09.845351+09:00",
+  "generated_at_display": "2026-09-16 08:18 KST",
   "exchange_rate": {
-    "current_rate": 1346.25,
-    "change_pct": 0.12,
+    "current_rate": 1362.510009765625,
+    "change_pct": 1.26,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1346.25
+      1362.51
     ],
     "source": "Yahoo Finance"
   },
@@ -39,33 +39,33 @@
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
       "source": "AP News",
-      "title": "EPA eliminates rule that limits planet-warming greenhouse gas emissions from power plants",
-      "summary": "EPA eliminates rule that limits planet-warming greenhouse gas emission…",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODQ5dWRzamlZYU0ydVJCdVZpd1M0QjNFWVpIYm5Za0JxT2thaDByZU1LZnhhdm1PaU9lMVdkYU9BOEoxcEVPSXJGTUhGSHRsTDExY3gycHVIOG1RdEd1Y2R3TlBzV1kyRFJ2ZmZ2bVRvMHlOZkVnMlRQUk10bDJnT2lRVkVrSnBITUNzeUd0RFdxVTY2aVR3TjdZd1ZSZFRv?oc=5"
+      "title": "Trump slams the Supreme Court for rejecting his push to restrict mail ballots",
+      "summary": "Trump slams the Supreme Court for rejecting his push to restrict mail…",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0NGR0RicUtTb0ExUGROZVNyajF2eGh6cGhqTlF4bGVGa05SMGF4anloa0pwS3FxWHhIM1NwU1dFV1VneExKeHNhcGtQdDg5UkMtSm5sRkh2M0RVWG1HOURuRzd5d3VMaUYxSzhDLWxvVFV4UTlsODRRbTBhRE5kdU55ZU96Y3g3aDZtNHJIMnBXRUM0TWJubEVOSEZqZUE5?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "businessinsider.com",
-      "title": "'Big Short' Michael Burry says AI leaders' calls for slowdown are 'self-serving' and he's not worried",
-      "summary": "'Big Short' Michael Burry says AI leaders' calls for slowdown are 'sel…",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2RKdkRKMUEwUEwtVlJHLWJEUEx5YTFxOVVXUnlINW51OVVHcVloODhGOEFXS05zeTkxNTI4WUo4b1I1czJUVlgzbHlieUlZZU9NOS1BUGROTHpPNEpyQkowUVdkajUxZHk4eEl3SHpFbFpPYVJtVjZxbWoyc3UzOFgwb3c5SGZTVFRQQzNqOUswYTgtVTRtckdJQWNTWVgzckljNnVMNTFZSWM?oc=5"
+      "source": "reuters.com",
+      "title": "US Senate fails to advance sweeping cryptocurrency bill in blow for industry",
+      "summary": "US Senate fails to advance sweeping cryptocurrency bill in blow for in…",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUU1MGZBRTU0UUZMWkhzdWlzbVNvV2tSeFBVVnFSczhrM0VSdHd6cFhBRFY0UWxZcmxXZU81MGprbzBvUlFpV2E3TXUxSFExRXFxYnhXSkN0ZHVOb28tVmdKTm0xTGNlNWZLOWV3UGpKSFlnbTI5QnBuRmZKNnNsUF9KMXdHY2FMS3lhdU5vTUFsQVo0ZFUzV0ZoSGVZWmc?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "The Washington Post",
-      "title": "Trump Jr. wedding celebrations were sponsored by powerful Russian businessman",
-      "summary": "Trump Jr. wedding celebrations were sponsored by powerful Russian busi…",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVgtaUNadFRLTHlqUzd5bFRITWdFNXNMWENUSUpPdHJhSGkwVUtQYWJNVVhYZFhfMmFaSG1ueVJZR3hmWDFmak9EUHNXNlZZeWNKdi1DRWxyTjlTdjlQaFRIbTNla0ZYODdtODAwT1ZmQmgtVDh1ZGY2RGNiTFVxVmFiQ2ROaks4czlPSWJ5NTdjVWpRMHE0VlhfeE13dDc5ODFNd2ZocGFiSHJqbVRwLXVEcXpoajQ?oc=5"
+      "source": "reuters.com",
+      "title": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says",
+      "summary": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, C…",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEs4SmV2UTYzblAwenVTemk5SWQtMTRPbkpoLTVxaEVrYzBYNDJfX0RrSmVVZVZadlFBVnF0WkJNeGc5czMxVWREeDFtS0dZeGJ2V2tqSVg5VWM5UUFtN1hsMXlPX3g4d1RMbk5BR1oxcVdyYjBIaHg0bFl1SXY1dDMzazVEZlNBOHdCWm8zRno2Vjc1TEJ6ekdnQ25COEVkS3FVNHJmeWEyRVZJd2p3aF80RFlhZmVtREhQbkpIdw?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Reuters",
-      "title": "Trump dismisses AI safety alarm, says US already has tools to police industry",
-      "summary": "Trump dismisses AI safety alarm, says US already has tools to police i…",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUtaZjljMHRad2I0OEcxUUxHTlhNM1laeGo1TlFPb08yVWdWYnRuLWQwMXhzWTc2N3hBdkwyTmtqSmsyaFBMVjZPdnl5eGtKNnJFdzdBaGQ2cThlckVEOHloT2dDODRDTzlMakFqY3NGblFxbUZXMkVXclJ5ZGlmT2ZNYkx3M3A1ZmxsUnI2TElVTExPaTRxQ3o5cDdramw0SS1F?oc=5"
+      "source": "Pew Research Center",
+      "title": "How Americans think about censorship of news in the U.S.",
+      "summary": "How Americans think about censorship of news in the U.S.&nbsp;&nbsp;Pe…",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHpfZW5Qal80OHV3STNHV19MVkpHblJkVWlWVDc5MDB5dlFSMTZvRFNfdElhVTU2eWd4VzdhQ25BYjdjaW1QMjhnT2l6S01RQmxJSXUtalBQSnFSVmZCNXlVQkROTVZFdkdYVlhWY2JKT2hBMkducG9vbEpfU081SF9OLWpzTzN5a2lRdnh4T0puZ2N2d2RjakZvN056ZnJMa3JnTG55MlE?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,19 +73,19 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Automotive Body In White Market Projected to R…",
-      "desc": "Automotive Body In White Market Projected to Reach USD 48.2 Billion, a…",
-      "source": "EIN News",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb0NZZ25QcFNZdFNuTFRKbjFQQlZnNV9sU2lxRC1ZRVdLWS1UMXVzVGoxVmczbjVtWXEyNzduVjR1T2RxNFNFelUtWkRrY1RfQTJzYXEwSTUtY0N5R0FJNmo0UkNiRnc2U3RCU3RselVKVEdVVmdfamh2Y2NLdDJQdk15T2ZkS1NWa2FQZXF1alZVaXRubGZxencxVEZkM0N0eThTY25QXzVvTHNTVW1GV0xBYVNDUE9mYlRWVmVxak9YSHR1QmhMUE0tVXR6emRCdnJFVkFGb1BqVlBtXzVpMg?oc=5"
+      "title": "Passenger EV Repair Service Market Size, Forec…",
+      "desc": "Passenger EV Repair Service Market Size, Forecasts Report 2026-2035&nb…",
+      "source": "Global Market Insights Inc.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHdMZl94RWxaZG5fN0V3dUpRTUFNVVNVT1duSE1vQXZXanFrdEg0clRNb1p6dHZLMEdlSGFEVDJXYV9LeXg5dlB0LXMtOGg2R2pJbkw1SmFJTUY3eWpEZkpPUndYdVIzamZTeTZrTDRUV2lLRlQ1SU0yMnBKczVLMTNkcDlLUQ?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "What’s happening this week in economics?",
-      "desc": "What’s happening this week in economics?&nbsp;&nbsp;Deloitte",
-      "source": "Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5"
+      "title": "Daily: Stock outlook remains constructive",
+      "desc": "Daily: Stock outlook remains constructive&nbsp;&nbsp;UBS",
+      "source": "UBS",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeC1nR3hsOG95eGRsMXQ5Z3lNMjdCOXgwRjU3a0F0U254SXNwNHYwamEtNE1NWDM2Ql9pYWVLWkZfN2xYMktrZm5zcjRnMzNPWWJQLUViN1czeXN2Ym02X3pxaWhfc0FpSHpnSG9KeFpSWjFtbEhOMFZDaGxrS1Uwek4waGxDZkZxM05LTS1tcFVGM1VSdVBWamY0SXN4TktuYXR5bnRDOHRJdjJjSlNQaWZIc2RkMnZNaFZJekpkUQ?oc=5"
     },
     {
       "category": "MANAGEMENT",
