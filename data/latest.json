@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T08:23:21.807657+09:00",
-  "generated_at_display": "2026-09-17 08:23 KST",
+  "generated_at": "2026-09-18T08:14:51.063398+09:00",
+  "generated_at_display": "2026-09-18 08:14 KST",
   "exchange_rate": {
-    "current_rate": 1377.530029296875,
-    "change_pct": 1.02,
+    "current_rate": 1380.3599853515625,
+    "change_pct": 0.27,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1377.53
+      1380.36
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "reuters.com",
-      "title": "US House passes Russia sanctions bill championed by late Senator Graham",
-      "summary": "US House passes Russia sanctions bill championed by late Senator Graha…",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGtKVXRwQXN1c3J1bnpHcXNvRzJEbE9DVEVqV3JOQWttNmNhbHR3ekdVNWhKY1VUSHVuUmZvLXJILXNXRWI1bWhpSnJNV1BqUGhESUl0dGFpUUJDVmtvTmZpeV9ZR3F3bUhJZGFfNllUdENsemJHd0xubFBzUy0yanFES0xxX0FPc1p4UHpNQnh6VU1NSmhwOHp1ZHdka0ItUGlKN0NlcE1Id2J1RjVpcUVZLVZlcFZ6bnd1R0FMVQ?oc=5"
+      "source": "washingtonpost.com",
+      "title": "White House withdraws nominee for ICE director allied with DHS chief Mullin",
+      "summary": "White House withdraws nominee for ICE director allied with DHS chief M…",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb1RqUThVS1BQdDhIT2tmUThwc1VIQ0RiM0pTVFpsTXFBMmZlZHBYV3BUa0VRSEh3Y0Yyc2p6MEhMb1JwNi1XZ1A3NjBndU5jM1ZXTzVvQW5aNWFSUHZKYmRDWHlyTVBvaUJkNHNpX0hDMlg2TnNBVmtHT1VFbE1TekVCYVpDa3A4dnFLekg4dzJmLUQ3MWc?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "washingtonpost.com",
-      "title": "Here’s what a Fed rate hike means for your mortgage, car loan and credit cards",
-      "summary": "Here’s what a Fed rate hike means for your mortgage, car loan and cred…",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0ZGMzFyTlA5aVNBbUljNzB3cS1lUVc4d3o4T3pPdGdqd2xJVGZZMXdvd1JySWVmLUFfVnRFeTdld2xwOGtYNThqUUtvWjFIQ1JCZGtNd1FqWGRQcDdGeEhVNXU0aW54X0FuWXpJdnBvd1ROdDFzQnlrMkpnYmZNS0RMaWVJWENVQVZpRUdHbjVvd1R4djdoeWt3dkxkRzlIRnRySUtWRC1ITkZ0WDBDZlRVVjJRMDBnYVE?oc=5"
+      "source": "cbsnews.com",
+      "title": "What the Fed's interest rate hike reveals about Warsh, Trump and inflation",
+      "summary": "What the Fed's interest rate hike reveals about Warsh, Trump and infla…",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2VV9UQmpBQ3FGMkc5T0hkeEs2SVZvZnQ1RDhicVlpYW9DOExfRC1yNExuMnhpdjdjdmR3UGowekxSYU9mRUdPSlc4YzNUTV9ZNEhucXJiMHlLcVFENjVxU0JQcWNhVC0xR3FwUkNaUVExblk?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "NPR",
-      "title": "EU rolls out red carpet to Canada to become its first 'associate member'",
-      "summary": "EU rolls out red carpet to Canada to become its first 'associate membe…",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGtWOTdPMUxKSmM0UlZPMkhVSDdlT0s5aEpfdmd5ME9qSE1NX1RFRlFoTTFXOHR0eUJvbkZ1Ykg2eG1PVFhIczNZM2JTV2FDTHRRaGkyZk5hSzFXMngzWlZMWWl2dU1iZy1ZQTRhSUdTdXl5Y2MweDlDMzdoWE1FNQ?oc=5"
+      "source": "The Conversation",
+      "title": "Houthi advance boosts Iran’s leverage over the US and Saudi Arabia – but may cost rebel group its legitimacy back in Yemen",
+      "summary": "Houthi advance boosts Iran’s leverage over the US and Saudi Arabia – b…",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUHNtTjUtX0V2dXkwaDlLMXNaSkFSeFRpSGo2TUhEaEFpbWJZNjQ4cF9USmphalZKZUdoMml4ZGNYay1LcmpTb3Q1Y1NsVy02WGdJa3ZjYTktWlpOVGxlT21USlQtOHVNWmszcmduZF95QjF6eVlEaWRIamtGSHFWMWNtejNSZ2ZTel9ZZXdOUTV0emhYOFo5VWJReXFOQ2FGN200Tk9WRUpTaUFSb2dYZ25yN3pTQVVfc2Q5NGZIeVRtOVZLMTZxR0JwV1J0dU1PaVYwdjl0Z214RTlTdmRMdXNXVGd2MXk2dkE?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "The ASCO Post",
-      "title": "American Cancer Society Urges Men to Understand Their Risk for Prostate Cancer",
-      "summary": "American Cancer Society Urges Men to Understand Their Risk for Prostat…",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFM4TTcyRWJQRDZTSFdBc3VZT0pud3ZTU2doTXpTNkpCT3NrV29JbUx5aHllUkdkaFg0bC1meGVrZWJLLVhWVHFqTHUyN253V1JjUFJveXJPNm9iSUt1anBucXFXM3B6NjhNTk95UnU4QlpNd0RSdkhIU2NLYUlMVlVUaUpaVkowbUxDS3RiMDIyUGpLY0lLOGRkUlNqMG1BUU9QSnpLUHJ2OWlGWlpNVG91MTJoMzFIam5tRA?oc=5"
+      "source": "scrippsnews.com",
+      "title": "Americans value press freedom, but new surveys show support for restrictions in certain cases",
+      "summary": "Americans value press freedom, but new surveys show support for restri…",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeEV6UlBiODlOeTZZaThEdU42eGhrV1N4VE5tVVliVUtmUDNwSzRpLWd3eGRDNGVRZ3hmWnVONW9IdUhfZVZTVUtyT3dSZDI1TUZRZm1aaGlYNlRTTG9iN0xZRFlQYm5MQWRuZUNsUWl4b1lvSHVIWkJYTVgtd0NaaTJvR2ZWdWU5WEpiV3Qxc0tyTVljUHpfVi1RTUFTbGxiOWhHdUtKLWc5Ylk3YS1xNGVCQThHLUFYaVVQNFBwMmxnUUZ3RElINWI3dDVvNms?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Hankook Reveals How it Will Become a Top-Five…",
-      "desc": "Hankook Reveals How it Will Become a Top-Five Global Tiremaker&nbsp;&n…",
-      "source": "Tire Review Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44Um1wMkxUT0xfYWxqME9SZi04emhnbTBDUlJpeDVUQ1Z0N1UzN0NPNVJxanczTzBEaVV3cWNteTFIVmRfWXJIbEJsY3dBaXV0amRoR3NCOUFQUVgtTmZQd3Ixd21kLUU?oc=5"
+      "title": "Composite Vibration Damping Pads Market To 203…",
+      "desc": "Composite Vibration Damping Pads Market To 2035: Industrial Automation…",
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYmVmcDhnS0N6UGVRZWNqb0VPckxIZlUwdHJFSFJzNjNrVkpWLURZM3pPTURzVGxKXy1TT2tOc3ZUbXVVS3J4X1RiYnZiRllCbTFhbktZdlpNSVUzOFZVUTRoeFBkUDBkRjBNOE5KVzRybm1yamROeGJLaEw5dFNPaVM5eUtQYzNLcm9zbWZ6ckt5QkJ6TlppeENfU2FBaE5yS01Rb0ZuWVZudkpKalZueXJZRHBUTm4zU3NlRkJITkp6S2x2Y2xOQWJINExCdmhTeWsxdTVCSC0wV0FoZFFrYUhLRFdCQQ?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -91,10 +91,10 @@
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "Against the odds: A red-hot ocean freight mark…",
-      "desc": "Against the odds: A red-hot ocean freight market takes the headlines&n…",
-      "source": "scangl.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3AxVDNRUzgzT010VXhDX1lZWnRqZERta3ZrU2Y0YlB5RlNZYlUxb1dxbmxMMFNmSWxWNGlkZVVtYWJ6MHNxZC1fSnBVZnI3MmxXSndDYnk4OW9zcTRDWTAyaE5qZHRSN3gwSkE2Y1FyeTQ0dmFKa19qaGpiMkFZTm02dXRZRTFxMVVoRTFMMVl0RWlGYXRULUNEbWE?oc=5"
+      "title": "The World Rewired",
+      "desc": "The World Rewired&nbsp;&nbsp;Citigroup",
+      "source": "Citigroup",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pR1k3cmd1SmVvbWRWcE1aZFdfeW1BbGxxdUFtUVUxZ2Jna2lTMjdLNTNoUm43Uk96NUM5dThqeURLMzhmVmRQNXhxODQ3R2VTaFlrdGl6WmdlZXJFODY2bE1QSS1Pc0M0YWlv?oc=5"
     }
   ],
   "country_profile": {
