@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-18T08:14:51.063398+09:00",
-  "generated_at_display": "2026-09-18 08:14 KST",
+  "generated_at": "2026-09-19T07:54:44.328475+09:00",
+  "generated_at_display": "2026-09-19 07:54 KST",
   "exchange_rate": {
-    "current_rate": 1380.3599853515625,
-    "change_pct": 0.27,
+    "current_rate": 1385.949951171875,
+    "change_pct": 0.68,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1380.36
+      1385.95
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "washingtonpost.com",
-      "title": "White House withdraws nominee for ICE director allied with DHS chief Mullin",
-      "summary": "White House withdraws nominee for ICE director allied with DHS chief M…",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb1RqUThVS1BQdDhIT2tmUThwc1VIQ0RiM0pTVFpsTXFBMmZlZHBYV3BUa0VRSEh3Y0Yyc2p6MEhMb1JwNi1XZ1A3NjBndU5jM1ZXTzVvQW5aNWFSUHZKYmRDWHlyTVBvaUJkNHNpX0hDMlg2TnNBVmtHT1VFbE1TekVCYVpDa3A4dnFLekg4dzJmLUQ3MWc?oc=5"
+      "source": "Al Jazeera",
+      "title": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
+      "summary": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’&…",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVkkxUTRoek1LSEdkVEFfU3BQQ1dIV3pUb0JGOGpVYjJ0ZWJxa2x1OTVIdC1yQm40S2gxN3Z5eTZDVl9WM1Z3eXI0R2NQV2xSVmxoWl9lbktZcURmS0RFVTVlaWxCZVp3WnRwZ2FxeE90cGdNZ0J5eHpGSm82dTBkdi15TlUtOHpLS0pWbURuM2xfTE5wLWdQR2UyNHc3QVJ4cXZhejlNWTbSAa4BQVVfeXFMUGRIeDBYODBtSmV2WkxLRFNGME8tUXo2ams0c052eFJxUm9NMW1jdUFIb2MxanhEWTZrT2tieDQ5YVlFTjAzdUdHZTRXQkpPNVdVdnhiaXNXck5wU0pqRFJWNzFzNTdiMXRMMWpneDVmUGRZOE9MNk1jbVBxZl9BQkdRZHF0TTNVaC1aWnpYU2J5Q0RDLVVZZnhka25tblRjR3B2ZE50MU1mMGloU0hB?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "cbsnews.com",
-      "title": "What the Fed's interest rate hike reveals about Warsh, Trump and inflation",
-      "summary": "What the Fed's interest rate hike reveals about Warsh, Trump and infla…",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2VV9UQmpBQ3FGMkc5T0hkeEs2SVZvZnQ1RDhicVlpYW9DOExfRC1yNExuMnhpdjdjdmR3UGowekxSYU9mRUdPSlc4YzNUTV9ZNEhucXJiMHlLcVFENjVxU0JQcWNhVC0xR3FwUkNaUVExblk?oc=5"
+      "source": "BBC",
+      "title": "Warren Buffett steps down as Berkshire chairman after six decades",
+      "summary": "Warren Buffett steps down as Berkshire chairman after six decades&nbsp…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLUGFWeHM1QUM3R1F4Ymo4a0d4QXhRVk4wQ3g0ajI3Y2d1cWEta3ZJZVBNOU1PcGlpVnNXNkJiTnUtbDZHYnRmT0Flb3kza1Z3ak5LUjhoSklXYWc?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "The Conversation",
-      "title": "Houthi advance boosts Iran’s leverage over the US and Saudi Arabia – but may cost rebel group its legitimacy back in Yemen",
-      "summary": "Houthi advance boosts Iran’s leverage over the US and Saudi Arabia – b…",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUHNtTjUtX0V2dXkwaDlLMXNaSkFSeFRpSGo2TUhEaEFpbWJZNjQ4cF9USmphalZKZUdoMml4ZGNYay1LcmpTb3Q1Y1NsVy02WGdJa3ZjYTktWlpOVGxlT21USlQtOHVNWmszcmduZF95QjF6eVlEaWRIamtGSHFWMWNtejNSZ2ZTel9ZZXdOUTV0emhYOFo5VWJReXFOQ2FGN200Tk9WRUpTaUFSb2dYZ25yN3pTQVVfc2Q5NGZIeVRtOVZLMTZxR0JwV1J0dU1PaVYwdjl0Z214RTlTdmRMdXNXVGd2MXk2dkE?oc=5"
+      "source": "politico.eu",
+      "title": "‘There are no decent parties left’: Sham elections underscore Putin’s grip on Russia",
+      "summary": "‘There are no decent parties left’: Sham elections underscore Putin’s…",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTluRmdiblV6d3JhQ0RqZVV5dmdPRUpBaWJDN0V2eGFYVG1qelNRWXdsQnROWkJJVEozY2xQdUFuUTk4NVJSUFQwclhBOUxEbGtsYjNVUlJ3MzlBZHFnTUdvczYwMGpQNEZ3Y0RNQlBGY3RYM2RwSG5PREZUY0FKMm9aTjJLQmJ6dXFHS0hOU0FQX0l4ZHBObGpxZnJJRnlYYXl4RXA1bFRCSkFoU1VNbThPTQ?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "scrippsnews.com",
-      "title": "Americans value press freedom, but new surveys show support for restrictions in certain cases",
-      "summary": "Americans value press freedom, but new surveys show support for restri…",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeEV6UlBiODlOeTZZaThEdU42eGhrV1N4VE5tVVliVUtmUDNwSzRpLWd3eGRDNGVRZ3hmWnVONW9IdUhfZVZTVUtyT3dSZDI1TUZRZm1aaGlYNlRTTG9iN0xZRFlQYm5MQWRuZUNsUWl4b1lvSHVIWkJYTVgtd0NaaTJvR2ZWdWU5WEpiV3Qxc0tyTVljUHpfVi1RTUFTbGxiOWhHdUtKLWc5Ylk3YS1xNGVCQThHLUFYaVVQNFBwMmxnUUZ3RElINWI3dDVvNms?oc=5"
+      "source": "The Guardian",
+      "title": "Trump bans CNN, MS Now and Politico from the White House",
+      "summary": "Trump bans CNN, MS Now and Politico from the White House&nbsp;&nbsp;Th…",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkc4Nkw3anpneWFwczRHSzdhT1RzU1MtQkdXbzV3N1dLTXBLeVo5OHdUcHV3N1Z5bjhTaG05bjA1bmUwNFdUM1NKWTlzNWlaTHZCWnQxVk5RUFV3RHpYQjNUcFF6OUFUcENxOEZSRGx4XzNiTmRpSElmeFpHM3RBVldzZ1dPbWQxYTJJVTBzNFh2MGM?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,19 +73,19 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Composite Vibration Damping Pads Market To 203…",
-      "desc": "Composite Vibration Damping Pads Market To 2035: Industrial Automation…",
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYmVmcDhnS0N6UGVRZWNqb0VPckxIZlUwdHJFSFJzNjNrVkpWLURZM3pPTURzVGxKXy1TT2tOc3ZUbXVVS3J4X1RiYnZiRllCbTFhbktZdlpNSVUzOFZVUTRoeFBkUDBkRjBNOE5KVzRybm1yamROeGJLaEw5dFNPaVM5eUtQYzNLcm9zbWZ6ckt5QkJ6TlppeENfU2FBaE5yS01Rb0ZuWVZudkpKalZueXJZRHBUTm4zU3NlRkJITkp6S2x2Y2xOQWJINExCdmhTeWsxdTVCSC0wV0FoZFFrYUhLRFdCQQ?oc=5"
+      "title": "Passenger EV Repair Service Market Size, Forec…",
+      "desc": "Passenger EV Repair Service Market Size, Forecasts Report 2026-2035&nb…",
+      "source": "Global Market Insights Inc.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHdMZl94RWxaZG5fN0V3dUpRTUFNVVNVT1duSE1vQXZXanFrdEg0clRNb1p6dHZLMEdlSGFEVDJXYV9LeXg5dlB0LXMtOGg2R2pJbkw1SmFJTUY3eWpEZkpPUndYdVIzamZTeTZrTDRUV2lLRlQ1SU0yMnBKczVLMTNkcDlLUQ?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "What’s happening this week in economics?",
-      "desc": "What’s happening this week in economics?&nbsp;&nbsp;Deloitte",
-      "source": "Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5"
+      "title": "Week Ahead for FX, Bonds: U.S. PMI Data, Vario…",
+      "desc": "Week Ahead for FX, Bonds: U.S. PMI Data, Various Central Bank Decision…",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzF2UTYtcUUzdHlqa1huTTUtSG1FY3ZxTk5fdjIyak9xUXlPZFdkcFdpaTRrdGxTRFJwbUpzbDl0XzZ5OTI2UklRTXUxSWp6RkMxMlk4bGQwTWR2ZUszTDhnNHJaREg5LThDMXBvWnZiXzd0UDMwTndOWWhfOVRlWVZjWUtiNGY1SnVhZ0RCOGROZldBTzZFN3c0VHp2WlFhMFpqb3VOWDF3VTJpQmswREJMMA?oc=5"
     },
     {
       "category": "MANAGEMENT",
