@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-19T07:54:44.328475+09:00",
-  "generated_at_display": "2026-09-19 07:54 KST",
+  "generated_at": "2026-09-20T07:34:09.320010+09:00",
+  "generated_at_display": "2026-09-20 07:34 KST",
   "exchange_rate": {
-    "current_rate": 1385.949951171875,
-    "change_pct": 0.68,
+    "current_rate": 1385.0,
+    "change_pct": 0.4,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1385.95
+      1385.0
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "Al Jazeera",
-      "title": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
-      "summary": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’&…",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVkkxUTRoek1LSEdkVEFfU3BQQ1dIV3pUb0JGOGpVYjJ0ZWJxa2x1OTVIdC1yQm40S2gxN3Z5eTZDVl9WM1Z3eXI0R2NQV2xSVmxoWl9lbktZcURmS0RFVTVlaWxCZVp3WnRwZ2FxeE90cGdNZ0J5eHpGSm82dTBkdi15TlUtOHpLS0pWbURuM2xfTE5wLWdQR2UyNHc3QVJ4cXZhejlNWTbSAa4BQVVfeXFMUGRIeDBYODBtSmV2WkxLRFNGME8tUXo2ams0c052eFJxUm9NMW1jdUFIb2MxanhEWTZrT2tieDQ5YVlFTjAzdUdHZTRXQkpPNVdVdnhiaXNXck5wU0pqRFJWNzFzNTdiMXRMMWpneDVmUGRZOE9MNk1jbVBxZl9BQkdRZHF0TTNVaC1aWnpYU2J5Q0RDLVVZZnhka25tblRjR3B2ZE50MU1mMGloU0hB?oc=5"
+      "source": "The Washington Post",
+      "title": "CNN, MS NOW, Politico say journalists blocked from White House after Trump announces ban",
+      "summary": "CNN, MS NOW, Politico say journalists blocked from White House after T…",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGJkU1ctMlBmRjBIWUlJQkpUVUFXVjdqUHM4MGQ0b29iZXF6SHh0eTdWWGx1TXdrSGhhNi03NU1IU3VNcXJTdW5BX0N0dUhMd3lRTFdmaTE2VUs4OUJDRFhuNkJfVW5RUWQzUHB2MlpXVUVDaGpXMG04TE1aVEY3OVVsRFNIcVFLMHpZRHIzTjVSNnBTeF9FVmxWZmpHMHIxTU4zenRyQm9xSE9ZV0F1WC00STI4NUkwY0ZEeWdn?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "BBC",
-      "title": "Warren Buffett steps down as Berkshire chairman after six decades",
-      "summary": "Warren Buffett steps down as Berkshire chairman after six decades&nbsp…",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLUGFWeHM1QUM3R1F4Ymo4a0d4QXhRVk4wQ3g0ajI3Y2d1cWEta3ZJZVBNOU1PcGlpVnNXNkJiTnUtbDZHYnRmT0Flb3kza1Z3ak5LUjhoSklXYWc?oc=5"
+      "source": "TechCrunch",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary": "Google’s Gemini is the latest AI model to hack other companies&nbsp;&n…",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYm5KUVJReVdUcmltT2F0ZlVGRU42WnltWFZWTzBxVUJFZ0RmNWs0QzNZdEtmcDRyVjB0Z3VsUE55ZUhFSG83T0IzMjlJMEtxWXRqMU1UOGxsRW9zdEhwempLQUMxVTJCYk5UMTBHV2xNSnZHX0JiMXRvRjFCVURyUGZEcExpaXhKNFIydFNqbllYTW1URUY3NlVHbWM?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "politico.eu",
-      "title": "‘There are no decent parties left’: Sham elections underscore Putin’s grip on Russia",
-      "summary": "‘There are no decent parties left’: Sham elections underscore Putin’s…",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTluRmdiblV6d3JhQ0RqZVV5dmdPRUpBaWJDN0V2eGFYVG1qelNRWXdsQnROWkJJVEozY2xQdUFuUTk4NVJSUFQwclhBOUxEbGtsYjNVUlJ3MzlBZHFnTUdvczYwMGpQNEZ3Y0RNQlBGY3RYM2RwSG5PREZUY0FKMm9aTjJLQmJ6dXFHS0hOU0FQX0l4ZHBObGpxZnJJRnlYYXl4RXA1bFRCSkFoU1VNbThPTQ?oc=5"
+      "source": "AP News",
+      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
+      "summary": "Russia holds parliamentary vote in areas it seized from Ukraine in the…",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMm5OcEJPRTNTNExGNHF4djlyWlNHNUhpWXEzNnIyUTl5M2NXeWZXYUl4YXRfaEtIWDRGYUdXMHNIYldhYUlhZzJjZjRHbWZ3em5VeGNyWkxVc2xGUnJwQlpJOFktVUtiXzY3Q0F4UTNwaEFja1RfSnc1ZENweWM2VExlNlNlQ2xYWEF2T2hDRFdYSVRQR00zVTRxMDVmcUIyZEE4ay10VW5URzNjUkE?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "The Guardian",
-      "title": "Trump bans CNN, MS Now and Politico from the White House",
-      "summary": "Trump bans CNN, MS Now and Politico from the White House&nbsp;&nbsp;Th…",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkc4Nkw3anpneWFwczRHSzdhT1RzU1MtQkdXbzV3N1dLTXBLeVo5OHdUcHV3N1Z5bjhTaG05bjA1bmUwNFdUM1NKWTlzNWlaTHZCWnQxVk5RUFV3RHpYQjNUcFF6OUFUcENxOEZSRGx4XzNiTmRpSElmeFpHM3RBVldzZ1dPbWQxYTJJVTBzNFh2MGM?oc=5"
+      "source": "Financial Times",
+      "title": "Donald Trump bans major US news outlets from White House",
+      "summary": "Donald Trump bans major US news outlets from White House&nbsp;&nbsp;Fi…",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkVWeWhfYzJoM1ZNcm9XMjVKTVhHQnAzNENSWlEzUjdHS2hDR295Tmo5b0JQbXpnT0ExNUw2bGs1d25QZmx2Ty00Rjg4YWtocnJuNnF3bEthQjJ3cXFfemFuZXZVQl9sNjhhOFJUYUhyRENMcUZrZ3ZyWm1CSkdIUG9QNFI?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,38 +73,38 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Passenger EV Repair Service Market Size, Forec…",
-      "desc": "Passenger EV Repair Service Market Size, Forecasts Report 2026-2035&nb…",
-      "source": "Global Market Insights Inc.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHdMZl94RWxaZG5fN0V3dUpRTUFNVVNVT1duSE1vQXZXanFrdEg0clRNb1p6dHZLMEdlSGFEVDJXYV9LeXg5dlB0LXMtOGg2R2pJbkw1SmFJTUY3eWpEZkpPUndYdVIzamZTeTZrTDRUV2lLRlQ1SU0yMnBKczVLMTNkcDlLUQ?oc=5"
+      "title": "How Investors Are Reacting To Pirelli (BIT:PIR…",
+      "desc": "How Investors Are Reacting To Pirelli (BIT:PIRC) Limited Edition Speed…",
+      "source": "simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObmVGNUVReFhqWVF6R1dENjA2NzdUZmhyVFAtWUpOdG83RW5VQnU2Yi1reFZ5eWJ4ZktzajhRLWxpMHI4ZXV6QVhoNUljcmxQTVdoNlFmV3RFQ0lVUjAzMTlSdUJrRzgwMGgzV2xydEt1Q0tjaS16WVlLOHhoWGkxbkdVRHp2WkR5VXFOMEtGNDlJbmpYOVdvTXpCOFVpUXZsZVI0QjRlWmh6ZWsySjV5c281bGhLTklvTXFpX1o2TzBGZmpINUxPVlQ5Vlh1NVNz0gHWAUFVX3lxTE83cEF2NDNuc25lNzczRUUtNnhRZmNsWDlxdWFQdnk3RkFab0lkNEh0RTd4SmJIXzFaZ1U1bTd0cTFxMmtLbVptUFphS2FGZlZXZmF4OHQ4YUVoNzdzU2F2LUcyY0xtNmFodEpQcS1NS1Z1Z1hyQ0hQUUpnUkVXSm1fdkRHQWJ3Y2pLNmRoQzZUaXZmQnhaUHd5Z0FzVzdsZFczMDR1QnVCaG93YnNCdkphOENQdWN2eTExbW1HMmxQaWhsUlhrT3J4Sm96Wko4R3NOdEgyNXc?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "Week Ahead for FX, Bonds: U.S. PMI Data, Vario…",
-      "desc": "Week Ahead for FX, Bonds: U.S. PMI Data, Various Central Bank Decision…",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzF2UTYtcUUzdHlqa1huTTUtSG1FY3ZxTk5fdjIyak9xUXlPZFdkcFdpaTRrdGxTRFJwbUpzbDl0XzZ5OTI2UklRTXUxSWp6RkMxMlk4bGQwTWR2ZUszTDhnNHJaREg5LThDMXBvWnZiXzd0UDMwTndOWWhfOVRlWVZjWUtiNGY1SnVhZ0RCOGROZldBTzZFN3c0VHp2WlFhMFpqb3VOWDF3VTJpQmswREJMMA?oc=5"
+      "title": "What’s happening this week in economics?",
+      "desc": "What’s happening this week in economics?&nbsp;&nbsp;Deloitte",
+      "source": "Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5"
     },
     {
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "The World Rewired",
-      "desc": "The World Rewired&nbsp;&nbsp;Citigroup",
-      "source": "Citigroup",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pR1k3cmd1SmVvbWRWcE1aZFdfeW1BbGxxdUFtUVUxZ2Jna2lTMjdLNTNoUm43Uk96NUM5dThqeURLMzhmVmRQNXhxODQ3R2VTaFlrdGl6WmdlZXJFODY2bE1QSS1Pc0M0YWlv?oc=5"
+      "title": "A Guide to Trump’s Section 232 Tariffs, in Map…",
+      "desc": "A Guide to Trump’s Section 232 Tariffs, in Maps&nbsp;&nbsp;Council on…",
+      "source": "Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwMWQtRkNnYlhHOGZVQ3BmSzI2VmJJYWd2V3NqZUx1MmdYOUtWdXJCQmN3ZmlkUWlTamxzYjFPQjJ4SWJoZXJMNmhpUlJEUmJuNVE1czlhX2lYcGw0U2tuY3RXYkdZTWVDR3dRN0tZb28zZk5jblZmMWltMA?oc=5"
     }
   ],
   "country_profile": {
     "capital": "Washington, D.C.",
     "population": "약 3.42억 명",
     "gdp": "약 30.8조 USD",
-    "inflation": "3.4%",
-    "unemployment": "4.1%",
-    "stats_source": "BLS",
-    "stats_asof": "2026-08",
+    "inflation": "2.9%",
+    "unemployment": "4.2%",
+    "stats_source": "World Bank",
+    "stats_asof": "2024",
     "min_wage_federal": "$7.25 / h (연방, 2009-07-24 발효)",
     "min_wage_tn": "주 별도 기준 없음 → 연방 기준 $7.25/h 적용"
   }
