@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-20T07:34:09.320010+09:00",
-  "generated_at_display": "2026-09-20 07:34 KST",
+  "generated_at": "2026-09-21T07:47:41.627959+09:00",
+  "generated_at_display": "2026-09-21 07:47 KST",
   "exchange_rate": {
-    "current_rate": 1385.0,
-    "change_pct": 0.4,
+    "current_rate": 1385.3199462890625,
+    "change_pct": 0.42,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1385.0
+      1385.32
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The Washington Post",
-      "title": "CNN, MS NOW, Politico say journalists blocked from White House after Trump announces ban",
-      "summary": "CNN, MS NOW, Politico say journalists blocked from White House after T…",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGJkU1ctMlBmRjBIWUlJQkpUVUFXVjdqUHM4MGQ0b29iZXF6SHh0eTdWWGx1TXdrSGhhNi03NU1IU3VNcXJTdW5BX0N0dUhMd3lRTFdmaTE2VUs4OUJDRFhuNkJfVW5RUWQzUHB2MlpXVUVDaGpXMG04TE1aVEY3OVVsRFNIcVFLMHpZRHIzTjVSNnBTeF9FVmxWZmpHMHIxTU4zenRyQm9xSE9ZV0F1WC00STI4NUkwY0ZEeWdn?oc=5"
+      "source": "AP News",
+      "title": "ICE agent shoots and wounds man in Austin, Texas, officials say",
+      "summary": "ICE agent shoots and wounds man in Austin, Texas, officials say&nbsp;&…",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "TechCrunch",
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "summary": "Google’s Gemini is the latest AI model to hack other companies&nbsp;&n…",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYm5KUVJReVdUcmltT2F0ZlVGRU42WnltWFZWTzBxVUJFZ0RmNWs0QzNZdEtmcDRyVjB0Z3VsUE55ZUhFSG83T0IzMjlJMEtxWXRqMU1UOGxsRW9zdEhwempLQUMxVTJCYk5UMTBHV2xNSnZHX0JiMXRvRjFCVURyUGZEcExpaXhKNFIydFNqbllYTW1URUY3NlVHbWM?oc=5"
+      "source": "USA Today",
+      "title": "Too old to hire? These Americans lost their jobs at 60",
+      "summary": "Too old to hire? These Americans lost their jobs at 60&nbsp;&nbsp;USA…",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRG54Rl9hSm1EMEVOR2R2QVFMcGYxQy1FU2FkWnROdnZ4MzZUWnRROGJFdWZicWh2amJDNjc1Y3BLN05FZlRrTm44ZzFHazNiUHZXN0JxWlNaMkJGUmFKZjdkOUhnUXlvbTlrNGVKQVZUWEluWnlCdWMtMERWQ01icm5LMGpzNEU1V1VwbEwtTEloRU1sc3JNU2o3dVluTjlveHJONWI5NTgzR29xU0NEZjVGSTJJRzI3T25ZQXlTNVpUZ2Zl?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "AP News",
-      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
-      "summary": "Russia holds parliamentary vote in areas it seized from Ukraine in the…",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMm5OcEJPRTNTNExGNHF4djlyWlNHNUhpWXEzNnIyUTl5M2NXeWZXYUl4YXRfaEtIWDRGYUdXMHNIYldhYUlhZzJjZjRHbWZ3em5VeGNyWkxVc2xGUnJwQlpJOFktVUtiXzY3Q0F4UTNwaEFja1RfSnc1ZENweWM2VExlNlNlQ2xYWEF2T2hDRFdYSVRQR00zVTRxMDVmcUIyZEE4ay10VW5URzNjUkE?oc=5"
+      "source": "NPR",
+      "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+      "summary": "Germany's Merz vows to press ahead with reforms after historic state e…",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHM2SHJYY3c5bHlPOFBZMkJmbnE0cElOX0Y3eExZaTg4czlKTFdsZHVQQlZKYVlFenVyZmlERXFjUUVSajVEbmV6N1hjZ1NkVElvb2lhVnNfdjhURWhHYTJ4YjA1RVRMNXFEbWNDODFzZFJ4bG9uOE50YXpGVmJkY0w1SGR4MThXcEFUaEV4a042VldSNEVXS2o4ZmFqNFRCeS15OWkzZ0pUcGlkSk85cnlZR2lXTy1yVG5LLXZOenRvRnpS?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Financial Times",
-      "title": "Donald Trump bans major US news outlets from White House",
-      "summary": "Donald Trump bans major US news outlets from White House&nbsp;&nbsp;Fi…",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkVWeWhfYzJoM1ZNcm9XMjVKTVhHQnAzNENSWlEzUjdHS2hDR295Tmo5b0JQbXpnT0ExNUw2bGs1d25QZmx2Ty00Rjg4YWtocnJuNnF3bEthQjJ3cXFfemFuZXZVQl9sNjhhOFJUYUhyRENMcUZrZ3ZyWm1CSkdIUG9QNFI?oc=5"
+      "source": "OSV News",
+      "title": "Baltimore archbishop urges women religious to model renewal of American political culture",
+      "summary": "Baltimore archbishop urges women religious to model renewal of America…",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHhBY2pwaWZMSGJidDhXU0VZU09RbTd0WlY5SnpncWJUNmVTZnkzZ2tVSWozcDdsZEtFQThpT1dEV0p2bXdzQmRXeFNCWUloVXREcjA4em9YaWY3anlIUjJwVzR5TUUzWjRITF9iQ0NCUHlPVW95cXRUZkh5SUUtbWdTX3F2VXU2eUZtbnpzVkdndzBHX2c4R05LaHh1dWdVc2NWLXJPSzk5RVhRbzdGQVVPN20?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "How Investors Are Reacting To Pirelli (BIT:PIR…",
-      "desc": "How Investors Are Reacting To Pirelli (BIT:PIRC) Limited Edition Speed…",
-      "source": "simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObmVGNUVReFhqWVF6R1dENjA2NzdUZmhyVFAtWUpOdG83RW5VQnU2Yi1reFZ5eWJ4ZktzajhRLWxpMHI4ZXV6QVhoNUljcmxQTVdoNlFmV3RFQ0lVUjAzMTlSdUJrRzgwMGgzV2xydEt1Q0tjaS16WVlLOHhoWGkxbkdVRHp2WkR5VXFOMEtGNDlJbmpYOVdvTXpCOFVpUXZsZVI0QjRlWmh6ZWsySjV5c281bGhLTklvTXFpX1o2TzBGZmpINUxPVlQ5Vlh1NVNz0gHWAUFVX3lxTE83cEF2NDNuc25lNzczRUUtNnhRZmNsWDlxdWFQdnk3RkFab0lkNEh0RTd4SmJIXzFaZ1U1bTd0cTFxMmtLbVptUFphS2FGZlZXZmF4OHQ4YUVoNzdzU2F2LUcyY0xtNmFodEpQcS1NS1Z1Z1hyQ0hQUUpnUkVXSm1fdkRHQWJ3Y2pLNmRoQzZUaXZmQnhaUHd5Z0FzVzdsZFczMDR1QnVCaG93YnNCdkphOENQdWN2eTExbW1HMmxQaWhsUlhrT3J4Sm96Wko4R3NOdEgyNXc?oc=5"
+      "title": "russia Car Care Products Market Size, Share,Tr…",
+      "desc": "russia Car Care Products Market Size, Share,Trends, Growth Analysis Re…",
+      "source": "MarketsandMarkets",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT2RlVmVnaW9mX29hTUFPa0M1aHRibVZSaU5CUWtsa2lSX1JHWkVlTGxGZlRMcHJWOVhRdW9JZ1gxOG53eVBDMVJ3VlVhSWhuWHVDb2FPeWF2eGNtMU9rREg2S3NRa29obEg0TVRqekZSUnU1SDJFWkdnLXJLaEppOThGalRNeFdwR2NPY0tNRkQwX28?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -101,10 +101,10 @@
     "capital": "Washington, D.C.",
     "population": "약 3.42억 명",
     "gdp": "약 30.8조 USD",
-    "inflation": "2.9%",
-    "unemployment": "4.2%",
-    "stats_source": "World Bank",
-    "stats_asof": "2024",
+    "inflation": "3.4%",
+    "unemployment": "4.1%",
+    "stats_source": "BLS",
+    "stats_asof": "2026-08",
     "min_wage_federal": "$7.25 / h (연방, 2009-07-24 발효)",
     "min_wage_tn": "주 별도 기준 없음 → 연방 기준 $7.25/h 적용"
   }
