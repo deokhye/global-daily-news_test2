@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-21T07:47:41.627959+09:00",
-  "generated_at_display": "2026-09-21 07:47 KST",
+  "generated_at": "2026-09-22T08:43:41.425286+09:00",
+  "generated_at_display": "2026-09-22 08:43 KST",
   "exchange_rate": {
-    "current_rate": 1385.3199462890625,
-    "change_pct": 0.42,
+    "current_rate": 1374.25,
+    "change_pct": -0.77,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1385.32
+      1374.25
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "AP News",
-      "title": "ICE agent shoots and wounds man in Austin, Texas, officials say",
-      "summary": "ICE agent shoots and wounds man in Austin, Texas, officials say&nbsp;&…",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw?oc=5"
+      "source": "NBC News",
+      "title": "Venezuelan man shot by ICE in Texas says he’s in pain and still has bullet in his back",
+      "summary": "Venezuelan man shot by ICE in Texas says he’s in pain and still has bu…",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0RaakFtZmdIbmF5QndEcmFsd3hKSkthUUtVcHM0LWJLbUNvVEkzWWNteE91UVNESFBSTEpFa2dFQU5hSlNmc0Z5Rm9Va2dYSWNVaFEzZE5pc0w3eEFpSVpmaGIxVk0zeDJkeFlxZ2h6N3BzZElFeEd1RWphbWhDZzNCZ2c0RkNHYkRJdkdNX1FtT1dfcnNoeGN5dnpRMFhfMm9rSkdaUzM0U1k?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "USA Today",
-      "title": "Too old to hire? These Americans lost their jobs at 60",
-      "summary": "Too old to hire? These Americans lost their jobs at 60&nbsp;&nbsp;USA…",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRG54Rl9hSm1EMEVOR2R2QVFMcGYxQy1FU2FkWnROdnZ4MzZUWnRROGJFdWZicWh2amJDNjc1Y3BLN05FZlRrTm44ZzFHazNiUHZXN0JxWlNaMkJGUmFKZjdkOUhnUXlvbTlrNGVKQVZUWEluWnlCdWMtMERWQ01icm5LMGpzNEU1V1VwbEwtTEloRU1sc3JNU2o3dVluTjlveHJONWI5NTgzR29xU0NEZjVGSTJJRzI3T25ZQXlTNVpUZ2Zl?oc=5"
+      "source": "BBC",
+      "title": "Flights at major US airports delayed after cable cut by construction workers",
+      "summary": "Flights at major US airports delayed after cable cut by construction w…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXQTlqTDJXMHgxTHhrTjFZc2owZ2JRUU9HMjNrMTMyMTJWUVh1Ym12RDRNZmJrVmJfN0YyaXNHcXFySTQ0YVY4YkZQLUNSUFN5UUh6djBpeGd4a28?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "NPR",
-      "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
-      "summary": "Germany's Merz vows to press ahead with reforms after historic state e…",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHM2SHJYY3c5bHlPOFBZMkJmbnE0cElOX0Y3eExZaTg4czlKTFdsZHVQQlZKYVlFenVyZmlERXFjUUVSajVEbmV6N1hjZ1NkVElvb2lhVnNfdjhURWhHYTJ4YjA1RVRMNXFEbWNDODFzZFJ4bG9uOE50YXpGVmJkY0w1SGR4MThXcEFUaEV4a042VldSNEVXS2o4ZmFqNFRCeS15OWkzZ0pUcGlkSk85cnlZR2lXTy1yVG5LLXZOenRvRnpS?oc=5"
+      "source": "The Hill",
+      "title": "Live updates: Donald Trump heads to UN General Assembly; Outlets sue over White House ban",
+      "summary": "Live updates: Donald Trump heads to UN General Assembly; Outlets sue o…",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSDVwbGk2VkVLRjJydUlRalM5cENGS0lDRUx6ZTZLOURTblJhRXp0QXhIWE81bG00Wi02ZkZjVEhObGhQbHE5djNNSnc0OFBLd1g4dFVMcExiNW1kczJvQ0tqTy1od0xscEFveWNReUZuNE1kSnpoM1V2UlZpdHVKUnVFV29Ya3NEOTBHTGdibTU3eXdWVVB6RzlqNER6STBnSmlMWktNUjI1b0pXUThz0gG0AUFVX3lxTE5UbkNyRTluakd3Z2ZaU0ZvNlUydnF5TkJpejctd21fUG1KMTJOeFZqZURLZ0FSX2ZaVWR6NGd0VHdfdDJ2ZjBzQTZfcHFhalRBSUlVanlTSlMyRFJqRjhJYk1oWHdEN1E4VnpTSV9wR3pvVHpOc3V6a3pNOWxCaDN3UmdCcmV0N29UeGR4REVURTI3VmtaNHhycTZ3SzBaODU4RTRSMFB2LS1LV1hDNjNFY2FZcA?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "OSV News",
-      "title": "Baltimore archbishop urges women religious to model renewal of American political culture",
-      "summary": "Baltimore archbishop urges women religious to model renewal of America…",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHhBY2pwaWZMSGJidDhXU0VZU09RbTd0WlY5SnpncWJUNmVTZnkzZ2tVSWozcDdsZEtFQThpT1dEV0p2bXdzQmRXeFNCWUloVXREcjA4em9YaWY3anlIUjJwVzR5TUUzWjRITF9iQ0NCUHlPVW95cXRUZkh5SUUtbWdTX3F2VXU2eUZtbnpzVkdndzBHX2c4R05LaHh1dWdVc2NWLXJPSzk5RVhRbzdGQVVPN20?oc=5"
+      "source": "U.S. News & World Report",
+      "title": "Trump Administration Sued Over Withheld Federal Grants for US Community Lenders",
+      "summary": "Trump Administration Sued Over Withheld Federal Grants for US Communit…",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWtPS2l6a280aWNIeHJtN1BvWW1ORTRRZzUtZ2tCOHhWX1JKT0tCdHpva3p3SFV1T2VfMDRPVkdkWUtscFlpTlprT2RKWUV6V2FKVi1Ya0NyQWJHMFdNZ2xJWDdSYWF2RzQ2ZDcyMjNEZzdZQ01weGNYWkFTbWdLQTJlSTA0ZVhIQ1VxcW1OajJIS3dsbXBld0k1Y3o1NjlYbC1rQ3dDemphT1NXeWVtT1RoSG9Kd3liaW1RZmZOcDdZVU1VQUxDZFFxeXBpMGkxUUE?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,19 +73,19 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "russia Car Care Products Market Size, Share,Tr…",
-      "desc": "russia Car Care Products Market Size, Share,Trends, Growth Analysis Re…",
-      "source": "MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT2RlVmVnaW9mX29hTUFPa0M1aHRibVZSaU5CUWtsa2lSX1JHWkVlTGxGZlRMcHJWOVhRdW9JZ1gxOG53eVBDMVJ3VlVhSWhuWHVDb2FPeWF2eGNtMU9rREg2S3NRa29obEg0TVRqekZSUnU1SDJFWkdnLXJLaEppOThGalRNeFdwR2NPY0tNRkQwX28?oc=5"
+      "title": "US Automotive Industry Market Size, Share & Gr…",
+      "desc": "US Automotive Industry Market Size, Share & Growth Report 2035 | MRFR&…",
+      "source": "Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXRJN1A5S016eVdPR3dUdFlZX3NEU3o1M1Rpd053VkRsY1hJRnd1b09QQk5Kblk4Mm1wVDlIdjAzUWQxSlZrRlhjNHBSVDNxa1R4b3dLTE1aSGpJdUwzem5fSENHM0YxeHl0ZGkzS3R5Sl9qMm5hZzhJakJwODZSQnhIcXFtS00?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "What’s happening this week in economics?",
-      "desc": "What’s happening this week in economics?&nbsp;&nbsp;Deloitte",
-      "source": "Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5"
+      "title": "US Leading Indicators",
+      "desc": "US Leading Indicators&nbsp;&nbsp;The Conference Board",
+      "source": "The Conference Board",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LTF9nRUZOSWJ6Y2V3UW1Gd3BiQ0FnUWFmRWYzR25BdHVFbUNfMzVPQlpDbUFDZ29mQy0zTzdPUHBHdGdyQ3VGY0VxWmhCdGRHN1dwVWpQNVd4Zkw5OFZ1TmMwRzB3N09hTlI5WmZWVQ?oc=5"
     },
     {
       "category": "MANAGEMENT",
