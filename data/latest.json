@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-23T08:22:24.563710+09:00",
-  "generated_at_display": "2026-09-23 08:22 KST",
+  "generated_at": "2026-09-24T08:19:21.927593+09:00",
+  "generated_at_display": "2026-09-24 08:19 KST",
   "exchange_rate": {
-    "current_rate": 1355.0999755859375,
-    "change_pct": -1.35,
+    "current_rate": 1366.25,
+    "change_pct": 1.18,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1355.1
+      1366.26
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The New York Times",
-      "title": "Supreme Court Order Gives Parents Custody of Baby in Surrogacy Fight",
-      "summary": "Supreme Court Order Gives Parents Custody of Baby in Surrogacy Fight&n…",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzR6NE8zbVlua1RYTmFRTFF1d0Zucmp3SC1qYk94UVE2R3dwT0lfQWk3ZVFnemU1ZFNqbnZEVE5DUF9EaHR4VWgwUEZicjBmSDVGM2RFZkVsWmN6VzFMdEVCNWFvLXQ4a3I2SElSVmdxM1Z5dE9GYmYwdUgwcHM2SVl0dVA2cml4QWVkaFhDSXRyT01qUGc4?oc=5"
+      "source": "AP News",
+      "title": "China's Xi arrives in Washington, kicking off his state visit with rare planeside welcome from Trump",
+      "summary": "China's Xi arrives in Washington, kicking off his state visit with rar…",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0RkaG5qaGdHbDlPcmdKVDdEMG5mdTlRa0tIQ3llODRmeGtlY0xuWmV1U1Jxd3lHQzI3ZjlFMHVLSzF1ODc2YmIzcjE5aDVDTHpUUTFiYU95Unh4Z01tc29pN21Kcm1JTGRxdE9PUWlrdTFiV0hVS1dQb3VuakxyV24wNWQySlBwUFBCbEc3V3d6VnVLTFpCX05Cc1NfcGJU?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "The Washington Post",
-      "title": "Trump says he’s called for a ban on diesel exports",
-      "summary": "Trump says he’s called for a ban on diesel exports&nbsp;&nbsp;The Wash…",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVl9zYkdTTWxJLWpoTmt2c1NPdHE1dkR0QU8waFlhU2tDTm9GQmQyT25WMlcyNHpNOE5QdW1LRDZaN1ZaSzl6LWFLbFd6RlNoSDZISUZSZkFGTnBTSXNQYXNUdVB1R2lkcC1icm1OQVZHN2JLWVpxT2R5X2x2dTc5clpOM1VqZXc4c0stRmt2UERLR2c1ak14bDZXQ3NBbDkwTHd4T2JhNU9WSkZrcnozTA?oc=5"
+      "source": "WSJ",
+      "title": "Stock Market Today: Dow, Nasdaq Slip; 10-Year Treasury Hits 19-Year High — Live Updates",
+      "summary": "Stock Market Today: Dow, Nasdaq Slip; 10-Year Treasury Hits 19-Year Hi…",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYzA0Y3M1aDgybkFJcEdvV2ZOdmdoTU1fWjhLd3JtMm1ENlBFRGNndVJ1Ylcwd3pBZ2ZiRDNqckpaNVBYRENLNlNZQ2lhLVlHbnVYZ0g3SWwxQS1zMTlRQmUycFFxaXpZZkVPM2NZbTMyVkF5bXd1T3F2WklHQ3pSdG8zQ29faGM?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
       "source": "BBC",
-      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
-      "summary": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on…",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnAxMnNWQ0xzYjdoWFlDOWNZSkhoNXdKVm5QanZsMmg5Wno3cDEtTzUxOVI0U0hGWU9rdmFwX2l2TTVTaXYzMTJlMFZEMEotRE1sdHJEQWdoQlE?oc=5"
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "summary": "Ethiopia and Tigray accuse each of launching offensives, fuelling fear…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CLWpMVHoway05YlpCRFVKYmNCSVE3M09yRmswNnptWFZxOUlYWU1pdGRYbnBnV1RCYVNoS3dMLUROeDhTSUl6b3RGRGtyX3c1R3IwNTYtb2E5djQ?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "University of California, Riverside",
-      "title": "UC Riverside is again No. 1 in the U.S. for social mobility",
-      "summary": "UC Riverside is again No. 1 in the U.S. for social mobility&nbsp;&nbsp…",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTJxamY4SFNkMWdyZDdCbW8tMVRuYWtZU3FkR2wybzZ6WnFRSTFxd2tNRHZyYmU4cHMxc2tpYUgweHI5LWRtY0htSGNXb29TZnhVYXBhYk9ZQjQ5QXFuM3JNNUw1RGlEbGVWcGkyLVE3ZFFyVUU2VllMbG5UNDBfVDRkZ3FUUlFjLUN3?oc=5"
+      "source": "Amnesty International",
+      "title": "38 Global Civil Society Organizations file joint brief in US lawsuit challenging legality of Trump’s ICC sanctions",
+      "summary": "38 Global Civil Society Organizations file joint brief in US lawsuit c…",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNGNuTmdkZW5EOFBKY2JNdk5xU2g1bnQxVjBVWmNDUkUxMmgwSkJPaFl0bVZBVExXNkNJTXlfOHlHbFhJT0x4djlMbHIyZEZTTEJMQnNjQzR4YVl6TlFxZ24wR0tZUmpSLVdrZGNXRk5ZVy1WbjE1SHpLaTVZZzAxNkhfbEhHZVZDY3RfeVZ2LXNNcENCb0Z6OGJEd2F5d3NYMUlzdGJ0MHlxbWktSFBpMlhJbGZ3MFVIQnBiUVFmdW1aejVzd3VWQzdBYWNVZUVrc1lsbXFkRXlyWC1MeTlqc2pHREd1UE1Tc3U5TzZxYnEtOHM?oc=5"
     }
   ],
   "hr_trends": [
@@ -91,10 +91,10 @@
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "A Guide to Trump’s Section 232 Tariffs, in Map…",
-      "desc": "A Guide to Trump’s Section 232 Tariffs, in Maps&nbsp;&nbsp;cfr.org",
-      "source": "cfr.org",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwMWQtRkNnYlhHOGZVQ3BmSzI2VmJJYWd2V3NqZUx1MmdYOUtWdXJCQmN3ZmlkUWlTamxzYjFPQjJ4SWJoZXJMNmhpUlJEUmJuNVE1czlhX2lYcGw0U2tuY3RXYkdZTWVDR3dRN0tZb28zZk5jblZmMWltMA?oc=5"
+      "title": "Biannual Supply Chain Report: Five Trends Shap…",
+      "desc": "Biannual Supply Chain Report: Five Trends Shaping the Economic Landsca…",
+      "source": "kpmg.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZkFQTkxNUTQzcUVmcVZjOHJRRmNJOS1NRHROa1ZldHV4djR2ZEgxRjRiTVlQVC11SzVuZW1xWVJWMmhzYWJ3ZW1mdzZFdTNGLVc1eFBMWUZjSmc1eHlBdTBvc2dULW45TDIzOWNnSVBPUHFEczd4SF9jaEFOVG9FMlN3?oc=5"
     }
   ],
   "country_profile": {
