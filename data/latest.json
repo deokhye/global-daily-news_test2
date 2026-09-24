@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-24T08:19:21.927593+09:00",
-  "generated_at_display": "2026-09-24 08:19 KST",
+  "generated_at": "2026-09-25T08:40:17.272133+09:00",
+  "generated_at_display": "2026-09-25 08:40 KST",
   "exchange_rate": {
-    "current_rate": 1366.25,
-    "change_pct": 1.18,
+    "current_rate": 1367.75,
+    "change_pct": 0.39,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1366.26
+      1367.75
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "AP News",
-      "title": "China's Xi arrives in Washington, kicking off his state visit with rare planeside welcome from Trump",
-      "summary": "China's Xi arrives in Washington, kicking off his state visit with rar…",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0RkaG5qaGdHbDlPcmdKVDdEMG5mdTlRa0tIQ3llODRmeGtlY0xuWmV1U1Jxd3lHQzI3ZjlFMHVLSzF1ODc2YmIzcjE5aDVDTHpUUTFiYU95Unh4Z01tc29pN21Kcm1JTGRxdE9PUWlrdTFiV0hVS1dQb3VuakxyV24wNWQySlBwUFBCbEc3V3d6VnVLTFpCX05Cc1NfcGJU?oc=5"
+      "source": "CBS News",
+      "title": "Live Updates: Trump hosting China's Xi at White House as they navigate AI, trade tensions and Taiwan",
+      "summary": "Live Updates: Trump hosting China's Xi at White House as they navigate…",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "WSJ",
-      "title": "Stock Market Today: Dow, Nasdaq Slip; 10-Year Treasury Hits 19-Year High — Live Updates",
-      "summary": "Stock Market Today: Dow, Nasdaq Slip; 10-Year Treasury Hits 19-Year Hi…",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYzA0Y3M1aDgybkFJcEdvV2ZOdmdoTU1fWjhLd3JtMm1ENlBFRGNndVJ1Ylcwd3pBZ2ZiRDNqckpaNVBYRENLNlNZQ2lhLVlHbnVYZ0g3SWwxQS1zMTlRQmUycFFxaXpZZkVPM2NZbTMyVkF5bXd1T3F2WklHQ3pSdG8zQ29faGM?oc=5"
+      "source": "cnbc.com",
+      "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
+      "summary": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%&nbsp;&nbsp…",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObFhnLWRNOTF2c1JOTk4tWllJNmQ5N1FuSl9yVGVkWnNnaUI1VldxdkJGQmhzaDFYcGwxQnN6TWtBbkwwcTFkQUc1S0prLS1lODE5VUpneEY5dXZ3aTR4elNjVF9hc1UxTkVBWm1hMGdSWjR6Nkc0Mjd5S09qV1BlQ0FOMUViYlVHbUh3Q2lFU29QemVDWWQ5akp0bjRnZFE50gGmAUFVX3lxTFA3bnVmM1ZRTkFsSDA3X08tQkY4QmE0OExlaGxibG0yZElLbHZOdWQ1NkNVZ0RhUmVEY1ZkbFFTWVplX2JvNTUtN3k3RGtnWm9fbkE3TklCMjJCM0M1Z3kwYXo1NDBfZjI3LVNkTG1vVWVEQ2daLVJyTktyN0lfSEMwSFo3UWdkLV9uZUZNWDZkb2pEb3R1V3VFYlJNemI0S3FrbDRYMVE?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "BBC",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "summary": "Ethiopia and Tigray accuse each of launching offensives, fuelling fear…",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CLWpMVHoway05YlpCRFVKYmNCSVE3M09yRmswNnptWFZxOUlYWU1pdGRYbnBnV1RCYVNoS3dMLUROeDhTSUl6b3RGRGtyX3c1R3IwNTYtb2E5djQ?oc=5"
+      "source": "CBS News",
+      "title": "Officer fended off Ontario synagogue gunman despite being shot multiple times, authorities say",
+      "summary": "Officer fended off Ontario synagogue gunman despite being shot multipl…",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYloyeHBlYzExbUlrMG02Z1ctem9kSE05VC1mTDdlRjB6MGFkT2drQl9TWjZaXzRpVUdPbVFIYXBfMDFNZDJZRXBVQTBiYVUtdi14N3hURGtRUjF3bS1GOGJhajlGYUJYekJmQWlEaFpSWURSV05objQ4YzF3R2w0ZGVldDVxR00?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Amnesty International",
-      "title": "38 Global Civil Society Organizations file joint brief in US lawsuit challenging legality of Trump’s ICC sanctions",
-      "summary": "38 Global Civil Society Organizations file joint brief in US lawsuit c…",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNGNuTmdkZW5EOFBKY2JNdk5xU2g1bnQxVjBVWmNDUkUxMmgwSkJPaFl0bVZBVExXNkNJTXlfOHlHbFhJT0x4djlMbHIyZEZTTEJMQnNjQzR4YVl6TlFxZ24wR0tZUmpSLVdrZGNXRk5ZVy1WbjE1SHpLaTVZZzAxNkhfbEhHZVZDY3RfeVZ2LXNNcENCb0Z6OGJEd2F5d3NYMUlzdGJ0MHlxbWktSFBpMlhJbGZ3MFVIQnBiUVFmdW1aejVzd3VWQzdBYWNVZUVrc1lsbXFkRXlyWC1MeTlqc2pHREd1UE1Tc3U5TzZxYnEtOHM?oc=5"
+      "source": "U.S. Figure Skating",
+      "title": "One Sport. One Community. One Unmistakable Identity.",
+      "summary": "One Sport. One Community. One Unmistakable Identity.&nbsp;&nbsp;U.S. F…",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckdDcFRUTDl6MGg3UExYQ2d5YkZVQnBFeUgxcGloR2FkaWh6b3NyZENfZ1FXZ0Nqa2MyVWFaS3g4LTRjb0xfUFlfbS1mN2VWRHlSZXdkLUhjUUxpMmtfOW9xYm9PYVN3dnVrRFdPZkt3NlJYem82dWVRbS1EQm1mMEFydkE4Y2ZQb0pnWWJaX3lNUzQ5M0hQYk5mak5teF9UX2VnQWJIV09Mdw?oc=5"
     }
   ],
   "hr_trends": [
