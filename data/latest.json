@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-26T08:41:33.423696+09:00",
-  "generated_at_display": "2026-09-26 08:41 KST",
+  "generated_at": "2026-09-27T08:14:34.934290+09:00",
+  "generated_at_display": "2026-09-27 08:14 KST",
   "exchange_rate": {
-    "current_rate": 1355.280029296875,
-    "change_pct": -0.53,
+    "current_rate": 1354.4000244140625,
+    "change_pct": -0.95,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1355.28
+      1354.4
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "AP News",
-      "title": "Live updates: Supreme Court rejects a Trump-backed Missouri congressional map",
-      "summary": "Live updates: Supreme Court rejects a Trump-backed Missouri congressio…",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSkUwekI3R0hMam12dXl5WTRvVUpHeGNNRzg2TXZ5R2RsaHU2VnhlUzc0ekN1N3VlaTVaT0dZRnRJVXM0ekdCUlBEVEltdUlNTnduS1ZKa2FReHFJWUZEc1BmbDB4SklzVmR3NE9YbXBZYnlKX0piajVzYzVpTTJlMEJGLWhVUQ?oc=5"
+      "source": "BBC",
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "summary": "White House bars CNN from travelling with Trump on Air Force One&nbsp;…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Zdk5yVlpvUFEtS2FCaERCUjZYNUdiUkdTYVIwZVZPblc2bS1QQ2FQaHVQcnlQUVcxN1lZOE1qbURLNk1GNGZkTE1GYlFIaVhlYmFqVW1rMjY5cGs?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "AP News",
-      "title": "New Mexico jury finds Facebook liable for deceiving users about privacy protections",
-      "summary": "New Mexico jury finds Facebook liable for deceiving users about privac…",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWG40YndwZnVtdGtfVGxGd01iWWxMcUlSNEVTYzR3bVJETERWMFFlMGVoUnFUWUZZbUVLMTEtTW14VEtLQmdqbVIxQlN6OHdYQkc5ZEZkZlY4VnVzVy1Qemc5WTRIUkFtWjRra0s3UWt0ck1Bblk2WkhtWUxENXNTVTgxMmxUaEpoLTloRzV3eGFCYl9YU0RPd1ZjeFdyck9JMXc?oc=5"
+      "source": "CNN",
+      "title": "Rogue OpenAI agents targeted three separate US government websites",
+      "summary": "Rogue OpenAI agents targeted three separate US government websites&nbs…",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkQyN1dNYTkzeGFDN0hQSHVZNGxVUEcyb0trcGo1SmZMeWxNRmYwOTNHRGo1eVVrWTBqYkVoUmxpV2xuVnlURWtpY3FRTG5zRGNQdk90SjdwblZVVzlfQWk1UGJsTGNhQVF2MXZ2QjFLYV9iZ0FrWElzSFhIWGhFZw?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "NPR",
-      "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-      "summary": "Pope Leo warns a 'paradise of machines' could undermine humanity on hi…",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vTjdqMEhRQTRXUWZSXzFpSE9IMlM3VzVUS1dxMHpOS1hWbWs2dF9kOVFhdEwtODcwaHBpaHJvWndfTmFDMEpJQmNvNk5lTlpBemZvQldBMkRxdHVKd3RTWGdoMzYtVG10QVRETw?oc=5"
+      "source": "AP News",
+      "title": "Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square",
+      "summary": "Pope Leo draws 800,000 people to central Paris for open-air Mass on ic…",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEJFcjNvV3FnbnMyU21pVDFZV1k0TzFRajdDb0hHaVlrcFZlWThrTDZqdEwtQjdsOUdGeWR4c0JUdE1BMEFzamc5SmtfT3FUWVB2Tm1aa3daSWRoM3JqUl8zMVZkLWdfVm8wdXoyNzBmXzRRYnBvdGptV08xYkFYT1VmZ21wSUlvRHppckpmWXhUdWpCX0Z4RVhaNA?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Maine Audubon",
-      "title": "Join us for community science power hours this fall",
-      "summary": "Join us for community science power hours this fall&nbsp;&nbsp;Maine A…",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSlVCOGpHQVdBcHNOSU5TT3E0MVROSF9ITzFMX1JtaklhRmtaWHFIQ1lpVURkeUQ1OU1LeVBmdlQ4cHNGNmZRak0wYWhaSUl0VFg1dXFuRGlnckc1SENGYXBueU9oVFNQbm55WmY0YVN0MWdDVXFiZV9jbmlxWmcwczJxaElYc0VIUWc?oc=5"
+      "source": "KGNS",
+      "title": "Relay for Life pop-up market raises funds for American Cancer Society",
+      "summary": "Relay for Life pop-up market raises funds for American Cancer Society&…",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjN5cU82ZW45NEoxUVpPNFdXVTM3LUFjZGJaR3hrMk52dWdkSkZ0TDJ3dk1Od3BHTC1PSk9sN05vY0ZleG5RZ1J1UFNqdVFFUXJHNGx4N3RNQWhIclRUZHZwS1NIMXRYOVAwUlJIZWJHVzA2UFlSb2F5N1hWZGdyeXdrU2FBcHYtamJmSFExUW11WXJCYVpoOdIBrAFBVV95cUxNaE1KNTJicFk5VnBwR0hjYU5qenNYTURRMnN0Q2lFUEFkLWkxcHdKS1N0a1RkazlNdGJNcW5ERUhoS1V5RVlJNGl5WGFHVkxNTThYVGl2X3hoWDZRcUlYbUttTDBJN2lEMHNJVkJOVTBPV1BzaWxZUHhVVXZOYmFNU2F5c2tLbjhWQXVkaEhjQnIzR3BQU1BheDZhQmNxdlFqd1JYUDFfRE5ibnBS?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "US Automotive Industry Market Size, Share & Gr…",
-      "desc": "US Automotive Industry Market Size, Share & Growth Report 2035 | MRFR&…",
-      "source": "marketresearchfuture.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXRJN1A5S016eVdPR3dUdFlZX3NEU3o1M1Rpd053VkRsY1hJRnd1b09QQk5Kblk4Mm1wVDlIdjAzUWQxSlZrRlhjNHBSVDNxa1R4b3dLTE1aSGpJdUwzem5fSENHM0YxeHl0ZGkzS3R5Sl9qMm5hZzhJakJwODZSQnhIcXFtS00?oc=5"
+      "title": "Tire Components And Materials Market To 2035:…",
+      "desc": "Tire Components And Materials Market To 2035: Electrification and Sust…",
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUJKbVJxUEV2WVgwRi1STk1Mbm1STWcxVlk4TlQyV0hOWEFJdUdhblgxR3NFcm1aeEVfYmpYQ01NcTZsREc3Tno0R0F2OTNvR1R5d3g1Q1hUd2NXRUYtQlVFMkVXQk9KTzZ2NDRLbUY0RnJieTFCdS1CSTI5cldLRXhGWmMtYkQ3NHg0QTRJSEt2Ml9taWwtOFpYUTd1NzRGdGEwWHFjVTY4ZmNtUVZPVXJ6aVNnbVR3YnRHQm9CelNBdTUxMW55Yk9xSQ?oc=5"
     },
     {
       "category": "ECONOMY",
