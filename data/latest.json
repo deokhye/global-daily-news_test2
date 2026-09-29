@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-28T08:29:00.505410+09:00",
-  "generated_at_display": "2026-09-28 08:29 KST",
+  "generated_at": "2026-09-29T09:44:13.357536+09:00",
+  "generated_at_display": "2026-09-29 09:44 KST",
   "exchange_rate": {
-    "current_rate": 1354.949951171875,
-    "change_pct": -0.91,
+    "current_rate": 1360.5799560546875,
+    "change_pct": 0.45,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1354.95
+      1360.58
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "AP News",
-      "title": "Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England",
-      "summary": "Powerful nor’easter floods Northeast again, causing problems from New…",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5"
+      "source": "The Washington Post",
+      "title": "Cornell rape allegations prompt prosecutor to reopen criminal investigation",
+      "summary": "Cornell rape allegations prompt prosecutor to reopen criminal investig…",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOUVDZ1VXMDUtUTlwcUU4Q3NWSWdLWWdEZlprZHNHT2xrR3J0X2tKX1FsQ0xHSTJqd3E2UVRxRHpFLXBVdlFudEZ0UFptN2lGWEtNYW5SM1RjRlU3cndscEZ6UENBMTFSV0c0elFVNU5jTk9kUV9YY2NXUGwxbXdnbDhINHU0OWdMcjBSZVE1Y2RQZmgzTmZCOXZyVnhDREU1M1lwR3dyeDM2dnF4UVRsYm5LV3N2bFRTZFdBYktob051T28?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "The Verge",
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "summary": "OpenAI agents tried to ‘bruteforce’ a UN website&nbsp;&nbsp;The VergeO…",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVRjTmdjdnpYT3VIdE14OEh1QmNSc041UkN6NFVuMjJlUFBQdVlVVTB1TFVwenFWa01BMFJMd0VGNnJ0b0x6RXJ1ck52VUUwMDYzWEloQlFFa0NObmVHUklDTnFwdklsaTRXc09EUlNWamdNM3Bkd3cxbnptUXVzWHZ6MEgtUVhjM0I1UzZnN2tRMVBwaFJXdXJGOA?oc=5"
+      "source": "NPR",
+      "title": "The Trump administration weakens fuel efficiency standards for new cars",
+      "summary": "The Trump administration weakens fuel efficiency standards for new car…",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ2xWWW51bUhBYjNQSEM0SnRZM25RMGNPRmIwaTZuTXcxRmJUNEtTakNMMTY1c2NfWk81Qm1kSURrY3pzOGlqak9pWU5mRERTcXNBR2lGc1ZCdk5MQXJCaXJuWUl6cVhOVnZ5LTFXcG14WmZGNnpDWUdpVERBTnkzOXh5UldvNHFKUTJqUFZNaFd6QQ?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "AP News",
-      "title": "5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act",
-      "summary": "5 men arrested near UK air base used by US in Iran war on suspicion of…",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcERWNlhSekhlZGNhNVZ4dTZra2o2b3ZEdGFOeFhYWi02T2JlZ2VPNlZ6ZUQ1ODI1MHc3WElaaVRnV2RlZTlUeHhSR1pSN1NOanZiZkEyNnNtaXhPWS1qYXNrSDlIb1M0S3dwMktBNUJUd244MlZuTHJrNk12SGNCckdRSXBCZWxQWml1MHZHdEkwYjVlSEsyX0FOLTRWYlRZ?oc=5"
+      "source": "WSJ",
+      "title": "U.K. Releases Suspects in Terror Plot at Base Hosting U.S. Forces",
+      "summary": "U.K. Releases Suspects in Terror Plot at Base Hosting U.S. Forces&nbsp…",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmdWRXZBTWhBR2puTlBtS1hiWEF3NnVZWlZ6WWF3SzB0Nm5hb0ZFdzh3RGtYNVBVcVA5ZjNscnpKbG5GeXUxaVBFODROaXR6QmtCUTZKaUJyS0g3ZVNMYjF5czh3ZE9LTWU1TnFKanVlcmN3ZjlOQjhoNllubGhEMk5JS0ZYNVRydmtha3Azd3JKRzNtZnRXRG1DOERmY3NnSTFIS3RuY0xvTnFsNWNvZFhwTlVzMzg?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Albion College",
-      "title": "Albion climbing U.S. News & World Report’s 2027 college rankings",
-      "summary": "Albion climbing U.S. News & World Report’s 2027 college rankings&nbsp;…",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN3lXQmh3STlGYlA5dmFyRDRtOVFHdUFLTGZUdmRPYUNkN2t6WEFWT2RXcVpNMnBjekpKRGxDSUJTanFYQ1BtSWUzcXFBZjFEWUxUSGFmeVY5bGZURkZfbTRBamFOaG5PcV9Pc1pVcHlvbXN4aHl0cUJTYmpmUVhDeFhmZzQzY3BPVVV6TGF5YkhZR2t5SE93b01ZaUwzdw?oc=5"
+      "source": "WGLT",
+      "title": "Overcoming news deserts in rural America takes community involvement",
+      "summary": "Overcoming news deserts in rural America takes community involvement&n…",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLUw3NURvd0xldlBHdGFhOG5RZ21ramFtd1JlRTNrMUJqak1aMkhuZU40Q3ZWVnI1U0pxVDg3NUtQNVJ2aWVSMkZ0UDJGYndmQVVZX2JoRlZ0S1FrMG5GWFhXMGdDNHptV2V5WktPeTgzYjk2c0lmbkNwVG5YNmR3S0hnek41WTRXN0szQ3VqczdFWWdGTW1INy1CdVVUUUpPenNJeDlMYm5VUnl2RC1DVw?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Tire Components And Materials Market To 2035:…",
-      "desc": "Tire Components And Materials Market To 2035: Electrification and Sust…",
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUJKbVJxUEV2WVgwRi1STk1Mbm1STWcxVlk4TlQyV0hOWEFJdUdhblgxR3NFcm1aeEVfYmpYQ01NcTZsREc3Tno0R0F2OTNvR1R5d3g1Q1hUd2NXRUYtQlVFMkVXQk9KTzZ2NDRLbUY0RnJieTFCdS1CSTI5cldLRXhGWmMtYkQ3NHg0QTRJSEt2Ml9taWwtOFpYUTd1NzRGdGEwWHFjVTY4ZmNtUVZPVXJ6aVNnbVR3YnRHQm9CelNBdTUxMW55Yk9xSQ?oc=5"
+      "title": "By the Numbers: EV market share increases in 4…",
+      "desc": "By the Numbers: EV market share increases in 47 states, ICE vehicle sa…",
+      "source": "Aftermarket Matters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdlhKelFhTldwelM5Uk9IVGloeFJwZFlXV0syckhqTHJaRTZOYzFtYi1uM3JKSmhIaFd2MlhmanZUdDBTTWV3MmJrb0szVy1OWFZDemZwMDZjMEZyV3lsYzJFcC1EaF94aVExbHVqMG5NZ0tZekdmQm5oZUVSQlFXZEczT0IwaHNwMUJPMlBaaDJxc180QnhrMWU5ZG5CWWlic01Wc09vRmQybnBHSXh2Q1JuTTduejY3MUpoajdMOGhWeFNpSnBfX1Jua1c?oc=5"
     },
     {
       "category": "ECONOMY",
