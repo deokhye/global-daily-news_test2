@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-29T09:44:13.357536+09:00",
-  "generated_at_display": "2026-09-29 09:44 KST",
+  "generated_at": "2026-09-30T09:00:11.439601+09:00",
+  "generated_at_display": "2026-09-30 09:00 KST",
   "exchange_rate": {
-    "current_rate": 1360.5799560546875,
-    "change_pct": 0.45,
+    "current_rate": 1350.5799560546875,
+    "change_pct": -0.66,
     "history_labels": [
       "10월",
       "11월",
@@ -30,7 +30,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1360.58
+      1350.58
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The Washington Post",
-      "title": "Cornell rape allegations prompt prosecutor to reopen criminal investigation",
-      "summary": "Cornell rape allegations prompt prosecutor to reopen criminal investig…",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOUVDZ1VXMDUtUTlwcUU4Q3NWSWdLWWdEZlprZHNHT2xrR3J0X2tKX1FsQ0xHSTJqd3E2UVRxRHpFLXBVdlFudEZ0UFptN2lGWEtNYW5SM1RjRlU3cndscEZ6UENBMTFSV0c0elFVNU5jTk9kUV9YY2NXUGwxbXdnbDhINHU0OWdMcjBSZVE1Y2RQZmgzTmZCOXZyVnhDREU1M1lwR3dyeDM2dnF4UVRsYm5LV3N2bFRTZFdBYktob051T28?oc=5"
+      "source": "NBC News",
+      "title": "GOP senator airballs perjury claim against Jack Smith over apparent Hawks/Hawkeyes mix-up",
+      "summary": "GOP senator airballs perjury claim against Jack Smith over apparent Ha…",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmJtUGxfc2w2NG82aU1xNUhjX0VPSGtzakhBdG1oWnVqRXJ2alBTWGt1c2RvUWd4N2xEZTJ1RnNVbTN3b2plZEw2TE56U0RhYk1BQWFkZTFZN0lOR25tYWllWGhHTUhNZ1lBdmJjSGdvWk15R0h6VmVlcEc4MW1jOWdfbEdoTGJiRlctQTBIMlBELTRhNDloQTVNRkJrQXBYN0J1QWFn?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "NPR",
-      "title": "The Trump administration weakens fuel efficiency standards for new cars",
-      "summary": "The Trump administration weakens fuel efficiency standards for new car…",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ2xWWW51bUhBYjNQSEM0SnRZM25RMGNPRmIwaTZuTXcxRmJUNEtTakNMMTY1c2NfWk81Qm1kSURrY3pzOGlqak9pWU5mRERTcXNBR2lGc1ZCdk5MQXJCaXJuWUl6cVhOVnZ5LTFXcG14WmZGNnpDWUdpVERBTnkzOXh5UldvNHFKUTJqUFZNaFd6QQ?oc=5"
+      "source": "Reuters",
+      "title": "OpenAI takes on Meta with dots agent in autonomous AI push",
+      "summary": "OpenAI takes on Meta with dots agent in autonomous AI push&nbsp;&nbsp;…",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKTFlQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "WSJ",
-      "title": "U.K. Releases Suspects in Terror Plot at Base Hosting U.S. Forces",
-      "summary": "U.K. Releases Suspects in Terror Plot at Base Hosting U.S. Forces&nbsp…",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmdWRXZBTWhBR2puTlBtS1hiWEF3NnVZWlZ6WWF3SzB0Nm5hb0ZFdzh3RGtYNVBVcVA5ZjNscnpKbG5GeXUxaVBFODROaXR6QmtCUTZKaUJyS0g3ZVNMYjF5czh3ZE9LTWU1TnFKanVlcmN3ZjlOQjhoNllubGhEMk5JS0ZYNVRydmtha3Azd3JKRzNtZnRXRG1DOERmY3NnSTFIS3RuY0xvTnFsNWNvZFhwTlVzMzg?oc=5"
+      "source": "CBS News",
+      "title": "Trump and Rubio question U.K. handling of possible plot against air base after 5 men released on bail",
+      "summary": "Trump and Rubio question U.K. handling of possible plot against air ba…",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUU3QnVsZDBhYkhENnA3cXN3VU1uTHR0NlpaX1pJUjJEMFA2eFF3WlhGcW9WcnJZb1E4aVlEZEc5NTIyVXZaU2FmZ0NBSktGTEFvTnNwbkVJeS1PZ1R3NGluc3g3dGhBejN1blRDRUU2U1A5alg4ZXN3U013N1RIUE1SV2loWlNIcy1jUF8xYUY?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "WGLT",
-      "title": "Overcoming news deserts in rural America takes community involvement",
-      "summary": "Overcoming news deserts in rural America takes community involvement&n…",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLUw3NURvd0xldlBHdGFhOG5RZ21ramFtd1JlRTNrMUJqak1aMkhuZU40Q3ZWVnI1U0pxVDg3NUtQNVJ2aWVSMkZ0UDJGYndmQVVZX2JoRlZ0S1FrMG5GWFhXMGdDNHptV2V5WktPeTgzYjk2c0lmbkNwVG5YNmR3S0hnek41WTRXN0szQ3VqczdFWWdGTW1INy1CdVVUUUpPenNJeDlMYm5VUnl2RC1DVw?oc=5"
+      "source": "Asia Society",
+      "title": "New Article | What Actually Happened at the Xi-Trump Summit",
+      "summary": "New Article | What Actually Happened at the Xi-Trump Summit&nbsp;&nbsp…",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRGpoOTdHYnU4dnMtX0YwOUpwTVY5SVhDWTdlQTdocWNVR05JVjhKVlFBdFlXUTQyU2poM25OODlxY29BVzJpU3dIb2Zld3dMNXRtbjFFaGNzcEtqT3BPN1h4SnRwcklZTmtQVUxqZGR5c2V2ejBCbUNrbERIV3E0cDl4b3FQZnBOdVNsSDJwSloyVGV5RWc?oc=5"
     }
   ],
   "hr_trends": [
