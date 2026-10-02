@@ -1,11 +1,10 @@
 {
-  "generated_at": "2026-10-01T09:15:13.262197+09:00",
-  "generated_at_display": "2026-10-01 09:15 KST",
+  "generated_at": "2026-10-02T09:19:42.388712+09:00",
+  "generated_at_display": "2026-10-02 09:19 KST",
   "exchange_rate": {
-    "current_rate": 1358.47998046875,
-    "change_pct": 0.59,
+    "current_rate": 1363.280029296875,
+    "change_pct": 0.47,
     "history_labels": [
-      "10월",
       "11월",
       "12월",
       "1월",
@@ -16,10 +15,10 @@
       "6월",
       "7월",
       "8월",
-      "9월"
+      "9월",
+      "10월"
     ],
     "history_values": [
-      1424.02,
       1466.13,
       1437.91,
       1449.7,
@@ -30,7 +29,8 @@
       1541.73,
       1420.6,
       1377.11,
-      1362.5
+      1350.5,
+      1363.28
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The New York Times",
-      "title": "Cornell Students Question Greek Life Culture After Sexual Assault Claim",
-      "summary": "Cornell Students Question Greek Life Culture After Sexual Assault Clai…",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFR6ZVFndlFNc00wdVVzTHVVS0JJZEdwOUZfT04td3JaVDJnMGh2dG1YZW9waElDbm1uLW5oaVhKSlExNGIwbTNSQ2Q2eERxTG10Si1IeTBoLUZGOWJ2cHpGQnVoRFRGN0FLQmNVbmVWZXFMZWI2Ykx0TEEyRjRKR19uU3VqcG52YmMwTFRQZnY2VWxl?oc=5"
+      "source": "washingtonpost.com",
+      "title": "Christa Pike in critical condition after botched Tennessee execution, lawyers say",
+      "summary": "Christa Pike in critical condition after botched Tennessee execution,…",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdC1BblowaUlEYmU2Ulk1ejV5MFVDT2dkX2xBYVQ1YVZtMW1TM0V3UGEzRkRYZkZPUVc2VV9RVWRwLUJqZWRoTU0zQ09CYVhfWERGVjJzQW5HR3NRSUZNLTNVWHBuRFNBN0xxVVlJeU9SQzFiSEVNcU5sWkxJSFliLVByaTB2UHpmZFhoVFl1cGM0TWw5MDJRNEJlM3M5N3RvMHV5X3FaNmRDWXBTR2daWkxTZjZXR2tsQmRfdlNTZXA5MkdENzFXdGYxWFljWWc?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "WSJ",
-      "title": "Micron Profit, Revenue Surge as Memory Crunch Looks to Last Through 2028",
-      "summary": "Micron Profit, Revenue Surge as Memory Crunch Looks to Last Through 20…",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTERLUlNXYXNnbWZ0R0tJOTVLWERGbEVFa0c5bkpQXzlvRWptTHk0WUdlVDRYNGRDWGpJOVBIVkJSS3NUMmluLTBacUwwcE1xZW80MlZIeEUyMUYxUElJOGJEcUdGdmlIdzR5OWxhd0V6RnRLT3FMeTdkWndhRkVNMUFjT2tBY3V3dld0U2paNFdwam1IN2c?oc=5"
+      "source": "finance.yahoo.com",
+      "title": "Nike stock sinks as revenue misses estimates, expects to cut jobs",
+      "summary": "Nike stock sinks as revenue misses estimates, expects to cut jobs&nbsp…",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYXRicUlOb3RzalpFbGZoQXFjQ2w4d282UDBQWkdJNEVEdGdNaExNemx3TWZjdmtOcEk2SnEzRFZyd0l0eHdwbUJBY1pYcHV1NkVqbHpPa0pvMlFtbDlKdjl5eTFHeTlpMlpUbFAxeENYOWNJZjdycC1tVVRyYmEwLWtaSEZ2LXN3ZkgyTmtkSmxucGlKcjRUMDYwVmxSekFvbkVyem5jZDdoenR0VVBUeERIUFBsbWlWSEo0dEx3?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "The New York Times",
-      "title": "FlyDubai Flight to Israel Diverted After Clash Between Pilots: What We Know and Don’t Know",
-      "summary": "FlyDubai Flight to Israel Diverted After Clash Between Pilots: What We…",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHpuT190UjhnNS03Z3hzYU4xQ3NzQ0x4WGxBb2xqSDk3MjJkWEg4TzF1RFg0R21oS1RiT0VnUE5GUllLbXBaRjRlMV9MRWJDMU5RV3lKbWlodTVFT0NRVFVQMzFvMXRVQlZVS2duLVpEVk9SZGNneWRLa1A3ZVYzSl9oeHBCMUxROTVCNzJJVEpnM1JJaFRVbEdn?oc=5"
+      "source": "cbsnews.com",
+      "title": "What we're learning about the FlyDubai co-pilot who allegedly stabbed the captain and tried to crash the plane",
+      "summary": "What we're learning about the FlyDubai co-pilot who allegedly stabbed…",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUEwwMkUwOTNMUEZoSkYwZ3NvV1NxNkhfSVlueXgxNS01blpJazRIa2I4QUdWMkZwcTFOOUZPd0EwQ2ZjZTZHRE5Rb3NEcHBLMjlSeXE3Z1dVSjJ0aTRJTnNmLVNySl9yMVp6SFpWRWxYOWgwekd4XzdEN01CZDNaN2t3ekZ0ZzQ5WmlRTnpmMmI3VWZnU2ItUE5nckY?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Al Jazeera",
-      "title": "US judge rules Wisconsin mosque leader Salah Sarsour can be deported",
-      "summary": "US judge rules Wisconsin mosque leader Salah Sarsour can be deported&n…",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDYzRU5nS2tlLTFVUE1yRWJWYnN6aEN3MmhwZXdlbmNKTUIwbXMxWFVmSGp2RUR3ellYRk43WVdTWEZxVzA4NjhadzZPd1dDYzMwRVdoZG1jUDlRZjRRWmNMbHpMU2gzSDRVMWUyTndFa2pzWnZwYkFRVW5UY1MtVkF3blpaQzZuYTdlRG1zS0lROXc4Qm0yMEwtN3c5aFAxbU1waGw4d1ZydC14M0HSAbMBQVVfeXFMT05mQWVCeklsdEhtNUZmYUtoLW1Xb215WVl5bGkzbVUtY1FEX0RDeGY3RlVmWE8wN2hCTUFMTGFuMW5sT1VCUGtEb3NMdlNQR0V6REpUZDJLZG44dTNhT2xtVVpxS2s5dnNWdVVzbkwzdXUydkhNb1lLY09XUUpfaHVpLUsxNFV5Q1ZOeExVaXpENWxWMXNneXpneTVVR29rZlduVGc1aGpZQ21FeVFOc2tzX2M?oc=5"
+      "source": "Pew Research Center",
+      "title": "How urban, suburban and rural Americans engage in society",
+      "summary": "How urban, suburban and rural Americans engage in society&nbsp;&nbsp;P…",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tNEF0dlNPcDdISjBWNVZCVXpuU1hJVVg1TTM1ZmVVdDRVakphQzF4QWUwWVBydkVHRlZRTFhtTGNTWktOLVRaT2RMSGQ3R0tHRDFOSnAwcXVjLWY2RFBJQ0Rzdkltc1A3Um9WU3YwTkFNdUtGaUFfUGNFYjE?oc=5"
     }
   ],
   "hr_trends": [
@@ -75,7 +75,7 @@
       "tag_class": "bg-rose-100 text-rose-700",
       "title": "By the Numbers: EV market share increases in 4…",
       "desc": "By the Numbers: EV market share increases in 47 states, ICE vehicle sa…",
-      "source": "Aftermarket Matters",
+      "source": "aftermarketmatters.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdlhKelFhTldwelM5Uk9IVGloeFJwZFlXV0syckhqTHJaRTZOYzFtYi1uM3JKSmhIaFd2MlhmanZUdDBTTWV3MmJrb0szVy1OWFZDemZwMDZjMEZyV3lsYzJFcC1EaF94aVExbHVqMG5NZ0tZekdmQm5oZUVSQlFXZEczT0IwaHNwMUJPMlBaaDJxc180QnhrMWU5ZG5CWWlic01Wc09vRmQybnBHSXh2Q1JuTTduejY3MUpoajdMOGhWeFNpSnBfX1Jua1c?oc=5"
     },
     {
