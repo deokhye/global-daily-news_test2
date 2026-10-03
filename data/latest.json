@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-02T09:19:42.388712+09:00",
-  "generated_at_display": "2026-10-02 09:19 KST",
+  "generated_at": "2026-10-03T09:03:34.151606+09:00",
+  "generated_at_display": "2026-10-03 09:03 KST",
   "exchange_rate": {
-    "current_rate": 1363.280029296875,
-    "change_pct": 0.47,
+    "current_rate": 1342.510009765625,
+    "change_pct": -1.06,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1363.28
+      1342.51
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "washingtonpost.com",
-      "title": "Christa Pike in critical condition after botched Tennessee execution, lawyers say",
-      "summary": "Christa Pike in critical condition after botched Tennessee execution,…",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdC1BblowaUlEYmU2Ulk1ejV5MFVDT2dkX2xBYVQ1YVZtMW1TM0V3UGEzRkRYZkZPUVc2VV9RVWRwLUJqZWRoTU0zQ09CYVhfWERGVjJzQW5HR3NRSUZNLTNVWHBuRFNBN0xxVVlJeU9SQzFiSEVNcU5sWkxJSFliLVByaTB2UHpmZFhoVFl1cGM0TWw5MDJRNEJlM3M5N3RvMHV5X3FaNmRDWXBTR2daWkxTZjZXR2tsQmRfdlNTZXA5MkdENzFXdGYxWFljWWc?oc=5"
+      "source": "NBC News",
+      "title": "Christa Pike unconscious and on a ventilator at Nashville hospital, her lawyers say",
+      "summary": "Christa Pike unconscious and on a ventilator at Nashville hospital, he…",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPay0waFQtTUlPQ1YtTnZ2XzgyUG1XcFNtS1ZhYy05ZFBnY0NJcjBKYzBvbDFKaXd3OXVETkpWdENZa21iOHBob1phZm5sOVFsUzlHVlpXTlBqb1hHNUwzdUdXNEh3YUViWUVKeW05MnI2dnhkaHF4eFMxd1dBMGhSNnY5dnNaRzhfRURqWnhJLWYxTkJZTUlLOUFTT21zMkYwX3VoN1dBQjZ3RkR6NTUyS0VjWjQ?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "finance.yahoo.com",
-      "title": "Nike stock sinks as revenue misses estimates, expects to cut jobs",
-      "summary": "Nike stock sinks as revenue misses estimates, expects to cut jobs&nbsp…",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYXRicUlOb3RzalpFbGZoQXFjQ2w4d282UDBQWkdJNEVEdGdNaExNemx3TWZjdmtOcEk2SnEzRFZyd0l0eHdwbUJBY1pYcHV1NkVqbHpPa0pvMlFtbDlKdjl5eTFHeTlpMlpUbFAxeENYOWNJZjdycC1tVVRyYmEwLWtaSEZ2LXN3ZkgyTmtkSmxucGlKcjRUMDYwVmxSekFvbkVyem5jZDdoenR0VVBUeERIUFBsbWlWSEo0dEx3?oc=5"
+      "source": "NBC News",
+      "title": "G7 countries to release up to 100 million barrels of diesel and crude oil reserves",
+      "summary": "G7 countries to release up to 100 million barrels of diesel and crude…",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmhlRXNIUGtuVXo5aWcyUVJQdk5sakdqb0JzWUZKUTdGTUxhQ0hwcTFBcHl3bW0xUEJ5TE9jcWlxclBrbThEaHFDRHlCb0c3eklaVVJYRE43c2k3T2h1RklEVXBERElZY3dVcFNOamJQcGpCX21naDRGOFVDVkg2R2xTS2Rpay1zUjJId1JVQ0NhQQ?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "cbsnews.com",
-      "title": "What we're learning about the FlyDubai co-pilot who allegedly stabbed the captain and tried to crash the plane",
-      "summary": "What we're learning about the FlyDubai co-pilot who allegedly stabbed…",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUEwwMkUwOTNMUEZoSkYwZ3NvV1NxNkhfSVlueXgxNS01blpJazRIa2I4QUdWMkZwcTFOOUZPd0EwQ2ZjZTZHRE5Rb3NEcHBLMjlSeXE3Z1dVSjJ0aTRJTnNmLVNySl9yMVp6SFpWRWxYOWgwekd4XzdEN01CZDNaN2t3ekZ0ZzQ5WmlRTnpmMmI3VWZnU2ItUE5nckY?oc=5"
+      "source": "Fox News",
+      "title": "Trump warns Iran of fresh strikes if Tehran involved in FlyDubai plane incident",
+      "summary": "Trump warns Iran of fresh strikes if Tehran involved in FlyDubai plane…",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMW5QNEJrTlJLWi1DUTYyWURFTFJRRVBDYWRTVkZMM3FSVjY3RlA1emhJdmJmMmlHNlFmQ2Z3ZHNmYjVmUHpFbGZJeGZLOTFXbHA0dTJoUE9Jcjk4dGc0MS1VSncxYlhkX2xwRThNU09fcFNLdnB6SzFvLWNzWXlxWmJIZE44Y1VG?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Pew Research Center",
-      "title": "How urban, suburban and rural Americans engage in society",
-      "summary": "How urban, suburban and rural Americans engage in society&nbsp;&nbsp;P…",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tNEF0dlNPcDdISjBWNVZCVXpuU1hJVVg1TTM1ZmVVdDRVakphQzF4QWUwWVBydkVHRlZRTFhtTGNTWktOLVRaT2RMSGQ3R0tHRDFOSnAwcXVjLWY2RFBJQ0Rzdkltc1A3Um9WU3YwTkFNdUtGaUFfUGNFYjE?oc=5"
+      "source": "Reuters",
+      "title": "Community banks sue US regulator over crypto firm charters",
+      "summary": "Community banks sue US regulator over crypto firm charters&nbsp;&nbsp;…",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3M1NUpPd3A1WnBjS3FSeDhuQ3d6aC1BdUZNNml4U1JLX1RaWkJ3Y0xhRHhwb01TNUhOTjlxZlhWWXN2MG5EbkpZbXNZR2haU0F1MVJXR0o4cnhHNnpiOUNnY296aXRUOHI5a3l5MXIyYXMxb2RZOENNdTdveVJTRldXYUw3Um5kTGswMl9XNFFMTzNRMGZzaDE3dDlvdkNuYnc?oc=5"
     }
   ],
   "hr_trends": [
@@ -75,7 +75,7 @@
       "tag_class": "bg-rose-100 text-rose-700",
       "title": "By the Numbers: EV market share increases in 4…",
       "desc": "By the Numbers: EV market share increases in 47 states, ICE vehicle sa…",
-      "source": "aftermarketmatters.com",
+      "source": "Aftermarket Matters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdlhKelFhTldwelM5Uk9IVGloeFJwZFlXV0syckhqTHJaRTZOYzFtYi1uM3JKSmhIaFd2MlhmanZUdDBTTWV3MmJrb0szVy1OWFZDemZwMDZjMEZyV3lsYzJFcC1EaF94aVExbHVqMG5NZ0tZekdmQm5oZUVSQlFXZEczT0IwaHNwMUJPMlBaaDJxc180QnhrMWU5ZG5CWWlic01Wc09vRmQybnBHSXh2Q1JuTTduejY3MUpoajdMOGhWeFNpSnBfX1Jua1c?oc=5"
     },
     {
@@ -102,7 +102,7 @@
     "population": "약 3.42억 명",
     "gdp": "약 30.8조 USD",
     "inflation": "3.4%",
-    "unemployment": "4.1%",
+    "unemployment": "4.2%",
     "stats_source": "BLS",
     "stats_asof": "2026-08",
     "min_wage_federal": "$7.25 / h (연방, 2009-07-24 발효)",
