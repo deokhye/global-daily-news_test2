@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-04T08:26:04.895618+09:00",
-  "generated_at_display": "2026-10-04 08:26 KST",
+  "generated_at": "2026-10-05T08:42:28.920971+09:00",
+  "generated_at_display": "2026-10-05 08:42 KST",
   "exchange_rate": {
-    "current_rate": 1342.510009765625,
-    "change_pct": -1.06,
+    "current_rate": 1342.9100341796875,
+    "change_pct": -1.3,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1342.51
+      1341.98
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "AP News",
-      "title": "Tennessee’s prisons chief is resigning after failed execution of Christa Pike",
-      "summary": "Tennessee’s prisons chief is resigning after failed execution of Chris…",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2dvZno4RTVmS3RJLXVKV3ExNXptZUltbFhwQng2Zzl6RVZhYWZpREk3RnNPcVFrS2hLdHNpcWpOZW9paW5vM1d4UTZ4M1VVTklLbTNfbDZZeGhpaVU4WjVpOXJkMTNTOUlLMmZuRUNBdTRzVW9mWFYyMlVQek5UNXFTdGNpRkFWOVlENHlMYXh6RWlrbXJpc3I0WTF4UG1xQlExNUJrYw?oc=5"
+      "source": "The New York Times",
+      "title": "What to Know About the Medical Plane That Went Missing Near Nantucket",
+      "summary": "What to Know About the Medical Plane That Went Missing Near Nantucket&…",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkZqTmhKZkdWbk13S2x1UlZCNXllbXdIdUtGMTYxYjd6Z3gxYWNwVE1uVlN3cTJ1RDVMRkhlVG1obDBHOWc5OFZNYjN4eDA5RnNXMGdLVVNPc0xPd3NLbjdkNjl5ODVjbXFBV3V6NVZwZkI0cFZrWWdoUWZSWWozZUZXY2NjanJhS0puRDNHLWQ?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "NBC News",
-      "title": "U.S. labor market slows with midterms on the horizon",
-      "summary": "U.S. labor market slows with midterms on the horizon&nbsp;&nbsp;NBC Ne…",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHAyRS1ZQlRES2dOclZhelhWNDVucUZRanNFQUhlN0dRR1d3R2l3VkxVRWU4TlNva0FuQVdIMUdGSkxfTGtRYjVTQVFoRE9uRjJPdkk5Zmg4S3hkYU8tUnlLZWFXN2ZhTUxPS2xEVzRUb3V5czVXVW1zMTlmOUltdi1uZ3FXRzVUbGk1VjB4MEdMOG4yNXNrQzNaX1RGMERtS2Z6dWo2UklGM1NKMW9HMnlIWGVQWnl6NWFfU3UyVQ?oc=5"
+      "source": "Politico",
+      "title": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI",
+      "summary": "Sam Altman to Decoded: ‘The world should accept some bad things happen…",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "The Washington Post",
-      "title": "FlyDubai copilot used crash ax to attempt ‘terrorist act,’ UAE says",
-      "summary": "FlyDubai copilot used crash ax to attempt ‘terrorist act,’ UAE says&nb…",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRmN6QTZoNW9lYktQLUNSUVY5c20tUm9udG0xRkNBa1RXd1Z3MTFQNEoxa1RUSDQ2MmdEb0JDQUU4RDZtQzVxZmllanhjWGJhakFqamc1eUpZRVBBSVA4VVZDSG9rSUNyaGgydmJlMk5jUF9KcGxXLWpnN2lGZTE1aEtXR2NmY2ROMnBoZlRHSzhhSXdvR2RaZGs2U0xzX3lBSTRkVTlUTQ?oc=5"
+      "source": "aljazeera.com",
+      "title": "Japan summons US envoy as marine arrested over Okinawa murder",
+      "summary": "Japan summons US envoy as marine arrested over Okinawa murder&nbsp;&nb…",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSk5hVVhEeHdBcW41SkxsWm56LTdGMlFBRkFYdWNXdmR0UUdHUlFFcUdlZGcxU1RxRXRlOFpQVjlfdVRqTkdjSEJNUDRLT2dxUDdkcXRuN05FWUE4MkNzTzM5T3ZIODZvLVFrUnRrWm53cWQ3QlAtbzltRkd1VXFoZkw5LUQ1VENlbGtyRHk1OEwtb2lxMkhDYzJlWExxS2hqaEdtONIBqgFBVV95cUxQeVFUZE1UWUZUYU9NNVFYc2tRWHE4OHYwbHRtVHRKQloxcFJWUTdIV1pSN242Z1R3cXlqZGtZMFZVUzRrX0R6VHFTTjA4MmVqbnpPSnB2ZnNpQ1NUR0dfVHZSMEtPRC01dm1JUzVZUWFmOTFtTkJHM25tRnVzazM5ZTdjYkFUblNfS0hJSU42MlJCV1VZdWpfcUJJZnhuSzJuMjdpR1RGSEdtZw?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Here's a list of the individuals, including James Comey, targeted by the Trump administration",
-      "summary": "Here's a list of the individuals, including James Comey, targeted by t…",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDV4U3lXWlRPTHY5M1ljNzBTUEdlZEx2R2c5N1VSQ0NSLXAxbUp5bW1PREhFV2YtX3VaX0JnTWQteGJHazFYWE9vdXp2ZDVrTkdmREhLVWpkVXUtN0tQQUZfdVNFYUFKWmxWdEZ4a3NfelpMS2lNWjc2V3hpcWdoeldIOHFTRkNRU2hmdV9yNmFVd0NBNmt6U0JiZVU0NUJEeHpkLXo4QThUaWlk0gGyAUFVX3lxTE9nUFNSZ0VyeGtKYkluY181dEdkR3lvdlZNck83dWlhbXAyMzA4aTI3Um8tY01RdkVGWkVDLVhuTUg2b2dDXy1jbFpHMjBnLWZBYm0yV3lLeG9ZSWRUOG56U24xd05NTlBEM2JhMktaaFR4a0VacURFckVIOTFqT2dlNGdKa2Z5ZC1MN2FNUFdIdWNvTWxabG9lMVlmY1owNjF6NlM5VGU3NDRMT29zdUJCcXc?oc=5"
+      "source": "University World News",
+      "title": "Champions issue demand for respect for HE’s independence",
+      "summary": "Champions issue demand for respect for HE’s independence&nbsp;&nbsp;Un…",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13ZHpKUmFfOFVNcEtYNUptc2FtenI1bC1iSGlaR0hfZk1DNlNnY205RkVrQ0pWcWoyaGlGb1MxV3pQY3VTLXBVbXl1WUdWbXRyZUdzU01HZUY4ZGVlZzRyUWJOVXpNOFZxYXhDdjBiQ1hqMG15a1lr?oc=5"
     }
   ],
   "hr_trends": [
@@ -82,10 +82,10 @@
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "US manufacturing steady in September, input pr…",
-      "desc": "US manufacturing steady in September, input prices increase&nbsp;&nbsp…",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTE5NRDZ2ZmEtOWRzU0lSeDZDUUIxTEI4d085ZGxCVE1FY2pab1VGdVZaWEV6a3I1cjg5YnBDWUxIczdYSWxMSDNjYmNVT0J5MWx4RWhiamhRLS1CbG5TUl94Z0ZUMXNoaFhmX0k3V1J4ZTl5ekdaWnpLdXpickxpc195Tk13dC1XeWlRT1BtWmJFam9SRXplS1d4aHhkR3prUmc?oc=5"
+      "title": "What’s happening this week in economics?",
+      "desc": "What’s happening this week in economics?&nbsp;&nbsp;Deloitte",
+      "source": "Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5"
     },
     {
       "category": "MANAGEMENT",
