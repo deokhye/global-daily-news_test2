@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T08:42:28.920971+09:00",
-  "generated_at_display": "2026-10-05 08:42 KST",
+  "generated_at": "2026-10-06T10:35:59.577168+09:00",
+  "generated_at_display": "2026-10-06 10:35 KST",
   "exchange_rate": {
-    "current_rate": 1342.9100341796875,
-    "change_pct": -1.3,
+    "current_rate": 1343.68994140625,
+    "change_pct": 0.08,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1341.98
+      1343.69
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The New York Times",
-      "title": "What to Know About the Medical Plane That Went Missing Near Nantucket",
-      "summary": "What to Know About the Medical Plane That Went Missing Near Nantucket&…",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkZqTmhKZkdWbk13S2x1UlZCNXllbXdIdUtGMTYxYjd6Z3gxYWNwVE1uVlN3cTJ1RDVMRkhlVG1obDBHOWc5OFZNYjN4eDA5RnNXMGdLVVNPc0xPd3NLbjdkNjl5ODVjbXFBV3V6NVZwZkI0cFZrWWdoUWZSWWozZUZXY2NjanJhS0puRDNHLWQ?oc=5"
+      "source": "NBC News",
+      "title": "New Supreme Court term begins with justices stumped by climate change case",
+      "summary": "New Supreme Court term begins with justices stumped by climate change…",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU1FnOFdJSE5xQXFjdUJTaFFpNG51S0JLeVhIWE4zR3BnYW1pdXlFZ1R0RzJYTENIVnUyaEZELXJFZWljVTNVMHE5OXV5dW5LZl9iSTRlTFRUYVZlZF9ESG02eUl0ZUhwVk5ralJxT2NzRFNtUmRqYnNnVjJqOGVycG1XQVFWOUZmb25aakFPUE9yWWpQVjNRdzRUeWJRaVFRWmVJZC11X2RuX3k5aDMwdzBacHRLQzFycnFsMEhZWEZOSGstTUE?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Politico",
-      "title": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI",
-      "summary": "Sam Altman to Decoded: ‘The world should accept some bad things happen…",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5"
+      "source": "AP News",
+      "title": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns",
+      "summary": "AI industry insiders voice alarms to NYC council as local governments…",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNEQ1Um5Da0s1emxRTkc3eGh2bVZRZUNCYTROaFVkbWpPVC1RMlhpMm9sVU1kM19ubHowSDlZTjJHWmxQc2ctOHpLemZuYnJjMFlPY045c05VbEpIdHVxeUVPZThFM0hSeEZHZm5aMFM2MHJoVmJOY3pmNGgxVFN0cy00NFJKa3ZaWERxdHRFSnJvWFdOSmMwdjM3elFuWkJ3SHQ3U2hwdw?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "aljazeera.com",
-      "title": "Japan summons US envoy as marine arrested over Okinawa murder",
-      "summary": "Japan summons US envoy as marine arrested over Okinawa murder&nbsp;&nb…",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSk5hVVhEeHdBcW41SkxsWm56LTdGMlFBRkFYdWNXdmR0UUdHUlFFcUdlZGcxU1RxRXRlOFpQVjlfdVRqTkdjSEJNUDRLT2dxUDdkcXRuN05FWUE4MkNzTzM5T3ZIODZvLVFrUnRrWm53cWQ3QlAtbzltRkd1VXFoZkw5LUQ1VENlbGtyRHk1OEwtb2lxMkhDYzJlWExxS2hqaEdtONIBqgFBVV95cUxQeVFUZE1UWUZUYU9NNVFYc2tRWHE4OHYwbHRtVHRKQloxcFJWUTdIV1pSN242Z1R3cXlqZGtZMFZVUzRrX0R6VHFTTjA4MmVqbnpPSnB2ZnNpQ1NUR0dfVHZSMEtPRC01dm1JUzVZUWFmOTFtTkJHM25tRnVzazM5ZTdjYkFUblNfS0hJSU42MlJCV1VZdWpfcUJJZnhuSzJuMjdpR1RGSEdtZw?oc=5"
+      "source": "Axios",
+      "title": "Trump: U.S. willing to help Russia with potential pneumonic plague outbreak",
+      "summary": "Trump: U.S. willing to help Russia with potential pneumonic plague out…",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMHpMczZDZkVnU2xJTHItTDZQYlRnWG03QXNLeFBRQ01EWlctdElOelBxMG1zT29wWHVRUi1HUDhJVllTS1JrT0dDZWlSSXJETV83SGdUbW5rMnB5dFVCR19BdTBaMi16TG5PYlRpWTVsSGxDNDB2bkhCNVhlM1lPcDJJc0Q5dw?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "University World News",
-      "title": "Champions issue demand for respect for HE’s independence",
-      "summary": "Champions issue demand for respect for HE’s independence&nbsp;&nbsp;Un…",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13ZHpKUmFfOFVNcEtYNUptc2FtenI1bC1iSGlaR0hfZk1DNlNnY205RkVrQ0pWcWoyaGlGb1MxV3pQY3VTLXBVbXl1WUdWbXRyZUdzU01HZUY4ZGVlZzRyUWJOVXpNOFZxYXhDdjBiQ1hqMG15a1lr?oc=5"
+      "source": "SBU News",
+      "title": "Pavlos Kollias Named a Fellow of the American Meteorological Society",
+      "summary": "Pavlos Kollias Named a Fellow of the American Meteorological Society&n…",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVldaNTQxVEdreUZsWFVSSXRVMmFfQUxmNG9KamdVOWhMZEhtcHhPM0xzYVR4dTBzcVY0MFItV0lCSHFQLXBYNlRXMEo3czRNcllnVVJZbDVyR1dtUTZ5S01PMTJuNk42dTJ2bW9POGFBU2RlcUlkcHhVNTM1Zmh5ZnY4MUVkazN4eTR6bUJlUEY0cVZfdElXem5jOVdoMGpFNFJMYk5Db3hEZFlJ?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "By the Numbers: EV market share increases in 4…",
-      "desc": "By the Numbers: EV market share increases in 47 states, ICE vehicle sa…",
-      "source": "Aftermarket Matters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdlhKelFhTldwelM5Uk9IVGloeFJwZFlXV0syckhqTHJaRTZOYzFtYi1uM3JKSmhIaFd2MlhmanZUdDBTTWV3MmJrb0szVy1OWFZDemZwMDZjMEZyV3lsYzJFcC1EaF94aVExbHVqMG5NZ0tZekdmQm5oZUVSQlFXZEczT0IwaHNwMUJPMlBaaDJxc180QnhrMWU5ZG5CWWlic01Wc09vRmQybnBHSXh2Q1JuTTduejY3MUpoajdMOGhWeFNpSnBfX1Jua1c?oc=5"
+      "title": "Auto Manufacturers Walk Supply-Demand Tightrop…",
+      "desc": "Auto Manufacturers Walk Supply-Demand Tightrope&nbsp;&nbsp;JD Power",
+      "source": "JD Power",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVpJOEplVkM2TWFRMHRyR3JuU1Z5SlRKcVZVUmg0RHE4dnhWVnhHRFd3Y0ZhOVlZUE1lWS1ITTZ0VVFYeEtVdFFhaWd5cDV3YmE4bE9PUEZRTldxd0VhVUdkdXlNXzhwNnBmYWkxUC1fTHc3b2FQVUJwYXNYeTVBb2oxUDVEcjJkSEFMY0lMUQ?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -91,10 +91,10 @@
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "US-China Tariff Relief Changes the Logistics M…",
-      "desc": "US-China Tariff Relief Changes the Logistics Math, Not the Supply Chai…",
-      "source": "Logistics Viewpoints",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObHRabkpvUjRWbHJUVDMxTVA4NF9hZlBCWTNWRllJUnhnd3QyNWJoVEwwdUJEcHEtWkRDSkpsUVhKQXlzVHAwUzZHMlduaWplaDJURllnbzR3SW5tdnhNQmwwMUFVY28xMEl3dnRaeUc3amt2X08wdGlKcnd6ZkNrRTkzRFMtZ1o5RmpLSlFMY051S3pMYXo4aGhlMjBtU1BfMVdoRG5xY2RKbmVRVUZLMmliLWphVGdpWTM3X0FkQ2Y?oc=5"
+      "title": "Refunds From the Trump Administration’s Unlawf…",
+      "desc": "Refunds From the Trump Administration’s Unlawful Tariffs Are a Windfal…",
+      "source": "Center for American Progress",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPczU3MlNfSHJXbHpmelQxNVhHY2JsTE41RktRM1U1QVJJdWJLWjdKaGFRWElBOE1QM3lOT0NjdjRpQ3hEaEZpMVZhU0g0OE1HYTRoU1ZtTTR3ZTZtSXd4ekdsbUVrSFJYemhhX1VpUnd0VGxvZWlydlVjXzdDUVczalNORnM0YnB0NlhZZmgya1d0ZVpsa19HblRGY0Myajk2bXQtSDJrSDlaNEZlOXc3RjRkRGdySklqUkhVUzZqLW9ERVQ0aXRWQ3U2VUlDcXpxY1F4a1JDdEdfakVRNzlBM1BLNkljY1J4ZHRwWWtBelRhNUk0a1VFdTJBaHFwQmNDcHc?oc=5"
     }
   ],
   "country_profile": {
