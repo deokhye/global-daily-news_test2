@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-06T10:35:59.577168+09:00",
-  "generated_at_display": "2026-10-06 10:35 KST",
+  "generated_at": "2026-10-07T09:13:55.568980+09:00",
+  "generated_at_display": "2026-10-07 09:13 KST",
   "exchange_rate": {
-    "current_rate": 1343.68994140625,
-    "change_pct": 0.08,
+    "current_rate": 1340.3800048828125,
+    "change_pct": -0.25,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1343.69
+      1340.38
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "NBC News",
-      "title": "New Supreme Court term begins with justices stumped by climate change case",
-      "summary": "New Supreme Court term begins with justices stumped by climate change…",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU1FnOFdJSE5xQXFjdUJTaFFpNG51S0JLeVhIWE4zR3BnYW1pdXlFZ1R0RzJYTENIVnUyaEZELXJFZWljVTNVMHE5OXV5dW5LZl9iSTRlTFRUYVZlZF9ESG02eUl0ZUhwVk5ralJxT2NzRFNtUmRqYnNnVjJqOGVycG1XQVFWOUZmb25aakFPUE9yWWpQVjNRdzRUeWJRaVFRWmVJZC11X2RuX3k5aDMwdzBacHRLQzFycnFsMEhZWEZOSGstTUE?oc=5"
+      "source": "The New York Times",
+      "title": "Christa Pike Regains Consciousness After Her Failed Execution",
+      "summary": "Christa Pike Regains Consciousness After Her Failed Execution&nbsp;&nb…",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VSjItM3U3SVF6Z2lyTGlFaHVqWmdBS2N0M1gtY195elAxNWY3LXhPdGNHMGlPTDNjejBsRThVZENYckI1bWt2RE9aTlZydGpBblYyXzZyeXpaY0xqbEFwOTJUa3ROZkhOMEZXQzlQY09Uems?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "AP News",
-      "title": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns",
-      "summary": "AI industry insiders voice alarms to NYC council as local governments…",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNEQ1Um5Da0s1emxRTkc3eGh2bVZRZUNCYTROaFVkbWpPVC1RMlhpMm9sVU1kM19ubHowSDlZTjJHWmxQc2ctOHpLemZuYnJjMFlPY045c05VbEpIdHVxeUVPZThFM0hSeEZHZm5aMFM2MHJoVmJOY3pmNGgxVFN0cy00NFJKa3ZaWERxdHRFSnJvWFdOSmMwdjM3elFuWkJ3SHQ3U2hwdw?oc=5"
+      "source": "WSJ",
+      "title": "Stock Market News, Oct. 6, 2026: S&P 500 Hits New Record High",
+      "summary": "Stock Market News, Oct. 6, 2026: S&amp;P 500 Hits New Record High&nbsp…",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0g3Vl9oNWVWc0JnemQ3U2xLOXJ0SDZZSVljcEtiaExTRTgtTzB1a3puLURIQjJJSmJvbG1XbE9jVWlKSTdfWFpSblZIUzhiTkVITkFpcm1XT1NMVVVQVHRZaXJoejh4UG5HaDRWQWNHclgtUmIxX1g2czJ3SUhFZEVlSGtrR1U?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "Axios",
-      "title": "Trump: U.S. willing to help Russia with potential pneumonic plague outbreak",
-      "summary": "Trump: U.S. willing to help Russia with potential pneumonic plague out…",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMHpMczZDZkVnU2xJTHItTDZQYlRnWG03QXNLeFBRQ01EWlctdElOelBxMG1zT29wWHVRUi1HUDhJVllTS1JrT0dDZWlSSXJETV83SGdUbW5rMnB5dFVCR19BdTBaMi16TG5PYlRpWTVsSGxDNDB2bkhCNVhlM1lPcDJJc0Q5dw?oc=5"
+      "source": "NBC News",
+      "title": "France shuts down nearly 900 schools as violent education protests escalate",
+      "summary": "France shuts down nearly 900 schools as violent education protests esc…",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcVgxMUdwSXhTZzFhUmJOYW1rZmRQRV93cDhacEdyRE9vLXZDYkYxTjJSWi1yZkZpTW5hLVBjSkJXaEstbXJjOTBNdFBWZ2RwX21rUUNKb3VVT2x2Z04xSmlXTVNDcnNQQ3IyYXVTVHptalNZOWZuTmR6MmYyZ01NcUh5XzZubVRnTnI2bnI2N3NXaEtxUzljQXNSX1VyX3p5a1pmSzkxaHVPVWdXZnc?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "SBU News",
-      "title": "Pavlos Kollias Named a Fellow of the American Meteorological Society",
-      "summary": "Pavlos Kollias Named a Fellow of the American Meteorological Society&n…",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVldaNTQxVEdreUZsWFVSSXRVMmFfQUxmNG9KamdVOWhMZEhtcHhPM0xzYVR4dTBzcVY0MFItV0lCSHFQLXBYNlRXMEo3czRNcllnVVJZbDVyR1dtUTZ5S01PMTJuNk42dTJ2bW9POGFBU2RlcUlkcHhVNTM1Zmh5ZnY4MUVkazN4eTR6bUJlUEY0cVZfdElXem5jOVdoMGpFNFJMYk5Db3hEZFlJ?oc=5"
+      "source": "KFF",
+      "title": "Global COVID-19 Tracker",
+      "summary": "Global COVID-19 Tracker&nbsp;&nbsp;KFF",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BNUdBZUtLVlMtQmUzTjBxelgyWHdvbG9QRDhQdmZ2aEJvbXY5R1JSb3VJUXpBZ1FuY003NVY0VnMydTRDZVo2VTlBSkk5NWVPdndWbVdZN2pVa3haQ0tYZG1jRQ?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,19 +73,19 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Auto Manufacturers Walk Supply-Demand Tightrop…",
-      "desc": "Auto Manufacturers Walk Supply-Demand Tightrope&nbsp;&nbsp;JD Power",
-      "source": "JD Power",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVpJOEplVkM2TWFRMHRyR3JuU1Z5SlRKcVZVUmg0RHE4dnhWVnhHRFd3Y0ZhOVlZUE1lWS1ITTZ0VVFYeEtVdFFhaWd5cDV3YmE4bE9PUEZRTldxd0VhVUdkdXlNXzhwNnBmYWkxUC1fTHc3b2FQVUJwYXNYeTVBb2oxUDVEcjJkSEFMY0lMUQ?oc=5"
+      "title": "Germany Tire Market to Reach USD 6.54 Billion…",
+      "desc": "Germany Tire Market to Reach USD 6.54 Billion by 2035 as Premium OEM F…",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPeTdjYThiZVJyemVLS0E3ZHBsemNDb2pTQWNZa2RUWEtZejhCQnp4dTBVblpmYmtHNE5LNVhfQXB4WDN0V0drcUVCWUZlZk01aTNtRXM0TnhBWm5pTExmX18wRkpOMGVzOGtFS0tVYlZIdjB0azZCMUFwRmNqelV6czdTd2JXSnlTOGRHNFFLMW5aX3VPcG1OMnJSZ1FDZGk0UlRUZWNLakVLNEU2cHd1WnViZ3RKZUQySXIwZjRQdms0V3pzNXc4X2JHQUN0LTZCc29MOGs3NzlNOU41ME9nbndUTUhOVjRsd2d0MjJzajAzT2JmUzBBbElzQjdCdElTTFdwQ1YxVm5Td3d2MWY3dDlmQnVYVEswSWJ5aUpXczZhRHRqZ0Rqc0d4TW9odlIwNG1zbl8zcXo5MmhwRHo4dGZ3?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "What’s happening this week in economics?",
-      "desc": "What’s happening this week in economics?&nbsp;&nbsp;Deloitte",
-      "source": "Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5"
+      "title": "US manufacturing steady in September, input pr…",
+      "desc": "US manufacturing steady in September, input prices increase&nbsp;&nbsp…",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTE5NRDZ2ZmEtOWRzU0lSeDZDUUIxTEI4d085ZGxCVE1FY2pab1VGdVZaWEV6a3I1cjg5YnBDWUxIczdYSWxMSDNjYmNVT0J5MWx4RWhiamhRLS1CbG5TUl94Z0ZUMXNoaFhmX0k3V1J4ZTl5ekdaWnpLdXpickxpc195Tk13dC1XeWlRT1BtWmJFam9SRXplS1d4aHhkR3prUmc?oc=5"
     },
     {
       "category": "MANAGEMENT",
