@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-07T09:13:55.568980+09:00",
-  "generated_at_display": "2026-10-07 09:13 KST",
+  "generated_at": "2026-10-08T09:33:38.712160+09:00",
+  "generated_at_display": "2026-10-08 09:33 KST",
   "exchange_rate": {
-    "current_rate": 1340.3800048828125,
-    "change_pct": -0.25,
+    "current_rate": 1338.47998046875,
+    "change_pct": -0.09,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1340.38
+      1338.48
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The New York Times",
-      "title": "Christa Pike Regains Consciousness After Her Failed Execution",
-      "summary": "Christa Pike Regains Consciousness After Her Failed Execution&nbsp;&nb…",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VSjItM3U3SVF6Z2lyTGlFaHVqWmdBS2N0M1gtY195elAxNWY3LXhPdGNHMGlPTDNjejBsRThVZENYckI1bWt2RE9aTlZydGpBblYyXzZyeXpaY0xqbEFwOTJUa3ROZkhOMEZXQzlQY09Uems?oc=5"
+      "source": "The Washington Post",
+      "title": "Judge orders Tennessee to preserve evidence in failed execution of Christa Pike",
+      "summary": "Judge orders Tennessee to preserve evidence in failed execution of Chr…",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNF9RaWdSQTZsQVVQYkdlQ3Y4a1JuV0hRNElHYmpJNjZmaDJrT3Q5TS1WODlsY2VMZVNQVkFURm5ZNC1EWWpBaHlUZXRKU3NTS3NlTEVoMFVlSXhQc1dUb1ZBUUtudldPZS04UDRZaDY2VTdqbXptSG1IXzVSMUNXaUp4TC1haFlocE1aVFJ2NXpYemlSd0x3TWVGNEo4Mm5kampGbnE0c2xyUHYyXzNCYlNkNUc2NU9vSlQzTUx3SQ?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "WSJ",
-      "title": "Stock Market News, Oct. 6, 2026: S&P 500 Hits New Record High",
-      "summary": "Stock Market News, Oct. 6, 2026: S&amp;P 500 Hits New Record High&nbsp…",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0g3Vl9oNWVWc0JnemQ3U2xLOXJ0SDZZSVljcEtiaExTRTgtTzB1a3puLURIQjJJSmJvbG1XbE9jVWlKSTdfWFpSblZIUzhiTkVITkFpcm1XT1NMVVVQVHRZaXJoejh4UG5HaDRWQWNHclgtUmIxX1g2czJ3SUhFZEVlSGtrR1U?oc=5"
+      "source": "Bloomberg.com",
+      "title": "Fed Minutes Show Hawkish Unity Behind September Rate Hike",
+      "summary": "Fed Minutes Show Hawkish Unity Behind September Rate Hike&nbsp;&nbsp;B…",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2dJM2Q2bTVvQVNpNUNzSTgzNHJCbWc3Ync3aXEyYmdSVHo1b1JZNHB1UXdGYVY5YWpPTHpDdWtQYjdtbnZOa1k0SzVIeV9SS0ljelRxbUdIWXB5NHBtdk5lUDM1ZWQyUHlNSjFlbVh6Q1lHbm9jdUJCRllMZXdnVWluOHRwV2x4WUdZdHBkU2NuY3BJNWtYS1puYWVtTTQySDR1QXJEaGJrTng2?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "NBC News",
-      "title": "France shuts down nearly 900 schools as violent education protests escalate",
-      "summary": "France shuts down nearly 900 schools as violent education protests esc…",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcVgxMUdwSXhTZzFhUmJOYW1rZmRQRV93cDhacEdyRE9vLXZDYkYxTjJSWi1yZkZpTW5hLVBjSkJXaEstbXJjOTBNdFBWZ2RwX21rUUNKb3VVT2x2Z04xSmlXTVNDcnNQQ3IyYXVTVHptalNZOWZuTmR6MmYyZ01NcUh5XzZubVRnTnI2bnI2N3NXaEtxUzljQXNSX1VyX3p5a1pmSzkxaHVPVWdXZnc?oc=5"
+      "source": "The New York Times",
+      "title": "Mamdani Draws Anger With Oct. 7 Statement Focused on Palestinians",
+      "summary": "Mamdani Draws Anger With Oct. 7 Statement Focused on Palestinians&nbsp…",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM0wtYlAwMGZyTUNIZ0hEVEtMTDJobUpHMlN0RGFFMnpZWVNydTRhaUYwY1RLLWxRVmUxbGZQZ0xjaXg3dFREaGViamdxWEp4aXZKdmJBcHZNTlBHX0E5bWJDd1RnNFFaSnBMaVNtYWdyemRBVFZEVlNGcUNPSURuRTRQMXRSSjBWendmZkhB?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "KFF",
-      "title": "Global COVID-19 Tracker",
-      "summary": "Global COVID-19 Tracker&nbsp;&nbsp;KFF",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BNUdBZUtLVlMtQmUzTjBxelgyWHdvbG9QRDhQdmZ2aEJvbXY5R1JSb3VJUXpBZ1FuY003NVY0VnMydTRDZVo2VTlBSkk5NWVPdndWbVdZN2pVa3haQ0tYZG1jRQ?oc=5"
+      "source": "Asia Society",
+      "title": "The China-U.S. Rapprochement",
+      "summary": "The China-U.S. Rapprochement&nbsp;&nbsp;Asia Society",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WYXNXNWNqdG1hZnpSbm04T0xmMGw4MWRqYU9ScWxLNGhHd0FqSURPY3FSNW1jQ2d4dDR5MDVUejhHS2dnNXlFMDNEOW40Y0E2Y242NzhqSVQ2NVdLRHhtSmh0blJfdVZ6b1lIc3I3ZVI?oc=5"
     }
   ],
   "hr_trends": [
