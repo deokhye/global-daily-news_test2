@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-08T09:33:38.712160+09:00",
-  "generated_at_display": "2026-10-08 09:33 KST",
+  "generated_at": "2026-10-09T09:48:46.209809+09:00",
+  "generated_at_display": "2026-10-09 09:48 KST",
   "exchange_rate": {
-    "current_rate": 1338.47998046875,
-    "change_pct": -0.09,
+    "current_rate": 1344.1400146484375,
+    "change_pct": 0.38,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1338.48
+      1344.14
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The Washington Post",
-      "title": "Judge orders Tennessee to preserve evidence in failed execution of Christa Pike",
-      "summary": "Judge orders Tennessee to preserve evidence in failed execution of Chr…",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNF9RaWdSQTZsQVVQYkdlQ3Y4a1JuV0hRNElHYmpJNjZmaDJrT3Q5TS1WODlsY2VMZVNQVkFURm5ZNC1EWWpBaHlUZXRKU3NTS3NlTEVoMFVlSXhQc1dUb1ZBUUtudldPZS04UDRZaDY2VTdqbXptSG1IXzVSMUNXaUp4TC1haFlocE1aVFJ2NXpYemlSd0x3TWVGNEo4Mm5kampGbnE0c2xyUHYyXzNCYlNkNUc2NU9vSlQzTUx3SQ?oc=5"
+      "source": "AP News",
+      "title": "Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed",
+      "summary": "Pentagon says the firing squad execution of Fort Hood shooter Nidal Ma…",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFlfYXBjMDRKS0YzTHZFdFBOSGE4bGxpTEt1aXcxeHlSbktpNjVPNUd4QVVOYjlCNUd5NnBBS3hldGlhYXc5ZlJFWWZCa0JqcUQ0dUZETzJTeC1idVU0eDRkNlRBLWtWNmtTSi1RWFFfb2pKVnRrQjBZTnRpZk85dWhxZi1TSXRLVm9BdHhfbVBaOWRVTVIxUTM4a1o?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Bloomberg.com",
-      "title": "Fed Minutes Show Hawkish Unity Behind September Rate Hike",
-      "summary": "Fed Minutes Show Hawkish Unity Behind September Rate Hike&nbsp;&nbsp;B…",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2dJM2Q2bTVvQVNpNUNzSTgzNHJCbWc3Ync3aXEyYmdSVHo1b1JZNHB1UXdGYVY5YWpPTHpDdWtQYjdtbnZOa1k0SzVIeV9SS0ljelRxbUdIWXB5NHBtdk5lUDM1ZWQyUHlNSjFlbVh6Q1lHbm9jdUJCRllMZXdnVWluOHRwV2x4WUdZdHBkU2NuY3BJNWtYS1puYWVtTTQySDR1QXJEaGJrTng2?oc=5"
+      "source": "AP News",
+      "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud",
+      "summary": "The Trump administration is suspending Microsoft from a green card pro…",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "The New York Times",
-      "title": "Mamdani Draws Anger With Oct. 7 Statement Focused on Palestinians",
-      "summary": "Mamdani Draws Anger With Oct. 7 Statement Focused on Palestinians&nbsp…",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM0wtYlAwMGZyTUNIZ0hEVEtMTDJobUpHMlN0RGFFMnpZWVNydTRhaUYwY1RLLWxRVmUxbGZQZ0xjaXg3dFREaGViamdxWEp4aXZKdmJBcHZNTlBHX0E5bWJDd1RnNFFaSnBMaVNtYWdyemRBVFZEVlNGcUNPSURuRTRQMXRSSjBWendmZkhB?oc=5"
+      "source": "The Washington Post",
+      "title": "At least 30 dead in Russian bus strike as Moscow closes in on Ukraine’s ‘fortress belt’",
+      "summary": "At least 30 dead in Russian bus strike as Moscow closes in on Ukraine’…",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazh5VndTZFZtUmdJejlzMFI4NmlaRl84dENCeDRqaXFxcWswYVhYRzJSaUhLc3M0a09aNUJ6eURnN05qbGRPSEJYc25RSXJYOEQzYjlac20yNFQzZ2dWNjZVdEp4RXNNOUhBaGpzZS15YlFyNVdUNkZxdUNzSXRPTG5WNWtCQTRYRjdpNVgzandVRjVmVGpPanJzZVo5VE5pd2dib0JXMEhESk5DZXV4Y0JmSVk4eXNjX2c?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Asia Society",
-      "title": "The China-U.S. Rapprochement",
-      "summary": "The China-U.S. Rapprochement&nbsp;&nbsp;Asia Society",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WYXNXNWNqdG1hZnpSbm04T0xmMGw4MWRqYU9ScWxLNGhHd0FqSURPY3FSNW1jQ2d4dDR5MDVUejhHS2dnNXlFMDNEOW40Y0E2Y242NzhqSVQ2NVdLRHhtSmh0blJfdVZ6b1lIc3I3ZVI?oc=5"
+      "source": "Cleveland Browns",
+      "title": "Browns players brighten patients’ days by visiting the American Cancer Society Hope Lodge",
+      "summary": "Browns players brighten patients’ days by visiting the American Cancer…",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3RoWEwtT2pxVU9hZUE1b1ZkVmlhcHdfN2VtMUZUUzBrWE5zNi1aZEdHeWVxVlY5bmw1UUh3Mmw2MC1XRVJwN0p1ekUxWVVLZU0yUDNDMTRpektaRjU2dVJhV0Y1b2NCTk9RZkpCdVliU1VDU0ZGQXpyTVI2WWg1Wl9WRnZlRkY3c2FtZHlKWjZlZ3NUc3k0V0ItQXg3YWh4dXp1WDd5Tlk3dkNJQ283UGM0ZExDM1hFeXlMM1FhZHRBR2M?oc=5"
     }
   ],
   "hr_trends": [
@@ -75,17 +75,17 @@
       "tag_class": "bg-rose-100 text-rose-700",
       "title": "Germany Tire Market to Reach USD 6.54 Billion…",
       "desc": "Germany Tire Market to Reach USD 6.54 Billion by 2035 as Premium OEM F…",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPeTdjYThiZVJyemVLS0E3ZHBsemNDb2pTQWNZa2RUWEtZejhCQnp4dTBVblpmYmtHNE5LNVhfQXB4WDN0V0drcUVCWUZlZk01aTNtRXM0TnhBWm5pTExmX18wRkpOMGVzOGtFS0tVYlZIdjB0azZCMUFwRmNqelV6czdTd2JXSnlTOGRHNFFLMW5aX3VPcG1OMnJSZ1FDZGk0UlRUZWNLakVLNEU2cHd1WnViZ3RKZUQySXIwZjRQdms0V3pzNXc4X2JHQUN0LTZCc29MOGs3NzlNOU41ME9nbndUTUhOVjRsd2d0MjJzajAzT2JmUzBBbElzQjdCdElTTFdwQ1YxVm5Td3d2MWY3dDlmQnVYVEswSWJ5aUpXczZhRHRqZ0Rqc0d4TW9odlIwNG1zbl8zcXo5MmhwRHo4dGZ3?oc=5"
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdE9NNkltYnVIUTZNTFlVMENfT3lZRXRXUkZNVmNOUEo5cm5uMUR4QU5rTjdaUTJqaGxMbjlwS0dCemJyZUxCMWFpWnNHRi1CYnFjY0dfTmpnZG5CT1lrVmhPSHg2TnpqUmQwcmhQd0cwRXlIb3FBcU9qbGZqOU5CMk5TRXFqR1FKb0RocXVjZzJuNW1SS044Q0FB?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "US manufacturing steady in September, input pr…",
-      "desc": "US manufacturing steady in September, input prices increase&nbsp;&nbsp…",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTE5NRDZ2ZmEtOWRzU0lSeDZDUUIxTEI4d085ZGxCVE1FY2pab1VGdVZaWEV6a3I1cjg5YnBDWUxIczdYSWxMSDNjYmNVT0J5MWx4RWhiamhRLS1CbG5TUl94Z0ZUMXNoaFhmX0k3V1J4ZTl5ekdaWnpLdXpickxpc195Tk13dC1XeWlRT1BtWmJFam9SRXplS1d4aHhkR3prUmc?oc=5"
+      "title": "What’s happening this week in economics?",
+      "desc": "What’s happening this week in economics?&nbsp;&nbsp;Deloitte",
+      "source": "Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5"
     },
     {
       "category": "MANAGEMENT",
