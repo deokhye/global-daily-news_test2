@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-10T09:23:14.831481+09:00",
-  "generated_at_display": "2026-10-10 09:23 KST",
+  "generated_at": "2026-10-11T08:57:46.851252+09:00",
+  "generated_at_display": "2026-10-11 08:57 KST",
   "exchange_rate": {
-    "current_rate": 1340.02001953125,
-    "change_pct": 0.07,
+    "current_rate": 1340.9000244140625,
+    "change_pct": -0.16,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1340.02
+      1340.9
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "Axios",
-      "title": "Exclusive: Zelensky tells Axios Trump's diesel deal with Putin \"not fair and not honest\"",
-      "summary": "Exclusive: Zelensky tells Axios Trump's diesel deal with Putin \"not fa…",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3ZsNzRjR1JGMG41Y2F4Z2N6dHljbzRFaUg3OTNMZEwzajBxUlRuZWQwbmlwNmxjOWUtWGt5eXVBT1VGYXh3NEN4eHcwODduSEh1V3RtdlZFUVdFZnhSMVhwQzloOThsdk1HcXpQRFl3YU0yc2RqWHdYMVBNZXZvTw?oc=5"
+      "source": "BBC",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "summary": "Four dead and thousands without power after Hurricane Isaias lashes US…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9waTZsVlNtdUJ0VTNrSW5fdHhGNDlza08wTWN3c2h2c2F6dkF1WEFGajV0U3ZfZXJReFNrNFlKTWNsRWVpVXpGR3lobzVfQW1CRmtGQjVmdnYtZWc?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "MarketWatch",
-      "title": "Here’s how Treasury yields could rise to 6% — even without market upheaval",
-      "summary": "Here’s how Treasury yields could rise to 6% — even without market uphe…",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2F6QnM5MzEtNWF0emJZOFRwZzA4NGh4WWhaTGlnVFdRcV9HRDJKcU9Hc0VFSDNiQTNyRlpEWUZCd1NVYVhqRl80Nk9NZ1lKMUI1X3VlMVIwLWtIaUdZS2xTd0taT2JWNnpWTkVjaUZ2NEZqQm11dHN2c1pCTDZyUjQ5bkIya3BaNENkTDN5QTI0bW9HSXpVZFQxTlByRkRWaUFrREo1X18tY1YyUEstRFB5OA?oc=5"
+      "source": "The Hill",
+      "title": "Philadelphia police receive false homicide tip from Anthropic AI model",
+      "summary": "Philadelphia police receive false homicide tip from Anthropic AI model…",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDd5WGx1ZzZpQU5XblFlR1VXUkZIeXQ2NU9qb3VicEZZaDJLakJrVHo3cnFlU21zLVkzaHNHWFpwRVU2cWZiSFlvaFpRNER1OFFsYVlsUWdwM19PUWF5R090cTVYOUItcW5Fa1EtNUFmV0N3Y0pPQXRvMlIwZGNEa2lReUfSAYoBQVVfeXFMTy05SzV2eFh0VEdUMkRBQTdmbkRtSS0wLTdBbDlQUDJ6Y1VtOHpiTlJiM3UtaXM2ZWtrNEFlU0E5bFF5U1B0aUNrclU3cU10UklJVWlJc3RSalBvVDJZYU5HWUZFbkZBOXZMMnpUeVBkbkxTT1VtZ0twQUhGNkY3YUR5b1J5dzl5S0Fn?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "The New York Times",
-      "title": "7.7-Magnitude Panama Earthquake Sets Off Series of Aftershocks",
-      "summary": "7.7-Magnitude Panama Earthquake Sets Off Series of Aftershocks&nbsp;&n…",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSjk5Q1BOX1YzazBLRXlsMjU1NU15VmVpbFI0MjhpZFpadm5PNTBIMnV0ZXBsWUVpb2VOdjBDMG52d1JnYW92T2NIeHlIdV9lTmZ6bDFDTXkxckZYSmN0Q0pVVUpGUnBRbHE4WXRnbHhSNTVNMDJtMVk2aUJyM015LTUyWEtfaXM?oc=5"
+      "source": "AP News",
+      "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+      "summary": "Attack on Riyadh airport killed 12 people and wounded over 300 more, S…",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGZwcDY1YlloN3oyNzFVMFZTcExnWXZqTzVQNEFkNnBoN2xGR0FEWEVjeUU2OVFEQ21hLUtXRzF2WHVnMzFuVUoxWGQzUFBVTjV2cWNmeFhmWTVvQ19iZ0xxV1c2OXRWMjBFOURBSzc2TWlaQUxENnpCU1ptX0Rna0E4Sl8zNE5aRmpNVkhrclRWUFdIcElCMg?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "UC Santa Cruz - News",
-      "title": "US Higher Education and the Future of Society: A panel discussion",
-      "summary": "US Higher Education and the Future of Society: A panel discussion&nbsp…",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPamhLYjhRd2VKT0E3VXR4eUlMdEFGY19nY2FVWEp0Tm1DTktlcnJnMkZLN3RzQmRrSHVuMWVmTGFoYjMyMWhKV2hSVjNpSDU3N2lvRHp6cDBGMm1VQ0ZpY3lGWG1LX1hUWFRhQU5PbmxRLWdVczdDSlFpSWlHRFh0VkNxSEVVN3BDRm1ZZ1psNjk0Rjd0dkhQUjhnaw?oc=5"
+      "source": "New York Post",
+      "title": "'Criminal illegal' migrant shot by ICE terrorized NYC apartment building with machete: 'Menace to society'",
+      "summary": "'Criminal illegal' migrant shot by ICE terrorized NYC apartment buildi…",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcGdMRjhHNHRQYVFUUU51azBJUTBtM291YVA1ZHVwZlpTNWlFU3FBSjdXemZlOFNPd3RlcHF5dXoyVVpQTFh6SloxeS13RW1EWDI5cVFvMHVZQWx6UGRfd2ZGNnJvU1lySEhrSG9kbml4SVd0VW5sakpNU0drTEtLMGtCX0VWaUdGT3VEMHFPRGRVZE93MWE3LU1yaXAyaHNfaXluU0xVQmhWMWQtbE9aTFo2WE1Kd0tzVVpTRTJ2bmtjeWNOYm55eVNlYVotNmZwLTRQc0tJSXhaUC1VVnNDek5yWnlJRndHWDZR?oc=5"
     }
   ],
   "hr_trends": [
