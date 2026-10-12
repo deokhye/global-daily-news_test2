@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-11T08:57:46.851252+09:00",
-  "generated_at_display": "2026-10-11 08:57 KST",
+  "generated_at": "2026-10-12T09:05:57.327234+09:00",
+  "generated_at_display": "2026-10-12 09:05 KST",
   "exchange_rate": {
-    "current_rate": 1340.9000244140625,
-    "change_pct": -0.16,
+    "current_rate": 1339.31005859375,
+    "change_pct": -0.27,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1340.9
+      1339.31
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "BBC",
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "summary": "Four dead and thousands without power after Hurricane Isaias lashes US…",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9waTZsVlNtdUJ0VTNrSW5fdHhGNDlza08wTWN3c2h2c2F6dkF1WEFGajV0U3ZfZXJReFNrNFlKTWNsRWVpVXpGR3lobzVfQW1CRmtGQjVmdnYtZWc?oc=5"
+      "source": "The New York Times",
+      "title": "Hurricane Isaias in Video and Pictures",
+      "summary": "Hurricane Isaias in Video and Pictures&nbsp;&nbsp;The New York TimesIs…",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX01WdllNYXZrbWp6YTBmU0JrZkg2LVphOW9fQ242dGtZdjRQTXI2eGp6NGVoM3pYX2NidkFKVDIyOU9aQUdncFhtd3ZwaUE3c25DOU5nX1J6RUQxcDFiN2pqUGsyUDFLbF9rYWhJOG9tRnd0SnpDTHNzN0RDLUNoai05dk1xdw?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "The Hill",
-      "title": "Philadelphia police receive false homicide tip from Anthropic AI model",
-      "summary": "Philadelphia police receive false homicide tip from Anthropic AI model…",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDd5WGx1ZzZpQU5XblFlR1VXUkZIeXQ2NU9qb3VicEZZaDJLakJrVHo3cnFlU21zLVkzaHNHWFpwRVU2cWZiSFlvaFpRNER1OFFsYVlsUWdwM19PUWF5R090cTVYOUItcW5Fa1EtNUFmV0N3Y0pPQXRvMlIwZGNEa2lReUfSAYoBQVVfeXFMTy05SzV2eFh0VEdUMkRBQTdmbkRtSS0wLTdBbDlQUDJ6Y1VtOHpiTlJiM3UtaXM2ZWtrNEFlU0E5bFF5U1B0aUNrclU3cU10UklJVWlJc3RSalBvVDJZYU5HWUZFbkZBOXZMMnpUeVBkbkxTT1VtZ0twQUhGNkY3YUR5b1J5dzl5S0Fn?oc=5"
+      "source": "WSJ",
+      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
+      "summary": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Bil…",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "AP News",
-      "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
-      "summary": "Attack on Riyadh airport killed 12 people and wounded over 300 more, S…",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGZwcDY1YlloN3oyNzFVMFZTcExnWXZqTzVQNEFkNnBoN2xGR0FEWEVjeUU2OVFEQ21hLUtXRzF2WHVnMzFuVUoxWGQzUFBVTjV2cWNmeFhmWTVvQ19iZ0xxV1c2OXRWMjBFOURBSzc2TWlaQUxENnpCU1ptX0Rna0E4Sl8zNE5aRmpNVkhrclRWUFdIcElCMg?oc=5"
+      "source": "BBC",
+      "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire'",
+      "summary": "Trump says Ukraine and Russia have agreed 'energy ceasefire'&nbsp;&nbs…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04QUtQbDZLV05uX0dPcEwxc3poa1BGZGVYdmVjM2NzQ3pUMkowOVd6ZzBMTGRZNG9KVlhUNHNqR3o1SG5sel96Rnd3YVJQMjEwZ09zRnoxSFcxQ2s?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "New York Post",
-      "title": "'Criminal illegal' migrant shot by ICE terrorized NYC apartment building with machete: 'Menace to society'",
-      "summary": "'Criminal illegal' migrant shot by ICE terrorized NYC apartment buildi…",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcGdMRjhHNHRQYVFUUU51azBJUTBtM291YVA1ZHVwZlpTNWlFU3FBSjdXemZlOFNPd3RlcHF5dXoyVVpQTFh6SloxeS13RW1EWDI5cVFvMHVZQWx6UGRfd2ZGNnJvU1lySEhrSG9kbml4SVd0VW5sakpNU0drTEtLMGtCX0VWaUdGT3VEMHFPRGRVZE93MWE3LU1yaXAyaHNfaXluU0xVQmhWMWQtbE9aTFo2WE1Kd0tzVVpTRTJ2bmtjeWNOYm55eVNlYVotNmZwLTRQc0tJSXhaUC1VVnNDek5yWnlJRndHWDZR?oc=5"
+      "source": "Variety Australia",
+      "title": "US Box Office: ‘The Social Reckoning’ Flops With $5.5 Million Debut, ‘Other Mommy’ Tops Box Office With $27.5 Million",
+      "summary": "US Box Office: ‘The Social Reckoning’ Flops With $5.5 Million Debut, ‘…",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnd0bG9oZDZjemNLTlBmcUU4VUFPajJkVXpTREJqQmF4R0RWcXdkMWNQeWw4bU9aX2N3LUZ3RjRJTjQ4eWFFMVN5TGRXNmZsalpOTmdHMjN4RHRseURhUkxYai1YcjRxUXFPb3N6NHJseXBTVXMxWVBFYnowR1V5cFY3cy1FNWZYRHB4cUo2WnZYWVlXNFlrbTRlQ1c?oc=5"
     }
   ],
   "hr_trends": [
@@ -93,7 +93,7 @@
       "tag_class": "bg-amber-100 text-amber-700",
       "title": "Hot Topics in International Trade",
       "desc": "Hot Topics in International Trade - October 2026 - U.S.-China “30-for-…",
-      "source": "JDSupra",
+      "source": "JD Supra",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb20zYjVmR3BCUkVqbDBKaWlEMVU3T2NGVkt0cE4zOTl4MXdmMEVkRlZNeFFLVkpPT0l3eU5EWVJkeXcxRHQzdXM4VkNtaWlEQm90OE5BLUM0TE5MRXcwVEFHc2FHYXJ2ZDB6Sm1QTk5VaUpiWVptc2pGSDFCUUFyZGlB?oc=5"
     }
   ],
