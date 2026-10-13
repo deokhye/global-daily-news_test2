@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-12T09:05:57.327234+09:00",
-  "generated_at_display": "2026-10-12 09:05 KST",
+  "generated_at": "2026-10-13T11:18:49.251661+09:00",
+  "generated_at_display": "2026-10-13 11:18 KST",
   "exchange_rate": {
-    "current_rate": 1339.31005859375,
-    "change_pct": -0.27,
+    "current_rate": 1339.280029296875,
+    "change_pct": -0.28,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1339.31
+      1339.28
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The New York Times",
-      "title": "Hurricane Isaias in Video and Pictures",
-      "summary": "Hurricane Isaias in Video and Pictures&nbsp;&nbsp;The New York TimesIs…",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX01WdllNYXZrbWp6YTBmU0JrZkg2LVphOW9fQ242dGtZdjRQTXI2eGp6NGVoM3pYX2NidkFKVDIyOU9aQUdncFhtd3ZwaUE3c25DOU5nX1J6RUQxcDFiN2pqUGsyUDFLbF9rYWhJOG9tRnd0SnpDTHNzN0RDLUNoai05dk1xdw?oc=5"
+      "source": "AP News",
+      "title": "Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced'",
+      "summary": "Agents search Rep. Omar's Washington home in criminal probe as she vow…",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdzXzdVOVh5OVVkeXRrSlNpQXBuMTBWQzhqRDUtbG9uY1ZET0trR0xXNmlIQUhBY1hRS1BsVm8yRENMUE1MZTRxaEtsUmFoaEFUSXFuTXpqeVpqMHd5a1ZYOEtnT3ZvV1NhNmZYMUg0WnlGenFVal82aFp3c2psT25Fc0dRSUNWbkNobw?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "WSJ",
-      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
-      "summary": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Bil…",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5"
+      "source": "TechCrunch",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "summary": "Meta releases its first frontier model, Muse Wonder&nbsp;&nbsp;TechCru…",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkdnR0wyZkdNUGRYU2hGTDdfWTRncjBxeThHRUVhWXRndW5OYU1Ya3FJWEtCdWwwY2d0c1FEd29KWExNN2N1VkRCU01hVW9NYjE5UWFFV3MzNDRpREQ3ZWJVaEhZbXJkN2JEdlV0QXpYcWtETVNXYXFfU1NrWXN6RzI2VjhpcjNtdmhpdnBB?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "BBC",
-      "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire'",
-      "summary": "Trump says Ukraine and Russia have agreed 'energy ceasefire'&nbsp;&nbs…",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04QUtQbDZLV05uX0dPcEwxc3poa1BGZGVYdmVjM2NzQ3pUMkowOVd6ZzBMTGRZNG9KVlhUNHNqR3o1SG5sel96Rnd3YVJQMjEwZ09zRnoxSFcxQ2s?oc=5"
+      "source": "AP News",
+      "title": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire",
+      "summary": "Zelenskyy says Russia strikes energy facilities despite Trump claim of…",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYk9yd3EweHFPQ2doVnFxQmxCdEJxMmdBdF9FT2tzdExGZmR3eUo0TjFyTmU0azY4UEtmRW56djNGaERmMGdpcmNHZWRPcllwdEhPUVhsNjJqMzYxRko2dXA0VTBtdGZvYUdid1hZZkFMeGtJOGdVX1J0NUU5X29naUJaUVNxMG9LWEw2Q3prUHVTNTlyanVIbjFxOE80Y3oyNTlfX3VhT2U?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Variety Australia",
-      "title": "US Box Office: ‘The Social Reckoning’ Flops With $5.5 Million Debut, ‘Other Mommy’ Tops Box Office With $27.5 Million",
-      "summary": "US Box Office: ‘The Social Reckoning’ Flops With $5.5 Million Debut, ‘…",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnd0bG9oZDZjemNLTlBmcUU4VUFPajJkVXpTREJqQmF4R0RWcXdkMWNQeWw4bU9aX2N3LUZ3RjRJTjQ4eWFFMVN5TGRXNmZsalpOTmdHMjN4RHRseURhUkxYai1YcjRxUXFPb3N6NHJseXBTVXMxWVBFYnowR1V5cFY3cy1FNWZYRHB4cUo2WnZYWVlXNFlrbTRlQ1c?oc=5"
+      "source": "American Airlines",
+      "title": "Medal of Honor Recipients visit West Point, Fort Bragg and Naval Station Norfolk during Valor Tour 2026",
+      "summary": "Medal of Honor Recipients visit West Point, Fort Bragg and Naval Stati…",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdGZOUzl6S05lT3Y0Y0piRHlrazN4UC1PS2tEVmY3NkRZM2pKVXIyQmRDLWdQY1VDeTFWbmlnbjhiYmpiWU9adHV5NzJqcU1GRG1yRDdIejFZWlMxSGwweDVDOC1kTnpkdUViWk1IcjZFNGZ4bGQwSHNVT244YXN6VHZsNlBOdGJra2pFT1RfdDVOakpaRktNMHRKYUxPTmdPV3k4M1R0UUVnZnBJRFlBVWV0SzhRb1d3SERZXzBUOUFJTV9uTXdORkJhdVMzU2hMbmNuUTQzM0lsUnBWazlvelBPSG5ST3lLQTJGQWl5alRTblJVSWItN184QWEyOHM?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Germany Tire Market to Reach USD 6.54 Billion…",
-      "desc": "Germany Tire Market to Reach USD 6.54 Billion by 2035 as Premium OEM F…",
+      "title": "EV-Specific Tires Market to Reach USD 38.611 B…",
+      "desc": "EV-Specific Tires Market to Reach USD 38.611 Billion by 2035 as Global…",
       "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdE9NNkltYnVIUTZNTFlVMENfT3lZRXRXUkZNVmNOUEo5cm5uMUR4QU5rTjdaUTJqaGxMbjlwS0dCemJyZUxCMWFpWnNHRi1CYnFjY0dfTmpnZG5CT1lrVmhPSHg2TnpqUmQwcmhQd0cwRXlIb3FBcU9qbGZqOU5CMk5TRXFqR1FKb0RocXVjZzJuNW1SS044Q0FB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT0NZbTFuRlBod3lDRlQwTDdiSWpkWERuTWpRZkNpcGNBT3JPVDNGYkFuWThMaEV4Ql9BSXN3dFZYRlBNc0VKODVoMVVNR1VxQ2lzSEZlMnJGTXNyN3lrSHJtZ1gxbkxDRF8tRUVydVlTYTJyYW16cWJ2THRhWWlmUklpdlJKbUtrV3IzWmNMT2xpR18ydUM0MU9GWQ?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -91,10 +91,10 @@
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "Hot Topics in International Trade",
-      "desc": "Hot Topics in International Trade - October 2026 - U.S.-China “30-for-…",
-      "source": "JD Supra",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb20zYjVmR3BCUkVqbDBKaWlEMVU3T2NGVkt0cE4zOTl4MXdmMEVkRlZNeFFLVkpPT0l3eU5EWVJkeXcxRHQzdXM4VkNtaWlEQm90OE5BLUM0TE5MRXcwVEFHc2FHYXJ2ZDB6Sm1QTk5VaUpiWVptc2pGSDFCUUFyZGlB?oc=5"
+      "title": "Why Experts Think U.S. Trade Policy Causes Mor…",
+      "desc": "Why Experts Think U.S. Trade Policy Causes More Damage Than Good&nbsp;…",
+      "source": "Manufacturing.net",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEplVkE3ekJhTEJlZ0tUa0M0aG1WTHp5VENydmNLdkdpTlRpb24wSjdhZEJ1c3I4Yk5STk5EMnUxeS11MFNrQTVldTdnNFlHcGxmXzU3RWRWSGRqTmhnRmRDamZ4Z0FJdy1wUDFCNnhYVHZtU0FjMkJPZGpESXZpaHo5OURoY3RMaEYyZFNIalpJZnAwUUUtSFROdEZ6b0lsNmtCY2Z3UDdXVGlZeXFpM0JKSjJiVFhMcDhF?oc=5"
     }
   ],
   "country_profile": {
