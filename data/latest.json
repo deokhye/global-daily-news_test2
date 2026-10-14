@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-14T09:01:40.416363+09:00",
-  "generated_at_display": "2026-10-14 09:01 KST",
+  "generated_at": "2026-10-15T08:32:35.142147+09:00",
+  "generated_at_display": "2026-10-15 08:32 KST",
   "exchange_rate": {
-    "current_rate": 1340.6400146484375,
-    "change_pct": 0.49,
+    "current_rate": 1341.22998046875,
+    "change_pct": 0.07,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1340.78
+      1341.23
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "AP News",
-      "title": "Cornell suspends fraternity parties, gives state police role in investigating campus assault reports",
-      "summary": "Cornell suspends fraternity parties, gives state police role in invest…",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0hlOWdLdXpsRFVLdTZoNXN0NWxfMXlTSHRTRXBJa2xBeERmME5WMUhuWXlTc2RhNThCREt4ZjBmRngzbThSYnR6Q0ZVdEM4eHpMalpHTXo5dWxQN0d1WHFSTHViT1NJZzZNbWV3MjBsYVdhclBSMnZSOHJYUGRBcGVhcXRZYmwyaHM1ekV2NjNIQmlGeHpnNnZUajN4cVV5aC1n?oc=5"
+      "source": "CNN",
+      "title": "Exclusive: Judge limited Justice Department access to Rep. Ilhan Omar’s records in sprawling immigration fraud probe",
+      "summary": "Exclusive: Judge limited Justice Department access to Rep. Ilhan Omar’…",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjRfTGIxSkNQNTVSdU00U0k3MkxJUnBSVVlsM3pheTFXNlJSdzNiekR1MFJJM0dTRHBJN2VWSjJiTHAxLXRrWWdCUG9xUXdTbmxDV2o0LTJieVpXa0FKa2N0bUdocTZaVzhQWVRXMUVUQVFVSmdLcnhpSFlOX01rb0dVNTJESnZ3eDN5VWt5emJXNWlacVhzYy1hWThTN3NZcEkySEVLQ0YxNE5faEtEMkNUQW1oRkR2aU1Eeg?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "CNN",
-      "title": "Bank of America fined $1.2 billion by Treasury Department for money laundering and sanctions laws violations",
-      "summary": "Bank of America fined $1.2 billion by Treasury Department for money la…",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXZDakt4djJRcFNXcGMxNzVLOHFlNWJYZGhLRjUyMlh6bm5PeGN0clAwZ0NDaG9pelBBdlNXWU1ocXkxeUJoWmRPSWZMckpqTXZ2QWRLempabXdUX0pveVhGVXYwSl92VDJsR1NuZDRUeDNRY0xzaWVFTWUweEJCcHhB?oc=5"
+      "source": "Reuters",
+      "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
+      "summary": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worrie…",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "NPR",
-      "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
-      "summary": "Pope Leo has lung cancer, the Vatican announces after surgery&nbsp;&nb…",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdW9FYzVTSU8zQUpvcVIzeERHbkVSZjZjV0N3VUFjRlduVmluUE1VdVVQd1lhbWRrSmg2T0c3UmtCVkViUm5DZ1BaOTYwQmlPanlveXNnUkxlT2c3aDJrRUdEOS0xV2pabnpXaXlSRFRTUmFBVlI0T0RZY1JvdlluNktMQ3Q1ZGRWV0U3cC1n?oc=5"
+      "source": "NBC News",
+      "title": "Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’",
+      "summary": "Pope Leo slept well after cancer surgery, but recovery could take ‘lon…",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV2FVdnBfU19rMGdWb2xBWjBrRlBMUFhETDBRejMyUWYzdDAzN215ZlRlT2lGQmJ5TWlrWVZvdEtKTlI5b0FOajVyWmpyYnR2NlZCT3lEcjFWNmhLMGE2Q2VvMFpqTnBKT3NncmlPVFo0eTE4akRmVmlJZGpmc3NRMXhScmhMa0d0RE1RR183OFVlYXpaLTN2U2R1ZnltM3VaU01jYVhmdWFKUQ?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "UC Santa Cruz - News",
-      "title": "Tesla Jeltema named a 2026 American Physical Society Fellow",
-      "summary": "Tesla Jeltema named a 2026 American Physical Society Fellow&nbsp;&nbsp…",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WcEpNdE5NQnhiaFFqSlRvYXZoVXVtamxvbFRPZTdaTUNPVUxOaGU2U0JVVVlkUmxSTTVTdi12SC1lampfQjhVZW4tblRJMDFsWU9FUkJuMXk4UHVNUXc?oc=5"
+      "source": "Pew Research Center",
+      "title": "Online Community and Connection in America",
+      "summary": "Online Community and Connection in America&nbsp;&nbsp;Pew Research Cen…",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb3ZjSDRsZkFGNnBicjhYa0M0RXdBM0Nra25adC1nU2pwNmVDeWswZG9hWEVaWFhQZm40Wk02QnJ3aXpEWTBDZHhCYTZmQU9ReDVBc2dhYjZUR2M2TFVPWHl3Z05zbmJHUnhhR1ZOZlg0SHRyenRydjd6TW1TaWxUS3lTeDNWRWNwdXd5dzN4WVp6cUV2X1E?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,19 +73,19 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Green Eco Tires Market to Reach USD 87.515 Bil…",
-      "desc": "Green Eco Tires Market to Reach USD 87.515 Billion by 2035 as Tire-Lab…",
+      "title": "EV-Specific Tires Market to Reach USD 38.611 B…",
+      "desc": "EV-Specific Tires Market to Reach USD 38.611 Billion by 2035 as Global…",
       "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNMWJRNFJnMXYxSXJvOTdZMFZqM1ZWVEI2ZHd4NlRDZklFT3pFTDV3US1HcHB2dF8yRmtWMmFZVmFqUmUzcHFFcnNFdVFyNHI5MWNndFREMnE4SWFzdlpNVEEwZlRhd3M2THlDQ1o5ZjNKVTkxSU9nbTVlR0stRlpZLUZGT3BNakxUVFpTUzlndTk1OHNvUWFsZElBY21uNGUtNV82eEsxRTJPVUR5MHVXaHVnVzh6dVRNeWNKUkJxYWNzN3dEX293SktmMlNGUmtrcnZ2X0RMczNaNUNvN1B5bTRGZDhIMDVNUG5FbEVzY2hfWjFwT2xadnBVdExvTWIzLXhRMkJYd1dyYXRSSXN5b0lBSUlkVWdWUFFKcVBIQTlaRmxjSUlHOEtQdjJQR3hYeW9lcDRFbUw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNMTNNY3VKMVNmVmZuV2JmaHhDY3VoU0RGNk8yRTdNeFF3WW8wOGppRE0yNFdIX1dFZGlfZGhGdlNQazNCVWRqeDVWaHNiLWtObTRxQVR6QUhzcmt5MFFZZDRmVlJGME9WWWc4VXdnYWxaOC1QUldoOFl3dWg1RnM1RGF6SU4xdVFmcVFrNTNZVHE2NkY1N1VUbzRnakhqeExjSlhhTjYwZmMyLXp2Z0wzQjlmVGlZUUluZ1dpcVNEaXFHWERacHV3RllwcUgzUEMtQ2RVanpEbllCMVlzY1JYNFNQWmpDSFQzNHNZSDRkMXo4WHJhTmRRNHJlNDRkSnFmZXI3aWxGQ0pfZzVMdlcySDhKVTlyVXRfeEZyOXQxcEprdDlYMXI3a1VrRzNHdzNhVndZM2RJMlZRZ0JzMHZiNFlHeHVEV0lp?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "What to Look Out for in Economic Data This Wee…",
-      "desc": "What to Look Out for in Economic Data This Week (October 12-16)&nbsp;&…",
-      "source": "Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5"
+      "title": "The Week Ahead: Fed Minutes, Walmart, Target a…",
+      "desc": "The Week Ahead: Fed Minutes, Walmart, Target and Home Depot Earnings t…",
+      "source": "TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdGp6dXhfUVlXaDAwcE9OcWRMMHhpc0JjYmd0QkY0dUtCX0loeHFMTHo5dmlPSjBEZ0dhdnd6elh0S0UwZ1F0d3haOEhwWElRZUFMMG50aU84Tkk4N3hkdTc3UG1IbmY4SkdIOTBuOWJqZU9iMUR0TklSSWNKSmVnOXk4bEtEMkhGWnVQV2wwUkpzX2ZjUjJEb2ZzOGVmMWFFd2xZR3UyM0xLVUgzbGRFeW9qdVZ6QXZXanY0R0JUNEhlTXNqSVJWa1dqRmRrR1JJc1p0MzNB?oc=5"
     },
     {
       "category": "MANAGEMENT",
@@ -101,10 +101,10 @@
     "capital": "Washington, D.C.",
     "population": "약 3.42억 명",
     "gdp": "약 30.8조 USD",
-    "inflation": "3.4%",
+    "inflation": "3.7%",
     "unemployment": "4.2%",
     "stats_source": "BLS",
-    "stats_asof": "2026-08",
+    "stats_asof": "2026-09",
     "min_wage_federal": "$7.25 / h (연방, 2009-07-24 발효)",
     "min_wage_tn": "주 별도 기준 없음 → 연방 기준 $7.25/h 적용"
   }
