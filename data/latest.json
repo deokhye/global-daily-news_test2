@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-15T08:32:35.142147+09:00",
-  "generated_at_display": "2026-10-15 08:32 KST",
+  "generated_at": "2026-10-16T08:24:43.347567+09:00",
+  "generated_at_display": "2026-10-16 08:24 KST",
   "exchange_rate": {
-    "current_rate": 1341.22998046875,
-    "change_pct": 0.07,
+    "current_rate": 1340.4100341796875,
+    "change_pct": 0.08,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1341.23
+      1340.41
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "CNN",
-      "title": "Exclusive: Judge limited Justice Department access to Rep. Ilhan Omar’s records in sprawling immigration fraud probe",
-      "summary": "Exclusive: Judge limited Justice Department access to Rep. Ilhan Omar’…",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjRfTGIxSkNQNTVSdU00U0k3MkxJUnBSVVlsM3pheTFXNlJSdzNiekR1MFJJM0dTRHBJN2VWSjJiTHAxLXRrWWdCUG9xUXdTbmxDV2o0LTJieVpXa0FKa2N0bUdocTZaVzhQWVRXMUVUQVFVSmdLcnhpSFlOX01rb0dVNTJESnZ3eDN5VWt5emJXNWlacVhzYy1hWThTN3NZcEkySEVLQ0YxNE5faEtEMkNUQW1oRkR2aU1Eeg?oc=5"
+      "source": "The Guardian",
+      "title": "Multiple people, including children, injured in elementary school shooting in Oregon",
+      "summary": "Multiple people, including children, injured in elementary school shoo…",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTNGNjRGRC1WTzA5OXI5TDZiRUtDcV9PakRXeEhiaVJuSDhrUHl4UWoweDVDRkx6TXEwWjVjSnlrUklNa0JXRWZjQ0dzN1pKeW9HNXZOS0trcXNQcUNkanRjelo3YjM4eDBTTU1Tel9OdHcyV2xkUlpYX2dNSllwX3RWY1Ruc2Rt?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
       "source": "Reuters",
-      "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
-      "summary": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worrie…",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5"
+      "title": "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+      "summary": "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over…",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "NBC News",
-      "title": "Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’",
-      "summary": "Pope Leo slept well after cancer surgery, but recovery could take ‘lon…",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV2FVdnBfU19rMGdWb2xBWjBrRlBMUFhETDBRejMyUWYzdDAzN215ZlRlT2lGQmJ5TWlrWVZvdEtKTlI5b0FOajVyWmpyYnR2NlZCT3lEcjFWNmhLMGE2Q2VvMFpqTnBKT3NncmlPVFo0eTE4akRmVmlJZGpmc3NRMXhScmhMa0d0RE1RR183OFVlYXpaLTN2U2R1ZnltM3VaU01jYVhmdWFKUQ?oc=5"
+      "source": "PBS",
+      "title": "What is adenocarcinoma? Here's what to know about Pope Leo XIV's form of lung cancer",
+      "summary": "What is adenocarcinoma? Here's what to know about Pope Leo XIV's form…",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVmNyazEtTGd4SEdSRTh5czBYaDdCaDRzT2VMTGdodUhXOG9mVFNtYmtHU045OXUzZjBiNGlCMFpzd3BVNlY1MXFyTlpIMWN5MXNYdDN1ZHF5ZlRzUXZ6dE4ybVd6ZnI4SW8tUGI5Y09Mc05VaVpBcHFsM0RETEVwWGNjbExGUW56S0tncFd3MXVXZ2dOX05tU1F0Yy1pT2NaZlhmQTIwWDlub0JGU3U2V3J3ZlhHTjZN?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Pew Research Center",
-      "title": "Online Community and Connection in America",
-      "summary": "Online Community and Connection in America&nbsp;&nbsp;Pew Research Cen…",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb3ZjSDRsZkFGNnBicjhYa0M0RXdBM0Nra25adC1nU2pwNmVDeWswZG9hWEVaWFhQZm40Wk02QnJ3aXpEWTBDZHhCYTZmQU9ReDVBc2dhYjZUR2M2TFVPWHl3Z05zbmJHUnhhR1ZOZlg0SHRyenRydjd6TW1TaWxUS3lTeDNWRWNwdXd5dzN4WVp6cUV2X1E?oc=5"
+      "source": "American Nuclear Society -- ANS",
+      "title": "NRC approves TerraPower construction permit",
+      "summary": "NRC approves TerraPower construction permit&nbsp;&nbsp;American Nuclea…",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOclhQTjVjSVF6aEJWS2Y0WlhlQm5OWk1BYXY4c19BUEZaVE5OSDVlenZ2bFpscU1MVnBnY0hzSGFhcHZieEhQNmVnU0QzZjVHamhjMTRGNEFIdHpWUWxKa0NwMldKMVRLU0txNnZHbUctUlFwbzFXWGVMVFlqZTdyOHhGekdPS3hNNlE?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,19 +73,19 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "EV-Specific Tires Market to Reach USD 38.611 B…",
-      "desc": "EV-Specific Tires Market to Reach USD 38.611 Billion by 2035 as Global…",
+      "title": "Green Eco Tires Market to Reach USD 87.515 Bil…",
+      "desc": "Green Eco Tires Market to Reach USD 87.515 Billion by 2035 as Tire-Lab…",
       "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNMTNNY3VKMVNmVmZuV2JmaHhDY3VoU0RGNk8yRTdNeFF3WW8wOGppRE0yNFdIX1dFZGlfZGhGdlNQazNCVWRqeDVWaHNiLWtObTRxQVR6QUhzcmt5MFFZZDRmVlJGME9WWWc4VXdnYWxaOC1QUldoOFl3dWg1RnM1RGF6SU4xdVFmcVFrNTNZVHE2NkY1N1VUbzRnakhqeExjSlhhTjYwZmMyLXp2Z0wzQjlmVGlZUUluZ1dpcVNEaXFHWERacHV3RllwcUgzUEMtQ2RVanpEbllCMVlzY1JYNFNQWmpDSFQzNHNZSDRkMXo4WHJhTmRRNHJlNDRkSnFmZXI3aWxGQ0pfZzVMdlcySDhKVTlyVXRfeEZyOXQxcEprdDlYMXI3a1VrRzNHdzNhVndZM2RJMlZRZ0JzMHZiNFlHeHVEV0lp?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNMWJRNFJnMXYxSXJvOTdZMFZqM1ZWVEI2ZHd4NlRDZklFT3pFTDV3US1HcHB2dF8yRmtWMmFZVmFqUmUzcHFFcnNFdVFyNHI5MWNndFREMnE4SWFzdlpNVEEwZlRhd3M2THlDQ1o5ZjNKVTkxSU9nbTVlR0stRlpZLUZGT3BNakxUVFpTUzlndTk1OHNvUWFsZElBY21uNGUtNV82eEsxRTJPVUR5MHVXaHVnVzh6dVRNeWNKUkJxYWNzN3dEX293SktmMlNGUmtrcnZ2X0RMczNaNUNvN1B5bTRGZDhIMDVNUG5FbEVzY2hfWjFwT2xadnBVdExvTWIzLXhRMkJYd1dyYXRSSXN5b0lBSUlkVWdWUFFKcVBIQTlaRmxjSUlHOEtQdjJQR3hYeW9lcDRFbUw?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "The Week Ahead: Fed Minutes, Walmart, Target a…",
-      "desc": "The Week Ahead: Fed Minutes, Walmart, Target and Home Depot Earnings t…",
-      "source": "TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdGp6dXhfUVlXaDAwcE9OcWRMMHhpc0JjYmd0QkY0dUtCX0loeHFMTHo5dmlPSjBEZ0dhdnd6elh0S0UwZ1F0d3haOEhwWElRZUFMMG50aU84Tkk4N3hkdTc3UG1IbmY4SkdIOTBuOWJqZU9iMUR0TklSSWNKSmVnOXk4bEtEMkhGWnVQV2wwUkpzX2ZjUjJEb2ZzOGVmMWFFd2xZR3UyM0xLVUgzbGRFeW9qdVZ6QXZXanY0R0JUNEhlTXNqSVJWa1dqRmRrR1JJc1p0MzNB?oc=5"
+      "title": "What to Look Out for in Economic Data This Wee…",
+      "desc": "What to Look Out for in Economic Data This Week (October 12-16)&nbsp;&…",
+      "source": "Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5"
     },
     {
       "category": "MANAGEMENT",
