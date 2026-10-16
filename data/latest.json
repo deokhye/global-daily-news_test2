@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-16T08:24:43.347567+09:00",
-  "generated_at_display": "2026-10-16 08:24 KST",
+  "generated_at": "2026-10-17T08:07:23.637273+09:00",
+  "generated_at_display": "2026-10-17 08:07 KST",
   "exchange_rate": {
-    "current_rate": 1340.4100341796875,
-    "change_pct": 0.08,
+    "current_rate": 1334.199951171875,
+    "change_pct": -0.5,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1340.41
+      1334.2
     ],
     "source": "Yahoo Finance"
   },
@@ -38,31 +38,31 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The Guardian",
-      "title": "Multiple people, including children, injured in elementary school shooting in Oregon",
-      "summary": "Multiple people, including children, injured in elementary school shoo…",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTNGNjRGRC1WTzA5OXI5TDZiRUtDcV9PakRXeEhiaVJuSDhrUHl4UWoweDVDRkx6TXEwWjVjSnlrUklNa0JXRWZjQ0dzN1pKeW9HNXZOS0trcXNQcUNkanRjelo3YjM4eDBTTU1Tel9OdHcyV2xkUlpYX2dNSllwX3RWY1Ruc2Rt?oc=5"
+      "source": "CBS News",
+      "title": "Oregon school shooter identified, used shotgun bought by mother, sources say",
+      "summary": "Oregon school shooter identified, used shotgun bought by mother, sourc…",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNzNWZTVjSGdjd1FZSnRTMW5QR1N0cXAteFc1bDVOSy1DaEdDaHlfcHV0bjJLUVNRQjJzVF8yQUMta00yRHRxS3pmYzZzU3JLU3pyMG5nTTlIaHl6Z3dOSGZsQUdvQ0ZIX2NONlZ1WkRPSVBKdl80UEppZl82YmN3ZG8xVkhTMDVVYk4wamFR?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Reuters",
-      "title": "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
-      "summary": "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over…",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5"
+      "source": "Politico",
+      "title": "FAA: Musk’s flying car not our responsibility",
+      "summary": "FAA: Musk’s flying car not our responsibility&nbsp;&nbsp;PoliticoFive…",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qSGJNTmVqSDdrcXNTbmhsZExMengzQ0p4WUlJOG8zOGJ3ZndZSDRlSk5YZEtlWElvVjI1dHNlVndnN0gyb0FYeU5HQ0JsaVRrN1RVeHhvd1pmLTZOOTVxZmFWS0NZV1FWVmp2WXd2dmNNN0UwcTl6c05R?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "PBS",
-      "title": "What is adenocarcinoma? Here's what to know about Pope Leo XIV's form of lung cancer",
-      "summary": "What is adenocarcinoma? Here's what to know about Pope Leo XIV's form…",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVmNyazEtTGd4SEdSRTh5czBYaDdCaDRzT2VMTGdodUhXOG9mVFNtYmtHU045OXUzZjBiNGlCMFpzd3BVNlY1MXFyTlpIMWN5MXNYdDN1ZHF5ZlRzUXZ6dE4ybVd6ZnI4SW8tUGI5Y09Mc05VaVpBcHFsM0RETEVwWGNjbExGUW56S0tncFd3MXVXZ2dOX05tU1F0Yy1pT2NaZlhmQTIwWDlub0JGU3U2V3J3ZlhHTjZN?oc=5"
+      "source": "Reuters",
+      "title": "Israeli settlers burn olive trees, injure journalist in West Bank attack",
+      "summary": "Israeli settlers burn olive trees, injure journalist in West Bank atta…",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkU1bHk0ei02ZkZRZndPemRvNGZFQnM5ODdrR2EyTU9WRjBUN3MwcGdtLXY2NnZnWld0UkM2MjBUMDUzWVV6ak1vcGNSV05KMllWVWotQS1TdGNLQnVFOERMRElid09YaVB2bUhGLXE4TlFJelBfRFg3QS1vOVBSLXVJWTV3R01CQ3FSZzVZMHlub3V1ZjFtYlJYNGwwRDRFeUxTeWFzNlJjS1dwSGo1a0xOaXRMc0tiWnlrbVBtMA?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "American Nuclear Society -- ANS",
+      "source": "American Nuclear Society",
       "title": "NRC approves TerraPower construction permit",
       "summary": "NRC approves TerraPower construction permit&nbsp;&nbsp;American Nuclea…",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOclhQTjVjSVF6aEJWS2Y0WlhlQm5OWk1BYXY4c19BUEZaVE5OSDVlenZ2bFpscU1MVnBnY0hzSGFhcHZieEhQNmVnU0QzZjVHamhjMTRGNEFIdHpWUWxKa0NwMldKMVRLU0txNnZHbUctUlFwbzFXWGVMVFlqZTdyOHhGekdPS3hNNlE?oc=5"
@@ -82,10 +82,10 @@
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "What to Look Out for in Economic Data This Wee…",
-      "desc": "What to Look Out for in Economic Data This Week (October 12-16)&nbsp;&…",
-      "source": "Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5"
+      "title": "Robust manufacturing PMI to boost USD?",
+      "desc": "Robust manufacturing PMI to boost USD?&nbsp;&nbsp;JD Supra",
+      "source": "JD Supra",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVHRFNzNZQUUyeWUtOXpETkRlV3d5M1Y5b1JBLWJJcUttdW5mUHJRYmVoQkUxUG5jVTJQYm9DMlF3cXZBUUVlOWFFQVBZcmVOVnVNTmZsNHpVd1g2QkF2V1F1RWhfM2N2eTZvbmhrWjFUV09RTWZmZmlnUjVBbmF1TkpSUURMMzQ?oc=5"
     },
     {
       "category": "MANAGEMENT",
