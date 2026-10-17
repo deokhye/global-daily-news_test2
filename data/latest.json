@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-17T08:07:23.637273+09:00",
-  "generated_at_display": "2026-10-17 08:07 KST",
+  "generated_at": "2026-10-18T07:45:46.318777+09:00",
+  "generated_at_display": "2026-10-18 07:45 KST",
   "exchange_rate": {
-    "current_rate": 1334.199951171875,
-    "change_pct": -0.5,
+    "current_rate": 1329.5999755859375,
+    "change_pct": -0.85,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1334.2
+      1329.6
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "CBS News",
-      "title": "Oregon school shooter identified, used shotgun bought by mother, sources say",
-      "summary": "Oregon school shooter identified, used shotgun bought by mother, sourc…",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNzNWZTVjSGdjd1FZSnRTMW5QR1N0cXAteFc1bDVOSy1DaEdDaHlfcHV0bjJLUVNRQjJzVF8yQUMta00yRHRxS3pmYzZzU3JLU3pyMG5nTTlIaHl6Z3dOSGZsQUdvQ0ZIX2NONlZ1WkRPSVBKdl80UEppZl82YmN3ZG8xVkhTMDVVYk4wamFR?oc=5"
+      "source": "BBC",
+      "title": "Alligator kills 71-year-old man fishing in Florida",
+      "summary": "Alligator kills 71-year-old man fishing in Florida&nbsp;&nbsp;BBCFlori…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYeWR4NGpOcmMyVmE2Zlh1bWgxQV8zNjVJZkhUM2luTlRXSWI1SlhHRXFOSzk5aGd4bV9SUEk3VUR6YkRfVlhDX0hwRGd4TV81LWNDY081QUREdGM?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Politico",
-      "title": "FAA: Musk’s flying car not our responsibility",
-      "summary": "FAA: Musk’s flying car not our responsibility&nbsp;&nbsp;PoliticoFive…",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qSGJNTmVqSDdrcXNTbmhsZExMengzQ0p4WUlJOG8zOGJ3ZndZSDRlSk5YZEtlWElvVjI1dHNlVndnN0gyb0FYeU5HQ0JsaVRrN1RVeHhvd1pmLTZOOTVxZmFWS0NZV1FWVmp2WXd2dmNNN0UwcTl6c05R?oc=5"
+      "source": "The Times of Israel",
+      "title": "Tesla unveils new ‘flying’ car, but consumer rollout likely still years away",
+      "summary": "Tesla unveils new ‘flying’ car, but consumer rollout likely still year…",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmttOWQtZVk5dG42VXZiN1E1VDRXZ21zem95QTk4enRkcjh3MEcxTWQzam8zTXVMcGpQMVlsQ1V0QU5zZ1ozcXZOYTFiZlZDYW8ydC1DakF1RG9KcFR2YnB5cDQ4TTRsZERFV0FodlZfT2NYb3k2TFhzVGtSM1l2UEgweUVlal9TLUhaUUV0TndNcGZ3YWJHQ0xoRHdzUnZGLURHWUMwRdIBrAFBVV95cUxPSFJNM25rY21KM2xQV2xuTlMxekdkS2M3ajdiakVtZDdPSF93dUlVREV3Y1RIOWF5WlhzSC1JNkZPaHlCNFBmZXo0UEFoRmluZGdnOVFGelIwUDRTVmpZUGpVZUh5NG52VC15dUhsZVNVaEM4UjFCc2NualFvaXBoZEVvTFhQb0FQdE9tV25uVDJwbjhtdVlmZWlSMjhTblFzWHBuc3FiYlQwMV9o?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "Reuters",
-      "title": "Israeli settlers burn olive trees, injure journalist in West Bank attack",
-      "summary": "Israeli settlers burn olive trees, injure journalist in West Bank atta…",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkU1bHk0ei02ZkZRZndPemRvNGZFQnM5ODdrR2EyTU9WRjBUN3MwcGdtLXY2NnZnWld0UkM2MjBUMDUzWVV6ak1vcGNSV05KMllWVWotQS1TdGNLQnVFOERMRElid09YaVB2bUhGLXE4TlFJelBfRFg3QS1vOVBSLXVJWTV3R01CQ3FSZzVZMHlub3V1ZjFtYlJYNGwwRDRFeUxTeWFzNlJjS1dwSGo1a0xOaXRMc0tiWnlrbVBtMA?oc=5"
+      "source": "CNN",
+      "title": "Half a million protesters sweep France in major show of youth unrest",
+      "summary": "Half a million protesters sweep France in major show of youth unrest&n…",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN2R3RzdVVXpmVnowVWlEeVJxSzVUQjVGOFF6eE8zT0tFZmJnWS1ZMWpWc24yVWJ0Z0VsbkRoN3pLMUxOY3QxU3EzTkpZRC1mSEdtYUJvaEw2NzBYZW1Wb2dPeGtrZnZYLVl6U1Q4ekNNRFBOZGM1cDl2aUdfMlBmbGdIOHR4emtwRGh6cjFXd0FvRF9RTVl6ZHZRakpvSVhxOTB3?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "American Nuclear Society",
-      "title": "NRC approves TerraPower construction permit",
-      "summary": "NRC approves TerraPower construction permit&nbsp;&nbsp;American Nuclea…",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOclhQTjVjSVF6aEJWS2Y0WlhlQm5OWk1BYXY4c19BUEZaVE5OSDVlenZ2bFpscU1MVnBnY0hzSGFhcHZieEhQNmVnU0QzZjVHamhjMTRGNEFIdHpWUWxKa0NwMldKMVRLU0txNnZHbUctUlFwbzFXWGVMVFlqZTdyOHhGekdPS3hNNlE?oc=5"
+      "source": "PBS",
+      "title": "America's politically divided Jewish community braces for Israel's elections",
+      "summary": "America's politically divided Jewish community braces for Israel's ele…",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdF95OVZJYUxNbTRQRTJ3TkpqS3dKMlhqSkFsNEpRV0FSMjBqREhQY3J4X3pwVDJJaGRXYjJNQkpsenlINk1ZTjhreGdSNXhSVE5BYUVHa1VQR1NxMlZ2WGhSNTRpbElyOHRfTHRCZG5rOGJ5UTRqNTFMYzMzd29reTFJR3RSb2VEWGJOdGZ6N2htOXB2WEhJc2hvREh0VjhMS3FQWEFSbTZqaWtKVTJYOHBn?oc=5"
     }
   ],
   "hr_trends": [
