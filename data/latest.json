@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-18T07:45:46.318777+09:00",
-  "generated_at_display": "2026-10-18 07:45 KST",
+  "generated_at": "2026-10-19T07:40:53.907731+09:00",
+  "generated_at_display": "2026-10-19 07:40 KST",
   "exchange_rate": {
-    "current_rate": 1329.5999755859375,
-    "change_pct": -0.85,
+    "current_rate": 1334.6600341796875,
+    "change_pct": -0.47,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1329.6
+      1334.66
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "BBC",
-      "title": "Alligator kills 71-year-old man fishing in Florida",
-      "summary": "Alligator kills 71-year-old man fishing in Florida&nbsp;&nbsp;BBCFlori…",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYeWR4NGpOcmMyVmE2Zlh1bWgxQV8zNjVJZkhUM2luTlRXSWI1SlhHRXFOSzk5aGd4bV9SUEk3VUR6YkRfVlhDX0hwRGd4TV81LWNDY081QUREdGM?oc=5"
+      "source": "The Washington Post",
+      "title": "Trump shares plan to overhaul East Potomac golf course amid court fight over land",
+      "summary": "Trump shares plan to overhaul East Potomac golf course amid court figh…",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjdfRmFtX2xmZ241Z0RHMWdRdW1TbjgtN1hGUmljRnVYaFRGVWdscExsZlItMDJGa0NZYXhpU1VnSEJTbjJzSHlrU2phNFlxWEgwNlowRDd6TEZZX3c3UlM0akRVaDNXNjdFWnJ0UDc5ZzFheFE1YUt6LUJlUW1PUzBnQnBnbE04NlBka3ZrSFp2NTVXZjlqdmtjYXA3emhI?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "The Times of Israel",
-      "title": "Tesla unveils new ‘flying’ car, but consumer rollout likely still years away",
-      "summary": "Tesla unveils new ‘flying’ car, but consumer rollout likely still year…",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmttOWQtZVk5dG42VXZiN1E1VDRXZ21zem95QTk4enRkcjh3MEcxTWQzam8zTXVMcGpQMVlsQ1V0QU5zZ1ozcXZOYTFiZlZDYW8ydC1DakF1RG9KcFR2YnB5cDQ4TTRsZERFV0FodlZfT2NYb3k2TFhzVGtSM1l2UEgweUVlal9TLUhaUUV0TndNcGZ3YWJHQ0xoRHdzUnZGLURHWUMwRdIBrAFBVV95cUxPSFJNM25rY21KM2xQV2xuTlMxekdkS2M3ajdiakVtZDdPSF93dUlVREV3Y1RIOWF5WlhzSC1JNkZPaHlCNFBmZXo0UEFoRmluZGdnOVFGelIwUDRTVmpZUGpVZUh5NG52VC15dUhsZVNVaEM4UjFCc2NualFvaXBoZEVvTFhQb0FQdE9tV25uVDJwbjhtdVlmZWlSMjhTblFzWHBuc3FiYlQwMV9o?oc=5"
+      "source": "Fortune",
+      "title": "China looks like it's dumping Treasury debt but may actually be stashing it in Canada and Belgium",
+      "summary": "China looks like it's dumping Treasury debt but may actually be stashi…",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnIzWW8ybUdMemtmOXl3bkhsWlRWcmNXeWhjWVV6cXZtSzl6MjZyNTZYNjZ2aHhfblR5bkY2N1FrOVplSzhEdHVYbHZuMVl4SnhvcWVZNVFkbTJDd3dBV0lMMHBhMTMxRWJhX09ZV3dfVEsySk0taWJYeF82WHFNcV9XZ1EwXzZ4aUNZdUpabmlkX09jUGdJSEg1Y3RCRG44MGJnYnBBOC13ZVZlTDlUVjlaUQ?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "CNN",
-      "title": "Half a million protesters sweep France in major show of youth unrest",
-      "summary": "Half a million protesters sweep France in major show of youth unrest&n…",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN2R3RzdVVXpmVnowVWlEeVJxSzVUQjVGOFF6eE8zT0tFZmJnWS1ZMWpWc24yVWJ0Z0VsbkRoN3pLMUxOY3QxU3EzTkpZRC1mSEdtYUJvaEw2NzBYZW1Wb2dPeGtrZnZYLVl6U1Q4ekNNRFBOZGM1cDl2aUdfMlBmbGdIOHR4emtwRGh6cjFXd0FvRF9RTVl6ZHZRakpvSVhxOTB3?oc=5"
+      "source": "The New York Times",
+      "title": "Huge Riots and Anti-Government Protests in France: What to Know",
+      "summary": "Huge Riots and Anti-Government Protests in France: What to Know&nbsp;&…",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "PBS",
-      "title": "America's politically divided Jewish community braces for Israel's elections",
-      "summary": "America's politically divided Jewish community braces for Israel's ele…",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdF95OVZJYUxNbTRQRTJ3TkpqS3dKMlhqSkFsNEpRV0FSMjBqREhQY3J4X3pwVDJJaGRXYjJNQkpsenlINk1ZTjhreGdSNXhSVE5BYUVHa1VQR1NxMlZ2WGhSNTRpbElyOHRfTHRCZG5rOGJ5UTRqNTFMYzMzd29reTFJR3RSb2VEWGJOdGZ6N2htOXB2WEhJc2hvREh0VjhMS3FQWEFSbTZqaWtKVTJYOHBn?oc=5"
+      "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "title": "American Cancer Society hosts walk to raise breast cancer awareness",
+      "summary": "American Cancer Society hosts walk to raise breast cancer awareness&nb…",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc3lOUERLcTdRT0RKYVBjbVJfVmFyNC1PMDdQMjdQQ2pXcUdtV0RuRHVPMjNkNXEyRlloQ1NTUDZqR1ozd1lGYmU4T2pDUGQzYy1WeTNHaWpLeDBuN0trXzV6anhIUGRaVjd0RHZFaE0wVnlkWW1QTnZia1NxZHU0QmsxTVRWX2RwRVdpbFJmU1lYWnpMMXp0dXhmaDF0dmJFb3fSAbYBQVVfeXFMUHdmMVpHT2pjWHRMSGhDWVBXQVNtU3Z1a0FrTk95a0ZHcVI0ZTdCOE9rWFh0UXdHQmdrX1ZnYm0wUXlUSTF3QlUzX1h0eUZqdk9YbkpqTWFHNlJBVy1YOEV0T21paUF2a3AtQWEzRkhycXVzYUhWeGhrLUhoWEJXOGxhVGFJTjBoS3cta3dRUDJFMVV3QVdJR1FVa0RuaHN2ZGI2djdmVkxwZ2JjQ2tWRXQzOVZVUlE?oc=5"
     }
   ],
   "hr_trends": [
