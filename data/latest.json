@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-19T07:40:53.907731+09:00",
-  "generated_at_display": "2026-10-19 07:40 KST",
+  "generated_at": "2026-10-20T09:02:12.211208+09:00",
+  "generated_at_display": "2026-10-20 09:02 KST",
   "exchange_rate": {
-    "current_rate": 1334.6600341796875,
-    "change_pct": -0.47,
+    "current_rate": 1327.280029296875,
+    "change_pct": -0.46,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1334.66
+      1327.28
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The Washington Post",
-      "title": "Trump shares plan to overhaul East Potomac golf course amid court fight over land",
-      "summary": "Trump shares plan to overhaul East Potomac golf course amid court figh…",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjdfRmFtX2xmZ241Z0RHMWdRdW1TbjgtN1hGUmljRnVYaFRGVWdscExsZlItMDJGa0NZYXhpU1VnSEJTbjJzSHlrU2phNFlxWEgwNlowRDd6TEZZX3c3UlM0akRVaDNXNjdFWnJ0UDc5ZzFheFE1YUt6LUJlUW1PUzBnQnBnbE04NlBka3ZrSFp2NTVXZjlqdmtjYXA3emhI?oc=5"
+      "source": "Axios",
+      "title": "Trump open to summit with Xi and Putin — to discuss denuclearization",
+      "summary": "Trump open to summit with Xi and Putin — to discuss denuclearization&n…",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmc5TmVsTml6eVJ5aDBsVjNPMjh1VEZlRkhXMHYtRVRGeEM1bnVVeFBZZWpHRWQ0LWRMUjZMY29vV3pIMVV4eFZYWUdhRV9zNlJDNnBUcFBsd1FNWHBWZTBuS0RlcHI0UjVKcDEtUGN4SDJiZWR3aWZqYXBwQ2VvanRiTXNOdw?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Fortune",
-      "title": "China looks like it's dumping Treasury debt but may actually be stashing it in Canada and Belgium",
-      "summary": "China looks like it's dumping Treasury debt but may actually be stashi…",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnIzWW8ybUdMemtmOXl3bkhsWlRWcmNXeWhjWVV6cXZtSzl6MjZyNTZYNjZ2aHhfblR5bkY2N1FrOVplSzhEdHVYbHZuMVl4SnhvcWVZNVFkbTJDd3dBV0lMMHBhMTMxRWJhX09ZV3dfVEsySk0taWJYeF82WHFNcV9XZ1EwXzZ4aUNZdUpabmlkX09jUGdJSEg1Y3RCRG44MGJnYnBBOC13ZVZlTDlUVjlaUQ?oc=5"
+      "source": "The Washington Post",
+      "title": "Elon Musk says he’ll give a SpaceX share to every American child",
+      "summary": "Elon Musk says he’ll give a SpaceX share to every American child&nbsp;…",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRklGSGE2QUJjNDV5WTllLXpaREpPTXFEU2lmQld4ZlJ4eDJ4N2J4b2F5eUg0VXpSdjkwOTJGU0RUSk9fMkVkZWFGYWxHQnI1QkE0X1VmOTFIVnBiek1STENoYVV3WnFLdmh0WVV0aENHQUFUUE1QOVZHa3Foel9hcC1DNmhocEJiZkwyQXZ3aHVtNDRnRnMxX1JFTTl4Nm9Obko4UFRmZk16QXF5cDJQRUdB?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "The New York Times",
-      "title": "Huge Riots and Anti-Government Protests in France: What to Know",
-      "summary": "Huge Riots and Anti-Government Protests in France: What to Know&nbsp;&…",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5"
+      "source": "BBC",
+      "title": "Overnight curfews announced in parts of Paris and Nice after riots across France",
+      "summary": "Overnight curfews announced in parts of Paris and Nice after riots acr…",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpZklSWldWXzY3TzVZLUFfRUtuZkZoZEFNTWhFVTVKV2VvRDJrcVF1LU00Njk5TkdCSlI3NWc5Y3l4cF9PbndBcXJWTGpmYzBXSmF3NlVn?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "title": "American Cancer Society hosts walk to raise breast cancer awareness",
-      "summary": "American Cancer Society hosts walk to raise breast cancer awareness&nb…",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc3lOUERLcTdRT0RKYVBjbVJfVmFyNC1PMDdQMjdQQ2pXcUdtV0RuRHVPMjNkNXEyRlloQ1NTUDZqR1ozd1lGYmU4T2pDUGQzYy1WeTNHaWpLeDBuN0trXzV6anhIUGRaVjd0RHZFaE0wVnlkWW1QTnZia1NxZHU0QmsxTVRWX2RwRVdpbFJmU1lYWnpMMXp0dXhmaDF0dmJFb3fSAbYBQVVfeXFMUHdmMVpHT2pjWHRMSGhDWVBXQVNtU3Z1a0FrTk95a0ZHcVI0ZTdCOE9rWFh0UXdHQmdrX1ZnYm0wUXlUSTF3QlUzX1h0eUZqdk9YbkpqTWFHNlJBVy1YOEV0T21paUF2a3AtQWEzRkhycXVzYUhWeGhrLUhoWEJXOGxhVGFJTjBoS3cta3dRUDJFMVV3QVdJR1FVa0RuaHN2ZGI2djdmVkxwZ2JjQ2tWRXQzOVZVUlE?oc=5"
+      "source": "Pew Research Center",
+      "title": "Social Media and News Fact Sheet",
+      "summary": "Social Media and News Fact Sheet&nbsp;&nbsp;Pew Research Center",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY05HdWZjWVZxbnhZSlR3Qm5ROWllV09McUx0SzdoT3FGcXJWUS1QaEdJT0x5YmZMMmFXSjZSc0d0bUpEQUNJU1JvbmlJVXo3RjBwZDlvY3pEYTYwckRnWFRtOTNCaTh1YkxtTzduMFI5ZzF5dXZCb2toQXNUWVA2S0hRVkprV0s2b0Z3?oc=5"
     }
   ],
   "hr_trends": [
@@ -94,7 +94,7 @@
       "title": "How to Survive a Trade War",
       "desc": "How to Survive a Trade War&nbsp;&nbsp;CBIA",
       "source": "CBIA",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XV3VGRURLN09ETHBsR0dCTkN3TzVSc2pCSDdmRWtVOGJBc0FyTDZNNTU4c2VzNS1oNFBMcXZ2SDlQOUJKdVNhQ1g5LURhN3JjaXI2R1hjRU5jM05Tb2dtX2ZxY1JPYUUwS1hFXw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VbDVrUFM5Qlk4SGtSNzNaVVp3aVJIMW5KR2VoN3NSQXR0cVNRRDNhM1VXNHdmdnVtUERrYnFzNkNpZThLclp1RHVKQVJwRUhYVDRhUXlla3c1d19JcXp3Q3JwVjBPM3FXY0M5S3Fn?oc=5"
     }
   ],
   "country_profile": {
