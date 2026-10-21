@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-21T08:32:16.504577+09:00",
-  "generated_at_display": "2026-10-21 08:32 KST",
+  "generated_at": "2026-10-22T08:47:43.757637+09:00",
+  "generated_at_display": "2026-10-22 08:47 KST",
   "exchange_rate": {
-    "current_rate": 1325.4100341796875,
-    "change_pct": -0.35,
+    "current_rate": 1327.0699462890625,
+    "change_pct": 0.24,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1325.41
+      1327.07
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The Columbus Dispatch",
-      "title": "Amy Acton’s brother slams ad featuring estranged mother",
-      "summary": "Amy Acton’s brother slams ad featuring estranged mother&nbsp;&nbsp;The…",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWlaS25DSFJFX2ZEY082Z000YXU1ODJpdzVTTHY2QWxqcUxZZWVzZHhYVFNKUk9xM0IydU5vUlhOZ0tUWkM4aXZBcDc1OXcwdTNmRmtzeUlZamxsYkRnbHBLX3ZUTWpjeU5kZVBqUkY5QmdzejVFXzM0bi1RalZXVlM0N2p0TTNIWFlJRDNEZU9jUGJPcW5PMFd1SldJdmJ4R0tyQjZONFBxMklqOVRiNVdwdHNBYi1wb3BJbWllbw?oc=5"
+      "source": "CNN",
+      "title": "‘Error’ caused Toledo chemical leak, EPA says, triggering evacuations and calls to stay inside",
+      "summary": "‘Error’ caused Toledo chemical leak, EPA says, triggering evacuations…",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWk1lekVKWUpRSFJITzkyYVNPOEdfYjlCc2swZzQ1cnQ2UXJNZjYzQ290QVdvU1h4am8tbjFQV1FBLVI2bXpEUEhLSDduZHB0eVNGZ2JLOTZwRFVNMWVLMWp4RzhvamZkWnQtd1pnVzM3Y0FlSmpEbGFvN1hmb2U2QzAweUx5UQ?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "title": "SpaceX revenue soars 161% as AI business grows",
-      "summary": "SpaceX revenue soars 161% as AI business grows&nbsp;&nbsp;ABC News - B…",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUW42cVZpUURGandxQ3ZwZkRJZFBwWS13OUM3UHVRR0ozNU1QVVRfNVdSam01QS05V2NqbjIxZXU5em9GeW9Tdi1pVHNjMnBMNl93RkM4NHduRURENm5EbDhaa25UVzNCakxpbGhKdkdGb1lEVl9wbVo2WFl1ODM5dG9GUjRnQUJ2YUczLUxXaGpyY0Zm0gGaAUFVX3lxTFBYc0ZDUEx2ZzdrdFVROFRLTE9IODZNZmhibGhqX19nMHdyM2k4QURCXzFIR3k0QmVWYjRwN2lSUmRUY1lnSDI4VGd1NnpESUhaeGcxSkVCVnphSERuOEdYUmw0emlOMmI3TXhQOG1kVFI0QjBwMDJYczUtMmZ3dUR5WW5oM0V5TTBObjRiRWt1OHdtcEtfdy1EZGc?oc=5"
+      "source": "WSJ",
+      "title": "Meta Will Split Stock, Create New Class to Fund AI Spending",
+      "summary": "Meta Will Split Stock, Create New Class to Fund AI Spending&nbsp;&nbsp…",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY20xcVZmaDh6bkhCTVVoQVJIOFhWZU1McXpENHNVTEdvMVY0YUQyUVdqOFBldFhJU1VXZ3lIY3FOSDN0ZFdBbXJDOXluVlA2WU9mcUJfM3FrVkQ1YXJBcDNSbXM0RlVib19UMFlsTFBBeFIyVGlEdUxVZS0wRDhWWl81ZjVXU0ZlQjJPeFRTaw?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
       "source": "NBC News",
-      "title": "As violent riots and looting rock France, far-right leader Marine Le Pen is seizing the moment",
-      "summary": "As violent riots and looting rock France, far-right leader Marine Le P…",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYUtCaGZVU3AzWmlNZzl0QlEzR1dwdldMVFFRSnE2cmxhdzRUeG9aWlAtdWx4akQxb2gxZG03VWdkYlc3M3Y1QTNqZEN3R1FkZ1FzcFNBVDFhTFJnd2FjMWY1ZWJVcVh2dkZMU3d0dW1hMGJZMmw3b09WNUF4dWVhYUxlNWh0OENUb1FWUEU4d25odXV1VXdjNm9vZ3JrQndOcmJaanNPMk9sLTBXTTJTRFdtNnhlZEtPcWc?oc=5"
+      "title": "U.S. troops and diplomats evacuating Middle East posts, sources say",
+      "summary": "U.S. troops and diplomats evacuating Middle East posts, sources say&nb…",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLU92bVAxQU5KRmtTYjVQME0xeU40bVEzT1Y0bkx6MEM2bmdNUFRVQTBQTGVzb09nZEVCYm9iTE9rRFBqNWlWZURFY2NWamtQLTZ5QTZWcmxDUTB5dmRCVWZ2eFFlNU1sVnFSMkxaWUEwSDBzUkp2bnlZZmwwYUwzb0ZUemJVcDJXSmhZXzhOSVg1alRvNXpxb3NvblNWb2JvTlZ5WmwxYzdzQV81SXF3aDR3c2VFTC1ZZ3BrT19Edw?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Newswise",
-      "title": "American Society of Nephrology Issues Statement on U.S. Department of Health and Human Services Kidney Care\nNational Plan | Newswise",
-      "summary": "American Society of Nephrology Issues Statement on U.S. Department of…",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU20yVnY3UUxrWTdOblhGaC12eHRaVHVfX1NVTGR6TERBVEs4ZjExMnc0Q3lqa0pObjZKLS15OWRGRjF0cjVzUFdTMHVhWjNmbGhMY2hiajA1VG05YUdyc0N1U0tVT0d1SVE2Y0VWR09IUnlnY2NWQlJxNmFjUTBWMWNaX1Rwc1ZaOXpOUDhzNVNIclJ6ei1pLWNTSFJFTllGR3RHZ1ZvbVpsemtzZGFMMzdXSGpZSHhBc1hHM1hEdWo0bERSSzZPS2g3aHBlYjh5bk51eGM5b1ZSWnRfSjZMTDBZbWgyemFER0HSAeoBQVVfeXFMTVNtMlZ2N1FMa1k3Tm5YRmgtdnh0WlR1X19TVUxkekxEQVRLOGYxMTJ3NEN5amtKTm42Si0teTlkRkYxdHI1c1BXUzB1YVozZmxoTGNoYmowNVRtOWFHcnNDdVNLVU9HdUlRNmNFVkdPSFJ5Z2NjVkJScTZhY1EwVjFjWl9UcHNWWjl6TlA4czVTSHJSenotaS1jU0hSRU5ZRkd0R2dWb21abHprc2RhTDM3V0hqWUh4QXNYRzNYRHVqNGxEUks2T0toN2hwZWI4eW5OdXhjOW9WUlp0X0o2TEwwWW1oMnphREdB?oc=5"
+      "source": "KFF",
+      "title": "The Future of CDC HIV Prevention Funding for Community Organizations",
+      "summary": "The Future of CDC HIV Prevention Funding for Community Organizations&n…",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1RtWGlVa3lJRTdJVzBrT1V0aHFQdGVkLTNMWkxISWhWeFRYVUcwX1Z5VlZuVFdtZ0pVakdrS29VblMxVGVkUnJ4dmpMdWkzeUMxRjlua3h0MmZDTXFXMEtyM0ZHM2lSQXA4U2VYV2hLUkVPR05hTHBTNzlUT2g0ajJmc3FsSTRrdkFqWG5taHJJRWFWM1lXRXNZYUpGOEtZVVZRVg?oc=5"
     }
   ],
   "hr_trends": [
