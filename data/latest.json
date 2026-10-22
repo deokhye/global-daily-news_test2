@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-22T08:47:43.757637+09:00",
-  "generated_at_display": "2026-10-22 08:47 KST",
+  "generated_at": "2026-10-23T08:46:12.265967+09:00",
+  "generated_at_display": "2026-10-23 08:46 KST",
   "exchange_rate": {
-    "current_rate": 1327.0699462890625,
-    "change_pct": 0.24,
+    "current_rate": 1324.6800537109375,
+    "change_pct": -0.07,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1327.07
+      1324.48
     ],
     "source": "Yahoo Finance"
   },
@@ -39,33 +39,33 @@
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
       "source": "CNN",
-      "title": "‘Error’ caused Toledo chemical leak, EPA says, triggering evacuations and calls to stay inside",
-      "summary": "‘Error’ caused Toledo chemical leak, EPA says, triggering evacuations…",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWk1lekVKWUpRSFJITzkyYVNPOEdfYjlCc2swZzQ1cnQ2UXJNZjYzQ290QVdvU1h4am8tbjFQV1FBLVI2bXpEUEhLSDduZHB0eVNGZ2JLOTZwRFVNMWVLMWp4RzhvamZkWnQtd1pnVzM3Y0FlSmpEbGFvN1hmb2U2QzAweUx5UQ?oc=5"
+      "title": "Live updates: Trump tells Ramaswamy not to take down controversial ad featuring his opponent’s estranged mother",
+      "summary": "Live updates: Trump tells Ramaswamy not to take down controversial ad…",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdy15dmRBVlg4UFRYM243MFZ3OURqeXNMLXZ2WnpaZjRFcTFONlY2aEZOc1ZTaUx2dEdtMnB4SDV5Z2xwQ0FXanZvVWFiOGp2SXpfVGhJUmFFRDQzbkZGSG9ZNzRDVWpxOVRDUVptdFh3bjFkdjRBVUs5RHViU3NWWQ?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "WSJ",
-      "title": "Meta Will Split Stock, Create New Class to Fund AI Spending",
-      "summary": "Meta Will Split Stock, Create New Class to Fund AI Spending&nbsp;&nbsp…",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY20xcVZmaDh6bkhCTVVoQVJIOFhWZU1McXpENHNVTEdvMVY0YUQyUVdqOFBldFhJU1VXZ3lIY3FOSDN0ZFdBbXJDOXluVlA2WU9mcUJfM3FrVkQ1YXJBcDNSbXM0RlVib19UMFlsTFBBeFIyVGlEdUxVZS0wRDhWWl81ZjVXU0ZlQjJPeFRTaw?oc=5"
+      "source": "BBC",
+      "title": "Race to update services' computer systems after cyber-security flaw found",
+      "summary": "Race to update services' computer systems after cyber-security flaw fo…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnNGFxeVA1MWZhejZqYk15Slc4QVlTbi14VmF2bzFwejhUaWM1Y2ZKTXVxLWhxM290em9nQy1OVUwzRzRjcGtPWWxXWnR2a2NfcDg5eENlS0lNb0E?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "NBC News",
-      "title": "U.S. troops and diplomats evacuating Middle East posts, sources say",
-      "summary": "U.S. troops and diplomats evacuating Middle East posts, sources say&nb…",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLU92bVAxQU5KRmtTYjVQME0xeU40bVEzT1Y0bkx6MEM2bmdNUFRVQTBQTGVzb09nZEVCYm9iTE9rRFBqNWlWZURFY2NWamtQLTZ5QTZWcmxDUTB5dmRCVWZ2eFFlNU1sVnFSMkxaWUEwSDBzUkp2bnlZZmwwYUwzb0ZUemJVcDJXSmhZXzhOSVg1alRvNXpxb3NvblNWb2JvTlZ5WmwxYzdzQV81SXF3aDR3c2VFTC1ZZ3BrT19Edw?oc=5"
+      "source": "Reuters",
+      "title": "France's Macron tightens curbs on protests, blaming hard left for unrest",
+      "summary": "France's Macron tightens curbs on protests, blaming hard left for unre…",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHhBdkpVMVZzcjFPVTR6dkJIR1VJcGR3QXBOeFRHRFJuZFBGM2hWYzczWXdMUFdjVnpsYzI0RE1nZzhIMUNaQzVQMHRKa1VxcnpsaHJzalQzNHJXb2lkbDd3WkJQdXItb1UtZmpQNmQwQzQtV1VfUkJtdHpTR3p4OG95dmM3UkozM3FxWm5WMF9wMl9qQVVJR0l5NmxzV1pzVWtzVy1HXzQwSGRKTVlEZWtB?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "KFF",
-      "title": "The Future of CDC HIV Prevention Funding for Community Organizations",
-      "summary": "The Future of CDC HIV Prevention Funding for Community Organizations&n…",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1RtWGlVa3lJRTdJVzBrT1V0aHFQdGVkLTNMWkxISWhWeFRYVUcwX1Z5VlZuVFdtZ0pVakdrS29VblMxVGVkUnJ4dmpMdWkzeUMxRjlua3h0MmZDTXFXMEtyM0ZHM2lSQXA4U2VYV2hLUkVPR05hTHBTNzlUT2g0ajJmc3FsSTRrdkFqWG5taHJJRWFWM1lXRXNZYUpGOEtZVVZRVg?oc=5"
+      "source": "The Nation",
+      "title": "The Fall of “Scientific American”",
+      "summary": "The Fall of “Scientific American”&nbsp;&nbsp;The Nation",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUXpPV1hzNFBJT2pUNThXREVQTV9YeWxXTWE1VWEtbmhwUFd4d3c4LWh5LW04N2I0VHZyM3RqNDFndG02QWFsWklzN05PZTN5RV8zZE5rZS1fTXl0N3RWeEZnNHdyaldOODI1ZzdSOU1IdkVqX2ZRSEtyaUZIRllFMVFSY0l4RUJSTTdFbdIBlAFBVV95cUxOM0Q1NGhyZXJTTmpxNFo4endzR29yei1JSGZiRHpYYk5kQmpHaG4xMkxySVJNTVZFVlFPZlpqWkRIMlM0UUNQVkdkeHFxS1BuQTZETk8xM3d0QWFuak5vX0Y4Tnl0LUFDZzBrUkVSUDBNcDVFT1J3ZklVUVhjVW15ZGNjSElvMzctRjlpLWowQ292WFJs?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Tire Marking Machine Market To 2035: Regulator…",
-      "desc": "Tire Marking Machine Market To 2035: Regulatory Mandates and Laser Tec…",
+      "title": "Automotive Screenwash Products Market To 2035:…",
+      "desc": "Automotive Screenwash Products Market To 2035: Demand Accelerates on V…",
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeTVoZF8zdXFDYWlXTFdyQmtZajNORmlHaVVzN1NiTjlHMEg4NkZyYllDWFBwRVNKWDI5SjZrTEZvcjVYQi1yWW9EU2FfenFjTHJ1VDlsU3Vpd0tnQ2RzQ1JYVTk5Qk1SNVJSdHZjR2E3NlJCQ2lNd3FXc21YZXFRWkotcHVWMDZ1NTJmaklHdG1wZWtoSHdEN0dCQzFzbFFMM2I4a09Ib1dQcmVDQkNqWWhwVElhNjlkVWI5RTdnWDVFbFpqeUdWV1NhVQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV2NvQm1FRVJ2WDgzUnQxMmtLN0pXWEpkeFdJY0Y5SGxCbDZwWjZrT1lZUTdUTkVxOF9qNVBGQ1FEUG40MDc0SUY2UUtQaWxqZGhUeGtQa0hUTS16Vnp2SFpyNE1hcXRuTm8zanczV29JbHBTR3VQSUh4ZkFKWTV6YURqNkNCT2p1Mk8weHVUZlJzaWNkTmRicUdFMHAzNWo0LWhOQkFaZGQtb0FpLWRlVlRjaWlCMDVPUFRLYVpoa25seXZ6VjRqYVJabkNmOEFTUEE?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -91,10 +91,10 @@
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "Trump’s 50% Canada tariffs challenged in court",
-      "desc": "Trump’s 50% Canada tariffs challenged in court&nbsp;&nbsp;Supply Chain…",
-      "source": "Supply Chain Dive",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUQ5LUl2dDRtYldkMjZyc2xJS0swUEJpS29kZ3RvUVBZQWNxWkhKeGYzYm9NemxiRzdycklfUExFelZZb1VrZnVEaXhvMGo3YWZOcThNUVcyUlpzeV9WeGREdTdRd0swNFJfcUFQTWJobmpHbm54VURSSzJpTXl1NF9nRzg3QzZwVXN1WG9kWTdWM0k?oc=5"
+      "title": "Trade uncertainty narrows the planning horizon…",
+      "desc": "Trade uncertainty narrows the planning horizon for supply chain leader…",
+      "source": "Supply Chain Management Review",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS05DRW1VVTdhcnBGa3lhdzNsZ0dkTFFNNkRvX0g0N0FxUlV0N2lvdTJYMGpvaTlvYVJIM0k5QUpKVEUtWEwwdDYzQlRSUG1CZjJLQmMwT1EyM1JUcDVtWjBHeFFkX0djSmt1NTM0Q0wxYW5zUTJ2VktLVWRZMXVjeEZHS1BzLWpGYXpIbURWa3AzekQxYUNCZE9vUTVQMG1DQUE?oc=5"
     }
   ],
   "country_profile": {
