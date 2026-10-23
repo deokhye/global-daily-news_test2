@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-23T08:46:12.265967+09:00",
-  "generated_at_display": "2026-10-23 08:46 KST",
+  "generated_at": "2026-10-24T08:39:40.950090+09:00",
+  "generated_at_display": "2026-10-24 08:39 KST",
   "exchange_rate": {
-    "current_rate": 1324.6800537109375,
-    "change_pct": -0.07,
+    "current_rate": 1323.6600341796875,
+    "change_pct": -0.15,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1324.48
+      1323.66
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "CNN",
-      "title": "Live updates: Trump tells Ramaswamy not to take down controversial ad featuring his opponent’s estranged mother",
-      "summary": "Live updates: Trump tells Ramaswamy not to take down controversial ad…",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdy15dmRBVlg4UFRYM243MFZ3OURqeXNMLXZ2WnpaZjRFcTFONlY2aEZOc1ZTaUx2dEdtMnB4SDV5Z2xwQ0FXanZvVWFiOGp2SXpfVGhJUmFFRDQzbkZGSG9ZNzRDVWpxOVRDUVptdFh3bjFkdjRBVUs5RHViU3NWWQ?oc=5"
+      "source": "The New York Times",
+      "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
+      "summary": "Trump Officials Seek Block on Alaska Senate Race Results if the Republ…",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZDl5Z3RHSk9rWjFzYUZTei1SdmpSYllQaWg2WVBDbHFvVks4S05ZZHdoRWxvUFFEZEx2WTFQRWxuYWpOYjhROUhpaTZXbm44T0tTbkRkZjlJQVgtdVYxR0wzVXpfSnlLSEdLSjNtcG1jdER6LUlkYjRRR01raFBMdkhPMWpNajVCR2pnSXY0aVkyZ19fek1v?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "BBC",
-      "title": "Race to update services' computer systems after cyber-security flaw found",
-      "summary": "Race to update services' computer systems after cyber-security flaw fo…",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnNGFxeVA1MWZhejZqYk15Slc4QVlTbi14VmF2bzFwejhUaWM1Y2ZKTXVxLWhxM290em9nQy1OVUwzRzRjcGtPWWxXWnR2a2NfcDg5eENlS0lNb0E?oc=5"
+      "source": "CBS News",
+      "title": "AI agents are roaming around consumers' bank accounts, and banks aren't happy about it",
+      "summary": "AI agents are roaming around consumers' bank accounts, and banks aren'…",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hOW53UFVJcjU3M1I4SzlwMlNqdHpTZDF1QlpkZ3F5OEZTQzRnR2lfc2R0ZmZRWGtHc0ItamNxemg2V19EWVlMSHQ2STdRcVFpQ0x4QlRSbklfYVMtcEN5dlByMmpRLWRQV29jNHNDSjZRNGFqOXFORWFXRQ?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "Reuters",
-      "title": "France's Macron tightens curbs on protests, blaming hard left for unrest",
-      "summary": "France's Macron tightens curbs on protests, blaming hard left for unre…",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHhBdkpVMVZzcjFPVTR6dkJIR1VJcGR3QXBOeFRHRFJuZFBGM2hWYzczWXdMUFdjVnpsYzI0RE1nZzhIMUNaQzVQMHRKa1VxcnpsaHJzalQzNHJXb2lkbDd3WkJQdXItb1UtZmpQNmQwQzQtV1VfUkJtdHpTR3p4OG95dmM3UkozM3FxWm5WMF9wMl9qQVVJR0l5NmxzV1pzVWtzVy1HXzQwSGRKTVlEZWtB?oc=5"
+      "source": "BBC",
+      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "summary": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRcFJhZDlvRXNMNVlEc1VSNi1wdk9qeDRsaU1iV1Y4T0hDN21FZzFyVF8wYTJwNGN1cE1wTEEzQTBnOHpnaUpaZ21CZmdxU1pabzEwMWx1X3BuVDg?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "The Nation",
-      "title": "The Fall of “Scientific American”",
-      "summary": "The Fall of “Scientific American”&nbsp;&nbsp;The Nation",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUXpPV1hzNFBJT2pUNThXREVQTV9YeWxXTWE1VWEtbmhwUFd4d3c4LWh5LW04N2I0VHZyM3RqNDFndG02QWFsWklzN05PZTN5RV8zZE5rZS1fTXl0N3RWeEZnNHdyaldOODI1ZzdSOU1IdkVqX2ZRSEtyaUZIRllFMVFSY0l4RUJSTTdFbdIBlAFBVV95cUxOM0Q1NGhyZXJTTmpxNFo4endzR29yei1JSGZiRHpYYk5kQmpHaG4xMkxySVJNTVZFVlFPZlpqWkRIMlM0UUNQVkdkeHFxS1BuQTZETk8xM3d0QWFuak5vX0Y4Tnl0LUFDZzBrUkVSUDBNcDVFT1J3ZklVUVhjVW15ZGNjSElvMzctRjlpLWowQ292WFJs?oc=5"
+      "source": "Pew Research Center",
+      "title": "Growing Share of Americans Say Social Media Is an Important News Source for Them",
+      "summary": "Growing Share of Americans Say Social Media Is an Important News Sourc…",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNk5IRF9kZE1vT3pFQjc3dzAyeDhiMFVmUjRKTEFEeVBUemtNaFd0c3pBRFBBODNmNFFhYkRJbEZsbk4tTUZLWXl6cGI0SmlUcFpDVkRZclpmb3F1cTh5ckRwMDVldV96OVQ4TkREUlBITWNvMldObFZORi14UUlPdmtIUGtvZXZQYVdzOUs1YkdtblcwcFNRQTdaTDJXcEZaWVRlYjFPc05GTWRsbmhyUjlnSnpRaEcxYWpzZGF6U1k5aVdoYzdDczQyOEo?oc=5"
     }
   ],
   "hr_trends": [
@@ -82,19 +82,19 @@
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "Robust manufacturing PMI to boost USD?",
-      "desc": "Robust manufacturing PMI to boost USD?&nbsp;&nbsp;JD Supra",
-      "source": "JD Supra",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVHRFNzNZQUUyeWUtOXpETkRlV3d5M1Y5b1JBLWJJcUttdW5mUHJRYmVoQkUxUG5jVTJQYm9DMlF3cXZBUUVlOWFFQVBZcmVOVnVNTmZsNHpVd1g2QkF2V1F1RWhfM2N2eTZvbmhrWjFUV09RTWZmZmlnUjVBbmF1TkpSUURMMzQ?oc=5"
+      "title": "US Core PCE Preview: Stale or Significant for…",
+      "desc": "US Core PCE Preview: Stale or Significant for the Fed&nbsp;&nbsp;Stone…",
+      "source": "StoneX",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSVNsUWhkcHlsUVVJWndHRWhSWi1lTXFUSDFRT1NjMXFTY3pZRmJMbWc4dzhad0Z2bVA2NUZUOHVZVUNib0JJWWdCWlFXdkhMcXpLd09ibkNKSlpRMkJJbW9tSWhxemR1TmpBTkd2c01jRm00OHBJRWJHWDNLeFhxQVI5Wl85RVp1WkpaeXhpNV9wanRhR0RBV3hSSGI5emxpX3c?oc=5"
     },
     {
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "Trade uncertainty narrows the planning horizon…",
-      "desc": "Trade uncertainty narrows the planning horizon for supply chain leader…",
-      "source": "Supply Chain Management Review",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS05DRW1VVTdhcnBGa3lhdzNsZ0dkTFFNNkRvX0g0N0FxUlV0N2lvdTJYMGpvaTlvYVJIM0k5QUpKVEUtWEwwdDYzQlRSUG1CZjJLQmMwT1EyM1JUcDVtWjBHeFFkX0djSmt1NTM0Q0wxYW5zUTJ2VktLVWRZMXVjeEZHS1BzLWpGYXpIbURWa3AzekQxYUNCZE9vUTVQMG1DQUE?oc=5"
+      "title": "From Russian Oil to U.S. Supply Chains: The Hi…",
+      "desc": "From Russian Oil to U.S. Supply Chains: The Hidden Risk of Secondary T…",
+      "source": "Supply Chain Brain",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOUp3MWt2Nm5LUkRlWGthQWEtd2pzMUt4cWU3UV9WeG84TFVEN0NnZTJtejgzWmJDZVlzMEZrQXpxd2Nfdm5FOUdHOVNMRVV6LTk2enpEZ2NLYlNZS1pPc1h6ek1lbVdmQ3U1ME1EQUNDM1AyZEJlM0dPbmgxaGp4TEw1a19qSWF0MjhNSW1UNklSb2xNd0NWQjNzenFSNGs3ZXBhNEZwUHJpcUpocUh0VEZhR0RDMTk2OFktWlBZd0VmZUhLYkxyeGl5UExMdlZaN0E?oc=5"
     }
   ],
   "country_profile": {
