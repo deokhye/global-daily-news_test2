@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T08:39:40.950090+09:00",
-  "generated_at_display": "2026-10-24 08:39 KST",
+  "generated_at": "2026-10-25T07:47:23.610597+09:00",
+  "generated_at_display": "2026-10-25 07:47 KST",
   "exchange_rate": {
-    "current_rate": 1323.6600341796875,
-    "change_pct": -0.15,
+    "current_rate": 1325.4000244140625,
+    "change_pct": -0.04,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1323.66
+      1325.4
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The New York Times",
-      "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
-      "summary": "Trump Officials Seek Block on Alaska Senate Race Results if the Republ…",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZDl5Z3RHSk9rWjFzYUZTei1SdmpSYllQaWg2WVBDbHFvVks4S05ZZHdoRWxvUFFEZEx2WTFQRWxuYWpOYjhROUhpaTZXbm44T0tTbkRkZjlJQVgtdVYxR0wzVXpfSnlLSEdLSjNtcG1jdER6LUlkYjRRR01raFBMdkhPMWpNajVCR2pnSXY0aVkyZ19fek1v?oc=5"
+      "source": "NBC News",
+      "title": "Records offer a picture of the Oregon school shooter’s tumultuous home life",
+      "summary": "Records offer a picture of the Oregon school shooter’s tumultuous home…",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlYzM0NoSkxJT3ZpdHBiZDVicGRjalMwY0dKV1NkcURJUFpHOEpPYllqU29MdmhDdDBRMmxIZEc0d0dadE1NZldhWEt1bHRmSi1SRThaTjYzb0pyZTAwWUtxMTdCZzVhLXplSEUycXFPVUl1UTkxYTVQamV2UVhReW1NRVlPc3NfMjZoVEhmSXFVOEgzdU5kb3ZTZU0?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "CBS News",
-      "title": "AI agents are roaming around consumers' bank accounts, and banks aren't happy about it",
-      "summary": "AI agents are roaming around consumers' bank accounts, and banks aren'…",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hOW53UFVJcjU3M1I4SzlwMlNqdHpTZDF1QlpkZ3F5OEZTQzRnR2lfc2R0ZmZRWGtHc0ItamNxemg2V19EWVlMSHQ2STdRcVFpQ0x4QlRSbklfYVMtcEN5dlByMmpRLWRQV29jNHNDSjZRNGFqOXFORWFXRQ?oc=5"
+      "source": "NBC News",
+      "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns",
+      "summary": "Halloween candy sales are off to a slow start amid high chocolate pric…",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQblVPaDQtRVlhWHR4M1RIcHhGbkMwWU5LcmxOajktWHFMZlBiRUFuZUJEbHpPa3QydHJpWGsyRnNqZ21IMldEZUZuZk54WkNGVnd4c2w0V2cycU5nZkdxbGFlakdaekc5N0VIN0w5S2NNQ1AzUFBjbU15clh4SUJKT3BHWHZQVnJpdWlMbzFXREZsbjlqVVFxMlQ2SEVPUXR3UTZYTFJ3?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "BBC",
-      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "summary": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says…",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRcFJhZDlvRXNMNVlEc1VSNi1wdk9qeDRsaU1iV1Y4T0hDN21FZzFyVF8wYTJwNGN1cE1wTEEzQTBnOHpnaUpaZ21CZmdxU1pabzEwMWx1X3BuVDg?oc=5"
+      "source": "Reuters",
+      "title": "Violence flares in Paris after largely peaceful protests across France",
+      "summary": "Violence flares in Paris after largely peaceful protests across France…",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Pew Research Center",
-      "title": "Growing Share of Americans Say Social Media Is an Important News Source for Them",
-      "summary": "Growing Share of Americans Say Social Media Is an Important News Sourc…",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNk5IRF9kZE1vT3pFQjc3dzAyeDhiMFVmUjRKTEFEeVBUemtNaFd0c3pBRFBBODNmNFFhYkRJbEZsbk4tTUZLWXl6cGI0SmlUcFpDVkRZclpmb3F1cTh5ckRwMDVldV96OVQ4TkREUlBITWNvMldObFZORi14UUlPdmtIUGtvZXZQYVdzOUs1YkdtblcwcFNRQTdaTDJXcEZaWVRlYjFPc05GTWRsbmhyUjlnSnpRaEcxYWpzZGF6U1k5aVdoYzdDczQyOEo?oc=5"
+      "source": "American Nuclear Society",
+      "title": "EnCore receives BLM authorization for dormant uranium project",
+      "summary": "EnCore receives BLM authorization for dormant uranium project&nbsp;&nb…",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM1RFR1I3LXAzZ2NjREdMV0VENy1XWkRrU3hGN3lYMWpkdXQtYUh4Y0lUT3RyWDBGMjdrRFRIbndwTUwtUVlJVG1QMzVycXd5S1ZyNHlYR0xqVGJkdUpPM2JWN01mNnhjTjNlR2ZySVlpcUsyUGFaQlltM2J1RE10LUZsMzdXTVBkQWdlTDBjUEMzMFpVSkFTMkVnZjlSdkhHVmc?oc=5"
     }
   ],
   "hr_trends": [
@@ -82,10 +82,10 @@
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "US Core PCE Preview: Stale or Significant for…",
-      "desc": "US Core PCE Preview: Stale or Significant for the Fed&nbsp;&nbsp;Stone…",
-      "source": "StoneX",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSVNsUWhkcHlsUVVJWndHRWhSWi1lTXFUSDFRT1NjMXFTY3pZRmJMbWc4dzhad0Z2bVA2NUZUOHVZVUNib0JJWWdCWlFXdkhMcXpLd09ibkNKSlpRMkJJbW9tSWhxemR1TmpBTkd2c01jRm00OHBJRWJHWDNLeFhxQVI5Wl85RVp1WkpaeXhpNV9wanRhR0RBV3hSSGI5emxpX3c?oc=5"
+      "title": "What’s happening this week in economics?",
+      "desc": "What’s happening this week in economics?&nbsp;&nbsp;Deloitte",
+      "source": "Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5"
     },
     {
       "category": "MANAGEMENT",
@@ -101,10 +101,10 @@
     "capital": "Washington, D.C.",
     "population": "약 3.42억 명",
     "gdp": "약 30.8조 USD",
-    "inflation": "3.7%",
+    "inflation": "2.9%",
     "unemployment": "4.2%",
-    "stats_source": "BLS",
-    "stats_asof": "2026-09",
+    "stats_source": "World Bank",
+    "stats_asof": "2024",
     "min_wage_federal": "$7.25 / h (연방, 2009-07-24 발효)",
     "min_wage_tn": "주 별도 기준 없음 → 연방 기준 $7.25/h 적용"
   }
