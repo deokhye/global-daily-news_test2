@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T07:47:23.610597+09:00",
-  "generated_at_display": "2026-10-25 07:47 KST",
+  "generated_at": "2026-10-26T07:55:08.653365+09:00",
+  "generated_at_display": "2026-10-26 07:55 KST",
   "exchange_rate": {
-    "current_rate": 1325.4000244140625,
-    "change_pct": -0.04,
+    "current_rate": 1323.4000244140625,
+    "change_pct": -0.2,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1325.4
+      1323.4
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "NBC News",
-      "title": "Records offer a picture of the Oregon school shooter’s tumultuous home life",
-      "summary": "Records offer a picture of the Oregon school shooter’s tumultuous home…",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlYzM0NoSkxJT3ZpdHBiZDVicGRjalMwY0dKV1NkcURJUFpHOEpPYllqU29MdmhDdDBRMmxIZEc0d0dadE1NZldhWEt1bHRmSi1SRThaTjYzb0pyZTAwWUtxMTdCZzVhLXplSEUycXFPVUl1UTkxYTVQamV2UVhReW1NRVlPc3NfMjZoVEhmSXFVOEgzdU5kb3ZTZU0?oc=5"
+      "source": "CBS News",
+      "title": "Four Corners region faces more flood threats following days of heavy rain",
+      "summary": "Four Corners region faces more flood threats following days of heavy r…",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95WGktMnhZbEVLdHRCdVNvbXAxOHNfeTZBazdKYURxV3RidWI4Z2xWcHI5aEJIU0NzU2xDSmo3RWVLNHpJM2hhTGEwRDRoM2pwa2RhdzcwN2tyNjJfWHZWMWJzb05GY3hVQ3h2UQ?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "NBC News",
-      "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns",
-      "summary": "Halloween candy sales are off to a slow start amid high chocolate pric…",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQblVPaDQtRVlhWHR4M1RIcHhGbkMwWU5LcmxOajktWHFMZlBiRUFuZUJEbHpPa3QydHJpWGsyRnNqZ21IMldEZUZuZk54WkNGVnd4c2w0V2cycU5nZkdxbGFlakdaekc5N0VIN0w5S2NNQ1AzUFBjbU15clh4SUJKT3BHWHZQVnJpdWlMbzFXREZsbjlqVVFxMlQ2SEVPUXR3UTZYTFJ3?oc=5"
+      "source": "The Guardian",
+      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+      "summary": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at ho…",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTFRYmpOcW9wVmJQcTE1S0dVcHoyeFJldDlKY0ktZnd6ODV5NWVOWEtEUVNvVERjaXFqcDd6S2VSNWp4dmdBMmVsV3VoZ0UtS21NdEZHbTVaRzFRTEZaMnFLZllrVWpncmFsWE5YUGozdUpYTDhUb1Exb2VvYVg4REE0Q3pqVlBtUU15MHdnNmNFRHNzeHc4LUg2YUdwQUFPaUNaMXFqb0poV2ItVWNrSVFuY0J0UWczUE9yTQ?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
       "source": "Reuters",
-      "title": "Violence flares in Paris after largely peaceful protests across France",
-      "summary": "Violence flares in Paris after largely peaceful protests across France…",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5"
+      "title": "Brazil pauses presidential vote count after Supreme Court extends voting hours",
+      "summary": "Brazil pauses presidential vote count after Supreme Court extends voti…",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "American Nuclear Society",
-      "title": "EnCore receives BLM authorization for dormant uranium project",
-      "summary": "EnCore receives BLM authorization for dormant uranium project&nbsp;&nb…",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM1RFR1I3LXAzZ2NjREdMV0VENy1XWkRrU3hGN3lYMWpkdXQtYUh4Y0lUT3RyWDBGMjdrRFRIbndwTUwtUVlJVG1QMzVycXd5S1ZyNHlYR0xqVGJkdUpPM2JWN01mNnhjTjNlR2ZySVlpcUsyUGFaQlltM2J1RE10LUZsMzdXTVBkQWdlTDBjUEMzMFpVSkFTMkVnZjlSdkhHVmc?oc=5"
+      "source": "WPTA | 21Alive | Fort Wayne, IN",
+      "title": "American Cancer Society hosts fundraising walk for breast cancer in Fort Wayne",
+      "summary": "American Cancer Society hosts fundraising walk for breast cancer in Fo…",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0ZCdVFQcm1vNHNtS1NrUF95RDhxSlpnV2F1VmJYYWlURUU1VXRlUkpIVmVPcmszMkNsUDY3YjQ4U2lKRm5IUTBZQVBudFNjZTludXpTdFlhZ1BWSE52SFVSajBKSFJaWUFGU2RXSnRLZ0J3UVM1cE1NZFM5bGR6VzY5bWZaa0VfR21kWUxncDJWd0pUUVZuY3lvUnpuZllqWnM2WVlHQmUzYXhDenpveHlRdlJEVXNl?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,19 +73,19 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Automotive Screenwash Products Market To 2035:…",
-      "desc": "Automotive Screenwash Products Market To 2035: Demand Accelerates on V…",
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV2NvQm1FRVJ2WDgzUnQxMmtLN0pXWEpkeFdJY0Y5SGxCbDZwWjZrT1lZUTdUTkVxOF9qNVBGQ1FEUG40MDc0SUY2UUtQaWxqZGhUeGtQa0hUTS16Vnp2SFpyNE1hcXRuTm8zanczV29JbHBTR3VQSUh4ZkFKWTV6YURqNkNCT2p1Mk8weHVUZlJzaWNkTmRicUdFMHAzNWo0LWhOQkFaZGQtb0FpLWRlVlRjaWlCMDVPUFRLYVpoa25seXZ6VjRqYVJabkNmOEFTUEE?oc=5"
+      "title": "Electric Vehicle Warranty Expenses:",
+      "desc": "Electric Vehicle Warranty Expenses:&nbsp;&nbsp;Warranty Week",
+      "source": "Warranty Week",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cFVNYWgtMDdScDJwQWx3VXdYOFJpR0hvQ3MtMXlXalZNNTQxc3QzVk9FRDhMZml5NkJ4M2RUTEpOeVQ4MWQ4cUVHanoyUFBrUGplSGMtZ3U2X2NPRWdWemF3?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "What’s happening this week in economics?",
-      "desc": "What’s happening this week in economics?&nbsp;&nbsp;Deloitte",
-      "source": "Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5"
+      "title": "US Leading Indicators",
+      "desc": "US Leading Indicators&nbsp;&nbsp;The Conference Board",
+      "source": "The Conference Board",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LTF9nRUZOSWJ6Y2V3UW1Gd3BiQ0FnUWFmRWYzR25BdHVFbUNfMzVPQlpDbUFDZ29mQy0zTzdPUHBHdGdyQ3VGY0VxWmhCdGRHN1dwVWpQNVd4Zkw5OFZ1TmMwRzB3N09hTlI5WmZWVQ?oc=5"
     },
     {
       "category": "MANAGEMENT",
@@ -101,10 +101,10 @@
     "capital": "Washington, D.C.",
     "population": "약 3.42억 명",
     "gdp": "약 30.8조 USD",
-    "inflation": "2.9%",
+    "inflation": "3.7%",
     "unemployment": "4.2%",
-    "stats_source": "World Bank",
-    "stats_asof": "2024",
+    "stats_source": "BLS",
+    "stats_asof": "2026-09",
     "min_wage_federal": "$7.25 / h (연방, 2009-07-24 발효)",
     "min_wage_tn": "주 별도 기준 없음 → 연방 기준 $7.25/h 적용"
   }
