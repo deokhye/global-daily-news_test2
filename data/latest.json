@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-26T07:55:08.653365+09:00",
-  "generated_at_display": "2026-10-26 07:55 KST",
+  "generated_at": "2026-10-27T09:08:10.420848+09:00",
+  "generated_at_display": "2026-10-27 09:08 KST",
   "exchange_rate": {
-    "current_rate": 1323.4000244140625,
-    "change_pct": -0.2,
+    "current_rate": 1324.0799560546875,
+    "change_pct": 0.18,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1323.4
+      1324.08
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "CBS News",
-      "title": "Four Corners region faces more flood threats following days of heavy rain",
-      "summary": "Four Corners region faces more flood threats following days of heavy r…",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95WGktMnhZbEVLdHRCdVNvbXAxOHNfeTZBazdKYURxV3RidWI4Z2xWcHI5aEJIU0NzU2xDSmo3RWVLNHpJM2hhTGEwRDRoM2pwa2RhdzcwN2tyNjJfWHZWMWJzb05GY3hVQ3h2UQ?oc=5"
+      "source": "CNN",
+      "title": "Appeals court rejects Trump DOJ demand to set aside 20,000 California mail ballots",
+      "summary": "Appeals court rejects Trump DOJ demand to set aside 20,000 California…",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckk2RkdZc3dfdDdQeTVRQkJLNk4yUUwtaHgwRm9UeU1jc1BqczB5TTJEaVRITkdfWG1CUWtRVEZvRktrbDRFN2NsSEtsUmhYSHl2U040MGxRbWZDUy0tYlRvQ3otejl6Uy1yNjZnZlhlOE44dzVCYWVYZzZudmJXSE04cElST0tsX2RhRUtXM09xbmFCeFN3aWhRMA?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "The Guardian",
-      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-      "summary": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at ho…",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTFRYmpOcW9wVmJQcTE1S0dVcHoyeFJldDlKY0ktZnd6ODV5NWVOWEtEUVNvVERjaXFqcDd6S2VSNWp4dmdBMmVsV3VoZ0UtS21NdEZHbTVaRzFRTEZaMnFLZllrVWpncmFsWE5YUGozdUpYTDhUb1Exb2VvYVg4REE0Q3pqVlBtUU15MHdnNmNFRHNzeHc4LUg2YUdwQUFPaUNaMXFqb0poV2ItVWNrSVFuY0J0UWczUE9yTQ?oc=5"
+      "source": "CNBC",
+      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "summary": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massi…",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYllMbFRuTjU1YW5QWWRQd3JFZ0VkRk52dTl6RG04VEFZZC1HalMxaE9Iem01ZlN4MW5udlBWdUtvVU93U1BETlFVamk5SlNCam1XVVRzWExBemxDSC1yM0pDSHlkR1ZHNlpSNG02OTZCcVlEMGZiUXVBUkRWaWRQYVhkLUNrUmwwZEZ0YXZ6a29pemJHZGNaU2hpVUbSAaIBQVVfeXFMTmt4Q1hTcjFXT0kwZGNHeVE2bU9GaFUxeTVKTmx5bjhmMGFOOTI2R1N1ellVLWQtYzFSZWJBVzU3WDVILWRMR05LSEFnVFNTd1lLNGJyc3k5VjBLWUI1T3lfMmtXcFBENEJQZ3ZVTktfTjJpRFRYS0ktb0tOZkxCSzlPWmM4TXlPTC1zemFtZmpzUUNQQ1RuaEg1MGtKUEgzaU93?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "Reuters",
-      "title": "Brazil pauses presidential vote count after Supreme Court extends voting hours",
-      "summary": "Brazil pauses presidential vote count after Supreme Court extends voti…",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5"
+      "source": "Axios",
+      "title": "The anti-Bibi candidate who has Netanyahu on his heels",
+      "summary": "The anti-Bibi candidate who has Netanyahu on his heels&nbsp;&nbsp;Axio…",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hLXQ1aFVkUU5SRlFhSURsTjBOX01ObmxiemhNNl85Tk5sN2NTZERtd3hjQko0eXpSUVNmczlIUzhUU2YtNW1ZRE84YWktNHdhUGxLaUU2T0lIZjNuaDA4b0ctNUtRb255WHRJQ1JsWWtJQi1VcHg4?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "WPTA | 21Alive | Fort Wayne, IN",
-      "title": "American Cancer Society hosts fundraising walk for breast cancer in Fort Wayne",
-      "summary": "American Cancer Society hosts fundraising walk for breast cancer in Fo…",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0ZCdVFQcm1vNHNtS1NrUF95RDhxSlpnV2F1VmJYYWlURUU1VXRlUkpIVmVPcmszMkNsUDY3YjQ4U2lKRm5IUTBZQVBudFNjZTludXpTdFlhZ1BWSE52SFVSajBKSFJaWUFGU2RXSnRLZ0J3UVM1cE1NZFM5bGR6VzY5bWZaa0VfR21kWUxncDJWd0pUUVZuY3lvUnpuZllqWnM2WVlHQmUzYXhDenpveHlRdlJEVXNl?oc=5"
+      "source": "The Guardian",
+      "title": "Trump calls Bill Maher a ‘total loser’ in 1,300-word Truth Social rant",
+      "summary": "Trump calls Bill Maher a ‘total loser’ in 1,300-word Truth Social rant…",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWVZ4a1lOZzhMSXprSDBjNEE4eWpBRlRoQzlKbnc1MzBvcFcyd3VJNlRlMVRSa0tYb2tQZ3ZlRmtRUC1tMXdXenBFN042WnFYdlJ5aE1EUEFNVlBLai1fRTI2a0lPN2loeGZwTmZyRWU3UmQtMnVFbGtEVkVmM05JSk1BMzdIa29COEE?oc=5"
     }
   ],
   "hr_trends": [
