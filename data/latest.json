@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T09:08:10.420848+09:00",
-  "generated_at_display": "2026-10-27 09:08 KST",
+  "generated_at": "2026-10-28T09:09:05.479482+09:00",
+  "generated_at_display": "2026-10-28 09:09 KST",
   "exchange_rate": {
-    "current_rate": 1324.0799560546875,
-    "change_pct": 0.18,
+    "current_rate": 1326.8699951171875,
+    "change_pct": 0.16,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1324.08
+      1326.87
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "CNN",
-      "title": "Appeals court rejects Trump DOJ demand to set aside 20,000 California mail ballots",
-      "summary": "Appeals court rejects Trump DOJ demand to set aside 20,000 California…",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckk2RkdZc3dfdDdQeTVRQkJLNk4yUUwtaHgwRm9UeU1jc1BqczB5TTJEaVRITkdfWG1CUWtRVEZvRktrbDRFN2NsSEtsUmhYSHl2U040MGxRbWZDUy0tYlRvQ3otejl6Uy1yNjZnZlhlOE44dzVCYWVYZzZudmJXSE04cElST0tsX2RhRUtXM09xbmFCeFN3aWhRMA?oc=5"
+      "source": "CBS News",
+      "title": "Grand jury declines to indict Trump critic Cassidy Hutchinson over Jan. 6 testimony",
+      "summary": "Grand jury declines to indict Trump critic Cassidy Hutchinson over Jan…",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnpmajRLTnhIQjVMNlp2UENMVng3ajloOUtQeEdsRjJBa1cwUmNPbDRyUGlzR0xIcDM0UTc5RHU5SXBYUWRZWnJheDFLQUtObFZxMkRLSlFHZ0lrd19aLV82Uk5feXpQOTdtYk5RSXZ6XzIzT1hwclh4MTlxcXJ4Ri1xaEJOR2M1SllrUHE1ZFQ5XzdyVEgzQzJaQzlIbXY2eDNMSlFQVGEydE5xTHcyWU13?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "CNBC",
-      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
-      "summary": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massi…",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYllMbFRuTjU1YW5QWWRQd3JFZ0VkRk52dTl6RG04VEFZZC1HalMxaE9Iem01ZlN4MW5udlBWdUtvVU93U1BETlFVamk5SlNCam1XVVRzWExBemxDSC1yM0pDSHlkR1ZHNlpSNG02OTZCcVlEMGZiUXVBUkRWaWRQYVhkLUNrUmwwZEZ0YXZ6a29pemJHZGNaU2hpVUbSAaIBQVVfeXFMTmt4Q1hTcjFXT0kwZGNHeVE2bU9GaFUxeTVKTmx5bjhmMGFOOTI2R1N1ellVLWQtYzFSZWJBVzU3WDVILWRMR05LSEFnVFNTd1lLNGJyc3k5VjBLWUI1T3lfMmtXcFBENEJQZ3ZVTktfTjJpRFRYS0ktb0tOZkxCSzlPWmM4TXlPTC1zemFtZmpzUUNQQ1RuaEg1MGtKUEgzaU93?oc=5"
+      "source": "Ars Technica",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "summary": "Anthropic IPO warns its AI could blackmail people, become sentient, en…",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTNLaEZxN01qbHhiZ3NjYWN0WHU2MmJ3Y1hWT1JHUVIyaUJCTkMxZjI2Zk05bmFLbzJxbDBSVTU2dEtobjlOdHE2VU5uQnpJVW9fMTVrUjZYc21WVUlDcEw3dHVoQ2FPQXkwYXlfajZZeDY1aWlZRlFnVG1JMFV2Z0twN3VvSlp1Um1LTzFQTXBad05iUV83dWo1Z3l3blJsd1RQRW5SS29QTXlmU0VUS212S08?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "Axios",
-      "title": "The anti-Bibi candidate who has Netanyahu on his heels",
-      "summary": "The anti-Bibi candidate who has Netanyahu on his heels&nbsp;&nbsp;Axio…",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hLXQ1aFVkUU5SRlFhSURsTjBOX01ObmxiemhNNl85Tk5sN2NTZERtd3hjQko0eXpSUVNmczlIUzhUU2YtNW1ZRE84YWktNHdhUGxLaUU2T0lIZjNuaDA4b0ctNUtRb255WHRJQ1JsWWtJQi1VcHg4?oc=5"
+      "source": "BBC",
+      "title": "Israel election: Israeli exit polls suggest no clear winner with Eisenkot's bloc just ahead of Netanyahu",
+      "summary": "Israel election: Israeli exit polls suggest no clear winner with Eisen…",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
       "source": "The Guardian",
-      "title": "Trump calls Bill Maher a ‘total loser’ in 1,300-word Truth Social rant",
-      "summary": "Trump calls Bill Maher a ‘total loser’ in 1,300-word Truth Social rant…",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWVZ4a1lOZzhMSXprSDBjNEE4eWpBRlRoQzlKbnc1MzBvcFcyd3VJNlRlMVRSa0tYb2tQZ3ZlRmtRUC1tMXdXenBFN042WnFYdlJ5aE1EUEFNVlBLai1fRTI2a0lPN2loeGZwTmZyRWU3UmQtMnVFbGtEVkVmM05JSk1BMzdIa29COEE?oc=5"
+      "title": "AI-driven disinformation running rampant on social media before US midterms, experts warn",
+      "summary": "AI-driven disinformation running rampant on social media before US mid…",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMzhjeU14WUtXbVpVV01Td2Y0Ty1Bb3IzbkViZjFOa09jSFFtaExEY0V3Mnp2SFRBbWJ3NVFFcGhnS0F4dEJ5VkN2YXBwYmFEQVJxcUE2cXRydFlKSWlJOUFZb0p0dU1YUnpFYTFMc3RITlRPVVdMdFhyZ3NlbDlWcDhDeDF1dVJNeVdKNFd0RlpmbW1DTWsyTEpHUlU?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Electric Vehicle Warranty Expenses:",
-      "desc": "Electric Vehicle Warranty Expenses:&nbsp;&nbsp;Warranty Week",
-      "source": "Warranty Week",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cFVNYWgtMDdScDJwQWx3VXdYOFJpR0hvQ3MtMXlXalZNNTQxc3QzVk9FRDhMZml5NkJ4M2RUTEpOeVQ4MWQ4cUVHanoyUFBrUGplSGMtZ3U2X2NPRWdWemF3?oc=5"
+      "title": "Graphene Enhanced Plastics Market To 2035: Aut…",
+      "desc": "Graphene Enhanced Plastics Market To 2035: Automotive Lightweighting a…",
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHJXR0I1QTFMTUhMQ3pBTlNVM2hMclpjNlpzS0E5bTdQU0tRMFpxRklCbVJOb0lPUDY2ZmZ0dFNKendsTEh2THNRb1AyeXEtakt1QjVhNTh3UXVqd2JaMWNfVVZDTWxnb2s3VkY1NktjQ3hMN3ZVNGQ4RHVIbERTVFVWVEQ1RkVKc1BPb2haNXV6R3YxUElQM2NWeExES2RrX3pXN1dYWGhKb0dSMTF3S25wY1V5MDNuYlNCaDEwb3BnT3hqRmpid04zUmpuM09SU1ppREFIX0I?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -91,10 +91,10 @@
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "From Russian Oil to U.S. Supply Chains: The Hi…",
-      "desc": "From Russian Oil to U.S. Supply Chains: The Hidden Risk of Secondary T…",
-      "source": "Supply Chain Brain",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOUp3MWt2Nm5LUkRlWGthQWEtd2pzMUt4cWU3UV9WeG84TFVEN0NnZTJtejgzWmJDZVlzMEZrQXpxd2Nfdm5FOUdHOVNMRVV6LTk2enpEZ2NLYlNZS1pPc1h6ek1lbVdmQ3U1ME1EQUNDM1AyZEJlM0dPbmgxaGp4TEw1a19qSWF0MjhNSW1UNklSb2xNd0NWQjNzenFSNGs3ZXBhNEZwUHJpcUpocUh0VEZhR0RDMTk2OFktWlBZd0VmZUhLYkxyeGl5UExMdlZaN0E?oc=5"
+      "title": "Trade uncertainty narrows the planning horizon…",
+      "desc": "Trade uncertainty narrows the planning horizon for supply chain leader…",
+      "source": "Supply Chain Management Review",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS05DRW1VVTdhcnBGa3lhdzNsZ0dkTFFNNkRvX0g0N0FxUlV0N2lvdTJYMGpvaTlvYVJIM0k5QUpKVEUtWEwwdDYzQlRSUG1CZjJLQmMwT1EyM1JUcDVtWjBHeFFkX0djSmt1NTM0Q0wxYW5zUTJ2VktLVWRZMXVjeEZHS1BzLWpGYXpIbURWa3AzekQxYUNCZE9vUTVQMG1DQUE?oc=5"
     }
   ],
   "country_profile": {
