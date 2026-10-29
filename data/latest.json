@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-28T09:09:05.479482+09:00",
-  "generated_at_display": "2026-10-28 09:09 KST",
+  "generated_at": "2026-10-29T09:31:33.661345+09:00",
+  "generated_at_display": "2026-10-29 09:31 KST",
   "exchange_rate": {
-    "current_rate": 1326.8699951171875,
-    "change_pct": 0.16,
+    "current_rate": 1336.8800048828125,
+    "change_pct": 0.76,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1326.87
+      1336.78
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "CBS News",
-      "title": "Grand jury declines to indict Trump critic Cassidy Hutchinson over Jan. 6 testimony",
-      "summary": "Grand jury declines to indict Trump critic Cassidy Hutchinson over Jan…",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnpmajRLTnhIQjVMNlp2UENMVng3ajloOUtQeEdsRjJBa1cwUmNPbDRyUGlzR0xIcDM0UTc5RHU5SXBYUWRZWnJheDFLQUtObFZxMkRLSlFHZ0lrd19aLV82Uk5feXpQOTdtYk5RSXZ6XzIzT1hwclh4MTlxcXJ4Ri1xaEJOR2M1SllrUHE1ZFQ5XzdyVEgzQzJaQzlIbXY2eDNMSlFQVGEydE5xTHcyWU13?oc=5"
+      "source": "AP News",
+      "title": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy",
+      "summary": "Trump calls for prosecution of Democratic Alaska Senate candidate over…",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Ars Technica",
-      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-      "summary": "Anthropic IPO warns its AI could blackmail people, become sentient, en…",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTNLaEZxN01qbHhiZ3NjYWN0WHU2MmJ3Y1hWT1JHUVIyaUJCTkMxZjI2Zk05bmFLbzJxbDBSVTU2dEtobjlOdHE2VU5uQnpJVW9fMTVrUjZYc21WVUlDcEw3dHVoQ2FPQXkwYXlfajZZeDY1aWlZRlFnVG1JMFV2Z0twN3VvSlp1Um1LTzFQTXBad05iUV83dWo1Z3l3blJsd1RQRW5SS29QTXlmU0VUS212S08?oc=5"
+      "source": "Fox Business",
+      "title": "Federal Reserve makes interest rate decision ahead of midterms",
+      "summary": "Federal Reserve makes interest rate decision ahead of midterms&nbsp;&n…",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0hLUjN3TllXcDVjaXRBaUwxOW1QcnJLRkc3ZGR3SnR1U283WVdPeWozMmw2eFlLa3ZVb011TlEtMHI0RjV6eWE0T2ZXcXRNQVR5eEIzbVhRektfTHkzLWNLbVc5U0RQaXUyRnFSZ2VCUmZNOFlpcTQyWXc5S21zRWxpb2FBSS1FSkpiVnc0VnV5S2o50gGaAUFVX3lxTE1DUFpkcUswb2dYdVhleE1XejZfZVdTSHJsbUhOelF3Z1B4UUpGdWhqUGQzTmxvTmhGbFFQZ1VNdmhNenprZE1Hbjh6bW9RUTFGN0lfYkZMZ3g4YUh1VlM2eUhGNHNpVUN5ZG12R2RrSnpxTDRKTVR6Y29oMUhHNVdMZ1N1UzFLUjF3LUNnc0pvUFNQZXA1T1JnQ0E?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "BBC",
-      "title": "Israel election: Israeli exit polls suggest no clear winner with Eisenkot's bloc just ahead of Netanyahu",
-      "summary": "Israel election: Israeli exit polls suggest no clear winner with Eisen…",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5"
+      "source": "Politico",
+      "title": "Netanyahu rivals weigh joining forces with Arab parties",
+      "summary": "Netanyahu rivals weigh joining forces with Arab parties&nbsp;&nbsp;Pol…",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUmwzYXl3NHhCSm1la0kyOVlHNFFsYlNsTnBBNHdVU1NfelhaUnpGZHVMZmFuYU9LZEFCaFN3S25KOHBtTjNVR0toOTUxQUpldnVQRk9oOUlDYmZpQzctX2lHQWFVbGt6TFRfU1lMNjJvQkdIQUZ6TEZreXZqNFlLREhKaXRWLU5tcnpuTkppcUdNbm1Wc2YxOS1sZWF2Z01YWVcyQncxelE?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "The Guardian",
-      "title": "AI-driven disinformation running rampant on social media before US midterms, experts warn",
-      "summary": "AI-driven disinformation running rampant on social media before US mid…",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMzhjeU14WUtXbVpVV01Td2Y0Ty1Bb3IzbkViZjFOa09jSFFtaExEY0V3Mnp2SFRBbWJ3NVFFcGhnS0F4dEJ5VkN2YXBwYmFEQVJxcUE2cXRydFlKSWlJOUFZb0p0dU1YUnpFYTFMc3RITlRPVVdMdFhyZ3NlbDlWcDhDeDF1dVJNeVdKNFd0RlpmbW1DTWsyTEpHUlU?oc=5"
+      "source": "Reuters",
+      "title": "Meta and Snap face major US legal test of youth social media addiction claims",
+      "summary": "Meta and Snap face major US legal test of youth social media addiction…",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ2w0Sl84cFdsTFJNWUNBZ0JXckE2VFRXMEYyZU4xWjdaY3BXV2hfMDVQWTRxRmEtTGFlNks0SkZSdFBzMFNTX1ZmeUJnQTdQb2w0djdEaVJmajktVzl0SklXYlQ5cjRCM19DV1poMjdsR3RsX1o1MjQyeGhqczFfTENXWDZsQ29Wdk42cFF4LURwOXVsNzR2eXNvVHRIaEVhUzMwa0xzZ0oxTDFzSllSTW96WHc3UQ?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Graphene Enhanced Plastics Market To 2035: Aut…",
-      "desc": "Graphene Enhanced Plastics Market To 2035: Automotive Lightweighting a…",
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHJXR0I1QTFMTUhMQ3pBTlNVM2hMclpjNlpzS0E5bTdQU0tRMFpxRklCbVJOb0lPUDY2ZmZ0dFNKendsTEh2THNRb1AyeXEtakt1QjVhNTh3UXVqd2JaMWNfVVZDTWxnb2s3VkY1NktjQ3hMN3ZVNGQ4RHVIbERTVFVWVEQ1RkVKc1BPb2haNXV6R3YxUElQM2NWeExES2RrX3pXN1dYWGhKb0dSMTF3S25wY1V5MDNuYlNCaDEwb3BnT3hqRmpid04zUmpuM09SU1ppREFIX0I?oc=5"
+      "title": "How EV tires are reshaping performance demands",
+      "desc": "How EV tires are reshaping performance demands&nbsp;&nbsp;Rubber News",
+      "source": "Rubber News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbllGYlNnUW5ha1F5M2k4Y3BkNlMtZEt4SWVEZHZMMWNsUGJTeVVHbGtGMFdVY2hrZ2laRFVEVkNnYVFSRFZXd216ZUhpUC1hNkxXRFkwdXVWeXdnbGdoSF9OMnVVVU9uWjVMdmlDcndkZWZyM3J4N1A1YWd0Vm5hMG5jNUt3UEo0Mkwwc21mcmtUWWJScHF0NzRqQlVYYnVWM1pmVHFrYXJyNWs?oc=5"
     },
     {
       "category": "ECONOMY",
