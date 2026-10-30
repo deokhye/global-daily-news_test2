@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29T09:31:33.661345+09:00",
-  "generated_at_display": "2026-10-29 09:31 KST",
+  "generated_at": "2026-10-30T09:30:06.131430+09:00",
+  "generated_at_display": "2026-10-30 09:30 KST",
   "exchange_rate": {
-    "current_rate": 1336.8800048828125,
-    "change_pct": 0.76,
+    "current_rate": 1338.1800537109375,
+    "change_pct": -0.16,
     "history_labels": [
       "11월",
       "12월",
@@ -30,7 +30,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1336.78
+      1338.18
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "AP News",
-      "title": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy",
-      "summary": "Trump calls for prosecution of Democratic Alaska Senate candidate over…",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5"
+      "source": "BBC",
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "summary": "Alaska governor orders probe into Democratic campaign's alleged links…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKenQ0b28xd0xHQlJVQXJqXzFSOXpZcUlpRDhoNmVXNVNBZFJjNlNsUmlqLWtFN18yeklZWXhVSDFTYlNocGhiekxpVk91XzJ6WmVraVdaQnNYSUk?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Fox Business",
-      "title": "Federal Reserve makes interest rate decision ahead of midterms",
-      "summary": "Federal Reserve makes interest rate decision ahead of midterms&nbsp;&n…",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0hLUjN3TllXcDVjaXRBaUwxOW1QcnJLRkc3ZGR3SnR1U283WVdPeWozMmw2eFlLa3ZVb011TlEtMHI0RjV6eWE0T2ZXcXRNQVR5eEIzbVhRektfTHkzLWNLbVc5U0RQaXUyRnFSZ2VCUmZNOFlpcTQyWXc5S21zRWxpb2FBSS1FSkpiVnc0VnV5S2o50gGaAUFVX3lxTE1DUFpkcUswb2dYdVhleE1XejZfZVdTSHJsbUhOelF3Z1B4UUpGdWhqUGQzTmxvTmhGbFFQZ1VNdmhNenprZE1Hbjh6bW9RUTFGN0lfYkZMZ3g4YUh1VlM2eUhGNHNpVUN5ZG12R2RrSnpxTDRKTVR6Y29oMUhHNVdMZ1N1UzFLUjF3LUNnc0pvUFNQZXA1T1JnQ0E?oc=5"
+      "source": "Reuters",
+      "title": "Robust consumer spending, AI-related investment power US economy in third quarter",
+      "summary": "Robust consumer spending, AI-related investment power US economy in th…",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "Politico",
-      "title": "Netanyahu rivals weigh joining forces with Arab parties",
-      "summary": "Netanyahu rivals weigh joining forces with Arab parties&nbsp;&nbsp;Pol…",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUmwzYXl3NHhCSm1la0kyOVlHNFFsYlNsTnBBNHdVU1NfelhaUnpGZHVMZmFuYU9LZEFCaFN3S25KOHBtTjNVR0toOTUxQUpldnVQRk9oOUlDYmZpQzctX2lHQWFVbGt6TFRfU1lMNjJvQkdIQUZ6TEZreXZqNFlLREhKaXRWLU5tcnpuTkppcUdNbm1Wc2YxOS1sZWF2Z01YWVcyQncxelE?oc=5"
+      "source": "Al Jazeera",
+      "title": "Israel election result shows no overall majority as vote count complete",
+      "summary": "Israel election result shows no overall majority as vote count complet…",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlRKcmM0b2Q5Q3I3YS1KejlBOUVUNGtpZ3k0NG0wRG1uZHlKWktycWtnd1JQLUh2dG1LWWxaTVJMRTZFTDB3OXpXaVVVQlBXQm1YUzFPeU16b2dQdDVjcU1yRWdzOXV5V0lqNVo2X0pNVFlYXzE2eEFrU3U3bEdwT1JnRmRHMlRrTW4tMDhvcVJIdHVqZEFOMjNmVXpNMWVrajhJNlRGcWh3SHljTVVHWG1EVdIBuAFBVV95cUxNTFNTejBtc3J6M1Q2aVJrVWpLSTBrNWo5RlFLUVh1a05kbFh0YUZRTTUwXzA5Wlh6WGlYUXNBbEVFVHAzMGd4c2JSSmpzZW1sdGkySThWb29DeDVteGpGbUJsMEtjTEEzY3pvMDZWSWJZQ2dITGkzUFdQWkhFR1lOZTd2TERVOW5XN1JHa0dHdWtwcEhQc3pTOENabXZESExtZnhIVy1DNFEwTlZtSm5YSWJya3lMdUZE?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Reuters",
-      "title": "Meta and Snap face major US legal test of youth social media addiction claims",
-      "summary": "Meta and Snap face major US legal test of youth social media addiction…",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ2w0Sl84cFdsTFJNWUNBZ0JXckE2VFRXMEYyZU4xWjdaY3BXV2hfMDVQWTRxRmEtTGFlNks0SkZSdFBzMFNTX1ZmeUJnQTdQb2w0djdEaVJmajktVzl0SklXYlQ5cjRCM19DV1poMjdsR3RsX1o1MjQyeGhqczFfTENXWDZsQ29Wdk42cFF4LURwOXVsNzR2eXNvVHRIaEVhUzMwa0xzZ0oxTDFzSllSTW96WHc3UQ?oc=5"
+      "source": "NPR",
+      "title": "Immigration: The Future Of The Haitian Community In America : 1A",
+      "summary": "Immigration: The Future Of The Haitian Community In America : 1A&nbsp;…",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONE1saUhrclFYOURZbmxzcy1JVWhhV3phR0NpZ04zX0NJU0VEWDgtLWF0elBFbS1oaEo0akNGOWFtQTk2YXRVSjY0SGFRT0hTNlYxRGEtaFJjTVM3MWRyaTJYQTVXcXp6R3lNbE0tNmVIRkNyUXpUa2tEUzlyeHpLV3F2Z2U5V0JrcW9JZ2gxT1NvNldCQTB6M2tzRWtQcGVXbTVVMU13?oc=5"
     }
   ],
   "hr_trends": [
@@ -82,19 +82,19 @@
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "US Leading Indicators",
-      "desc": "US Leading Indicators&nbsp;&nbsp;The Conference Board",
-      "source": "The Conference Board",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LTF9nRUZOSWJ6Y2V3UW1Gd3BiQ0FnUWFmRWYzR25BdHVFbUNfMzVPQlpDbUFDZ29mQy0zTzdPUHBHdGdyQ3VGY0VxWmhCdGRHN1dwVWpQNVd4Zkw5OFZ1TmMwRzB3N09hTlI5WmZWVQ?oc=5"
+      "title": "Texas manufacturing activity remains solid, th…",
+      "desc": "Texas manufacturing activity remains solid, though pace of growth mode…",
+      "source": "Federal Reserve Bank of Dallas",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SRjVFOGFMTlBFaGh3OUduUGlrd0UtUlhmR095YkFBMXZPbzg3N25vcVhvVDRIOEdrRmp3WFNHb0VRT3Z6U2hKYW1OX3dRQTllTTJhWUd6cC1ZVFdwbVJEOTl5YVVoT2RF?oc=5"
     },
     {
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "Trade uncertainty narrows the planning horizon…",
-      "desc": "Trade uncertainty narrows the planning horizon for supply chain leader…",
+      "title": "The end of de minimis doesn’t mean the end of…",
+      "desc": "The end of de minimis doesn’t mean the end of China-based fulfillment&…",
       "source": "Supply Chain Management Review",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS05DRW1VVTdhcnBGa3lhdzNsZ0dkTFFNNkRvX0g0N0FxUlV0N2lvdTJYMGpvaTlvYVJIM0k5QUpKVEUtWEwwdDYzQlRSUG1CZjJLQmMwT1EyM1JUcDVtWjBHeFFkX0djSmt1NTM0Q0wxYW5zUTJ2VktLVWRZMXVjeEZHS1BzLWpGYXpIbURWa3AzekQxYUNCZE9vUTVQMG1DQUE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjVYTHlzZFljNk9TM1MzTzR0TzdXLU5pM3hsX2JzbDU2X0tVbTBIMUJrYWY2ZHBHN2VxNFZDNkstX3pack82aDN5NFBZblFjdTlXVXZqbWt1UmtaNGRjdmFkYmE2X2JVS1JTeWp5YWkyemQ3TzdTaWZJdHZSSXRFNnJuNnVkbkpGS3RHQkNtalhiVWpyUW5RY1lwcGJsQQ?oc=5"
     }
   ],
   "country_profile": {
