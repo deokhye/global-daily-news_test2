@@ -1,11 +1,10 @@
 {
-  "generated_at": "2026-11-01T08:51:18.753384+09:00",
-  "generated_at_display": "2026-11-01 08:51 KST",
+  "generated_at": "2026-11-02T09:02:11.745130+09:00",
+  "generated_at_display": "2026-11-02 09:02 KST",
   "exchange_rate": {
-    "current_rate": 1335.0999755859375,
-    "change_pct": -0.22,
+    "current_rate": 1332.280029296875,
+    "change_pct": -0.43,
     "history_labels": [
-      "11월",
       "12월",
       "1월",
       "2월",
@@ -16,10 +15,10 @@
       "7월",
       "8월",
       "9월",
-      "10월"
+      "10월",
+      "11월"
     ],
     "history_values": [
-      1466.13,
       1437.91,
       1449.7,
       1432.32,
@@ -30,7 +29,8 @@
       1420.6,
       1377.11,
       1350.5,
-      1335.1
+      1324.52,
+      1332.28
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "KCRA",
-      "title": "31-year-old pregnant woman identified as killed in Fairfield shooting at Spirit Halloween",
-      "summary": "31-year-old pregnant woman identified as killed in Fairfield shooting…",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2VEU1VYa3FhenA2OGF2UWsxcXR6S1dzME1PMERCQ1hQMU92cTY4Z0VzcmVhWTd0Rl90NWpVU2puWUVQd0tWZE04aThWenNhdXh1dlJIQ3BYVnd2SnJrQ1pHR2d0ekxVUWxOdlczX2lzUjlyYjlyTlBZcU9UcmpHV2JsOXdXMHNMZzJlZ3M3bkdjSUpUTE9Sd1lPeGQ2MXVPTTRFNV9aMFppS3M?oc=5"
+      "source": "Politico",
+      "title": "2026 Midterm Elections, Nov. 1",
+      "summary": "2026 Midterm Elections, Nov. 1&nbsp;&nbsp;PoliticoA shocking cross-par…",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTjFQbHlHMVhBV2JHTzF2aXBadWhHb2NmZ3l4cHNycGRKSGFLUGtpVUJkVnJjQzZpeHJzSDIyX1BvMWNOV3hnWW9EOGJmOExDcl9QN04waFdKZHg2QU80YzNQVER0OWl3TWxMMUJEZFg3UjZKbVo5Zm1CLXR5dFRMUjhiMFljN1U5UTVYRnVzXzQxdw?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "The Verge",
-      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-      "summary": "Binance CEO says 90 percent of stolen assets have been ‘replenished’&n…",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1taFlQaHdFNi1RVmtQVXRPdlBsUE1oSHE5Y2dyMFR5dDAzaWRQTDJrUlBxb19LRlRjREhSTGU0d3JISVU0a3JkZHI2OXdVeTVENGstYXpLbXJDeTJxXzJZSVI1ZjY5UGRfRlFicGU4YmFpWWdnVFZNaHk4Nmk3N1U?oc=5"
+      "source": "PBS",
+      "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
+      "summary": "FBI says North Korea was behind $6.3 billion Binance heist, the bigges…",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUNSTU9VSmpLOHdYajBxZ1hpTXJyOW0zSUNFQnlseE1seEFvSTBKTmNXR0dXek8yMGxyMHo3cFpBVW1lQ1BLV19wUjFqZVRwVlJ2OERUVzlzWWlHUC1iR0FoNXY0dWd6RUxXZ3BVOG1EOE1Fek41R2ZsQ2xXbWFDRWhEZWNPRndWdUtkeEN0cGRDTXBPcmtRUzB4LVdaVTdVNnJpVDNrNzJTRk5FYVFYMWtzVjRKXzRRQ1RGR01xTUxvWW4tTHfSAcsBQVVfeXFMTXNlR0FBQ2cwaTYyaU9uLUdhWjVPQnBnVGRta09veExETi12S3o4NV91cWtJbnRyQjdtajFMcVRtMHBoYjhwMDN3MEhiYzNXVk1oU2o0YUwwTGNMRExwX3dOQldha191YjJuLXVMOGdaYkxOZ3AxX1U3cmVfUV9tVHBIeHVReW5RTW95TG9yWU0yUHBPQ1QwZDlENU1SZFhfMURpRkZndXpYWERaYzROc1JJbG9HejFyZDRkQnRsYWFPWlVVWFZ0dE1IVkE?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "AP News",
-      "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
-      "summary": "A third weekend of protests in France as youth-led rallies sweep Europ…",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5"
+      "source": "Financial Times",
+      "title": "Inside the leaderless movement set to govern Serbia",
+      "summary": "Inside the leaderless movement set to govern Serbia&nbsp;&nbsp;Financi…",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObnJKRWFTZkhoajJxSHA2c3Y2cFpKMzB3T1Vpd09oVWY0cHBwNHJRc2J1a20xQ1RZdVV5aEM0RUtSUllNMFpQdUpYTkw5UmRDU0U2Wm52VkVBdldFNV83dW1keVA0dTJ6N3o2RDBiYk1abHdheGM0SDZrRkNTSURZQkh3WE4?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "New York Post",
-      "title": "Most American adults are getting their news from social media — overtaking traditional journalism: survey",
-      "summary": "Most American adults are getting their news from social media — overta…",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbVNhcnpxM2dLQk1KaGQ5R0dhREJyaEhyUUQxUWZ1dkdzSGREQW03bm54V3ZhR3VKOE1idDdhM3liOEFpWVR4QVVmZlBCYXQwczRSYlpxUm0tby1rM0dsU3pKUVBMbzFMbmlLNW1kaThhX3doWHltOUR6NU1yMll5S1hjbnNKcXBsUm13M1ZwcV9VTkZkVktrUllIdnBabnlRVHhiRzlubTA3d3RMY1R4MG8zbjU2dnlWcEJINkZ4YVFYZ1RrYVdWa2tQV1Bya3lrenRRYXA5RmxhUQ?oc=5"
+      "source": "The Guardian",
+      "title": "Colorado community fights plan to use drones to spray weed killer",
+      "summary": "Colorado community fights plan to use drones to spray weed killer&nbsp…",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelJxRmZjTHZJX09yM2QtelZUbGJyUGpyNXlCc1FNY2dKX195enRtZVROMEtydXFWRTl4OHY1WkM1U0IwbFprVndwVmNUY0FDT0Z4VEN6TFQwT09oYkZrSmNFVzB2ajVnTDREb3dxcHppWU4wNzc3UFZpSE0wV3VpUg?oc=5"
     }
   ],
   "hr_trends": [
@@ -91,10 +91,10 @@
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "The end of de minimis doesn’t mean the end of…",
-      "desc": "The end of de minimis doesn’t mean the end of China-based fulfillment&…",
-      "source": "Supply Chain Management Review",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjVYTHlzZFljNk9TM1MzTzR0TzdXLU5pM3hsX2JzbDU2X0tVbTBIMUJrYWY2ZHBHN2VxNFZDNkstX3pack82aDN5NFBZblFjdTlXVXZqbWt1UmtaNGRjdmFkYmE2X2JVS1JTeWp5YWkyemQ3TzdTaWZJdHZSSXRFNnJuNnVkbkpGS3RHQkNtalhiVWpyUW5RY1lwcGJsQQ?oc=5"
+      "title": "Securing an American Aluminum Supply Chain: Wh…",
+      "desc": "Securing an American Aluminum Supply Chain: Why Downstream Tariff Cove…",
+      "source": "Coalition For A Prosperous America",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaEZFMHd6ekxxV0x0Q05KMW0zR19QV251QW9GTTZscDBnYjZnZ05ERTA4RGpRUGd1bTlmLUx5YktEWGtvQzFOWF82X2pfdWFSckJvSWpWR2xTdUpUQjUtekRtdy1VbHM0eEtuMVFwT0Y1MmxDQmFVb2lxbUNhUlZKRlBfYW55WUNpQmpoODJLb21Ud2M0aFVWR0J4T1hHZ2VXNTNibWJ0TWVjRGF6bXZwREdUX2t1OHha?oc=5"
     }
   ],
   "country_profile": {
