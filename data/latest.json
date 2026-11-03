@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-02T09:02:11.745130+09:00",
-  "generated_at_display": "2026-11-02 09:02 KST",
+  "generated_at": "2026-11-03T11:43:18.870412+09:00",
+  "generated_at_display": "2026-11-03 11:43 KST",
   "exchange_rate": {
-    "current_rate": 1332.280029296875,
-    "change_pct": -0.43,
+    "current_rate": 1340.8699951171875,
+    "change_pct": 1.16,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1332.28
+      1340.87
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "Politico",
-      "title": "2026 Midterm Elections, Nov. 1",
-      "summary": "2026 Midterm Elections, Nov. 1&nbsp;&nbsp;PoliticoA shocking cross-par…",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTjFQbHlHMVhBV2JHTzF2aXBadWhHb2NmZ3l4cHNycGRKSGFLUGtpVUJkVnJjQzZpeHJzSDIyX1BvMWNOV3hnWW9EOGJmOExDcl9QN04waFdKZHg2QU80YzNQVER0OWl3TWxMMUJEZFg3UjZKbVo5Zm1CLXR5dFRMUjhiMFljN1U5UTVYRnVzXzQxdw?oc=5"
+      "source": "KUT",
+      "title": "Austin tech entrepreneur, wife and young children among victims of Florida jet crash",
+      "summary": "Austin tech entrepreneur, wife and young children among victims of Flo…",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTHhkWE9ETXZsRTZvNG1uVkFWcktGVUJqeXVIYzRGY0xPTWpnb2t0SVh6dkhaU29relJQSFpObFU3TFZSNjc4eUk5WlVXNGY2cnFXNHN0RWk0SFBkbXkwdzVVTktnTC1pWjQ5cFo2SGVGcVpwLVZxV1o4VTJfMEJleWpucEJocjNZTFhxQTl1UmNmOExNbUJVSWpFd3dhWjE3VlI3XzBnQmlFR1FnOF9iaG5SRjczS2xoUzdwMjZYQU1PeFFaZEVTUVZCMnU?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "PBS",
-      "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
-      "summary": "FBI says North Korea was behind $6.3 billion Binance heist, the bigges…",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUNSTU9VSmpLOHdYajBxZ1hpTXJyOW0zSUNFQnlseE1seEFvSTBKTmNXR0dXek8yMGxyMHo3cFpBVW1lQ1BLV19wUjFqZVRwVlJ2OERUVzlzWWlHUC1iR0FoNXY0dWd6RUxXZ3BVOG1EOE1Fek41R2ZsQ2xXbWFDRWhEZWNPRndWdUtkeEN0cGRDTXBPcmtRUzB4LVdaVTdVNnJpVDNrNzJTRk5FYVFYMWtzVjRKXzRRQ1RGR01xTUxvWW4tTHfSAcsBQVVfeXFMTXNlR0FBQ2cwaTYyaU9uLUdhWjVPQnBnVGRta09veExETi12S3o4NV91cWtJbnRyQjdtajFMcVRtMHBoYjhwMDN3MEhiYzNXVk1oU2o0YUwwTGNMRExwX3dOQldha191YjJuLXVMOGdaYkxOZ3AxX1U3cmVfUV9tVHBIeHVReW5RTW95TG9yWU0yUHBPQ1QwZDlENU1SZFhfMURpRkZndXpYWERaYzROc1JJbG9HejFyZDRkQnRsYWFPWlVVWFZ0dE1IVkE?oc=5"
+      "source": "CNBC",
+      "title": "Apple's stock drops on weak margin forecast in Ternus’ first earnings report: Live updates",
+      "summary": "Apple's stock drops on weak margin forecast in Ternus’ first earnings…",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnVXWVlvUFpSU0FxcHVyYW1tY2l0ZVJKNHR0a3hjOG9yZE81NU9zVUtLZF9fSTdqcC1nZFQtY3RHeGh6b1lTMWotSklxUDFlTFFIRDY4X2VZNzFJR2RHWjI2enZsVmlXLTM1bVRYNkx2eC1UTk1TOU44NHlrXzBFRXB3TdIBiAFBVV95cUxOTklSTE1CRWZWUTVyemZhc05zRmt6Ui1Ld000Y3ZJWWZDTi1wajZkTWhaOXUzeXVjaWt6VU51WjkwdTROTnc2OWhMRDFYYXFMNEhSTExTamlpREo3NDdxd0xhLUpqOF9TNUxzVWlQV0JhVldFdENEU2Qyc2xhSTg0WVRzcWI0Wlgz?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "Financial Times",
-      "title": "Inside the leaderless movement set to govern Serbia",
-      "summary": "Inside the leaderless movement set to govern Serbia&nbsp;&nbsp;Financi…",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObnJKRWFTZkhoajJxSHA2c3Y2cFpKMzB3T1Vpd09oVWY0cHBwNHJRc2J1a20xQ1RZdVV5aEM0RUtSUllNMFpQdUpYTkw5UmRDU0U2Wm52VkVBdldFNV83dW1keVA0dTJ6N3o2RDBiYk1abHdheGM0SDZrRkNTSURZQkh3WE4?oc=5"
+      "source": "PBS",
+      "title": "Karl Bushby embraces his mother as he completes his 28-year walk around world",
+      "summary": "Karl Bushby embraces his mother as he completes his 28-year walk aroun…",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSGlSVTJ5dDhqLWo4cTNwR3huT3NXUW9lS0Y5ak44SE1uUVpjc0J2R1I2cEsxcXl6REFjWVBaWndmRzF3SnNfaWw2SEp6bVNiLUg0cktFc2FKTVdtSEpMMi1iVVFRcktMX0tfZFd6bEd6ZVZ3UWlYeHhaMk90Zy1IeXpTeXlybF9IMUtFR0tnQVRaN2FSZEp3NG9sZmtlM1FKMkFCNFhfWmVfZzhhOU42OHBB0gG3AUFVX3lxTE5idGxndmlKTWVIMEx4bEdCTC1OS0p3UjZkNUdVdjNGRjk4TW1waFBlSEZCOTAxWmt0eHlxR2w2Z0FhZjBqRTVUZFJ3dXpzZlpIdjRZMTFfYjlLN1ZILUY0dVdHSFFzSmVyY1J5R1p3cG1NMVdleXJ0a2t6NXZwLXljRFFTZEhhNzltQmphWm1kYWlQSTdoZnFvOFdhRWNaZHFiQlNvbFNGUk5SWWV2emwwVlRWdWpaMA?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "The Guardian",
-      "title": "Colorado community fights plan to use drones to spray weed killer",
-      "summary": "Colorado community fights plan to use drones to spray weed killer&nbsp…",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelJxRmZjTHZJX09yM2QtelZUbGJyUGpyNXlCc1FNY2dKX195enRtZVROMEtydXFWRTl4OHY1WkM1U0IwbFprVndwVmNUY0FDT0Z4VEN6TFQwT09oYkZrSmNFVzB2ajVnTDREb3dxcHppWU4wNzc3UFZpSE0wV3VpUg?oc=5"
+      "source": "Kennesaw State University",
+      "title": "Kennesaw State hosts major American Mathematical Society research meeting",
+      "summary": "Kennesaw State hosts major American Mathematical Society research meet…",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0lqdmV5aEVBQXp3eEplelVYX0gzanNjbXhoSkZVczkyV0xFZElQNkFGVy11UURJa3J0d1pDRW9qek94MGdPQ2NIZ1I2RUg2TGNNRF9tQjFFbGJJQkdaMENtbHJMQ0NISzFRWUd4aDBIZnZWSl96Y2pSQTdIcWxPclc1d252dTlNRzNha0luOEd4bXdTaFV3dnRVWUIyWFBuYjRhOVVkdkVfbmlDdGFGUHZQem9iMTZQMlRhUA?oc=5"
     }
   ],
   "hr_trends": [
@@ -82,10 +82,10 @@
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "S&P 500 Forecast: SPX flat ahead of FOMC rate…",
-      "desc": "S&amp;P 500 Forecast: SPX flat ahead of FOMC rate decision and tech ea…",
-      "source": "StoneX",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjgxZzVKblZ0aDNsQUN0azRrZHN6LVdDd2ZIV3R5TFlaSTRYQ2xnNnFFQmZmVHN4RkhTTEpudUpUelVmbE5rX0N2cEZBRU5JX1cyZ09SeDhldUJJOXU3cHNsdndJNlFiUzlWYzlSWU8zUXVCM3hFd3o2cVRqNm5KUk5RN1pLcEZ1Z2pKelNxUjRKTzFQMEVGUUs2dXRFZUN5Qms1a3NfQ2hNaEE4aS1QY0VHMmdtSUo5aXF1SFNR?oc=5"
+      "title": "US manufacturing strengthens in October, input…",
+      "desc": "US manufacturing strengthens in October, input prices stay high&nbsp;&…",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTW9UelFScXJVVVZ4RWVvek1GNndJeFA2Mk5ETVY0b1FwTFMtS0lnNkJFWkRkanQ3Sk5VVVlkaHRaZjVqM1gwcjVKamJSZTR5R2NTeFNIc0ZsZ0ZYSEQ4bXdxdXNzTVFhR0dVc1IyLWpadUpIOVcwT0tmWXB3XzJNaE92alNLUEo3cFNyZl95ampSWkl1N18xM082cTRNbTRoNno4?oc=5"
     },
     {
       "category": "MANAGEMENT",
