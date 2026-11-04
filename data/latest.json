@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-03T11:43:18.870412+09:00",
-  "generated_at_display": "2026-11-03 11:43 KST",
+  "generated_at": "2026-11-04T09:58:04.100830+09:00",
+  "generated_at_display": "2026-11-04 09:58 KST",
   "exchange_rate": {
-    "current_rate": 1340.8699951171875,
-    "change_pct": 1.16,
+    "current_rate": 1344.47998046875,
+    "change_pct": -0.02,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1340.87
+      1344.48
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "KUT",
-      "title": "Austin tech entrepreneur, wife and young children among victims of Florida jet crash",
-      "summary": "Austin tech entrepreneur, wife and young children among victims of Flo…",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTHhkWE9ETXZsRTZvNG1uVkFWcktGVUJqeXVIYzRGY0xPTWpnb2t0SVh6dkhaU29relJQSFpObFU3TFZSNjc4eUk5WlVXNGY2cnFXNHN0RWk0SFBkbXkwdzVVTktnTC1pWjQ5cFo2SGVGcVpwLVZxV1o4VTJfMEJleWpucEJocjNZTFhxQTl1UmNmOExNbUJVSWpFd3dhWjE3VlI3XzBnQmlFR1FnOF9iaG5SRjczS2xoUzdwMjZYQU1PeFFaZEVTUVZCMnU?oc=5"
+      "source": "NBC News",
+      "title": "Democratic Sen. Jon Ossoff cruises to re-election in Georgia",
+      "summary": "Democratic Sen. Jon Ossoff cruises to re-election in Georgia&nbsp;&nbs…",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSnlGVjBFTmsyb1BUb0lISDFKSjk5RWFxTUdGeTQ2M09KaUNIU2lRQ0x0VldGSUVTZEVfck50T09tNTRsYWU2ZV9YUk45bk5sbS1GWVQzTFR1bmVQYm44bDhBLUpSb3FDRWpOZHZJTGc2cDV0RE03UWJsWU0tR3dCdmczZzhhZUU5TDQwQ3o5cVlpajhPSVAxdnUzWGl1SWVQRmtyZHc1cWNaMFhTc2t6b1BCcDJmYktPWVpn?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "CNBC",
-      "title": "Apple's stock drops on weak margin forecast in Ternus’ first earnings report: Live updates",
-      "summary": "Apple's stock drops on weak margin forecast in Ternus’ first earnings…",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnVXWVlvUFpSU0FxcHVyYW1tY2l0ZVJKNHR0a3hjOG9yZE81NU9zVUtLZF9fSTdqcC1nZFQtY3RHeGh6b1lTMWotSklxUDFlTFFIRDY4X2VZNzFJR2RHWjI2enZsVmlXLTM1bVRYNkx2eC1UTk1TOU44NHlrXzBFRXB3TdIBiAFBVV95cUxOTklSTE1CRWZWUTVyemZhc05zRmt6Ui1Ld000Y3ZJWWZDTi1wajZkTWhaOXUzeXVjaWt6VU51WjkwdTROTnc2OWhMRDFYYXFMNEhSTExTamlpREo3NDdxd0xhLUpqOF9TNUxzVWlQV0JhVldFdENEU2Qyc2xhSTg0WVRzcWI0Wlgz?oc=5"
+      "source": "The Guardian",
+      "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
+      "summary": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interv…",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaEV0bUVQaFRQSnQwSzNSX2JZc2dKckR3M1RGRE9aZ0hWUzBBVVpQMU9JWk90MVJRajJHV1dMaGptOGZ2NW1BQmpyNDhVLUgwTWFoS0JFRlhidDhhYU9BdWRpQWVsX1J6ZFRndG8xaTlIWWRPaXc0ODg1SV9JSG9Rb0c5OUI3S3Nhd19uTTVlQ3htblFDTk81cU1ORS1tQmkwaXpMSnVOdEZqbkxjbnQzSS1NdDJnZzZDT05z?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "PBS",
-      "title": "Karl Bushby embraces his mother as he completes his 28-year walk around world",
-      "summary": "Karl Bushby embraces his mother as he completes his 28-year walk aroun…",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSGlSVTJ5dDhqLWo4cTNwR3huT3NXUW9lS0Y5ak44SE1uUVpjc0J2R1I2cEsxcXl6REFjWVBaWndmRzF3SnNfaWw2SEp6bVNiLUg0cktFc2FKTVdtSEpMMi1iVVFRcktMX0tfZFd6bEd6ZVZ3UWlYeHhaMk90Zy1IeXpTeXlybF9IMUtFR0tnQVRaN2FSZEp3NG9sZmtlM1FKMkFCNFhfWmVfZzhhOU42OHBB0gG3AUFVX3lxTE5idGxndmlKTWVIMEx4bEdCTC1OS0p3UjZkNUdVdjNGRjk4TW1waFBlSEZCOTAxWmt0eHlxR2w2Z0FhZjBqRTVUZFJ3dXpzZlpIdjRZMTFfYjlLN1ZILUY0dVdHSFFzSmVyY1J5R1p3cG1NMVdleXJ0a2t6NXZwLXljRFFTZEhhNzltQmphWm1kYWlQSTdoZnFvOFdhRWNaZHFiQlNvbFNGUk5SWWV2emwwVlRWdWpaMA?oc=5"
+      "source": "BBC",
+      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+      "summary": "King calls slave trade a 'shameful chapter' during Commonwealth addres…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sdm9ZMG1ZRHZaLWNaUWpBRERPdWlfZVNsb0xsUDNpYjl6SE9yZVZuU0hqWHBxQ25ZMVF4RFQ3TE9TbjBrOFFfc3dicnRaMTRLeDRmcmJYUDlTOVE?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Kennesaw State University",
-      "title": "Kennesaw State hosts major American Mathematical Society research meeting",
-      "summary": "Kennesaw State hosts major American Mathematical Society research meet…",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0lqdmV5aEVBQXp3eEplelVYX0gzanNjbXhoSkZVczkyV0xFZElQNkFGVy11UURJa3J0d1pDRW9qek94MGdPQ2NIZ1I2RUg2TGNNRF9tQjFFbGJJQkdaMENtbHJMQ0NISzFRWUd4aDBIZnZWSl96Y2pSQTdIcWxPclc1d252dTlNRzNha0luOEd4bXdTaFV3dnRVWUIyWFBuYjRhOVVkdkVfbmlDdGFGUHZQem9iMTZQMlRhUA?oc=5"
+      "source": "UC Davis",
+      "title": "LAURELS: AAU, American Ceramic Society, CASE, More",
+      "summary": "LAURELS: AAU, American Ceramic Society, CASE, More&nbsp;&nbsp;UC Davis",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHJqWTFXR3VxLVBxWTlqS08zc3gyT3JWU2tJaWlTWnZSWGFMd3g3cXRYem9FZENfYWNJaXdhX1RXUjZBak1rQi0weE5RaHlybnZKR2JTSlZwOUFSRGEta2N1bkM3eXRDNGFrWGZKM2VMY0ZUeFZHVzlrRXk3TUthVQ?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "How the U.S. is becoming an outlier in the glo…",
-      "desc": "How the U.S. is becoming an outlier in the global EV race&nbsp;&nbsp;A…",
-      "source": "Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUJfVkZHR05MSjFfSVpWeWRYbTJydDU4dW85TFNpWENDc1hOVk9MY1RzZzk1Q2lOTk9Vd1pZa2lLZmtsMEdxSFpBbnNIdk4wcFNfUHlpaUU3Q25UUUdqOG91Y3RTeW5Pc2hIdDluQW40SEUtbnZ1MmJyZ3VJOVVsbDNHRldrQQ?oc=5"
+      "title": "Kenda Tire Chosen as OEM Supplier for Slate Au…",
+      "desc": "Kenda Tire Chosen as OEM Supplier for Slate Auto's All-New Blank Slate…",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUFnX2REMnMyT0lxaWRzRWFSQ1hzV3ltd3ZobVJmTS1Sa2YyMTVJREV2bjFfOUo1RzZKbG1QUEVpX2VQbERpZEYxQmdRN0lycEh5Z2xzS0plcC1xMnlJOFRvZEtlNUIzcHpxclo4cWhBR0RqNHJjVU1YRTRMSHVJeVVJb0NtYTg4NC1zaE1RcHUzaXBpa1E?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -91,10 +91,10 @@
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "Securing an American Aluminum Supply Chain: Wh…",
-      "desc": "Securing an American Aluminum Supply Chain: Why Downstream Tariff Cove…",
-      "source": "Coalition For A Prosperous America",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaEZFMHd6ekxxV0x0Q05KMW0zR19QV251QW9GTTZscDBnYjZnZ05ERTA4RGpRUGd1bTlmLUx5YktEWGtvQzFOWF82X2pfdWFSckJvSWpWR2xTdUpUQjUtekRtdy1VbHM0eEtuMVFwT0Y1MmxDQmFVb2lxbUNhUlZKRlBfYW55WUNpQmpoODJLb21Ud2M0aFVWR0J4T1hHZ2VXNTNibWJ0TWVjRGF6bXZwREdUX2t1OHha?oc=5"
+      "title": "The end of de minimis doesn’t mean the end of…",
+      "desc": "The end of de minimis doesn’t mean the end of China-based fulfillment&…",
+      "source": "Supply Chain Management Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjVYTHlzZFljNk9TM1MzTzR0TzdXLU5pM3hsX2JzbDU2X0tVbTBIMUJrYWY2ZHBHN2VxNFZDNkstX3pack82aDN5NFBZblFjdTlXVXZqbWt1UmtaNGRjdmFkYmE2X2JVS1JTeWp5YWkyemQ3TzdTaWZJdHZSSXRFNnJuNnVkbkpGS3RHQkNtalhiVWpyUW5RY1lwcGJsQQ?oc=5"
     }
   ],
   "country_profile": {
