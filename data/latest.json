@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-04T09:58:04.100830+09:00",
-  "generated_at_display": "2026-11-04 09:58 KST",
+  "generated_at": "2026-11-05T10:09:34.319896+09:00",
+  "generated_at_display": "2026-11-05 10:09 KST",
   "exchange_rate": {
-    "current_rate": 1344.47998046875,
-    "change_pct": -0.02,
+    "current_rate": 1338.5799560546875,
+    "change_pct": -0.32,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1344.48
+      1338.58
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "NBC News",
-      "title": "Democratic Sen. Jon Ossoff cruises to re-election in Georgia",
-      "summary": "Democratic Sen. Jon Ossoff cruises to re-election in Georgia&nbsp;&nbs…",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSnlGVjBFTmsyb1BUb0lISDFKSjk5RWFxTUdGeTQ2M09KaUNIU2lRQ0x0VldGSUVTZEVfck50T09tNTRsYWU2ZV9YUk45bk5sbS1GWVQzTFR1bmVQYm44bDhBLUpSb3FDRWpOZHZJTGc2cDV0RE03UWJsWU0tR3dCdmczZzhhZUU5TDQwQ3o5cVlpajhPSVAxdnUzWGl1SWVQRmtyZHc1cWNaMFhTc2t6b1BCcDJmYktPWVpn?oc=5"
+      "source": "Axios",
+      "title": "Blue tsunami breaks MAGA: 5 takeaways from a blowout midterm election",
+      "summary": "Blue tsunami breaks MAGA: 5 takeaways from a blowout midterm election&…",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTlRHckk4bFA0QmdHUnQ5WTYxVDZLMzBnMUhrV294cDVHZlZ3X1VHMlJSVF8ycnJ4REZabGdPRFpwU3BENkJhdnBQRmZTYnZLVU8xaU1EQ0lrVmpHTENocjY3SVV1T1hUNG9ZVGE2OE9YWEJ1ZW5xVVN4eUxXWElKQlBB?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "The Guardian",
-      "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
-      "summary": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interv…",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaEV0bUVQaFRQSnQwSzNSX2JZc2dKckR3M1RGRE9aZ0hWUzBBVVpQMU9JWk90MVJRajJHV1dMaGptOGZ2NW1BQmpyNDhVLUgwTWFoS0JFRlhidDhhYU9BdWRpQWVsX1J6ZFRndG8xaTlIWWRPaXc0ODg1SV9JSG9Rb0c5OUI3S3Nhd19uTTVlQ3htblFDTk81cU1ORS1tQmkwaXpMSnVOdEZqbkxjbnQzSS1NdDJnZzZDT05z?oc=5"
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow rallies 1,500 points, S&P 500 and Nasdaq gain after Democrats win control of Congress",
+      "summary": "Stock market today: Dow rallies 1,500 points, S&amp;P 500 and Nasdaq g…",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVk1FS3BzdHJTaGpXZ0RUNjRmcFczWmFBZ2xiU2ZrM0tKM0w5VzhNWUFsbk5ENzBCdDg3Y1M3MWM5OWJLb3U4UjRxODg0U2xIUTZhT1ZLNDNZeWNhU3lndWlBUW9BVGlGQUZqMHN3cjk4QTQ1d0pmVkNyTldqWWdmYmtGR2wtd1ZrLVoxcWNaM1o2WHFuZlc0MUIzUGZJOF91SVJFMjVhYXl4VVBwOGlnbll6dUNjd2ppa09hTkU5TldxZ1hFM2s3YkRVV3l4Q20tZFU5bnRxS0lWWnZl?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "BBC",
-      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
-      "summary": "King calls slave trade a 'shameful chapter' during Commonwealth addres…",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sdm9ZMG1ZRHZaLWNaUWpBRERPdWlfZVNsb0xsUDNpYjl6SE9yZVZuU0hqWHBxQ25ZMVF4RFQ3TE9TbjBrOFFfc3dicnRaMTRLeDRmcmJYUDlTOVE?oc=5"
+      "source": "Al Jazeera",
+      "title": "‘Seismic shift’: World reacts to US midterm election results",
+      "summary": "‘Seismic shift’: World reacts to US midterm election results&nbsp;&nbs…",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmlQcUFmZnRoZzJhRmFYd0JkMXhYU3kyLWxqOV9uYnlUeEVkdGRCZDhXZEhMYkJ6eHI0TUs1T05rSXJEc01PbUJYU2dXczhsYW4zVGJSUlNqTF9ENEY0anRkcGlIMy1na3N2NlpSTHdreGNtaHM3NWRRZkd3UUJJQzVrX2pIQ0luMko4Rk9MWk5XQXlhWG1UeFJNRUVYNnPSAaQBQVVfeXFMUHdnaUVOZEx4S2F3ZTJnVTZLUmM5Z1RpRE9fSG9DWDNOZTEyNEdkU3NkZ3NIMGdLdEpFaXZRNWxTbDU1OEQ2WUpwbUx5WEsyb1lKcWRYcHU4T3k1N1huTWpCQWpPeThQVXE4LXZQU09mMTZFcE5pWnQ1TTR4TnRqNDBJZXBMTmFRNWJJYVJwNllheXZDSXBiUzQxMzhVcUZEVG1lS3M?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "UC Davis",
-      "title": "LAURELS: AAU, American Ceramic Society, CASE, More",
-      "summary": "LAURELS: AAU, American Ceramic Society, CASE, More&nbsp;&nbsp;UC Davis",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHJqWTFXR3VxLVBxWTlqS08zc3gyT3JWU2tJaWlTWnZSWGFMd3g3cXRYem9FZENfYWNJaXdhX1RXUjZBak1rQi0weE5RaHlybnZKR2JTSlZwOUFSRGEta2N1bkM3eXRDNGFrWGZKM2VMY0ZUeFZHVzlrRXk3TUthVQ?oc=5"
+      "source": "BBC",
+      "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
+      "summary": "Trump takes aim at Republicans but says Democrats did a 'good job'&nbs…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iSmh4dElNSXBTc20tdUhQekF6cVBQTjQtbTVIeTlqbUxmVS1Ia0pvWF9oTnFzaFRqNUVlU1NIci1kN2RUNldqNXV4bGVhMll3N3RyX2VOZTBmYzQ?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Kenda Tire Chosen as OEM Supplier for Slate Au…",
-      "desc": "Kenda Tire Chosen as OEM Supplier for Slate Auto's All-New Blank Slate…",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUFnX2REMnMyT0lxaWRzRWFSQ1hzV3ltd3ZobVJmTS1Sa2YyMTVJREV2bjFfOUo1RzZKbG1QUEVpX2VQbERpZEYxQmdRN0lycEh5Z2xzS0plcC1xMnlJOFRvZEtlNUIzcHpxclo4cWhBR0RqNHJjVU1YRTRMSHVJeVVJb0NtYTg4NC1zaE1RcHUzaXBpa1E?oc=5"
+      "title": "Conductive Carbon Black Market To 2035: Batter…",
+      "desc": "Conductive Carbon Black Market To 2035: Battery Demand Drives Growth -…",
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzVNZzBZVzcyWk9HcnFvRm9rbEh6SXhKaGdoc1pDUldYOW8tS1d6eGpLRG4tZ1JELXEtcklqeXZSelIxNE5iMW9qRHR0NW5EaGNfeXlfZm44M092LWh2QnRiaS02T1c5bGc2N0I5WW1lU1NlaDkwdGZ2N2lVcTFXZk1jTklUOHRieGFjaF9Xa0tweHZ2d2t5c0F3VV9KRkdNRE9lYzJPRVF2QUtvbGIzMkNHY09UNkE?oc=5"
     },
     {
       "category": "ECONOMY",
