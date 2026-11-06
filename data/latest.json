@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-05T10:09:34.319896+09:00",
-  "generated_at_display": "2026-11-05 10:09 KST",
+  "generated_at": "2026-11-06T10:16:42.775876+09:00",
+  "generated_at_display": "2026-11-06 10:16 KST",
   "exchange_rate": {
-    "current_rate": 1338.5799560546875,
-    "change_pct": -0.32,
+    "current_rate": 1355.47998046875,
+    "change_pct": 1.15,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1338.58
+      1355.48
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "Axios",
-      "title": "Blue tsunami breaks MAGA: 5 takeaways from a blowout midterm election",
-      "summary": "Blue tsunami breaks MAGA: 5 takeaways from a blowout midterm election&…",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTlRHckk4bFA0QmdHUnQ5WTYxVDZLMzBnMUhrV294cDVHZlZ3X1VHMlJSVF8ycnJ4REZabGdPRFpwU3BENkJhdnBQRmZTYnZLVU8xaU1EQ0lrVmpHTENocjY3SVV1T1hUNG9ZVGE2OE9YWEJ1ZW5xVVN4eUxXWElKQlBB?oc=5"
+      "source": "NBC News",
+      "title": "California Gov. Gavin Newsom plans to commute all death sentences",
+      "summary": "California Gov. Gavin Newsom plans to commute all death sentences&nbsp…",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMWluenAydTFLNngyN09DTl9aejVhazZsek5lUG1hYTRVUV9qekliZXF0Ry1nQXNYRl9odVJuZ3ZjZFZfSmZDSHpzQ1hxZXVhN1lUTkNLcHcwUmpXNXBleWkzQm5Ya1FUZmpUWEZ0WG40b3dMNF91TkFjRm1oLUF4US16Y2RqWi1EaUNyTndVbzZGSDZhblB5MkhwSEcyVjJEMlE?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow rallies 1,500 points, S&P 500 and Nasdaq gain after Democrats win control of Congress",
-      "summary": "Stock market today: Dow rallies 1,500 points, S&amp;P 500 and Nasdaq g…",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVk1FS3BzdHJTaGpXZ0RUNjRmcFczWmFBZ2xiU2ZrM0tKM0w5VzhNWUFsbk5ENzBCdDg3Y1M3MWM5OWJLb3U4UjRxODg0U2xIUTZhT1ZLNDNZeWNhU3lndWlBUW9BVGlGQUZqMHN3cjk4QTQ1d0pmVkNyTldqWWdmYmtGR2wtd1ZrLVoxcWNaM1o2WHFuZlc0MUIzUGZJOF91SVJFMjVhYXl4VVBwOGlnbll6dUNjd2ppa09hTkU5TldxZ1hFM2s3YkRVV3l4Q20tZFU5bnRxS0lWWnZl?oc=5"
+      "source": "NBC News",
+      "title": "Stocks plunge as election outcome and AI worries crush tech shares",
+      "summary": "Stocks plunge as election outcome and AI worries crush tech shares&nbs…",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "Al Jazeera",
-      "title": "‘Seismic shift’: World reacts to US midterm election results",
-      "summary": "‘Seismic shift’: World reacts to US midterm election results&nbsp;&nbs…",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmlQcUFmZnRoZzJhRmFYd0JkMXhYU3kyLWxqOV9uYnlUeEVkdGRCZDhXZEhMYkJ6eHI0TUs1T05rSXJEc01PbUJYU2dXczhsYW4zVGJSUlNqTF9ENEY0anRkcGlIMy1na3N2NlpSTHdreGNtaHM3NWRRZkd3UUJJQzVrX2pIQ0luMko4Rk9MWk5XQXlhWG1UeFJNRUVYNnPSAaQBQVVfeXFMUHdnaUVOZEx4S2F3ZTJnVTZLUmM5Z1RpRE9fSG9DWDNOZTEyNEdkU3NkZ3NIMGdLdEpFaXZRNWxTbDU1OEQ2WUpwbUx5WEsyb1lKcWRYcHU4T3k1N1huTWpCQWpPeThQVXE4LXZQU09mMTZFcE5pWnQ1TTR4TnRqNDBJZXBMTmFRNWJJYVJwNllheXZDSXBiUzQxMzhVcUZEVG1lS3M?oc=5"
+      "source": "Reuters",
+      "title": "Paraguay's Peña resigns as bank collapse triggers political crisis",
+      "summary": "Paraguay's Peña resigns as bank collapse triggers political crisis&nbs…",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGc3WWZCT3BZUUFMY3E0VW43Z244SWNKVUk4NS1RZ1RHVGVSdG1RSVNKVjFaZGdlQjktT2JvcElpNEVvMllaNTdIbWRMdmdQZ1F3RjZwMThjcVU5X1pYY20wajc0MzIyenBHX3MtaEVRRnpRTC16TWdITnA4QWZxcFhtNHh0UlR0YlZ2UkVqUmF4YXZWejdWY2xsZ0c2bm5oWUNiczZnWms4NHo2eHctcHJKSHJEMmNDQmtZ?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "BBC",
-      "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
-      "summary": "Trump takes aim at Republicans but says Democrats did a 'good job'&nbs…",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iSmh4dElNSXBTc20tdUhQekF6cVBQTjQtbTVIeTlqbUxmVS1Ia0pvWF9oTnFzaFRqNUVlU1NIci1kN2RUNldqNXV4bGVhMll3N3RyX2VOZTBmYzQ?oc=5"
+      "source": "American Nuclear Society",
+      "title": "Candidates announced for the 2027 ANS national election",
+      "summary": "Candidates announced for the 2027 ANS national election&nbsp;&nbsp;Ame…",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjlLdUJuazg5MUlXTXhVZzlWVkZfZEZKUGt3Q3ZDcUlaUDY0YmlXNEZ2WndkSkhxTVBYQXBVQWFXMHA4TjVrOG1TS1Z1YnNoX1VlTTBZOWkxYlpPaGhpdVJMakpxTWdjbGlhdlJvMW9LbWRycUpOUVY3MGlkQ1BUMUU3Q1d5VnptelN2VGlJMFdxdzNKd0dMTmF3?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Conductive Carbon Black Market To 2035: Batter…",
-      "desc": "Conductive Carbon Black Market To 2035: Battery Demand Drives Growth -…",
+      "title": "Connected Vehicle Technologies Market To 2035:…",
+      "desc": "Connected Vehicle Technologies Market To 2035: Safety and Cybersecurit…",
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzVNZzBZVzcyWk9HcnFvRm9rbEh6SXhKaGdoc1pDUldYOW8tS1d6eGpLRG4tZ1JELXEtcklqeXZSelIxNE5iMW9qRHR0NW5EaGNfeXlfZm44M092LWh2QnRiaS02T1c5bGc2N0I5WW1lU1NlaDkwdGZ2N2lVcTFXZk1jTklUOHRieGFjaF9Xa0tweHZ2d2t5c0F3VV9KRkdNRE9lYzJPRVF2QUtvbGIzMkNHY09UNkE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNjlTS2dYQWVHbTVjWkVuMU5VMTkzd29oSk1na3FSSW1URUg4UTl1RlJnRTJLNjFST1V3MDBIU05mRy1NX3dYdFpxeXRHOVBuaWRiUW1UX2N5WjV0MmtDb0FadTJlTWhFUWpDb0VrUXdCemxIa3VMMmFXeF9Dd21xV2xJQ2hfanIzcUZ6ek9sU0VEcWlkSnBnQ1FkYkplQy1tRWh3SVhRdXdPTXh1ZFExN0tINTlEZWhQaXMzX25sLU1fbjJVTmdFUTNmeURUU3lzbEVtcFd1LTFVbzhTZkhySy1paEdvRWdR?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -91,10 +91,10 @@
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "The end of de minimis doesn’t mean the end of…",
-      "desc": "The end of de minimis doesn’t mean the end of China-based fulfillment&…",
-      "source": "Supply Chain Management Review",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjVYTHlzZFljNk9TM1MzTzR0TzdXLU5pM3hsX2JzbDU2X0tVbTBIMUJrYWY2ZHBHN2VxNFZDNkstX3pack82aDN5NFBZblFjdTlXVXZqbWt1UmtaNGRjdmFkYmE2X2JVS1JTeWp5YWkyemQ3TzdTaWZJdHZSSXRFNnJuNnVkbkpGS3RHQkNtalhiVWpyUW5RY1lwcGJsQQ?oc=5"
+      "title": "U.S. Mid-Term Rout Unlikely to Change Trump’s…",
+      "desc": "U.S. Mid-Term Rout Unlikely to Change Trump’s Trade Policy&nbsp;&nbsp;…",
+      "source": "SupplyChainBrain",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWXhYSzRLdldFbjhsSHUwcU05QVJXa3BuLTB0b1Z1WHFiX2h2dFBwQ28yQWVESGNLMnU5dzd2ejlxTnZZb2o5WVRrZXUxWWE1OEtMXy1HMGpqRHJtZWhLd280Q3BxemtWamR4aWtfc1hoXzc0SGJkM1Vva3l3eTBQZ3hDbk1NZmJ5VHd5YUpkQlBiYVhXUnZCSFJyWXNyaFhjSk80UjlJWklyb1lfTWhaYloyR21peXpFakRkR3BYaF9VNl9lTVBKQ0dDOU1XM1R1QWtjTA?oc=5"
     }
   ],
   "country_profile": {
