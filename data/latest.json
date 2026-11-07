@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T10:16:42.775876+09:00",
-  "generated_at_display": "2026-11-06 10:16 KST",
+  "generated_at": "2026-11-07T09:30:32.748823+09:00",
+  "generated_at_display": "2026-11-07 09:30 KST",
   "exchange_rate": {
-    "current_rate": 1355.47998046875,
-    "change_pct": 1.15,
+    "current_rate": 1356.3399658203125,
+    "change_pct": 1.21,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1355.48
+      1363.65
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "NBC News",
-      "title": "California Gov. Gavin Newsom plans to commute all death sentences",
-      "summary": "California Gov. Gavin Newsom plans to commute all death sentences&nbsp…",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMWluenAydTFLNngyN09DTl9aejVhazZsek5lUG1hYTRVUV9qekliZXF0Ry1nQXNYRl9odVJuZ3ZjZFZfSmZDSHpzQ1hxZXVhN1lUTkNLcHcwUmpXNXBleWkzQm5Ya1FUZmpUWEZ0WG40b3dMNF91TkFjRm1oLUF4US16Y2RqWi1EaUNyTndVbzZGSDZhblB5MkhwSEcyVjJEMlE?oc=5"
+      "source": "AP News",
+      "title": "Meghan's estranged father arrested and charged with possessing child sexual abuse materials",
+      "summary": "Meghan's estranged father arrested and charged with possessing child s…",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNHpGTGhqcHRFbVlLRWRncDVhUFJnU25fSGFTclFBam5RNWpJSDBxanJTRkxGVmFaWjU3WFRXaHJQaldNU2ZURXBuRzRXLUhYUmdrR083a3FaaTJEdG84QUVFMzdxNVJ5NmVuYkstV1AwVVg2YmREMzAwRFEzYmlLODhzbGUwZHpTV2YwVzdNekFGZjk1MnEyMXhCTDFaVjg?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "NBC News",
-      "title": "Stocks plunge as election outcome and AI worries crush tech shares",
-      "summary": "Stocks plunge as election outcome and AI worries crush tech shares&nbs…",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5"
+      "source": "Investor's Business Daily",
+      "title": "Stock Market Today: Nasdaq Rallies In Tech Turnaround; Airbnb Rockets Higher",
+      "summary": "Stock Market Today: Nasdaq Rallies In Tech Turnaround; Airbnb Rockets…",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXpPb0ctNHctc1ZBczhHQW12ZE5YZDdyd2MzcG1tUlNMYjBiaE9MT05XOS1RRVpaekgtWThPY3BSYVVYODZhV0hiVXZUMmxHdGtoSGtqR0lDSno3Z2FHRUZWX040ZEZldFI2UlRRb2p6WjN3MEhSVUlYZjNhdjRtOTU4T2htSkhRUHdXVE5ralJMUjJ3MXh3Yl9SdVcxcy1WY01WdmdmWUptMW1pLVZ2RDR1NW5TeExLQzY0?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "Reuters",
-      "title": "Paraguay's Peña resigns as bank collapse triggers political crisis",
-      "summary": "Paraguay's Peña resigns as bank collapse triggers political crisis&nbs…",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGc3WWZCT3BZUUFMY3E0VW43Z244SWNKVUk4NS1RZ1RHVGVSdG1RSVNKVjFaZGdlQjktT2JvcElpNEVvMllaNTdIbWRMdmdQZ1F3RjZwMThjcVU5X1pYY20wajc0MzIyenBHX3MtaEVRRnpRTC16TWdITnA4QWZxcFhtNHh0UlR0YlZ2UkVqUmF4YXZWejdWY2xsZ0c2bm5oWUNiczZnWms4NHo2eHctcHJKSHJEMmNDQmtZ?oc=5"
+      "source": "NBC News",
+      "title": "Pope Leo XIV, who had cancer surgery just weeks ago, begins grueling South American tour",
+      "summary": "Pope Leo XIV, who had cancer surgery just weeks ago, begins grueling S…",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb3Q1YlIteThwbTdIT1V3UEYtZ0wtQ0N4QnNCazh6YUpydjZORTktOHppNG1XdE1GVUdtY2VoU0dhaWlBM2prTFczeEdCTWVRUFBrU2s1cG53cmlQeWpkd210YXhEWlZzVUgweEJPWjNoTVptby1zSGlva1RqRm1XaV9zUVNVNDhXQl9hRGRTbmQzbzZYVHJnQnlLM2swaTd3RlNWUm9LbGRsQ0cycDlYXzFpSGxEdTktN3lN?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "American Nuclear Society",
-      "title": "Candidates announced for the 2027 ANS national election",
-      "summary": "Candidates announced for the 2027 ANS national election&nbsp;&nbsp;Ame…",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjlLdUJuazg5MUlXTXhVZzlWVkZfZEZKUGt3Q3ZDcUlaUDY0YmlXNEZ2WndkSkhxTVBYQXBVQWFXMHA4TjVrOG1TS1Z1YnNoX1VlTTBZOWkxYlpPaGhpdVJMakpxTWdjbGlhdlJvMW9LbWRycUpOUVY3MGlkQ1BUMUU3Q1d5VnptelN2VGlJMFdxdzNKd0dMTmF3?oc=5"
+      "source": "Pew Research Center",
+      "title": "Majority of Americans Say Social Media Companies, News Outlets Have Too Much Power in Politics",
+      "summary": "Majority of Americans Say Social Media Companies, News Outlets Have To…",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd2JlN2NQeU5HOXllYVN2WUFFTmxFNW1vT0cxc01LVEZJT3ZGR241T2IxcjlhYTJCY3JoejcxSkxhUjlpWGxFYlNpeU5HaGdFQnk2d3lIMjhwelJWT1VoOUZxR2VUckE3WVFwdWx0enJQUUdOcjZvbmVCTHgwZ0VqVm11bW5IVlRxbkxJeW5KUUpMY0dfekVneEx5bTZxNE5HMmtvTnczRHZCU2ZRN3FxSUV2dFFCTEN1ek02TFQwYTIycmdraHoweFpxLUsza1VvVVBqWVVQRFdNVmFrN2c?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Connected Vehicle Technologies Market To 2035:…",
-      "desc": "Connected Vehicle Technologies Market To 2035: Safety and Cybersecurit…",
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNjlTS2dYQWVHbTVjWkVuMU5VMTkzd29oSk1na3FSSW1URUg4UTl1RlJnRTJLNjFST1V3MDBIU05mRy1NX3dYdFpxeXRHOVBuaWRiUW1UX2N5WjV0MmtDb0FadTJlTWhFUWpDb0VrUXdCemxIa3VMMmFXeF9Dd21xV2xJQ2hfanIzcUZ6ek9sU0VEcWlkSnBnQ1FkYkplQy1tRWh3SVhRdXdPTXh1ZFExN0tINTlEZWhQaXMzX25sLU1fbjJVTmdFUTNmeURUU3lzbEVtcFd1LTFVbzhTZkhySy1paEdvRWdR?oc=5"
+      "title": "Our Automotive & Assembly Insights",
+      "desc": "Our Automotive & Assembly Insights&nbsp;&nbsp;McKinsey & Company",
+      "source": "McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5haEN1bUdhWnllSEtjdm54WTF1R0xGVnd0MDJvaUExam1TMFJjYk9mZHc4SEMyZ3VaS1pZTUtXcVZkUFBzbnFBdTFsaG9LZUxlRHE0cDAwNXFyRmQyT0NvOGRMZkNyQXFfMVNNYm9UTTREby1hWC13MVV5amc?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -91,10 +91,10 @@
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "U.S. Mid-Term Rout Unlikely to Change Trump’s…",
-      "desc": "U.S. Mid-Term Rout Unlikely to Change Trump’s Trade Policy&nbsp;&nbsp;…",
-      "source": "SupplyChainBrain",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWXhYSzRLdldFbjhsSHUwcU05QVJXa3BuLTB0b1Z1WHFiX2h2dFBwQ28yQWVESGNLMnU5dzd2ejlxTnZZb2o5WVRrZXUxWWE1OEtMXy1HMGpqRHJtZWhLd280Q3BxemtWamR4aWtfc1hoXzc0SGJkM1Vva3l3eTBQZ3hDbk1NZmJ5VHd5YUpkQlBiYVhXUnZCSFJyWXNyaFhjSk80UjlJWklyb1lfTWhaYloyR21peXpFakRkR3BYaF9VNl9lTVBKQ0dDOU1XM1R1QWtjTA?oc=5"
+      "title": "After the Midterm Rout, Can Trump Change Cours…",
+      "desc": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tari…",
+      "source": "Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5"
     }
   ],
   "country_profile": {
@@ -102,7 +102,7 @@
     "population": "약 3.42억 명",
     "gdp": "약 30.8조 USD",
     "inflation": "3.7%",
-    "unemployment": "4.2%",
+    "unemployment": "4.1%",
     "stats_source": "BLS",
     "stats_asof": "2026-09",
     "min_wage_federal": "$7.25 / h (연방, 2009-07-24 발효)",
