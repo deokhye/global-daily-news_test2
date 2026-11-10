@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-09T09:17:33.158982+09:00",
-  "generated_at_display": "2026-11-09 09:17 KST",
+  "generated_at": "2026-11-10T12:03:38.817601+09:00",
+  "generated_at_display": "2026-11-10 12:03 KST",
   "exchange_rate": {
-    "current_rate": 1357.0799560546875,
-    "change_pct": 0.05,
+    "current_rate": 1346.2900390625,
+    "change_pct": -1.2,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1357.08
+      1346.29
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "NBC News",
-      "title": "House Minority Leader Hakeem Jeffries says he’s a ‘hard yes’ on impeaching Defense Secretary Pete Hegseth",
-      "summary": "House Minority Leader Hakeem Jeffries says he’s a ‘hard yes’ on impeac…",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmlRVnVCNWM2LTRNMkNtVHRGcnpYdXFvYzdndUc0R1BtdnpTVWVDYmpHTExGMk44Yy05T25hTFBBYXBJc1NsVUlhNGoyNll1T09JSHVQUkdpRDRpd0VucEdXUmRwc1R4U2FBa2d0eWdRTFYzWjN6SG5MM0MzcnZpSzRYUkxFQTljUDFZT2hWcUlycEUtalRfWVJYUnVJd0V0TGNUMk43OHB2T3htZ2wtVk5Zak53U0NGQ3c?oc=5"
+      "source": "The Washington Post",
+      "title": "Hegseth impeachment effort begins in House, focused on Iran war",
+      "summary": "Hegseth impeachment effort begins in House, focused on Iran war&nbsp;&…",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "The New York Times",
-      "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
-      "summary": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chine…",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5"
+      "source": "BBC",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VYUxyVHdHSk13YlNwc0JfajNMejBiRVAwYzJPbGl1cG9fZUlsUFZOSHNhWVJodHBFYTR3dFBraWlUbVd2cTl5Vl81cjhlS21RR1hoM0x4dWI4bk0?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "AP News",
-      "title": "Pope arrives in Argentina and tells Milei that people, not the economy, should come first",
-      "summary": "Pope arrives in Argentina and tells Milei that people, not the economy…",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXBvT0ZhMHZPdk1rbTJiZ1FtQlJJWEZMZE1CU2h6dlNBNTRZa2hsWFIzMG1mMU9qYTNIV1lTUnh0Ni03c2lOVDg1dDhleUliSmpzcnZmdlhaZ0dfWTlyYlRtOFo0dVYwdVpWV2NnMGxLZWZpMlJGOXJLMHF2SjNRVFoxZ1JlRjBtWEliSTBBcVVKeTU1dW9NbWFFUHdrMDhxNXc5NENMdzl5Q0l3RDNxNGJ5Q0JzbUdKWWc?oc=5"
+      "source": "The Washington Post",
+      "title": "Iran hacked hundreds of French supermarket refrigerators, France says",
+      "summary": "Iran hacked hundreds of French supermarket refrigerators, France says&…",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "The Guardian",
-      "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
-      "summary": "Trump set to lurch further right, claiming US took ‘giant step back’ i…",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVJaRTZFeWVvVHlmV2FYTTlySGVxTzBwbGwycDgyUHlEWE00N2RtUmRta3ZRQXM4V3JxMWRObkdSN19KSERpbk5rOGF6aGVfdnVZTDBibTlhY3BXc3o3c3pfR3dYLTVib1RyMTFITWJXWDU2ZFBDenlxeElPZWIyQmxxbS1udWgtelZuTXNEUEpvZFctWHJOcEx4STkxX0E?oc=5"
+      "source": "Al Jazeera",
+      "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
+      "summary": "Trump reverses stance, alleges fraud in recent US midterm elections&nb…",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnZ0UGV3RFQ2OWZpeVZQSlk0NkJTMmNfNks2T05zcGV0SjgtUEZXZXJIUDJEaVdjYjVia2YtaXRiS3lOaFh0ajVucVNkWDQ4akVXckU3RWx6NzZyT3pCQnhqYUhmS0pSQURpXzFabVhncXZTTlZFYjNnZVZWUDRROHFPM0NxenlRZVhUYTd2QVQ0c1B3VWsyUTRkcWlhOGtVcXk4OHl6TkVjenPSAbABQVVfeXFMT1UyRWYtbVdYZVF1VTB1LWdHS0dHMno5MlpwaGFnbHVuRy0tZW1CZ0JNSTlFVFZyMk5aQmlmbGF3V2VRWEMxQmNRVlc1aWtLNlZzWVVGWDFUMmVOUk04RFBGRVhLMVo1bm8xRE9vZFZwQ2NrSFBmLTFzaUdhSUlFZVhhOWtGX3VydFdGN3BFTFJOaTlQcWY2MURZaFJoUDNubE9oeGFMSS1ERlNHcG9EVGk?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,19 +73,19 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Conductive Carbon Black Market To 2035: Batter…",
-      "desc": "Conductive Carbon Black Market To 2035: Battery Demand Drives Growth -…",
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzVNZzBZVzcyWk9HcnFvRm9rbEh6SXhKaGdoc1pDUldYOW8tS1d6eGpLRG4tZ1JELXEtcklqeXZSelIxNE5iMW9qRHR0NW5EaGNfeXlfZm44M092LWh2QnRiaS02T1c5bGc2N0I5WW1lU1NlaDkwdGZ2N2lVcTFXZk1jTklUOHRieGFjaF9Xa0tweHZ2d2t5c0F3VV9KRkdNRE9lYzJPRVF2QUtvbGIzMkNHY09UNkE?oc=5"
+      "title": "EV Traction Motor Shaft Grounding Rings Market…",
+      "desc": "EV Traction Motor Shaft Grounding Rings Market to Reach USD 754.0&nbsp…",
+      "source": "openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ25IM2Z3bzM5MmpzWUcwS0NlLTBqTF9Bay02dkgwbHExYmlnLUFFMEZUZFVfUTNaYjlVeHdHRlJDZXRZdF8tZmNrTmhsSkR6UTBkZDNnczFjal9jUjNlNm1yYTdWUFRpNHl5N0t3bmVZaU5IS2ZzS3dVN3lReWhZc0JqZV95SGJDdjM1ZEUwalVqVWYtclpGZEl1dzBkaGQ3YVBN?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "US manufacturing strengthens in October, input…",
-      "desc": "US manufacturing strengthens in October, input prices stay high&nbsp;&…",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTW9UelFScXJVVVZ4RWVvek1GNndJeFA2Mk5ETVY0b1FwTFMtS0lnNkJFWkRkanQ3Sk5VVVlkaHRaZjVqM1gwcjVKamJSZTR5R2NTeFNIc0ZsZ0ZYSEQ4bXdxdXNzTVFhR0dVc1IyLWpadUpIOVcwT0tmWXB3XzJNaE92alNLUEo3cFNyZl95ampSWkl1N18xM082cTRNbTRoNno4?oc=5"
+      "title": "What’s happening this week in economics?",
+      "desc": "What’s happening this week in economics?&nbsp;&nbsp;Deloitte",
+      "source": "Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5"
     },
     {
       "category": "MANAGEMENT",
