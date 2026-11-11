@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-10T12:03:38.817601+09:00",
-  "generated_at_display": "2026-11-10 12:03 KST",
+  "generated_at": "2026-11-11T09:57:12.297280+09:00",
+  "generated_at_display": "2026-11-11 09:57 KST",
   "exchange_rate": {
-    "current_rate": 1346.2900390625,
-    "change_pct": -1.2,
+    "current_rate": 1337.8800048828125,
+    "change_pct": -0.44,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1346.29
+      1337.88
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The Washington Post",
-      "title": "Hegseth impeachment effort begins in House, focused on Iran war",
-      "summary": "Hegseth impeachment effort begins in House, focused on Iran war&nbsp;&…",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5"
+      "source": "The New York Times",
+      "title": "Live Updates: Pete Hegseth Impeachment Effort Is Derailed by House Republicans",
+      "summary": "Live Updates: Pete Hegseth Impeachment Effort Is Derailed by House Rep…",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3aFh0N1I3eXV5VHBNTkx3MEhtTnRKSmNtZXFNaVI3a0V5SUF2T2VfaC1SRnp0Uk5xOWt4Y0hZajRjTHp0bGhKS3RVbFd0b2pPaTJzT0JtbDhGVUc0V2FDTGFiZS1HaFFOdG5IejdJTUlMTGZlUExfZDEyc2c0dw?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "BBC",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese…",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VYUxyVHdHSk13YlNwc0JfajNMejBiRVAwYzJPbGl1cG9fZUlsUFZOSHNhWVJodHBFYTR3dFBraWlUbVd2cTl5Vl81cjhlS21RR1hoM0x4dWI4bk0?oc=5"
+      "source": "Axios",
+      "title": "Scoop: Commerce Department received national security warning on Nvidia CEO affair",
+      "summary": "Scoop: Commerce Department received national security warning on Nvidi…",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NTWlEVTREeTZ0V3J5d1VBblV3Q1JiV0tqTWJUSGVJQ2MxSElWWHpVVG9lTkxKR3ctY2RDVHJUaTdWak1oS2lGSGhPbUJ6MU9CZ2xJdGY1Ui0zQy1uaFliV3c1MXprY3RDejF2eXp2WWc2WWJRSTZiOEljZw?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "The Washington Post",
-      "title": "Iran hacked hundreds of French supermarket refrigerators, France says",
-      "summary": "Iran hacked hundreds of French supermarket refrigerators, France says&…",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5"
+      "source": "The New York Times",
+      "title": "The Lights Go Out at Novaya Gazeta, Russia’s Bravest Newspaper",
+      "summary": "The Lights Go Out at Novaya Gazeta, Russia’s Bravest Newspaper&nbsp;&n…",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2llanR4LU93QlRxaXpTVEhRY1VtTVRvcjBndl9TRnM0M3JyMU5XQk55NjIzTFNrbG1WcG9NZHZQMENPa0FMcUhkelJqbVY5UVNsclFBS1FmYW5VVk01MnVnWHF1MFdGSW52UWduRmdjdjJURTBUZnNndVczMFVEM0lVWFBtbVp5?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Al Jazeera",
-      "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
-      "summary": "Trump reverses stance, alleges fraud in recent US midterm elections&nb…",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnZ0UGV3RFQ2OWZpeVZQSlk0NkJTMmNfNks2T05zcGV0SjgtUEZXZXJIUDJEaVdjYjVia2YtaXRiS3lOaFh0ajVucVNkWDQ4akVXckU3RWx6NzZyT3pCQnhqYUhmS0pSQURpXzFabVhncXZTTlZFYjNnZVZWUDRROHFPM0NxenlRZVhUYTd2QVQ0c1B3VWsyUTRkcWlhOGtVcXk4OHl6TkVjenPSAbABQVVfeXFMT1UyRWYtbVdYZVF1VTB1LWdHS0dHMno5MlpwaGFnbHVuRy0tZW1CZ0JNSTlFVFZyMk5aQmlmbGF3V2VRWEMxQmNRVlc1aWtLNlZzWVVGWDFUMmVOUk04RFBGRVhLMVo1bm8xRE9vZFZwQ2NrSFBmLTFzaUdhSUlFZVhhOWtGX3VydFdGN3BFTFJOaTlQcWY2MURZaFJoUDNubE9oeGFMSS1ERlNHcG9EVGk?oc=5"
+      "source": "Geneva Solutions",
+      "title": "American civil society in Geneva lambasts US for snubbing UN rights review",
+      "summary": "American civil society in Geneva lambasts US for snubbing UN rights re…",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZTlnbTFtRGpYWmRyMmhNOGxDVU90WTVmT09lUGl2NHNjRW5EMGpJTVZMTl91NDFSUEw5M2J3VFd6NGJJel9YQ0xqR1J0RF92Ulo5YnlrZTZiUkZoekJPajdVak5YNzlwZEdGcTV4U0ZBeXl4SlAyQ0JleUM1TzloVWdvRkNOOElLVG1Gd0daTGN1a3ZJZk5TUlFUdnRNUE1MWjhZMFh0NEtMTHNMVExJQ19n?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,19 +73,19 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "EV Traction Motor Shaft Grounding Rings Market…",
-      "desc": "EV Traction Motor Shaft Grounding Rings Market to Reach USD 754.0&nbsp…",
-      "source": "openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ25IM2Z3bzM5MmpzWUcwS0NlLTBqTF9Bay02dkgwbHExYmlnLUFFMEZUZFVfUTNaYjlVeHdHRlJDZXRZdF8tZmNrTmhsSkR6UTBkZDNnczFjal9jUjNlNm1yYTdWUFRpNHl5N0t3bmVZaU5IS2ZzS3dVN3lReWhZc0JqZV95SGJDdjM1ZEUwalVqVWYtclpGZEl1dzBkaGQ3YVBN?oc=5"
+      "title": "ERJ Tire Tracker",
+      "desc": "ERJ Tire Tracker - 2026&nbsp;&nbsp;European Rubber Journal",
+      "source": "European Rubber Journal",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWjZRVUxFNVZuTmpEaUdTVzVQMm5MX214X0I1QXdnUWlYSFUzbElvanUtdVhxbHkwSVpRaUNtOUJPcFJaT0s2SzZhNmtHMWlnaUlrY0RsVXJBMmZDNWp5VnhqU1BPcHluZ3EtcWtzYld3M2ROcy1wYTFTQ2hkUml6ajNDSXpSeTNvQUwySXI4YUpFS3JE?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "What’s happening this week in economics?",
-      "desc": "What’s happening this week in economics?&nbsp;&nbsp;Deloitte",
-      "source": "Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5"
+      "title": "Economic and monetary policy outlook",
+      "desc": "Economic and monetary policy outlook&nbsp;&nbsp;Federal Reserve Bank o…",
+      "source": "Federal Reserve Bank of Dallas",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eU9IVk90bGxVVFFuMUM5TU1zQ0pORHFjMEptYUJBbUdMSGx6VVE1RnVZZW9KeVc1Yy1XeDJUZnpWckQ1WmgxbzZpTndwUWhiNjhTeEtCdmQ1M1pOM0FTMkpiNFR2NWtnVm03cw?oc=5"
     },
     {
       "category": "MANAGEMENT",
@@ -101,10 +101,10 @@
     "capital": "Washington, D.C.",
     "population": "약 3.42억 명",
     "gdp": "약 30.8조 USD",
-    "inflation": "3.7%",
-    "unemployment": "4.1%",
-    "stats_source": "BLS",
-    "stats_asof": "2026-09",
+    "inflation": "2.9%",
+    "unemployment": "4.2%",
+    "stats_source": "World Bank",
+    "stats_asof": "2024",
     "min_wage_federal": "$7.25 / h (연방, 2009-07-24 발효)",
     "min_wage_tn": "주 별도 기준 없음 → 연방 기준 $7.25/h 적용"
   }
