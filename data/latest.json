@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-11T09:57:12.297280+09:00",
-  "generated_at_display": "2026-11-11 09:57 KST",
+  "generated_at": "2026-11-12T11:03:55.489636+09:00",
+  "generated_at_display": "2026-11-12 11:03 KST",
   "exchange_rate": {
-    "current_rate": 1337.8800048828125,
-    "change_pct": -0.44,
+    "current_rate": 1334.43994140625,
+    "change_pct": -0.56,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1337.88
+      1334.44
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The New York Times",
-      "title": "Live Updates: Pete Hegseth Impeachment Effort Is Derailed by House Republicans",
-      "summary": "Live Updates: Pete Hegseth Impeachment Effort Is Derailed by House Rep…",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3aFh0N1I3eXV5VHBNTkx3MEhtTnRKSmNtZXFNaVI3a0V5SUF2T2VfaC1SRnp0Uk5xOWt4Y0hZajRjTHp0bGhKS3RVbFd0b2pPaTJzT0JtbDhGVUc0V2FDTGFiZS1HaFFOdG5IejdJTUlMTGZlUExfZDEyc2c0dw?oc=5"
+      "source": "NPR",
+      "title": "Democrat Scott Colom wins Mississippi Senate race",
+      "summary": "Democrat Scott Colom wins Mississippi Senate race&nbsp;&nbsp;NPRScott…",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNG1IdGdCaVV2RjNVUUwxbHhqMXBpUktSREFGUnZxZnVmZ01XbG5rakZNWVpBeFpqZW5fNE5mTnBNdmtNYjFVSkZGQjB5R2tKUEF5RUFBZWktcWdZTEdEZDd3UUk0RWViRTg2U1MzSFBRRHlublZ1ZUxDdUkyRk02dV9UMUg?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Axios",
-      "title": "Scoop: Commerce Department received national security warning on Nvidia CEO affair",
-      "summary": "Scoop: Commerce Department received national security warning on Nvidi…",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NTWlEVTREeTZ0V3J5d1VBblV3Q1JiV0tqTWJUSGVJQ2MxSElWWHpVVG9lTkxKR3ctY2RDVHJUaTdWak1oS2lGSGhPbUJ6MU9CZ2xJdGY1Ui0zQy1uaFliV3c1MXprY3RDejF2eXp2WWc2WWJRSTZiOEljZw?oc=5"
+      "source": "The New York Times",
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "summary": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who R…",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "The New York Times",
-      "title": "The Lights Go Out at Novaya Gazeta, Russia’s Bravest Newspaper",
-      "summary": "The Lights Go Out at Novaya Gazeta, Russia’s Bravest Newspaper&nbsp;&n…",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2llanR4LU93QlRxaXpTVEhRY1VtTVRvcjBndl9TRnM0M3JyMU5XQk55NjIzTFNrbG1WcG9NZHZQMENPa0FMcUhkelJqbVY5UVNsclFBS1FmYW5VVk01MnVnWHF1MFdGSW52UWduRmdjdjJURTBUZnNndVczMFVEM0lVWFBtbVp5?oc=5"
+      "source": "AP News",
+      "title": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough",
+      "summary": "Russia and Ukraine agree to a large prisoner exchange as talks end wit…",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Geneva Solutions",
-      "title": "American civil society in Geneva lambasts US for snubbing UN rights review",
-      "summary": "American civil society in Geneva lambasts US for snubbing UN rights re…",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZTlnbTFtRGpYWmRyMmhNOGxDVU90WTVmT09lUGl2NHNjRW5EMGpJTVZMTl91NDFSUEw5M2J3VFd6NGJJel9YQ0xqR1J0RF92Ulo5YnlrZTZiUkZoekJPajdVak5YNzlwZEdGcTV4U0ZBeXl4SlAyQ0JleUM1TzloVWdvRkNOOElLVG1Gd0daTGN1a3ZJZk5TUlFUdnRNUE1MWjhZMFh0NEtMTHNMVExJQ19n?oc=5"
+      "source": "The Guardian",
+      "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
+      "summary": "Democrats’ US election sweep brings the price of their promised social…",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLTZwcVZNV05ZMGF3VG81TUdRWGdUaEtHdE5yNVA1QmlNa3g3aHJjdEZyajZlM0FqNm10R21DaXVzMnR3Y3dfUFZNdC1FVXVrWkFBNW01cV8zQkN3aUxVaEJZeXROTlJGUVliVnc2NVo4X0o5a2JqSG1yNDZmalVEdjNsZEtib1d0cFE?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,19 +73,19 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "ERJ Tire Tracker",
-      "desc": "ERJ Tire Tracker - 2026&nbsp;&nbsp;European Rubber Journal",
-      "source": "European Rubber Journal",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWjZRVUxFNVZuTmpEaUdTVzVQMm5MX214X0I1QXdnUWlYSFUzbElvanUtdVhxbHkwSVpRaUNtOUJPcFJaT0s2SzZhNmtHMWlnaUlrY0RsVXJBMmZDNWp5VnhqU1BPcHluZ3EtcWtzYld3M2ROcy1wYTFTQ2hkUml6ajNDSXpSeTNvQUwySXI4YUpFS3JE?oc=5"
+      "title": "Mexico’s Automotive Sector Faces October 2026…",
+      "desc": "Mexico’s Automotive Sector Faces October 2026 Slowdown&nbsp;&nbsp;Mexi…",
+      "source": "Mexico Business News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlNWQ0RZdW95ams5dTRheVIxQVlxemdGQmZMNmZCNWJaS0wyaVkyQTFfVGR0ZHRXRE03T1RZcGlaTlFqdEFYTTdWT29FRzhmVFQzMlh4UWpDa3A4X1JQZkFLZkxHcDJTdzZpQzRjSDFxNUZxZ1l4NmhUdDVvWE1YYzlPMExUMUVnX1BYeGFDNzFfaW92LWFHS2pQZWNaZw?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "Economic and monetary policy outlook",
-      "desc": "Economic and monetary policy outlook&nbsp;&nbsp;Federal Reserve Bank o…",
-      "source": "Federal Reserve Bank of Dallas",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eU9IVk90bGxVVFFuMUM5TU1zQ0pORHFjMEptYUJBbUdMSGx6VVE1RnVZZW9KeVc1Yy1XeDJUZnpWckQ1WmgxbzZpTndwUWhiNjhTeEtCdmQ1M1pOM0FTMkpiNFR2NWtnVm03cw?oc=5"
+      "title": "What’s happening this week in economics?",
+      "desc": "What’s happening this week in economics?&nbsp;&nbsp;Deloitte",
+      "source": "Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5"
     },
     {
       "category": "MANAGEMENT",
