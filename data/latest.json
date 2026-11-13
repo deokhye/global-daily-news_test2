@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-12T11:03:55.489636+09:00",
-  "generated_at_display": "2026-11-12 11:03 KST",
+  "generated_at": "2026-11-13T10:34:10.643685+09:00",
+  "generated_at_display": "2026-11-13 10:34 KST",
   "exchange_rate": {
-    "current_rate": 1334.43994140625,
-    "change_pct": -0.56,
+    "current_rate": 1330.989990234375,
+    "change_pct": -0.39,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1334.44
+      1330.99
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "NPR",
-      "title": "Democrat Scott Colom wins Mississippi Senate race",
-      "summary": "Democrat Scott Colom wins Mississippi Senate race&nbsp;&nbsp;NPRScott…",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNG1IdGdCaVV2RjNVUUwxbHhqMXBpUktSREFGUnZxZnVmZ01XbG5rakZNWVpBeFpqZW5fNE5mTnBNdmtNYjFVSkZGQjB5R2tKUEF5RUFBZWktcWdZTEdEZDd3UUk0RWViRTg2U1MzSFBRRHlublZ1ZUxDdUkyRk02dV9UMUg?oc=5"
+      "source": "The Washington Post",
+      "title": "Live updates: D.C. gunman fixated on grievances with condo association, people who knew him say",
+      "summary": "Live updates: D.C. gunman fixated on grievances with condo association…",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbTRrbzRkVTg0Wk1PdE5MbGlRSTNYTTlJakkxTm9aXzhvN29lNVRTVXVZanlCZ1RscnBXcVcyNjFLLXBPUFJuTTNfd0pkV0gtaGVFV25MZ1VIY3VZSW15UlhDNXFuaGtBQ3pJWWhRX2p0WVNwVFZpMEh1ZUdsaVZoLWc3Z3puOHNwOVdBNVF5c19fMjJDWEp4LVBR?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "The New York Times",
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "summary": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who R…",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5"
+      "source": "Yahoo Finance",
+      "title": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge",
+      "summary": "Nvidia live updates: Following Jensen Huang's resignation as CEO, alle…",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUjN6ZHpwVTN4R3loaDYzLThpNnhsUmY5NGoxLWJIaG5WSWlSNE5iVi1OS0RxNnpZNUFDLWhXWUY0TDZ3UUlpYThqWFc3SlhRV185N2RGNmFpYjlGWUg5TUVWNzhEUkF6TVdxbGVLN3VGc19xZHM4QjQ4eWkwZUxGaXB6LXBydzloUHpySXpWZ0NVSHh4VWtuSWtidnBJNEZYem96el9VOXVVZmVvWGVQNEJlb1RKdkVqWUNhY2hyT2VuZjZIdWd4TVNhT1VhY0NRWWV0VHVsZjlwS3pGdkxLLUJJS0JtNDJxaFVzNQ?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "AP News",
-      "title": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough",
-      "summary": "Russia and Ukraine agree to a large prisoner exchange as talks end wit…",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5"
+      "source": "The Washington Post",
+      "title": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
+      "summary": "After meeting Putin, U.S. envoys say Europe to join talks on ending Uk…",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "The Guardian",
-      "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
-      "summary": "Democrats’ US election sweep brings the price of their promised social…",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLTZwcVZNV05ZMGF3VG81TUdRWGdUaEtHdE5yNVA1QmlNa3g3aHJjdEZyajZlM0FqNm10R21DaXVzMnR3Y3dfUFZNdC1FVXVrWkFBNW01cV8zQkN3aUxVaEJZeXROTlJGUVliVnc2NVo4X0o5a2JqSG1yNDZmalVEdjNsZEtib1d0cFE?oc=5"
+      "source": "American Cancer Society Press Room",
+      "title": "American Cancer Society Updates Prostate Cancer Screening Guideline: Major Changes Include Regular PSA Testing for Average and High-Risk Men",
+      "summary": "American Cancer Society Updates Prostate Cancer Screening Guideline: M…",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUdtenEwZzVxMFBKREk0cldtdElPbEFQTTJJU2R3SURZYWp2MjJ1NElackExOTN6bmpYZ09jNWNHaHluVU5QQXphZHFtSTdZTS1JbDBiSFpJckNfdi10XzZfVnhYRXdVVlhULXFGR0FseWV0bXp0NG80X2E3ZG9aYnZB?oc=5"
     }
   ],
   "hr_trends": [
