@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-13T10:34:10.643685+09:00",
-  "generated_at_display": "2026-11-13 10:34 KST",
+  "generated_at": "2026-11-14T10:07:35.715829+09:00",
+  "generated_at_display": "2026-11-14 10:07 KST",
   "exchange_rate": {
-    "current_rate": 1330.989990234375,
-    "change_pct": -0.39,
+    "current_rate": 1333.780029296875,
+    "change_pct": -0.19,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1330.99
+      1335.11
     ],
     "source": "Yahoo Finance"
   },
@@ -39,33 +39,33 @@
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
       "source": "The Washington Post",
-      "title": "Live updates: D.C. gunman fixated on grievances with condo association, people who knew him say",
-      "summary": "Live updates: D.C. gunman fixated on grievances with condo association…",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbTRrbzRkVTg0Wk1PdE5MbGlRSTNYTTlJakkxTm9aXzhvN29lNVRTVXVZanlCZ1RscnBXcVcyNjFLLXBPUFJuTTNfd0pkV0gtaGVFV25MZ1VIY3VZSW15UlhDNXFuaGtBQ3pJWWhRX2p0WVNwVFZpMEh1ZUdsaVZoLWc3Z3puOHNwOVdBNVF5c19fMjJDWEp4LVBR?oc=5"
+      "title": "Rep. Lauren Boebert ousted in Colorado’s conservative 4th District",
+      "summary": "Rep. Lauren Boebert ousted in Colorado’s conservative 4th District&nbs…",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnZLbl96QmVGQnZLN1RQQmRWTWdCT3lfMS1ZZlduQVhjQ0ZpQ1hlOTF2REFaMTZNWDZVeWhqbHdPeDdFNmFMWmNtVENhUzNvSThEQ1NlQWl2TnhQbV9yekxvWkRPTHdiX2RzYmdCVDM4VTYtcXdpWEJNRS12TlJDWVI1WEZLQzJVSDNNNFJIZVA3TFByY3lpYTdTTnNlYnVWbTFxNm5tV2t4elEzU3lLWXk1UlctM3RVRl9FNw?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Yahoo Finance",
-      "title": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge",
-      "summary": "Nvidia live updates: Following Jensen Huang's resignation as CEO, alle…",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUjN6ZHpwVTN4R3loaDYzLThpNnhsUmY5NGoxLWJIaG5WSWlSNE5iVi1OS0RxNnpZNUFDLWhXWUY0TDZ3UUlpYThqWFc3SlhRV185N2RGNmFpYjlGWUg5TUVWNzhEUkF6TVdxbGVLN3VGc19xZHM4QjQ4eWkwZUxGaXB6LXBydzloUHpySXpWZ0NVSHh4VWtuSWtidnBJNEZYem96el9VOXVVZmVvWGVQNEJlb1RKdkVqWUNhY2hyT2VuZjZIdWd4TVNhT1VhY0NRWWV0VHVsZjlwS3pGdkxLLUJJS0JtNDJxaFVzNQ?oc=5"
+      "source": "CNN",
+      "title": "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb",
+      "summary": "Live updates: No timeline for resolving nationwide ground stop as flig…",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "The Washington Post",
-      "title": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
-      "summary": "After meeting Putin, U.S. envoys say Europe to join talks on ending Uk…",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj?oc=5"
+      "source": "NBC News",
+      "title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’",
+      "summary": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’&n…",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "American Cancer Society Press Room",
-      "title": "American Cancer Society Updates Prostate Cancer Screening Guideline: Major Changes Include Regular PSA Testing for Average and High-Risk Men",
-      "summary": "American Cancer Society Updates Prostate Cancer Screening Guideline: M…",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUdtenEwZzVxMFBKREk0cldtdElPbEFQTTJJU2R3SURZYWp2MjJ1NElackExOTN6bmpYZ09jNWNHaHluVU5QQXphZHFtSTdZTS1JbDBiSFpJckNfdi10XzZfVnhYRXdVVlhULXFGR0FseWV0bXp0NG80X2E3ZG9aYnZB?oc=5"
+      "source": "PBS",
+      "title": "WATCH: Brooklyn community leaders, residents hold meeting on building collapse",
+      "summary": "WATCH: Brooklyn community leaders, residents hold meeting on building…",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT09oUDlSempQNkt5Tld2anlnSmRkd1BpUklSSU1ReVpWa3pfa3FlWUhsc19SWEdEYURueWd5enNEOG9obi1zNlZyNDRRdHlza19qNmxqMDQwcmtmWUVQUzJnTmtrdkN4WnZNMkd4Y0xRb1B1TEZIandIYno0dVN6Z0NnOWR5OTFZTlU4Yld6cmdPM2Y2Nk9wakRIZUVUcnFsV2xMejc4NlBCZW5KQkxRbGVB?oc=5"
     }
   ],
   "hr_trends": [
@@ -91,10 +91,10 @@
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "After the Midterm Rout, Can Trump Change Cours…",
-      "desc": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tari…",
-      "source": "Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5"
+      "title": "Tariffs",
+      "desc": "Tariffs&nbsp;&nbsp;National Retail Federation | NRF",
+      "source": "National Retail Federation | NRF",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43NW54cUFhTmhyejR2czdMRVcwc3ZjOU9rOFItZFRYalJpakQ0bkpyUDF1OENiVnplYXdUUnZqcmRra3FERjJZaldsYS04TzlNU29rRTRuWGxyQQ?oc=5"
     }
   ],
   "country_profile": {
