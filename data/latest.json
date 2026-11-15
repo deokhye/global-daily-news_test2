@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-14T10:07:35.715829+09:00",
-  "generated_at_display": "2026-11-14 10:07 KST",
+  "generated_at": "2026-11-15T09:30:34.663060+09:00",
+  "generated_at_display": "2026-11-15 09:30 KST",
   "exchange_rate": {
-    "current_rate": 1333.780029296875,
-    "change_pct": -0.19,
+    "current_rate": 1336.199951171875,
+    "change_pct": 0.18,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1335.11
+      1336.2
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The Washington Post",
-      "title": "Rep. Lauren Boebert ousted in Colorado’s conservative 4th District",
-      "summary": "Rep. Lauren Boebert ousted in Colorado’s conservative 4th District&nbs…",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnZLbl96QmVGQnZLN1RQQmRWTWdCT3lfMS1ZZlduQVhjQ0ZpQ1hlOTF2REFaMTZNWDZVeWhqbHdPeDdFNmFMWmNtVENhUzNvSThEQ1NlQWl2TnhQbV9yekxvWkRPTHdiX2RzYmdCVDM4VTYtcXdpWEJNRS12TlJDWVI1WEZLQzJVSDNNNFJIZVA3TFByY3lpYTdTTnNlYnVWbTFxNm5tV2t4elEzU3lLWXk1UlctM3RVRl9FNw?oc=5"
+      "source": "The New York Times",
+      "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+      "summary": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System&n…",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZVRWazgtMzQwaGdPRGUwSnFTWnRQVFd0RHJieWluMVEwU29LRUJvaFVjTE9VV24zRWJPNU9tYnl0SE9wRExVY3I2VXdFRTFsNXlHU0tETjJkU3ktVWlaQjJCY3FSZHlBRFRXcGgwXzkxODZRSC1la3lqbEdHOEtiQnc1aEpLQQ?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "CNN",
-      "title": "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb",
-      "summary": "Live updates: No timeline for resolving nationwide ground stop as flig…",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5"
+      "source": "The New York Times",
+      "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+      "summary": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System&n…",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZVRWazgtMzQwaGdPRGUwSnFTWnRQVFd0RHJieWluMVEwU29LRUJvaFVjTE9VV24zRWJPNU9tYnl0SE9wRExVY3I2VXdFRTFsNXlHU0tETjJkU3ktVWlaQjJCY3FSZHlBRFRXcGgwXzkxODZRSC1la3lqbEdHOEtiQnc1aEpLQQ?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "NBC News",
-      "title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’",
-      "summary": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’&n…",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5"
+      "source": "Al Jazeera",
+      "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
+      "summary": "Pope Leo urges end to violence in Peru during visit to remote Andes to…",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaThSTWlHZG9mM2JLSHd4Vnl0bk1GLUtlYy1VNktsWFBVMnVwbEJ2c1Y0bUczZGV0bnpzOHJzMGFSNkdGb1FndmNiUU5IM2dtSGNTdUZ6NjcyVDdYLXlzcHNnOEdUTkpOeDl4ekR6aUo4TVhJLTExX3BOOFE3NHFscUliTXlubnB4Yk9GeVJoMlJnd2RQZTE0cGdsUWJhU0VpOEl4a3c2dEpBMlNfcjQxR1dlbXTSAboBQVVfeXFMUGhXVHNabjI3TS1NRnlvZlRadjNmRVJ3clFkQVlwYmUtdmNubGk2alVrZ2xaa3ZULWNFZUh1Ujd0UmVKNno0NzlWUG5zWEtVUS1OTWVMZ3MyNmM5a19ZOVljdHMyMVNUTHlySjgzQlFmRHZKTVNxaFNiSGVqSUM0d0VjNDRIQVRaX1lRX3IxcG5WYV9IN1h4WmZkOElBVEhjM0JsNE1pdkRfNkVWb1ljV25ILUFkZkxVdGxn?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
       "source": "PBS",
-      "title": "WATCH: Brooklyn community leaders, residents hold meeting on building collapse",
-      "summary": "WATCH: Brooklyn community leaders, residents hold meeting on building…",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT09oUDlSempQNkt5Tld2anlnSmRkd1BpUklSSU1ReVpWa3pfa3FlWUhsc19SWEdEYURueWd5enNEOG9obi1zNlZyNDRRdHlza19qNmxqMDQwcmtmWUVQUzJnTmtrdkN4WnZNMkd4Y0xRb1B1TEZIandIYno0dVN6Z0NnOWR5OTFZTlU4Yld6cmdPM2Y2Nk9wakRIZUVUcnFsV2xMejc4NlBCZW5KQkxRbGVB?oc=5"
+      "title": "WATCH: Rubio delivers keynote address at Federalist Society National Lawyers Convention",
+      "summary": "WATCH: Rubio delivers keynote address at Federalist Society National L…",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYmNTSlJGMFpkZFdCcUkxZUJ5a0pNQllWcjBCSTZiWU5vUlFWTDhHRlljUlVfSXM3MnpQdW85azJtLTFVUllVcU50NDlmYWV2Q0VCdU9HMzNoT25ocG5sTC1keVNfWlhOLXlndGt3TDAtYjRQMjV2MVFPWU9QWkQ2cl9fMHhfc2REZ01tVHhja0RLQ2I0eEk2Tk40bkhLSDhFYTFYejUxRDl0Y2tDYUo4aFg4X3V4dkR2NE1kajNob1M0Z9IBxwFBVV95cUxNMld6N01XUGpuUnluMFJJRlFRbnhhTWFvZUFTSkZ6aVR0U295LU93dUJLUnRtTW9hMm4tVGtIN0t2ODY5WEhydTlCVGNjeXh3OTBtZWR5V05pVml0ejNETlhIVUZXQ3J2aVEybS1vVXR4TzljaE5JbHFVQTM5LXZ5WmJvZHdYYXZWbTlyaFVjVnhLUjIyNFRwbG0ycUF2aG1HdkZLYl9GenhQMEJDOEE0S0djeFBRaEhhM0hnckdRYkNIbkhFZURZ?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Mexico’s Automotive Sector Faces October 2026…",
-      "desc": "Mexico’s Automotive Sector Faces October 2026 Slowdown&nbsp;&nbsp;Mexi…",
-      "source": "Mexico Business News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlNWQ0RZdW95ams5dTRheVIxQVlxemdGQmZMNmZCNWJaS0wyaVkyQTFfVGR0ZHRXRE03T1RZcGlaTlFqdEFYTTdWT29FRzhmVFQzMlh4UWpDa3A4X1JQZkFLZkxHcDJTdzZpQzRjSDFxNUZxZ1l4NmhUdDVvWE1YYzlPMExUMUVnX1BYeGFDNzFfaW92LWFHS2pQZWNaZw?oc=5"
+      "title": "Ultra High Performance Tires Market To 2035: E…",
+      "desc": "Ultra High Performance Tires Market To 2035: Electrified Performance V…",
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY3Q2NnpWUjhsZEZ2LWxnUWE1WXNIUHNuU1BXOHhtc0J0UTc0dHNvOTB0RHVEdlR6cUdtbldXS2ZxRVJlSzF4LWxLVmxsWUZPVmpEc2ZFMXh2RlItRUs3M0NUWUgxQVNWVkM4YVhIMVY3bFZsc3hIYnh6QWU4eVp3aWNtTVdvZGZPSGhHM2FaRzFqcjBibm5pU0VaSG9GZTFYRXhEbS1yQW5nUngzc3pXS0VBc214QTVHYmU1X253UHQySmE4dmV0ajN0cmV3WkRoVzBMVy1HQTBnZzQ?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -91,10 +91,10 @@
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "Tariffs",
-      "desc": "Tariffs&nbsp;&nbsp;National Retail Federation | NRF",
-      "source": "National Retail Federation | NRF",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43NW54cUFhTmhyejR2czdMRVcwc3ZjOU9rOFItZFRYalJpakQ0bkpyUDF1OENiVnplYXdUUnZqcmRra3FERjJZaldsYS04TzlNU29rRTRuWGxyQQ?oc=5"
+      "title": "Bipartisan push possible to curb Trump tariffs",
+      "desc": "Bipartisan push possible to curb Trump tariffs&nbsp;&nbsp;Supply Chain…",
+      "source": "Supply Chain Dive",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0R3UUFUeDJBNmhYRHNQMjBlREh0OHoyOElSMXg0U1VPdjBUNnFNYmRxSjhSU0xWRUFVOVBGU3lweldHZzFpZ1F1Rl9fSXJoeGc1Y2tLWjNkQ0JpRHBEVlA1czQ0QnBKdnMzbjZXblBLdGNVWHV6UGFsUEw4blVGcUx1dXVSTGFWd05mZFdNaTIzVklEeHc?oc=5"
     }
   ],
   "country_profile": {
