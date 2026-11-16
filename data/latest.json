@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-15T09:30:34.663060+09:00",
-  "generated_at_display": "2026-11-15 09:30 KST",
+  "generated_at": "2026-11-16T09:31:48.943892+09:00",
+  "generated_at_display": "2026-11-16 09:31 KST",
   "exchange_rate": {
-    "current_rate": 1336.199951171875,
-    "change_pct": 0.18,
+    "current_rate": 1334.280029296875,
+    "change_pct": 0.04,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1336.2
+      1334.15
     ],
     "source": "Yahoo Finance"
   },
@@ -39,33 +39,33 @@
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
       "source": "The New York Times",
-      "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
-      "summary": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System&n…",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZVRWazgtMzQwaGdPRGUwSnFTWnRQVFd0RHJieWluMVEwU29LRUJvaFVjTE9VV24zRWJPNU9tYnl0SE9wRExVY3I2VXdFRTFsNXlHU0tETjJkU3ktVWlaQjJCY3FSZHlBRFRXcGgwXzkxODZRSC1la3lqbEdHOEtiQnc1aEpLQQ?oc=5"
+      "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
+      "summary": "Flight Delays and Cancellations Persist as System Recovers From Ground…",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2Fvd0hxVEFBWFpmVlVFU2RBRElReFpOdUd1c25uQ0ItRTFhbUJzVHNiWUdadGoxeDNCYjJ4cjZydzZEaHVFS1p1ekl3T3YyVHY5eS05ZjlGLThvd19ZdG1iS2F1WEdYTE95eHc1RzBTMXk3QzhEeTJOb3IwRXlSWVFQaFp3Qy1oamVfRXNueWlVQQ?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "The New York Times",
-      "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
-      "summary": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System&n…",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZVRWazgtMzQwaGdPRGUwSnFTWnRQVFd0RHJieWluMVEwU29LRUJvaFVjTE9VV24zRWJPNU9tYnl0SE9wRExVY3I2VXdFRTFsNXlHU0tETjJkU3ktVWlaQjJCY3FSZHlBRFRXcGgwXzkxODZRSC1la3lqbEdHOEtiQnc1aEpLQQ?oc=5"
+      "source": "Reuters",
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
+      "summary": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports&…",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "Al Jazeera",
-      "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
-      "summary": "Pope Leo urges end to violence in Peru during visit to remote Andes to…",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaThSTWlHZG9mM2JLSHd4Vnl0bk1GLUtlYy1VNktsWFBVMnVwbEJ2c1Y0bUczZGV0bnpzOHJzMGFSNkdGb1FndmNiUU5IM2dtSGNTdUZ6NjcyVDdYLXlzcHNnOEdUTkpOeDl4ekR6aUo4TVhJLTExX3BOOFE3NHFscUliTXlubnB4Yk9GeVJoMlJnd2RQZTE0cGdsUWJhU0VpOEl4a3c2dEpBMlNfcjQxR1dlbXTSAboBQVVfeXFMUGhXVHNabjI3TS1NRnlvZlRadjNmRVJ3clFkQVlwYmUtdmNubGk2alVrZ2xaa3ZULWNFZUh1Ujd0UmVKNno0NzlWUG5zWEtVUS1OTWVMZ3MyNmM5a19ZOVljdHMyMVNUTHlySjgzQlFmRHZKTVNxaFNiSGVqSUM0d0VjNDRIQVRaX1lRX3IxcG5WYV9IN1h4WmZkOElBVEhjM0JsNE1pdkRfNkVWb1ljV25ILUFkZkxVdGxn?oc=5"
+      "source": "WSJ",
+      "title": "Miguel Ángel Félix Gallardo, Architect of Mexico’s Modern Drug Trade, Dies at 80",
+      "summary": "Miguel Ángel Félix Gallardo, Architect of Mexico’s Modern Drug Trade,…",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2NoVVlfcDZSM0Mtdm5fYVpFcXY0ZFdRNG1KNl9uNXN5X3NBLUl3Mjh3Z0cyWTduQUZEa2lCODhtREFzbmJ1cmNIc3VJbndxSGIyNlYtbkg4anhJNWVIaWlSUEt3RmRCSnBKSXpoYXJPVTBYd3ZYMTVCYXF6Rjh1QzR3VUpXejRDUWFuSEE4eDRMV2NsWlF0b05XOXNtbXQtYWxRSXlxUzR2SjlvVUd5eXpMVmctbVkwZGp6ZF9BUm5kX1E?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "PBS",
-      "title": "WATCH: Rubio delivers keynote address at Federalist Society National Lawyers Convention",
-      "summary": "WATCH: Rubio delivers keynote address at Federalist Society National L…",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYmNTSlJGMFpkZFdCcUkxZUJ5a0pNQllWcjBCSTZiWU5vUlFWTDhHRlljUlVfSXM3MnpQdW85azJtLTFVUllVcU50NDlmYWV2Q0VCdU9HMzNoT25ocG5sTC1keVNfWlhOLXlndGt3TDAtYjRQMjV2MVFPWU9QWkQ2cl9fMHhfc2REZ01tVHhja0RLQ2I0eEk2Tk40bkhLSDhFYTFYejUxRDl0Y2tDYUo4aFg4X3V4dkR2NE1kajNob1M0Z9IBxwFBVV95cUxNMld6N01XUGpuUnluMFJJRlFRbnhhTWFvZUFTSkZ6aVR0U295LU93dUJLUnRtTW9hMm4tVGtIN0t2ODY5WEhydTlCVGNjeXh3OTBtZWR5V05pVml0ejNETlhIVUZXQ3J2aVEybS1vVXR4TzljaE5JbHFVQTM5LXZ5WmJvZHdYYXZWbTlyaFVjVnhLUjIyNFRwbG0ycUF2aG1HdkZLYl9GenhQMEJDOEE0S0djeFBRaEhhM0hnckdRYkNIbkhFZURZ?oc=5"
+      "source": "Time Magazine",
+      "title": "Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts",
+      "summary": "Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media P…",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlZrQmZCbGdEWTF0WklUSHdpeVRGTm9UZmZHUFZBT00zaXFRUmtwQXNtcVhTbnU4ZUhISEthUmZSTTV2a2tKRHlMaENlM05qN3pGTDJvS0xRenBiZWNZWFdBVnppTFVGMFE2YkRLelJ0NUVDYVN1dGFnNmVDNDJBMG8xUnNONDQ0UFpyRzk2cXFKNy1vV1NPdi1xbm5CWXM?oc=5"
     }
   ],
   "hr_trends": [
