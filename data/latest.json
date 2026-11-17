@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-16T09:31:48.943892+09:00",
-  "generated_at_display": "2026-11-16 09:31 KST",
+  "generated_at": "2026-11-17T12:18:22.170893+09:00",
+  "generated_at_display": "2026-11-17 12:18 KST",
   "exchange_rate": {
-    "current_rate": 1334.280029296875,
-    "change_pct": 0.04,
+    "current_rate": 1339.1600341796875,
+    "change_pct": 0.44,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1334.15
+      1339.16
     ],
     "source": "Yahoo Finance"
   },
@@ -46,10 +46,10 @@
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Reuters",
-      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
-      "summary": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports&…",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ?oc=5"
+      "source": "Fox Business",
+      "title": "JPMorgan Chase systems recovering following hourslong nationwide technical outage",
+      "summary": "JPMorgan Chase systems recovering following hourslong nationwide techn…",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVZfSXNOWnJZcEdKbVhSSTZkcGJUT1BfMUhKQW9pQ1hSSGJHNjgtTTJTNGxnYk9NLU81T3hLOFVlWk9hdjM5a0hxRUlqVHhib2NRYTN2Wm5NZDJoTThLSm9pVnVlN2xWRlFhV0Myc043czN4dDZ5WnhGY1JQREZGbmUyYUZxZUlOZ2ptSHJMQ25ydms1Nk1vRkN2RkU4NTJodTJSSFJnVXpQWTlfSVRKeXJpSklDQdIBuwFBVV95cUxOSDd0dE0yYzJBQmNiTzNpc2lNUHV6VHltSmVHVHZDUkw0ZElfY3ZrVko3T0s1UUlOOGptTXRGdi16RkZCWEVfZTg2RHd6VW1kWTZvS2tqQkViMHJoRFBJd0lwVHJVSkV2ejQweTNZa0NqMUp5X0tKbjNncW9HRjJZMDdDbW5Ua0dPcG5rNnVFbERSWkdKbllfa2UtazByMXkwY01rM3d0a3c0MmtpbjFTOGYtbUFMMnBieWpJ?oc=5"
     },
     {
       "category": "WORLD",
@@ -62,10 +62,10 @@
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Time Magazine",
-      "title": "Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts",
-      "summary": "Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media P…",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlZrQmZCbGdEWTF0WklUSHdpeVRGTm9UZmZHUFZBT00zaXFRUmtwQXNtcVhTbnU4ZUhISEthUmZSTTV2a2tKRHlMaENlM05qN3pGTDJvS0xRenBiZWNZWFdBVnppTFVGMFE2YkRLelJ0NUVDYVN1dGFnNmVDNDJBMG8xUnNONDQ0UFpyRzk2cXFKNy1vV1NPdi1xbm5CWXM?oc=5"
+      "source": "The Guardian",
+      "title": "‘Two dictators in my story – Duterte and Zuckerberg’: Nobel peace prize winner’s warning for democracy",
+      "summary": "‘Two dictators in my story – Duterte and Zuckerberg’: Nobel peace priz…",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNm9FUWl1aXZjMmN6b0RMc3RIQ0xuUnYzS0ZxbGhwUlEya2Nsb21qNjRreEsyR0RmcjdwZHBoMjU3YUZsblp3Uk1xdkNXd0d4bUZ6UHdVcFJJQ09SV2R6U3FDT0NhZUxrbkVxYTlEWFlSR1RXdFJXRHY1MW1SbkhwcHFyT0NUS01ZeFI0?oc=5"
     }
   ],
   "hr_trends": [
