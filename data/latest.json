@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-18T11:39:46.176338+09:00",
-  "generated_at_display": "2026-11-18 11:39 KST",
+  "generated_at": "2026-11-19T11:07:55.786582+09:00",
+  "generated_at_display": "2026-11-19 11:07 KST",
   "exchange_rate": {
-    "current_rate": 1328.6199951171875,
-    "change_pct": -0.53,
+    "current_rate": 1331.3499755859375,
+    "change_pct": -0.12,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1328.62
+      1331.35
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The New York Times",
-      "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
-      "summary": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commiss…",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGRnUU9ZdGtxYmdSSGdvOVZOSkszR0JtaURtcXUxQ3c2REFWUEhrZGVublczMWprb0swWU44YlF1LTlRUzQ3YTg0bkRQVFVNX1dyM3huanQ0dWhCWUtoYjJxNFFZU0xId2VNV19JUFpLVGNIa2hjcmFQTEljeG5Ecg?oc=5"
+      "source": "WESH",
+      "title": "12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas",
+      "summary": "12+ inches of rain possible by Friday night along coast; 18 inches in…",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHliLXRKZGNweFdqMXFpVmFWTHktOHNmMUVaTjRhbWR6RWxnVlQzX0RlamRkVUJBU0J6MU5FaWQ3TUk1bU5Edmt4OWhSN0NZeHB6M1RvYkpxb1hwdHVJTk9TdjRmeFZzaU5yaWFwMHBHaDh1Sng3cmVhT2xMejNIRXJjQVJ3YnJwNTRzc3Y1aW5hSGNSNENN?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Bloomberg.com",
-      "title": "Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap",
-      "summary": "Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap&nbsp;&n…",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5"
+      "source": "MarketWatch",
+      "title": "Anthropic IPO reportedly values company at $1.5 trillion ahead of stock's Thursday trading debut — live updates",
+      "summary": "Anthropic IPO reportedly values company at $1.5 trillion ahead of stoc…",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVRDX2tPSTJ4QkJtLVN0ZTB3eTZHUHhRa2hYUU8yUWRxbml2TUdYcDJlTEtHRzFFS0c3d1VoNnJpRGowcllpYUZRbVVFbGFWMU02YzJxRVJIVXdzblQzam8zRFdlMnpLZ24wNXlxOUQ3WUNPVjR0Q0Z5ZHhZNDVyTVR2bjAtUUJtN1ZXZA?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "Al Jazeera",
-      "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
-      "summary": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Ba…",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NxaFU3RUpkTklaRUU5NkxhTjZ6aHhYOWl4WG9PQUh1dWp6ck9qdkJhc3FHMjN5cUhWSzF6OWFmZnE5MXQ3U0RKd2RmeXdvZUZ3Qjk4VzFEM0tka3dOai1IVWZFY0VaVlVHS3d2NkdyeDU3UHZEY2tMbV85ZEVldUhRSG1SS2VwZ1c1ck4wNE1HbU81WXluYU5KRUN0NmRFdVJRNWI5MFpreDR4eGNaQkgtMVg3SjjSAbwBQVVfeXFMUDFvNkpucUdWODBUZW5kV01tbDNjaGVlYWp6a2NtdktFQVJpVW9mTjJFWEhWWm1LQlIwcW5tVVozb0FpUWl5TEd1VkstTFh2S2VXRi1YLWdxcl9TaF9XcjFhLUNHb291ZkxHY210TENUclk4WjNlZml0Y1hDbnBBRURzTm1ORjl4a0hWUFVGWUVJbFNwUksyUDJ0ZmtBZWRiZV9pNTJ4QndvRGVMNzVtVW5VQ3J6azQ3c3lJcVc?oc=5"
+      "source": "CBS News",
+      "title": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes",
+      "summary": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran…",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczRzemtDSHlJLXZIOHl1WHVMYUZkLTFMd1Z4TDJHNWhDa2E3djdWWnM4MXlwbXpnYjNyUU9TcXR6YjhsOWRVS29ub25Dd0pLVWNZRFZWR25CdnNxeTQ4VDRYX2g1dlFqZmQ1N1o1WWowQk5XRTJvSnhwWENzaXlBSF83RW5kbE5FelFKa0J2dnlhQVJJTkE?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "PBS",
-      "title": "Debunking social media posts that claim a 90-day blackout will start Nov. 17",
-      "summary": "Debunking social media posts that claim a 90-day blackout will start N…",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmFNTmJiTzY2SFNiZlM5dE14ekFoc0ZrZFQ3T043M3BCOURXOXFza2g0ZVZwZFZxaHF3NDJNR2VIb1BXUHc0TGZtbDl5SlpUeDJPLUtJMEZuaHpFTGJsd1JLQW1NaV9TOHlqcktNTHoxVmhEQmh0R2NsMjVJbFV0RnVzcnMzSzNZWUx5SVloS2xkSFBmOXhUcXdnQmZuTU5rM3MyUjVwMWZGanB3bGQ5Sw?oc=5"
+      "source": "Fermilab (.gov)",
+      "title": "Fermilab director receives prestigious American Physical Society Award",
+      "summary": "Fermilab director receives prestigious American Physical Society Award…",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmRQVldSRzdmcGMtRV9qeXh0Z0FlMTBFTXRLbW1EanJlZ0lKSWd3V1BBZ283bE54N3V6Ni1ydHBuc1c3VEFWU2F6ZWFndzBRWW85b2lzYkFZbGtxbW5YUGR0SmttbGFhTVlBbGNybFQySVJLYklVRmRtTWpHbTBidFAxTTMwRWdNUElyeF9wWXMtdXpiS1MyRnE2RER2cUs5Qm1r?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,28 +73,28 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Automotive Decorative Exterior Trim Market For…",
-      "desc": "Automotive Decorative Exterior Trim Market Forecast to 2035, Driven by…",
+      "title": "Ultra High Performance Tires Market To 2035: E…",
+      "desc": "Ultra High Performance Tires Market To 2035: Electrified Performance V…",
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYVgzVmg5YlFQRFFQM3ZkQXZhbUZUOFo2MWt0NDdjSmRVdENWVmF3YkJrWWtlbUk5dWowMmh2UnJhZTVBM1BOWXAyc1ktUElaUHkyNFhrV2dZNTItc19fZ2pyR1FfLUVZWXBaU21IRnRtWThnVkp5M0kxY1EyTGF0c3FnX3hvWW1Dd3Y4c2tJMXNsNVQxUUtQV1RTeHJQb1NQcXlvdExYYTZjOFZpWl9ZSkpGbjVsRFhpN1RSbndwMmlNcHBtRXVydW40OHplZWZNek1CRUVSdm43bG8?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY3Q2NnpWUjhsZEZ2LWxnUWE1WXNIUHNuU1BXOHhtc0J0UTc0dHNvOTB0RHVEdlR6cUdtbldXS2ZxRVJlSzF4LWxLVmxsWUZPVmpEc2ZFMXh2RlItRUs3M0NUWUgxQVNWVkM4YVhIMVY3bFZsc3hIYnh6QWU4eVp3aWNtTVdvZGZPSGhHM2FaRzFqcjBibm5pU0VaSG9GZTFYRXhEbS1yQW5nUngzc3pXS0VBc214QTVHYmU1X253UHQySmE4dmV0ajN0cmV3WkRoVzBMVy1HQTBnZzQ?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "Roughed-Up Bond Traders Look to Fedspeak, Minu…",
-      "desc": "Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move&nbsp;&…",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEV2d0pEVGhUanZROXNyZXgtMm5aUTE4NXJXQ2tuY2pBLWJSaDlLQ2s3MC1ScjZWdFhEZkF4WmotOEQ2Y0J4M3Ytb2tSYkVwVmVvTDVUX0VFb0F0LTVaeGx1MVY2Y2ZtS0E2Z2ZZOGdPNVFIVC05czF3NUhqTW1tWXM2YWdVX2YyYjd4ZGpOTlZ3Sl9EMHZKRjBEa1JFQTc4ZVhzb01EMmpWbEJGdEtycEo1Yw?oc=5"
+      "title": "What to Look Out for in Economic Data This Wee…",
+      "desc": "What to Look Out for in Economic Data This Week (November 16-20)&nbsp;…",
+      "source": "Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5"
     },
     {
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "First Shift: Factory pressure and trade uncert…",
-      "desc": "First Shift: Factory pressure and trade uncertainty reshape 2027 plann…",
-      "source": "Supply Chain Management Review",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEpUb0EweTdia0xXUzB5T1YwcTZtNVA2YWlQNndVdHZ4MDlJZDl0UnNHQUFpaWV3djlaSFhtcXVmZVlsTE1GckJ3XzAwNUN6eHpWUmlYLWdLQVM4WExZaGRSV0JrY0VQWll0T3kzaHJJN0phTGxSdVVaT3I0di00Q1NrcnE3VXJRRTM0bmJpUFIwbE1fTHAtcE5ELTByWXc4QlFJ?oc=5"
+      "title": "Supply dependencies leave global trade exposed…",
+      "desc": "Supply dependencies leave global trade exposed, and other trade news t…",
+      "source": "World Economic Forum",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2t4SVJIbktEa3A5WDB2d0NEVU01c2w1NHNYR3dvT2VCMHRwNzdOMTJIdUp5eTVCOWNEWmJHdWhrQUhET2ZWYV9Ea0w5cVhUd2JaMFc2MHhPeXQ2Q3ZlbEduellkRmNVWjdtMHFMNWdEUXJWd2xyZXZPUkhJUWw5Q2dRV3V1elBwTkd6Sk9naUV3ZGNHV3VGRFBHNUFjOVZ5?oc=5"
     }
   ],
   "country_profile": {
