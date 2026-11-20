@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T11:07:55.786582+09:00",
-  "generated_at_display": "2026-11-19 11:07 KST",
+  "generated_at": "2026-11-20T10:57:01.402535+09:00",
+  "generated_at_display": "2026-11-20 10:57 KST",
   "exchange_rate": {
-    "current_rate": 1331.3499755859375,
-    "change_pct": -0.12,
+    "current_rate": 1337.3800048828125,
+    "change_pct": 0.52,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1331.35
+      1337.38
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "WESH",
-      "title": "12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas",
-      "summary": "12+ inches of rain possible by Friday night along coast; 18 inches in…",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHliLXRKZGNweFdqMXFpVmFWTHktOHNmMUVaTjRhbWR6RWxnVlQzX0RlamRkVUJBU0J6MU5FaWQ3TUk1bU5Edmt4OWhSN0NZeHB6M1RvYkpxb1hwdHVJTk9TdjRmeFZzaU5yaWFwMHBHaDh1Sng3cmVhT2xMejNIRXJjQVJ3YnJwNTRzc3Y1aW5hSGNSNENN?oc=5"
+      "source": "AP News",
+      "title": "Cincinnati Zoo’s famed Fiona the hippo dies days after eating a visitor’s hat",
+      "summary": "Cincinnati Zoo’s famed Fiona the hippo dies days after eating a visito…",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1F6b2VpdzJoMkhmTGt0cEdfbm1xa3QwMTlWc1gyZlphbVR2eFVLMXpOeDRBVktXa25TNmkzSmttaFRjSDJnRC04SDJWSkRrRE1TUlJnYTBwMjV5dXNtb1dTbHNkQ2tDdnNLV1E4bEk1NWZjQUtRZ2h5QkIwWGJIdkQzRmUzbXlXYmVXUmJmdmd6dFFw?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "MarketWatch",
-      "title": "Anthropic IPO reportedly values company at $1.5 trillion ahead of stock's Thursday trading debut — live updates",
-      "summary": "Anthropic IPO reportedly values company at $1.5 trillion ahead of stoc…",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVRDX2tPSTJ4QkJtLVN0ZTB3eTZHUHhRa2hYUU8yUWRxbml2TUdYcDJlTEtHRzFFS0c3d1VoNnJpRGowcllpYUZRbVVFbGFWMU02YzJxRVJIVXdzblQzam8zRFdlMnpLZ24wNXlxOUQ3WUNPVjR0Q0Z5ZHhZNDVyTVR2bjAtUUJtN1ZXZA?oc=5"
+      "source": "Yahoo Finance",
+      "title": "Anthropic IPO live: Anthropic stock closes up 17% from initial price for $1.27T valuation in first day of trading",
+      "summary": "Anthropic IPO live: Anthropic stock closes up 17% from initial price f…",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV3BLQkZqa19uTmlTOGE1UXJoQzFvaVhHOXUzRzRLTUVWN1VWMzFyZTBzX05CUk8xUzlzNThUbkdxZXZlYk9hUFlSS0QxdENEOWxSaE5LSTNiVVU0OVdGOGY5Tmw0Rk5rTnIxeVA5anBwYjJwYXoyV01tTFplNjFtZFRmZTE3REZrWndQTzJES2t4Q3lUYm05SUNmRGdpU0xHeWU0WnZYa3ZDMzhjNGFnelFyR2pTS3d3a3pmM0lhTEZqTnBpaWs4d1lmeHFYSjJWR3A4U2ZVVjhpSE9iZHc?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "CBS News",
-      "title": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes",
-      "summary": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran…",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczRzemtDSHlJLXZIOHl1WHVMYUZkLTFMd1Z4TDJHNWhDa2E3djdWWnM4MXlwbXpnYjNyUU9TcXR6YjhsOWRVS29ub25Dd0pLVWNZRFZWR25CdnNxeTQ4VDRYX2g1dlFqZmQ1N1o1WWowQk5XRTJvSnhwWENzaXlBSF83RW5kbE5FelFKa0J2dnlhQVJJTkE?oc=5"
+      "source": "The New York Times",
+      "title": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
+      "summary": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya&nbsp;&nbs…",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qLUhZWS1IeE93REZvbWFfdUpvcnEyOG1kZjU5M2dMV3N2TFFtZEZsVll5eUx4MWxhcTRaWFlqSndxaVhtRWNrel94QVVCcWgtSGdvd2xvRHZNdm9rNDhJbmhpeWNmSW41bnRZaHo1a0xuRTZmODVXc3Yxemh3QQ?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Fermilab (.gov)",
-      "title": "Fermilab director receives prestigious American Physical Society Award",
-      "summary": "Fermilab director receives prestigious American Physical Society Award…",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmRQVldSRzdmcGMtRV9qeXh0Z0FlMTBFTXRLbW1EanJlZ0lKSWd3V1BBZ283bE54N3V6Ni1ydHBuc1c3VEFWU2F6ZWFndzBRWW85b2lzYkFZbGtxbW5YUGR0SmttbGFhTVlBbGNybFQySVJLYklVRmRtTWpHbTBidFAxTTMwRWdNUElyeF9wWXMtdXpiS1MyRnE2RER2cUs5Qm1r?oc=5"
+      "source": "PBS",
+      "title": "Debunking social media posts that claim a 90-day blackout will start Nov. 17",
+      "summary": "Debunking social media posts that claim a 90-day blackout will start N…",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmFNTmJiTzY2SFNiZlM5dE14ekFoc0ZrZFQ3T043M3BCOURXOXFza2g0ZVZwZFZxaHF3NDJNR2VIb1BXUHc0TGZtbDl5SlpUeDJPLUtJMEZuaHpFTGJsd1JLQW1NaV9TOHlqcktNTHoxVmhEQmh0R2NsMjVJbFV0RnVzcnMzSzNZWUx5SVloS2xkSFBmOXhUcXdnQmZuTU5rM3MyUjVwMWZGanB3bGQ5Sw?oc=5"
     }
   ],
   "hr_trends": [
@@ -82,10 +82,10 @@
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "What to Look Out for in Economic Data This Wee…",
-      "desc": "What to Look Out for in Economic Data This Week (November 16-20)&nbsp;…",
-      "source": "Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5"
+      "title": "2027 Manufacturing Industry Outlook",
+      "desc": "2027 Manufacturing Industry Outlook&nbsp;&nbsp;Deloitte",
+      "source": "Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaExYSjNBLW1OTXdrTXBMazNIdEp6LVFYSUl0aWt4cUY1dEIxVFN6Q1plNm5KWUd5eDJHbk9BSVpLX01FdktXMl9JOG4tVnVpU2dhX0ZxckVOOVdQejZXWk1FTXdvMko0cmJCTld4QmNHWDNyVjBqSU1vMkp0RFNIb05oWmVMTVNSRk1ra3F0bmc4TmtwcFoyUnl0X3lfTk9WbEdGU3BKRmxRSmlwaTJqRzRoZGozVmlZMnc?oc=5"
     },
     {
       "category": "MANAGEMENT",
