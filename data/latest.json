@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-20T10:57:01.402535+09:00",
-  "generated_at_display": "2026-11-20 10:57 KST",
+  "generated_at": "2026-11-21T10:53:00.853888+09:00",
+  "generated_at_display": "2026-11-21 10:53 KST",
   "exchange_rate": {
-    "current_rate": 1337.3800048828125,
-    "change_pct": 0.52,
+    "current_rate": 1334.7900390625,
+    "change_pct": 0.33,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1337.38
+      1346.13
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "AP News",
-      "title": "Cincinnati Zoo’s famed Fiona the hippo dies days after eating a visitor’s hat",
-      "summary": "Cincinnati Zoo’s famed Fiona the hippo dies days after eating a visito…",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1F6b2VpdzJoMkhmTGt0cEdfbm1xa3QwMTlWc1gyZlphbVR2eFVLMXpOeDRBVktXa25TNmkzSmttaFRjSDJnRC04SDJWSkRrRE1TUlJnYTBwMjV5dXNtb1dTbHNkQ2tDdnNLV1E4bEk1NWZjQUtRZ2h5QkIwWGJIdkQzRmUzbXlXYmVXUmJmdmd6dFFw?oc=5"
+      "source": "NBC News",
+      "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire",
+      "summary": "California man found guilty of starting deadly and devastating Pacific…",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTBjbU10T0ZDdE1jVTFnbm9XYkdBbGx1NjNNU1ByOWtVOWxnMWQ4WnloY3hYTDNUTDYwT3pLQ2huWTJVUUc3YWZRZHlhVlBhTk1Zb2xNa0NIMmNILWcwX09BSmU1V09fbXBCNmp4V0xHTW9PTWYxbk53aGVjcTY0WnpvMDBGT3UyclpwNG1fVDJTUHhvLVdfb3k4aFFuTHh2b3c?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Yahoo Finance",
-      "title": "Anthropic IPO live: Anthropic stock closes up 17% from initial price for $1.27T valuation in first day of trading",
-      "summary": "Anthropic IPO live: Anthropic stock closes up 17% from initial price f…",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV3BLQkZqa19uTmlTOGE1UXJoQzFvaVhHOXUzRzRLTUVWN1VWMzFyZTBzX05CUk8xUzlzNThUbkdxZXZlYk9hUFlSS0QxdENEOWxSaE5LSTNiVVU0OVdGOGY5Tmw0Rk5rTnIxeVA5anBwYjJwYXoyV01tTFplNjFtZFRmZTE3REZrWndQTzJES2t4Q3lUYm05SUNmRGdpU0xHeWU0WnZYa3ZDMzhjNGFnelFyR2pTS3d3a3pmM0lhTEZqTnBpaWs4d1lmeHFYSjJWR3A4U2ZVVjhpSE9iZHc?oc=5"
+      "source": "WSJ",
+      "title": "Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthropic Slide",
+      "summary": "Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthrop…",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDJaNXRFdFZIWkwxWDRYUVg1U0N3MmpzMHN5aFlMd0ZJTGdBN3lhamZQSGpqbUY2UERnTGhKeVhzYUtsY0Q4V280cDR3WU9qNGtTVm0tdFIzZ0xXTFFxM0NFUjNhSkJLeHhfMG96Wi0xYVBxT2wzQVJPNXdCUEx3MF91QU5ZT2s?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "The New York Times",
-      "title": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
-      "summary": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya&nbsp;&nbs…",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qLUhZWS1IeE93REZvbWFfdUpvcnEyOG1kZjU5M2dMV3N2TFFtZEZsVll5eUx4MWxhcTRaWFlqSndxaVhtRWNrel94QVVCcWgtSGdvd2xvRHZNdm9rNDhJbmhpeWNmSW41bnRZaHo1a0xuRTZmODVXc3Yxemh3QQ?oc=5"
+      "source": "CBS News",
+      "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference",
+      "summary": "Trump touts Asia deals and meeting with Xi and Putin at White House pr…",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "PBS",
-      "title": "Debunking social media posts that claim a 90-day blackout will start Nov. 17",
-      "summary": "Debunking social media posts that claim a 90-day blackout will start N…",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmFNTmJiTzY2SFNiZlM5dE14ekFoc0ZrZFQ3T043M3BCOURXOXFza2g0ZVZwZFZxaHF3NDJNR2VIb1BXUHc0TGZtbDl5SlpUeDJPLUtJMEZuaHpFTGJsd1JLQW1NaV9TOHlqcktNTHoxVmhEQmh0R2NsMjVJbFV0RnVzcnMzSzNZWUx5SVloS2xkSFBmOXhUcXdnQmZuTU5rM3MyUjVwMWZGanB3bGQ5Sw?oc=5"
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Good news",
+      "summary": "Good news&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91cnkzaTROalEyZ01WVkJGMFN2VkhxTkg1b0REQW44b2ZiV3RPeG1sZU8yTVdWMUg4ODZoWG9PcHpKSUJtYk9TVUpoOA?oc=5"
     }
   ],
   "hr_trends": [
