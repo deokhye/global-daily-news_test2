@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-22T09:47:13.406944+09:00",
-  "generated_at_display": "2026-11-22 09:47 KST",
+  "generated_at": "2026-11-23T10:14:22.591451+09:00",
+  "generated_at_display": "2026-11-23 10:14 KST",
   "exchange_rate": {
-    "current_rate": 1334.7900390625,
-    "change_pct": 0.33,
+    "current_rate": 1344.97998046875,
+    "change_pct": 0.76,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1346.13
+      1344.98
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "NBC News",
-      "title": "Cartel leader captured in northern Mexico in firefight that left 11 dead",
-      "summary": "Cartel leader captured in northern Mexico in firefight that left 11 de…",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRGJ0ZlNfMk15LUxiOFhwZHhFVXlLM0pNcV8yU0JzSElqVkZTZHprRm1ZUl84SS1wY0kyTExIUXF3SEE1WXk5T2c3YTR4SHZWc2N6V3VvWnlOVHpJUW9RemlLQkRmNEdxUmFwQW9oSF95eE5aNU5fRmU5dXh3bXFRRGdoNVl6eFFXcmMxcHAtNTlreVRaLUtSVVFR?oc=5"
+      "source": "CBS News",
+      "title": "Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race",
+      "summary": "Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in Nort…",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTVLVGtJMVRtaklNSHA5bVI5eW5jUkFTRUJhTXkwQ2xDTWdyVkNRR0p2c3VJdnRXSkRxaVRCSTVGMDZWeVI0cVJfR2NqbTBzcmNTckp4d0ptNndyYTd6ZlJWTzBqYzFjX1NpemtjdXBMeWRwZmo4WkJaX2N5S0QyMmVweWdyTnFVejdNcXdaSmNJVy1sTDd3d0k5UkJuUQ?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Business Insider",
-      "title": "What smart people are saying about the market sell-off ripping through tech and AI",
-      "summary": "What smart people are saying about the market sell-off ripping through…",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWh6YUdkVkxHaVNudVdOOWlBM2ZjY3lMTS1rNEhfeVFETnRNVjBlMUt0ODVzRE1HQUxUdU85MXhJdWVfTnUtUnV1YS1mQjZ3QnNPc3RmZzk3RlNKRjNDdVByMUgwcEI1TFY1WUk4cVlXVWlwOE5WMWZSUUc1Q3FnMjVNRUNZMUVjRE5FMmZtbng1ekVZ?oc=5"
+      "source": "Star Tribune",
+      "title": "Delta computer outage disrupts flights at MSP ahead of Thanksgiving",
+      "summary": "Delta computer outage disrupts flights at MSP ahead of Thanksgiving&nb…",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlNjcHozY1hpYnNhcncxaW5aOG5mQmJudWFZc3BXU21jT1Utd05aNndQZGhDUWlLTC1rVUxVNmdhZHlnT2hkLTM2ZjdmbURHeFBQVWM2X1BlUnpQekMxc0RHN3NaS29uNmFMM3I1MmFENVlhZ3JwS3p2M3NRaEpaUkFIZ3dCMFFkX3Q3Nl9vbHIzS295Tmg4Sld5RjAwMVE3SW8tYkJQSzRfUXlISUU3ZkZaZmF4T29Rd3JrV2ZB?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "NPR",
-      "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-      "summary": "Killer robots: U.N. talks fall short of hopes for legally binding rule…",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yS2ZzRlFmaTlWY082V1hMc0VGNHVBWkUzWW53eVhnaEp6SnVic0RPdloxY1EtN2xnY0xXVzlQbkZVWjdONmlHaFh1MVRjTWNGbFhJU3ZiRGEwMlVwQmpfbTRVNXhoT214THotUTNyWlFPRFFTTmZz?oc=5"
+      "source": "The New York Times",
+      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+      "summary": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels&nbsp;&nbsp…",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaktnVmVBTFR4NlBwcmNmLVlkQXlUbDJnM20tam1MaGZmeGF1YTBQSDVjMkM3U21sVWdrRER5a2UzZ3ZrQkF1Sm5kd1U5UXBzNGdMRTlWcVprNVF3M2xjRUV5SmlZMGR6VXU1OVh4M2RXOGFvY25hN1Z3MTJWWXNiWE5ESk13U0o0?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "title": "US senator says Pentagon restrictions on Canada focus on think tanks and social events",
-      "summary": "US senator says Pentagon restrictions on Canada focus on think tanks a…",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmw3Y1htZGpZMHFxYmNleFp6ZWV4eGNfdU5GSGdWbFd3cmtiaS1XV0RsT3R0WExOeDVwOXExRmxMOWFUc0xyakhsSzBQb282RUVWVXRYTmU2YlVWLTBfWHBDZk96U1hseDZPSFJVcmd1VWZwVlYyTTAzNEQ1XzVZbGU1d1ItVmdvZ3hDaWhVNDVRNnpTUnNiUXJrWG9uaHpKOGw4?oc=5"
+      "source": "Ukrinform",
+      "title": "Ukrainian community in US seeking to build strong ties with newly elected members of Congress",
+      "summary": "Ukrainian community in US seeking to build strong ties with newly elec…",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPODZWOEFESzFkMGNLSHI0ZUxiR2FDNTZES1lSbmwxdTVaOHRCUllFMVpLbndvalllbDhaMWotWkludXZJQzFWV3hkd3RLeDNYNXJRcnEzaWFyM0h5WXFlQkFneEpyekVzZ0hGblE5UWdhQ09FU1hkLWV2S3lLTXg3OXpCbnBRTHF1TWc1cVZndW13cVJYZUpCMmJTU2NzLWh5TXRmdmlkaHRnb05KTXZidndIMGRjazUyOUc3Rk9seEdlYlhzSXRKZHEzb0Q5dEw5eEFvSWJYZFVBbUxGUDFsSFVB0gHnAUFVX3lxTE1MMWNzQ245a3NoeXpqRFJoRDVqMHpIRW0tUUQtQ3dZaXdya1hKNWxTS3FnODhVSEhHS3VmckdrOHNMTlNxbGhyNE92Mk5XOXBRN2NjY0dnTlp0VnAzQ1dLVFJ0Nm5wRFV4SzNCbEZodnBXdXl0cXgxcjg1MVZJVUVDNkY3NnplbUo4YXhfblJpZktraVdTbVFjbHhqNkxKRXM4NGVod01kTG9NbHRZNDBpRnhCY1lLakNkajR5aVk1bEFkRmh2cEN1aUs4aWROVHZiRjNQWVBBeW8xRXVCX0RUY0ZJLXJKMA?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,10 +73,10 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "Styrenic Block Copolymer Seals Market To 2035:…",
-      "desc": "Styrenic Block Copolymer Seals Market To 2035: Automotive and Medical…",
+      "title": "World Automotive Noise, Vibration And Harshnes…",
+      "desc": "World Automotive Noise, Vibration And Harshness Systems - Market Analy…",
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcVdxcV9mU2ljUzNJUWVVclE0OG9iOHRJb1hXbEhRUFkyZFhYVEVVaDNabC1MWmRRU0w2N0NfTTk0eExqRklDRFJrbUFaekZmbXREc0ZMRUxrOTdxVWRpTEtGbUE3V29URWU2ZEs5VEdKRm8yRHFmRFR3eHZWalVhWFo5RDZJS2dtQWtfUzZtNDBxekd1ZG91MTN3S3p4eXVyUC1kd2ZieW8yOHB6WXBWOGNuSkVCS3pqWGpaODJFeDlGcU5nYUhkMnRKRURHdU1WblpmUlBxdEw2RzZTY0VJ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbGFWbE9XSGRKN2M0ZzF6YUQyR2FNZEs3Q2pLeksycUNDbXd4NXlfdmpTeU9TTTNjMW56cnlvN1BhS0xKeWtYZnBFbHNEUllVUDdEcWRVT2FvOWpGekFJbUk2TWwzV3VCc2FrU1hLMU8wRFNCTjcxMlZQZ3l3eXhFT3VTOExiWmRWUmdESVFpaUFyNWY1ZFRPT3JuLVZQcHFMX1F6X2VjWXRYUG5EOTE1NUJKQ2YwX21xeVdpYnNtTUl4NWlqSWRWSDBOa2pJSVVzTGVNYlpXV3ZvQ1p2SDB5NEJPa2k3U1ZLemNybXR1emtBN3pkWkllTVoxcDc?oc=5"
     },
     {
       "category": "ECONOMY",
