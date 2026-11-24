@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-23T10:14:22.591451+09:00",
-  "generated_at_display": "2026-11-23 10:14 KST",
+  "generated_at": "2026-11-24T14:03:41.042920+09:00",
+  "generated_at_display": "2026-11-24 14:03 KST",
   "exchange_rate": {
-    "current_rate": 1344.97998046875,
-    "change_pct": 0.76,
+    "current_rate": 1342.3699951171875,
+    "change_pct": -0.14,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1344.98
+      1342.37
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "CBS News",
-      "title": "Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race",
-      "summary": "Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in Nort…",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTVLVGtJMVRtaklNSHA5bVI5eW5jUkFTRUJhTXkwQ2xDTWdyVkNRR0p2c3VJdnRXSkRxaVRCSTVGMDZWeVI0cVJfR2NqbTBzcmNTckp4d0ptNndyYTd6ZlJWTzBqYzFjX1NpemtjdXBMeWRwZmo4WkJaX2N5S0QyMmVweWdyTnFVejdNcXdaSmNJVy1sTDd3d0k5UkJuUQ?oc=5"
+      "source": "PBS",
+      "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know",
+      "summary": "Trump told the Army to pause the detonation of 9,500 pounds of lead az…",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "Star Tribune",
-      "title": "Delta computer outage disrupts flights at MSP ahead of Thanksgiving",
-      "summary": "Delta computer outage disrupts flights at MSP ahead of Thanksgiving&nb…",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlNjcHozY1hpYnNhcncxaW5aOG5mQmJudWFZc3BXU21jT1Utd05aNndQZGhDUWlLTC1rVUxVNmdhZHlnT2hkLTM2ZjdmbURHeFBQVWM2X1BlUnpQekMxc0RHN3NaS29uNmFMM3I1MmFENVlhZ3JwS3p2M3NRaEpaUkFIZ3dCMFFkX3Q3Nl9vbHIzS295Tmg4Sld5RjAwMVE3SW8tYkJQSzRfUXlISUU3ZkZaZmF4T29Rd3JrV2ZB?oc=5"
+      "source": "WSJ",
+      "title": "The Frantic White House Push to Get Jensen Huang Back",
+      "summary": "The Frantic White House Push to Get Jensen Huang Back&nbsp;&nbsp;WSJTr…",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pRUxrRllGQzRjbm1mbkxwWi1pcGVDREtMYVFlTWt0c2RaMm4zSFZ0UTFIOHc3eVpiaS1xODducUx5T013ekU4czVXaUVmR2JUblZPNS03Qy1yNW9wNloyaGdWeHVBQUI1VVR5NTdfRUxfNTdvdG1pSA?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "The New York Times",
-      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-      "summary": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels&nbsp;&nbsp…",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaktnVmVBTFR4NlBwcmNmLVlkQXlUbDJnM20tam1MaGZmeGF1YTBQSDVjMkM3U21sVWdrRER5a2UzZ3ZrQkF1Sm5kd1U5UXBzNGdMRTlWcVprNVF3M2xjRUV5SmlZMGR6VXU1OVh4M2RXOGFvY25hN1Z3MTJWWXNiWE5ESk13U0o0?oc=5"
+      "source": "NBC News",
+      "title": "Poland to get NATO early-warning aircraft after Russian missiles hit country",
+      "summary": "Poland to get NATO early-warning aircraft after Russian missiles hit c…",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEV3R09aQWhXWERGUjZxM3kzdURrdktKUU92VFhpcWVPUmRzQXdRVUgxdWdnbjBIVEpOYUgwTEs3Vzd1UjNOVXN1bXJoSHoxNTBhNFVGcEJXUzRHUTFYR1g3VEtCclNDZEZQZEYzX2NLUEJtMUd2YTYtSURTTEVLN1RsVlozSDRkZ3dISzVwTmZqS09jYVIyV2tyQW9PODdyVVRjcFBnaWRtSHk0SDg5Uw?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "Ukrinform",
-      "title": "Ukrainian community in US seeking to build strong ties with newly elected members of Congress",
-      "summary": "Ukrainian community in US seeking to build strong ties with newly elec…",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPODZWOEFESzFkMGNLSHI0ZUxiR2FDNTZES1lSbmwxdTVaOHRCUllFMVpLbndvalllbDhaMWotWkludXZJQzFWV3hkd3RLeDNYNXJRcnEzaWFyM0h5WXFlQkFneEpyekVzZ0hGblE5UWdhQ09FU1hkLWV2S3lLTXg3OXpCbnBRTHF1TWc1cVZndW13cVJYZUpCMmJTU2NzLWh5TXRmdmlkaHRnb05KTXZidndIMGRjazUyOUc3Rk9seEdlYlhzSXRKZHEzb0Q5dEw5eEFvSWJYZFVBbUxGUDFsSFVB0gHnAUFVX3lxTE1MMWNzQ245a3NoeXpqRFJoRDVqMHpIRW0tUUQtQ3dZaXdya1hKNWxTS3FnODhVSEhHS3VmckdrOHNMTlNxbGhyNE92Mk5XOXBRN2NjY0dnTlp0VnAzQ1dLVFJ0Nm5wRFV4SzNCbEZodnBXdXl0cXgxcjg1MVZJVUVDNkY3NnplbUo4YXhfblJpZktraVdTbVFjbHhqNkxKRXM4NGVod01kTG9NbHRZNDBpRnhCY1lLakNkajR5aVk1bEFkRmh2cEN1aUs4aWROVHZiRjNQWVBBeW8xRXVCX0RUY0ZJLXJKMA?oc=5"
+      "source": "The Guardian",
+      "title": "Millennial Democrats used social media in the midterms to sell their policies – and their personalities",
+      "summary": "Millennial Democrats used social media in the midterms to sell their p…",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOWdyOUZLbFFvdjM2TDF5anRJUDFTTnBXYTcwTnpYY0ZKODlBSVFkR2t1M3JlZHYwYmNPUEw5RDB2dzlPWW13ZUQ1dzZTaFhJSFh0ZWNPYlR2ZkNrNWJnZXNHQXdPZGVpbUpfYXVqU0U3c1FndE9TSU9CdVJFU1Npc1pUdDVaSGVZ?oc=5"
     }
   ],
   "hr_trends": [
