@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-24T14:03:41.042920+09:00",
-  "generated_at_display": "2026-11-24 14:03 KST",
+  "generated_at": "2026-11-25T12:52:40.918648+09:00",
+  "generated_at_display": "2026-11-25 12:52 KST",
   "exchange_rate": {
-    "current_rate": 1342.3699951171875,
-    "change_pct": -0.14,
+    "current_rate": 1343.280029296875,
+    "change_pct": 0.17,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1342.37
+      1343.28
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "PBS",
-      "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know",
-      "summary": "Trump told the Army to pause the detonation of 9,500 pounds of lead az…",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5"
+      "source": "The Washington Post",
+      "title": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate",
+      "summary": "Lead azide must be detonated in Iowa, Army says; some residents urged…",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SzBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "WSJ",
-      "title": "The Frantic White House Push to Get Jensen Huang Back",
-      "summary": "The Frantic White House Push to Get Jensen Huang Back&nbsp;&nbsp;WSJTr…",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pRUxrRllGQzRjbm1mbkxwWi1pcGVDREtMYVFlTWt0c2RaMm4zSFZ0UTFIOHc3eVpiaS1xODducUx5T013ekU4czVXaUVmR2JUblZPNS03Qy1yNW9wNloyaGdWeHVBQUI1VVR5NTdfRUxfNTdvdG1pSA?oc=5"
+      "source": "AP News",
+      "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
+      "summary": "Nvidia board joins Jensen Huang under scrutiny after reinstating embat…",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDBtR1FfWU5YMzBKWUlXWmc3YVotaWZ2eHBQTEdLd1ZJN0duSzA3RFNkQnFFM29rSXVrdnlzMk1ZYzJLbUd5dnJhYUQxb1pVYU9DT0wzMmlfSk84NW03TUZqTEtQNDNDRzQ0OWIyOWJ4OHNEdUV6c0hIWDNtRlk3WGFkbl9LbkpwNExRSS13SjFnQ0o2b0JrbjZKNHZJQmpmZ0VYMw?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "NBC News",
-      "title": "Poland to get NATO early-warning aircraft after Russian missiles hit country",
-      "summary": "Poland to get NATO early-warning aircraft after Russian missiles hit c…",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEV3R09aQWhXWERGUjZxM3kzdURrdktKUU92VFhpcWVPUmRzQXdRVUgxdWdnbjBIVEpOYUgwTEs3Vzd1UjNOVXN1bXJoSHoxNTBhNFVGcEJXUzRHUTFYR1g3VEtCclNDZEZQZEYzX2NLUEJtMUd2YTYtSURTTEVLN1RsVlozSDRkZ3dISzVwTmZqS09jYVIyV2tyQW9PODdyVVRjcFBnaWRtSHk0SDg5Uw?oc=5"
+      "source": "BBC",
+      "title": "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket",
+      "summary": "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese r…",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waThhbmJqRWF3ZGt6anVBb3I2WUNiams4QmFhbkUzbU5KSkNxd2lyUm56RVdjb3NXMU8wQVkyTVl6NVZuN2tyVTNfcU5MLXBKWHItR1ZB?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "The Guardian",
-      "title": "Millennial Democrats used social media in the midterms to sell their policies – and their personalities",
-      "summary": "Millennial Democrats used social media in the midterms to sell their p…",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOWdyOUZLbFFvdjM2TDF5anRJUDFTTnBXYTcwTnpYY0ZKODlBSVFkR2t1M3JlZHYwYmNPUEw5RDB2dzlPWW13ZUQ1dzZTaFhJSFh0ZWNPYlR2ZkNrNWJnZXNHQXdPZGVpbUpfYXVqU0U3c1FndE9TSU9CdVJFU1Npc1pUdDVaSGVZ?oc=5"
+      "source": "KFF",
+      "title": "Global COVID-19 Tracker",
+      "summary": "Global COVID-19 Tracker&nbsp;&nbsp;KFF",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BNUdBZUtLVlMtQmUzTjBxelgyWHdvbG9QRDhQdmZ2aEJvbXY5R1JSb3VJUXpBZ1FuY003NVY0VnMydTRDZVo2VTlBSkk5NWVPdndWbVdZN2pVa3haQ0tYZG1jRQ?oc=5"
     }
   ],
   "hr_trends": [
@@ -82,10 +82,10 @@
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "2027 Manufacturing Industry Outlook",
-      "desc": "2027 Manufacturing Industry Outlook&nbsp;&nbsp;Deloitte",
-      "source": "Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaExYSjNBLW1OTXdrTXBMazNIdEp6LVFYSUl0aWt4cUY1dEIxVFN6Q1plNm5KWUd5eDJHbk9BSVpLX01FdktXMl9JOG4tVnVpU2dhX0ZxckVOOVdQejZXWk1FTXdvMko0cmJCTld4QmNHWDNyVjBqSU1vMkp0RFNIb05oWmVMTVNSRk1ra3F0bmc4TmtwcFoyUnl0X3lfTk9WbEdGU3BKRmxRSmlwaTJqRzRoZGozVmlZMnc?oc=5"
+      "title": "US Leading Indicators",
+      "desc": "US Leading Indicators&nbsp;&nbsp;The Conference Board",
+      "source": "The Conference Board",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LTF9nRUZOSWJ6Y2V3UW1Gd3BiQ0FnUWFmRWYzR25BdHVFbUNfMzVPQlpDbUFDZ29mQy0zTzdPUHBHdGdyQ3VGY0VxWmhCdGRHN1dwVWpQNVd4Zkw5OFZ1TmMwRzB3N09hTlI5WmZWVQ?oc=5"
     },
     {
       "category": "MANAGEMENT",
