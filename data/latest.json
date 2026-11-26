@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-25T12:52:40.918648+09:00",
-  "generated_at_display": "2026-11-25 12:52 KST",
+  "generated_at": "2026-11-26T12:17:19.636400+09:00",
+  "generated_at_display": "2026-11-26 12:17 KST",
   "exchange_rate": {
-    "current_rate": 1343.280029296875,
-    "change_pct": 0.17,
+    "current_rate": 1343.2099609375,
+    "change_pct": 0.04,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1343.28
+      1343.21
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The Washington Post",
-      "title": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate",
-      "summary": "Lead azide must be detonated in Iowa, Army says; some residents urged…",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SzBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc?oc=5"
+      "source": "The New York Times",
+      "title": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
+      "summary": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses&nbsp;&n…",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmJUY2hET0ZZbWNZTUZCeUhNTEd4LW82aGZuUTJyUVEyYm83ajNyNnRrSHd0aGlRUi1TeWo5bkQ5STdYZ2tMZWx1akV5Q0FpRFR3NWMwZTdweS05WlprbURvRk1MS0t6dG1sQWlpNVBYcUJxN19qSVlGUFdPS1hMV1JR?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "AP News",
-      "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
-      "summary": "Nvidia board joins Jensen Huang under scrutiny after reinstating embat…",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDBtR1FfWU5YMzBKWUlXWmc3YVotaWZ2eHBQTEdLd1ZJN0duSzA3RFNkQnFFM29rSXVrdnlzMk1ZYzJLbUd5dnJhYUQxb1pVYU9DT0wzMmlfSk84NW03TUZqTEtQNDNDRzQ0OWIyOWJ4OHNEdUV6c0hIWDNtRlk3WGFkbl9LbkpwNExRSS13SjFnQ0o2b0JrbjZKNHZJQmpmZ0VYMw?oc=5"
+      "source": "The Washington Post",
+      "title": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO",
+      "summary": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvi…",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDJ0UmNqUTc2UWNoaVh0STB6ZHRZTnV6WGVPX2Q0VDhmRWU4Wk5hV2lZMTZOZUV4ZEwzOVBnVmVtbnB0eXlpekIyMVF5cG91WmVxLTNIeWx1MzhLN3czOHFLbFRuVTdYRUIwdk4zMTlfcEtLb2J3Y1lQM0l1OTREU2p5UzBxaXI5aExoOGlyUVctZlJZcllacVRzTU9zVXlNaVVMNThZRE85NWdlaEo2WUJKd3FtTVBRZ00xU0l0V2tMLTRiLUE?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
       "source": "BBC",
-      "title": "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket",
-      "summary": "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese r…",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waThhbmJqRWF3ZGt6anVBb3I2WUNiams4QmFhbkUzbU5KSkNxd2lyUm56RVdjb3NXMU8wQVkyTVl6NVZuN2tyVTNfcU5MLXBKWHItR1ZB?oc=5"
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "summary": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo high…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RTzBSOEg2MjJ0S1dLaEs3RFV2YlVUR1hJeUM1Y2RLcEVLYlZ2NmJkTGVkOGw2bUpwWVFkdlhJNkhfUnNjdHZmdTh0MmZfZGxlcUlhMnhCNzlHc3c?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "KFF",
-      "title": "Global COVID-19 Tracker",
-      "summary": "Global COVID-19 Tracker&nbsp;&nbsp;KFF",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BNUdBZUtLVlMtQmUzTjBxelgyWHdvbG9QRDhQdmZ2aEJvbXY5R1JSb3VJUXpBZ1FuY003NVY0VnMydTRDZVo2VTlBSkk5NWVPdndWbVdZN2pVa3haQ0tYZG1jRQ?oc=5"
+      "source": "The ASCO Post",
+      "title": "Society of Surgical Oncology and IRCAD North America Announce Strategic Partnership",
+      "summary": "Society of Surgical Oncology and IRCAD North America Announce Strategi…",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkp1R0NUd2hINTFTZDVFdEVOZ21HMlRXX0hKbzVyellzWHlhWkZzc0NiSGpWaHNiVlBFYXdEc01mc1NtNjJjMFBOdUFCaW5fSVVoUmJLaWlwYTdYNG9EeU5SSkFlNUxyV1M1M0xnS292cTRfRnJCOEtGSU9TMlhzRF9Id0FXaHpwZ1ZmTnFYTUVWYUZtRVlLaVVQazNZeFJMbTZ1dWw1ZEpPbE4zQUZuMEQzU0FwMmc5Y0x1ZG1aaHVxRm5IZm5hNW85OA?oc=5"
     }
   ],
   "hr_trends": [
@@ -91,10 +91,10 @@
       "category": "MANAGEMENT",
       "tag": "관세·공급망",
       "tag_class": "bg-amber-100 text-amber-700",
-      "title": "Supply dependencies leave global trade exposed…",
-      "desc": "Supply dependencies leave global trade exposed, and other trade news t…",
-      "source": "World Economic Forum",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2t4SVJIbktEa3A5WDB2d0NEVU01c2w1NHNYR3dvT2VCMHRwNzdOMTJIdUp5eTVCOWNEWmJHdWhrQUhET2ZWYV9Ea0w5cVhUd2JaMFc2MHhPeXQ2Q3ZlbEduellkRmNVWjdtMHFMNWdEUXJWd2xyZXZPUkhJUWw5Q2dRV3V1elBwTkd6Sk9naUV3ZGNHV3VGRFBHNUFjOVZ5?oc=5"
+      "title": "The cost of tariffs goes beyond the tariff its…",
+      "desc": "The cost of tariffs goes beyond the tariff itself&nbsp;&nbsp;Supply Ch…",
+      "source": "Supply Chain Management Review",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd2FSXzN5S0V5VUtCeHJvYXNRVllaWHdVUUtoYnhSbWFBSEdxZ21tbWQ4azMwTXQ4X1hBeVFhNXZFWjZaeDBESTJpUmtOOU00a3VFcm8yMW5NdWFlVVEta1FjRDJrbXI0dks2ZzBYVFJqaTBBV2Nlcy1PcGpqSjNPTk5B?oc=5"
     }
   ],
   "country_profile": {
