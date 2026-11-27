@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-26T12:17:19.636400+09:00",
-  "generated_at_display": "2026-11-26 12:17 KST",
+  "generated_at": "2026-11-27T12:22:36.329981+09:00",
+  "generated_at_display": "2026-11-27 12:22 KST",
   "exchange_rate": {
-    "current_rate": 1343.2099609375,
-    "change_pct": 0.04,
+    "current_rate": 1341.5799560546875,
+    "change_pct": -0.1,
     "history_labels": [
       "12월",
       "1월",
@@ -30,7 +30,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1343.21
+      1341.58
     ],
     "source": "Yahoo Finance"
   },
@@ -38,34 +38,34 @@
     {
       "category": "TOP NEWS",
       "label_class": "text-rose-600",
-      "source": "The New York Times",
-      "title": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
-      "summary": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses&nbsp;&n…",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmJUY2hET0ZZbWNZTUZCeUhNTEd4LW82aGZuUTJyUVEyYm83ajNyNnRrSHd0aGlRUi1TeWo5bkQ5STdYZ2tMZWx1akV5Q0FpRFR3NWMwZTdweS05WlprbURvRk1MS0t6dG1sQWlpNVBYcUJxN19qSVlGUFdPS1hMV1JR?oc=5"
+      "source": "BBC",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "summary": "Major Thanksgiving storm brings flooding, flight delays across US&nbsp…",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45bUpwdlMwTTBqVE5uMnQ0TXQyQ0hnLUVlU1B2akk2bmxaMTQyUG9BOG1xaFE4RUpERmlMS3NQVGJ6ek84Um1UX25PTWJ5Z0Jzd1FaamtsWlZjcjg?oc=5"
     },
     {
       "category": "BUSINESS",
       "label_class": "text-emerald-600",
-      "source": "The Washington Post",
-      "title": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO",
-      "summary": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvi…",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDJ0UmNqUTc2UWNoaVh0STB6ZHRZTnV6WGVPX2Q0VDhmRWU4Wk5hV2lZMTZOZUV4ZEwzOVBnVmVtbnB0eXlpekIyMVF5cG91WmVxLTNIeWx1MzhLN3czOHFLbFRuVTdYRUIwdk4zMTlfcEtLb2J3Y1lQM0l1OTREU2p5UzBxaXI5aExoOGlyUVctZlJZcllacVRzTU9zVXlNaVVMNThZRE85NWdlaEo2WUJKd3FtTVBRZ00xU0l0V2tMLTRiLUE?oc=5"
+      "source": "Bloomberg.com",
+      "title": "Asian Stocks Rise for Second Day, Treasuries Slip: Markets Wrap",
+      "summary": "Asian Stocks Rise for Second Day, Treasuries Slip: Markets Wrap&nbsp;&…",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2ZFa0FGcTRjb19HbGxhWGxZc05LTXQ2WUJDTTQzc2hYNGVrbE5GQWtlcERpWGdVZmptNEFUM0ltY0ZobVhoaVo1Qzl4ZTFuNlBDSXFNaG9ETXFDOGdYSGppVVh1cW10TFJ5RG9sVVNYZmUzMHk2VlROMG9yVDM3UzRtM1VSbXlaYWlSN01McUlncVljREZvOGY5UzZaSjc3R3MzdWJUOF9oS3ZLU2c3bmV0MA?oc=5"
     },
     {
       "category": "WORLD",
       "label_class": "text-blue-700",
-      "source": "BBC",
-      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-      "summary": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo high…",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RTzBSOEg2MjJ0S1dLaEs3RFV2YlVUR1hJeUM1Y2RLcEVLYlZ2NmJkTGVkOGw2bUpwWVFkdlhJNkhfUnNjdHZmdTh0MmZfZGxlcUlhMnhCNzlHc3c?oc=5"
+      "source": "The New York Times",
+      "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
+      "summary": "Trump’s Latest Tariffs Revive Focus on Pressuring China&nbsp;&nbsp;The…",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1odENQTk1RR0JMbTlRYWhYcnh6cGdvcktJUGVNZURvbUFtTHZ0end3RjhpclNNNEF0ZnZFTDVHTy1Vcy1jMF90U240MEZFUURvdkJDN3I2aE55R193X1VjVW9PaU5sVWZvU1Y4dmt5M3ZmeE1YcVE?oc=5"
     },
     {
       "category": "SOCIETY",
       "label_class": "text-purple-600",
-      "source": "The ASCO Post",
-      "title": "Society of Surgical Oncology and IRCAD North America Announce Strategic Partnership",
-      "summary": "Society of Surgical Oncology and IRCAD North America Announce Strategi…",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkp1R0NUd2hINTFTZDVFdEVOZ21HMlRXX0hKbzVyellzWHlhWkZzc0NiSGpWaHNiVlBFYXdEc01mc1NtNjJjMFBOdUFCaW5fSVVoUmJLaWlwYTdYNG9EeU5SSkFlNUxyV1M1M0xnS292cTRfRnJCOEtGSU9TMlhzRF9Id0FXaHpwZ1ZmTnFYTUVWYUZtRVlLaVVQazNZeFJMbTZ1dWw1ZEpPbE4zQUZuMEQzU0FwMmc5Y0x1ZG1aaHVxRm5IZm5hNW85OA?oc=5"
+      "source": "Reuters",
+      "title": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government",
+      "summary": "Trump uses Thanksgiving message to lash out at political foes, immigra…",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmtPdXRIWFFwMkxPY3ZpT0hvLVRPZVRURVFPbTh1ZVZ6aG1aNnNRU1FocksyRWM4UVJ6amxnd0tpQWdIbU02TEg2elQwY0VjTm9pbFVUNjVNRnA4RENJVTdBRTUwM0tLVktMUW5HNkN3Vm1QY1JuRkMwM3Z6X3F3NUtzWC1LVWF4N01hbTRXSGN1Z2dnTzJ2Y0V5RHlMbmhpQVZXZHp6eDhmcmROb2NHUTNmWFFwMjNsX1RF?oc=5"
     }
   ],
   "hr_trends": [
@@ -73,19 +73,19 @@
       "category": "AUTO MARKET",
       "tag": "완성차·타이어 시장",
       "tag_class": "bg-rose-100 text-rose-700",
-      "title": "World Automotive Noise, Vibration And Harshnes…",
-      "desc": "World Automotive Noise, Vibration And Harshness Systems - Market Analy…",
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbGFWbE9XSGRKN2M0ZzF6YUQyR2FNZEs3Q2pLeksycUNDbXd4NXlfdmpTeU9TTTNjMW56cnlvN1BhS0xKeWtYZnBFbHNEUllVUDdEcWRVT2FvOWpGekFJbUk2TWwzV3VCc2FrU1hLMU8wRFNCTjcxMlZQZ3l3eXhFT3VTOExiWmRWUmdESVFpaUFyNWY1ZFRPT3JuLVZQcHFMX1F6X2VjWXRYUG5EOTE1NUJKQ2YwX21xeVdpYnNtTUl4NWlqSWRWSDBOa2pJSVVzTGVNYlpXV3ZvQ1p2SDB5NEJPa2k3U1ZLemNybXR1emtBN3pkWkllTVoxcDc?oc=5"
+      "title": "Rubber Processing Chemicals Market Size, Forec…",
+      "desc": "Rubber Processing Chemicals Market Size, Forecasts Report 2026-2035&nb…",
+      "source": "Global Market Insights Inc.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbU9jQklUOEJFemt2X3RIMGZoMEhmX0R2WHhYY1FTNVFwZlpRdFdLTy0xRl9xTG1zYmlCQTd5N1dqRVhIZWNpc3hFdGFZLXk0RU55cHh1RW5DNm10WU9NMDQ2aDI5Mm9Fc1JtQ0JBN3hUay04eENwcktWcEFWTTNkaXVzblVJZw?oc=5"
     },
     {
       "category": "ECONOMY",
       "tag": "경기·금리",
       "tag_class": "bg-emerald-100 text-emerald-700",
-      "title": "US Leading Indicators",
-      "desc": "US Leading Indicators&nbsp;&nbsp;The Conference Board",
-      "source": "The Conference Board",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LTF9nRUZOSWJ6Y2V3UW1Gd3BiQ0FnUWFmRWYzR25BdHVFbUNfMzVPQlpDbUFDZ29mQy0zTzdPUHBHdGdyQ3VGY0VxWmhCdGRHN1dwVWpQNVd4Zkw5OFZ1TmMwRzB3N09hTlI5WmZWVQ?oc=5"
+      "title": "Will US S&P Global PMI challenge expectations…",
+      "desc": "Will US S&amp;P Global PMI challenge expectations for further Fed rate…",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFCZWo2LWxJYjZWX0oyb1VjbUt6OGtlZEVrSjhLVE5WQjFpa3cxSVZYMkNYV0FXOGk3MTlCMmpmdUt1UHhSOUdodFNvZU1UbVB5bmhqblB5czdzQW0yUDRwYmpJMExXNXZwQjJUdzRfZnRGSnhaWnFiX1dyUmdLdjlMUllINHVfdXB4TUVoLUh6UQ?oc=5"
     },
     {
       "category": "MANAGEMENT",
